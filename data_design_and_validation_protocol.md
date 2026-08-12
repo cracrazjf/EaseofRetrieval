@@ -127,45 +127,47 @@
 2. **必须查重**：D1 阶段逐个网络检索，确认无同名真实产品/商标；碰撞立即改名
 3. **不得暗示品质**：避免 pro/ultra/premium/lite 等价位词（虚构物品间保持中性）
 
-### 2.5 候选类别清单（26 类）
+### 2.5 候选类别清单（26 类，国际市场英文版）
+
+实验语言已定为**英文**（§2.8 决策 1），真实物品统一选国际市场型号。
 
 **厨房电器（5）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
 | 1 | 半自动咖啡机 | De'Longhi Dedica EC685 | Breville Bambino | **Novara X3** |
-| 2 | 空气炸锅 | Philips Essential XL | Cosori Pro II | **Kestro AF-2** |
-| 3 | 电饭煲 | Toshiba 低糖电饭煲 | 小米米家电饭煲 | **Hamura RC-5** |
+| 2 | 空气炸锅 | Cosori Pro II 5.8QT | Philips Essential XL | **Kestro AF-2** |
+| 3 | 电饭煲 | Zojirushi NS-ZCC10 | Aroma ARC-914SBD | **Hamura RC-5** |
 | 4 | 破壁/搅拌机 | Vitamix E310 | Ninja BN701 | **Blendara V5** |
-| 5 | 手冲电热水壶 | Fellow Stagg EKG | Bonavita 1.0L | **Tessro Kettle** |
+| 5 | 手冲电热水壶 | Fellow Stagg EKG | Bonavita 1.0L Variable | **Tessro Kettle** |
 
 **家居设备（6）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 6 | 扫地机器人 | iRobot Roomba i7 | 石头 Q7 Max | **Orvia S6** |
-| 7 | 空气净化器 | Levoit Core 300 | Blueair Blue 3210 | **Purelis A2** |
-| 8 | 加湿器 | 小熊上加水加湿器 | Dreo 4L | **Mistara H1** |
-| 9 | 电动升降桌 | Flexispot E7 | 乐歌 E5 | **Elevio D2** |
-| 10 | 人体工学椅 | Steelcase Series 1 | 保友金豪 | **Sedora C1** |
-| 11 | 便携投影仪 | XGIMI MoGo 2 | Anker Nebula Capsule | **Lumivo Go** |
+| 6 | 扫地机器人 | iRobot Roomba i7 | Roborock Q5 | **Orvia S6** |
+| 7 | 空气净化器 | Levoit Core 300 | Blueair Blue Pure 411 | **Purelis A2** |
+| 8 | 加湿器 | Honeywell HCM-350 | Vicks V745A | **Mistara H1** |
+| 9 | 电动升降桌 | FlexiSpot E7 | Uplift V2 | **Elevio D2** |
+| 10 | 人体工学椅 | Steelcase Series 1 | Branch Ergonomic Chair | **Sedora C1** |
+| 11 | 便携投影仪 | XGIMI MoGo 2 | ViewSonic M1 Mini | **Lumivo Go** |
 
 **个人电子（5）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 12 | 降噪耳机 | Sony WH-1000XM4 | Bose QC45 | **Auralis P2** |
-| 13 | 电子书阅读器 | Kobo Clara 2E | 掌阅 iReader | **Lireon Page 2** |
-| 14 | 机械键盘 | Keychron K2 | 杜伽 K320 | **Kelvane K7** |
-| 15 | 移动电源 | Anker PowerCore 10000 | 紫米 QB910 | **Voltari P10** |
-| 16 | 运动手表 | Garmin Forerunner 55 | 华为 Watch Fit | **Chronix S2** |
+| 12 | 降噪耳机 | Sony WH-1000XM4 | Bose QuietComfort 45 | **Auralis P2** |
+| 13 | 电子书阅读器 | Kobo Clara 2E | Kindle Paperwhite | **Lireon Page 2** |
+| 14 | 机械键盘 | Keychron K2 | Royal Kludge RK84 | **Kelvane K7** |
+| 15 | 移动电源 | Anker PowerCore 10000 | Belkin BoostCharge 10K | **Voltari P10** |
+| 16 | 运动手表 | Garmin Forerunner 55 | Coros Pace 3 | **Chronix S2** |
 
 **软件与服务（5）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 17 | 记账 App | YNAB | 随手记 | **Ledgero** |
-| 18 | 笔记 App | Notion | Bear | **Notavia** |
+| 17 | 记账 App | YNAB | PocketGuard | **Ledgero** |
+| 18 | 笔记 App | Notion | Evernote | **Notavia** |
 | 19 | 密码管理器 | Bitwarden | 1Password | **Cryptavo** |
 | 20 | 语言学习 App | Duolingo | Busuu | **Lingora** |
 | 21 | 番茄钟/专注 App | Forest | Focus To-Do | **Tempora** |
@@ -174,11 +176,13 @@
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 22 | 登山背包 | Osprey Talon 22 | Deuter Speed Lite | **Cendric Ridge 28** |
-| 23 | 双人帐篷 | MSR Hubba Hubba NX | Naturehike 云尚 2 | **Solvane Dome 2** |
-| 24 | 保温杯 | 象印 SM-SD48 | 膳魔师 JNL | **Tavro Flask** |
-| 25 | 露营气炉 | SOTO WindMaster | 火枫 FMS-116T | **Fyrren S1** |
-| 26 | 电动牙刷 | Oral-B Pro 3 | usmile Y1S | **Dentavo B3** |
+| 22 | 登山背包 | Osprey Talon 22 | Deuter Speed Lite 21 | **Cendric Ridge 28** |
+| 23 | 双人帐篷 | MSR Hubba Hubba NX | Big Agnes Copper Spur UL2 | **Solvane Dome 2** |
+| 24 | 保温杯 | Thermos Stainless King | Stanley Classic Bottle | **Tavro Flask** |
+| 25 | 露营气炉 | SOTO WindMaster | Snow Peak GigaPower | **Fyrren S1** |
+| 26 | 电动牙刷 | Oral-B Pro 1000 | Philips Sonicare 4100 | **Dentavo B3** |
+
+品牌不重复规则按**入选项**检查（备选与入选冲突时换备选：如 Philips、MSR、Ninja 各只允许出现一次）。虚构名逐个查重（§2.6 第一道）；已知风险标记：Novara 曾是 REI 自行车副牌（不同品类，查重时确认是否需要改名）。
 
 **明确排除的类别**（记录以防回头再议）：
 - 旅行目的地：文化先验太强、判断维度混杂（安全/物价/景色搅在一起）
@@ -217,13 +221,31 @@
 | 真实可列举属性总数 | 决定能否用于 E1 超量条件 |
 | canonical 事实表 | 用于 E1 编造率标注与 E1b 编造条目构造 |
 
-### 2.8 待定决策
+### 2.8 已决决策（2026-08-12 拍板）
 
-| # | 决策 | 选项 | 影响 |
+| # | 决策 | 结论 | 连带影响 |
 |---|---|---|---|
-| 1 | **实验语言** | 英文 / 中文 / 双语 | 影响真实物品选择（国际 vs 国内型号）、槽单元措辞、人类对照被试池。若英文跑主实验，表中国内产品（小熊、紫米、火枫等）需换国际型号 |
-| 2 | 真实物品用具体型号还是品类通称 | 具体型号（当前方案）/ 品类通称 | 通称知识更稳但 real/fictional 对比变弱。当前倾向具体型号 + D1 核查 |
-| 3 | 软件类是否保留 | 保留 5 类 / 削减 | 软件更新快，模型知识可能过时；但类别多样性需要非实体物品。倾向保留但 D1 从严 |
+| 1 | 实验语言 | **英文** | 真实物品全部换国际型号（§2.5 已更新）；槽单元措辞的英文版从 D1 英文语料校准（示例如 "Hmm… let me think…" / "Moving on to the next one:" / "…that's about all I can come up with."，正式措辞以 D1 统计为准）；E7 格式约束的英文操作化："every entry under 6 words, and no content word may repeat across entries"；人类对照走 Prolific（英语被试）；文档保持中文，**全部实验材料为英文** |
+| 2 | 真实物品形态 | **具体型号** | D1 知识验证从严（对照官方规格核查，错漏率 < 20%），失败换类别内备选型号 |
+| 3 | 软件类 | **保留 5 类** | D1 从严：验证模型知识未过时（版本大改的软件换备选） |
+
+### 2.9 说明书与优缺点的构造流水线
+
+**150 词说明书（spec sheet）**：
+
+1. **真实物品**：从制造商官方规格页/手册提炼。只收**可核查的中性规格**（尺寸、容量、功率、材质、功能清单、随附配件），逐条注明来源 URL 存档
+2. **虚构物品**：以配对真实物品的说明书为模板**逐字段镜像**——相同的规格字段、量级取该品类真实产品的中位数 ± 抖动（保证品类典型、不暗示高端或低端）
+3. **统一模板**：固定字段顺序（产品定位一句 → 规格 5–6 条 → 随附配件 → 维护方式）；**禁评价词表**（best/premium/superior/affordable 等一律不得出现）；长度 150 ± 10 词，脚本校验
+4. **质检**：人工核对真实物品规格无错漏；D2 评审盲评说明书中性度（无评价倾向）
+
+**Canonical 优点 12 条 / 缺点 8 条**：
+
+1. **候选池生成**：用**评审家族模型**（Gemini/Mistral，非主实验池——防主实验模型对自己生成的措辞有熟悉度/自我偏好）各生成 20+ 候选优点、15+ 候选缺点。依据：真实物品 = 说明书 + 公开评测的共识观点；虚构物品 = **只能从说明书推导**
+2. **人工筛选**：去重、事实核查（真实物品：可核查或评测界广泛共识；虚构物品：**每条必须可追溯到说明书的某个字段**——这同时是 E1b "编造"定义的基础：编造 = 说明书中不存在或与之矛盾）、按具体性分层选出 12 优 + 8 缺
+3. **匹配校验**（脚本 + D2 双重）：条目字数（每条 4–8 词）、句法框架统一（名词短语开头）、优缺点具体性对称；跨物品说服力由 D2 的 Q4 norming 把关（跨物品方差小、优缺点 |d| < 0.3）
+4. **冻结**：通过 D2 后打版本 tag，逐字进入所有实验条件
+
+**关键原则**：主实验被试模型**从不参与**材料生成——材料的每个字都来自评审家族模型 + 人工编辑，被试模型第一次见到材料就是在实验里。
 
 ---
 
