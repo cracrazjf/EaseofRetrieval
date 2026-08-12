@@ -137,15 +137,15 @@
 |---|---|---|---|---|
 | 1 | 半自动咖啡机 | De'Longhi Dedica EC685 | Breville Bambino | **Vestrino M2** |
 | 2 | 空气炸锅 | Cosori Pro II 5.8QT | Philips Essential XL | **Farnholt A5** |
-| 3 | 电饭煲 | Zojirushi NS-ZCC10 | Aroma ARC-914SBD | **Hamura RC-5** |
-| 4 | 破壁/搅拌机 | Vitamix E310 | Ninja BN701 | **Morvato B5** |
+| 3 | 电饭煲 | Zojirushi NS-ZCC10 | Aroma ARC-914SBD | **Hamura GR-6** |
+| 4 | 破壁/搅拌机 | Vitamix E310 | Ninja BN701 | **Quarvel BX5** |
 | 5 | 手冲电热水壶 | Fellow Stagg EKG | Bonavita 1.0L Variable | **Tessro Kettle** |
 
 **家居设备（6）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 6 | 扫地机器人 | iRobot Roomba i7 | Roborock Q5 | **Orvia W9** |
+| 6 | 扫地机器人 | iRobot Roomba i7 | Roborock Q5 | **Orvia Petrel** |
 | 7 | 空气净化器 | Levoit Core 300 | Blueair Blue Pure 411 | **Arvelia A2** |
 | 8 | 加湿器 | Honeywell HCM-350 | Vicks V745A | **Halvira H1** |
 | 9 | 电动升降桌 | FlexiSpot E7 | Uplift V2 | **Ostreno D2** |
@@ -158,7 +158,7 @@
 |---|---|---|---|---|
 | 12 | 降噪耳机 | Sony WH-1000XM4 | Bose QuietComfort 45 | **Wrenfeld NX40** |
 | 13 | 电子书阅读器 | Kobo Clara 2E | Kindle Paperwhite | **Lireon Q2** |
-| 14 | 机械键盘 | Keychron K2 | Royal Kludge RK84 | **Kelvane T8** |
+| 14 | 机械键盘 | Keychron K2 | Royal Kludge RK84 | **Kelvane Slate 65** |
 | 15 | 移动电源 | Anker PowerCore 10000 | Belkin BoostCharge 10K | **Ardento PB10** |
 | 16 | 运动手表 | Garmin Forerunner 55 | Coros Pace 3 | **Veltrun R40** |
 
@@ -166,8 +166,8 @@
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 17 | 记账 App | YNAB | PocketGuard | **Brimsley** |
-| 18 | 笔记 App | Notion | Evernote | **Notavia** |
+| 17 | 记账 App | YNAB | PocketGuard | **Voskell** |
+| 18 | 笔记 App | Notion | Evernote | **Trelbin** |
 | 19 | 密码管理器 | Bitwarden | 1Password | **Cryptavo** |
 | 20 | 语言学习 App | Duolingo | Busuu | **Quenlo** |
 | 21 | 番茄钟/专注 App | Forest | Focus To-Do | **Stillbrook** |
@@ -180,13 +180,17 @@
 | 23 | 双人帐篷 | MSR Hubba Hubba NX | Big Agnes Copper Spur UL2 | **Torvik Basin 2** |
 | 24 | 保温杯 | Thermos Stainless King | Stanley Classic Bottle | **Tavro Flask** |
 | 25 | 露营气炉 | SOTO WindMaster | Snow Peak GigaPower | **Fyrren S1** |
-| 26 | 电动牙刷 | Oral-B Pro 1000 | Philips Sonicare 4100 | **Peralux S3** |
+| 26 | 电动牙刷 | Oral-B Pro 1000 | Philips Sonicare 4100 | **Dovrell 230** |
 
 品牌不重复规则按**入选项**检查（备选与入选冲突时换备选：如 Philips、MSR、Ninja 各只允许出现一次）。
 
 **第一轮虚构名查重（2026-08-12 完成，网络检索，US 为主）**：原 26 个候选名中 **16 个品牌词碰撞被换**（撞真实产品/品牌，最严重者：Novara = Azkoyen 商用咖啡机产品线、Auralis = 在售降噪耳机、Blendara = 在售便携搅拌机、Lingora = 多个同名语言学习 app、Tempora = 同名时间追踪 app + GCHQ 监控项目名）；**3 个换型号后缀**（Orvia S6 → W9：撞 Roborock S6；Lireon Page → Q2：撞 Boox/Tolino Page；Kelvane K7 → T8：撞 Keychron K7——恰为本类真实物品的产品线）；**7 个保留**（Hamura、Tessro、Orvia、Notavia、Cryptavo、Cendric、Tavro、Fyrren 中除后缀调整外均干净）。经验教训已纳入命名规则：**功能描述性词根（Blend-/Dent-/Aural-/Ledger-/Lingo-/Tempo-/Mist-/Pure-/Volt-/Chron-/Elev-/Sed-/Lum-）在真实市场几乎全部被占**，替换名一律改用非描述性杜撰词根；型号后缀须避开该品类真实产品线的命名规律（K/Q/V 系 = Keychron、S 系 = Roborock 等）。
 
-⚠️ **替换名状态：候选，待第二轮查重**——19 个新名字在材料冻结前须再过一轮同标准检索，通过后方可进入 D2。查重记录（四批检索的完整判定表）存档于仓库 commit 历史。
+**查重定稿（2026-08-12，共四轮）**：第二、三、四轮对全部替换名与保留名补查了商标层（经 Justia/Trademarkia 等聚合站；USPTO/EUIPO/WIPO 官方库有反爬，未能直查——此为方法限制，如实记录）并核查型号后缀。追加换名：Hamura RC-5→GR-6（Asahi/Toshiba 在售 RC-5 电饭煲）、Morvato→Quarvel BX5（在册商标 MORVAT 近名）、Orvia W9→Petrel（Shark 现役 RV 系 SKU、Cleanova W9/Glide）、Kelvane T8→Slate 65（ZIYOU LANG/iFlytek T8、GDK KV1-65）、Brimsley→Voskell（Netflix 角色名）、Notavia→Trelbin（同名 AI 备考 app）、Peralux S3→Dovrell 230（瑞士同名 LED 品牌 + Pursonic TB20 牙刷）。**上表 26 个名字为最终版**。
+
+**已接受的 MINOR 邻接**（记录在案，不再更改）：Vestrino~Quick Mill Vetrano（拼写清晰可辨）、Tarnwell~Realspace Treswell（同上）、Kelvane Slate 65~Higround Summit 65 的 SLATE 配色（配色名非型号名）、Arvelia~Arvella 香水（异品类）、Ardento（澳洲 ERP 咨询，异品类）、Torvik（IKEA 已停产床架）、Tavro（TAVROVEL 箱包商标申请，异词）、Quarvel（WoW NPC，冷僻）、Stillbrook（零散地产/马场）。**唯一遗留动作**：Orvia Petrel 的 "Petrel" 词在材料冻结前做一次 spot-check。
+
+**两条命名规律（写入规则，供 hold-out 类别与未来补充物品使用）**：（1）功能描述性词根在品牌层几乎全部被占，只用非描述性杜撰词根；（2）"单字母+个位数"型号后缀在电子品类已饱和（T8/K7/S6/W9/P2/RC-5/TB20 全撞），改用词语后缀（非功能描述词）、双字母组合或三位数字。
 
 **明确排除的类别**（记录以防回头再议）：
 - 旅行目的地：文化先验太强、判断维度混杂（安全/物价/景色搅在一起）
