@@ -107,7 +107,7 @@
    - **天花板缓解**：若 pilot 显示默认分普遍偏高（> 80），启用备选双向尺度（−50 到 +50，"相对于同类产品"框架），与 0–100 并行测试后择一冻结。直接关系 E6 能否检出"上升"方向。
 4. **无政治/伦理争议、无强身份信号**（排除：Tesla、TikTok、奢侈品牌）。
 5. **类别间品牌不重复**（防品牌光环在物品间引入相关性）。
-6. **真实与虚构各半**——虚构物品是防训练数据污染的杀手锏：模型对"Novara X3 咖啡机"不可能有参数记忆，判断只能来自 context。调节逻辑：效应只在真实物品上 → 参数知识参与；虚构物品上更强 → context 依赖。
+6. **真实与虚构各半**——虚构物品是防训练数据污染的杀手锏：模型对"Vestrino M2 咖啡机"不可能有参数记忆，判断只能来自 context。调节逻辑：效应只在真实物品上 → 参数知识参与；虚构物品上更强 → context 依赖。
 
 **⚠️ 真实/虚构必须 context 匹配**：只给虚构物品配说明书会使 real/fictional 同时混入"先验知识 × context 长度 × 信息密度"，"虚构效应更大 = context 依赖"的解读因此循环。**修正：真实物品也配 150 词中性说明书**，词数、规格条目数、句式结构与虚构物品匹配，只陈述可核查的中性规格，不含评价性措辞。
 
@@ -123,7 +123,7 @@
 
 ### 2.4 虚构物品的命名规则
 
-1. **格式**：品牌感名字 + 型号后缀（"Novara X3"式），发音自然，类别典型
+1. **格式**：品牌感名字 + 型号后缀（"Vestrino M2"式），发音自然，类别典型
 2. **必须查重**：D1 阶段逐个网络检索，确认无同名真实产品/商标；碰撞立即改名
 3. **不得暗示品质**：避免 pro/ultra/premium/lite 等价位词（虚构物品间保持中性）
 
@@ -135,54 +135,58 @@
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 1 | 半自动咖啡机 | De'Longhi Dedica EC685 | Breville Bambino | **Novara X3** |
-| 2 | 空气炸锅 | Cosori Pro II 5.8QT | Philips Essential XL | **Kestro AF-2** |
+| 1 | 半自动咖啡机 | De'Longhi Dedica EC685 | Breville Bambino | **Vestrino M2** |
+| 2 | 空气炸锅 | Cosori Pro II 5.8QT | Philips Essential XL | **Farnholt A5** |
 | 3 | 电饭煲 | Zojirushi NS-ZCC10 | Aroma ARC-914SBD | **Hamura RC-5** |
-| 4 | 破壁/搅拌机 | Vitamix E310 | Ninja BN701 | **Blendara V5** |
+| 4 | 破壁/搅拌机 | Vitamix E310 | Ninja BN701 | **Morvato B5** |
 | 5 | 手冲电热水壶 | Fellow Stagg EKG | Bonavita 1.0L Variable | **Tessro Kettle** |
 
 **家居设备（6）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 6 | 扫地机器人 | iRobot Roomba i7 | Roborock Q5 | **Orvia S6** |
-| 7 | 空气净化器 | Levoit Core 300 | Blueair Blue Pure 411 | **Purelis A2** |
-| 8 | 加湿器 | Honeywell HCM-350 | Vicks V745A | **Mistara H1** |
-| 9 | 电动升降桌 | FlexiSpot E7 | Uplift V2 | **Elevio D2** |
-| 10 | 人体工学椅 | Steelcase Series 1 | Branch Ergonomic Chair | **Sedora C1** |
-| 11 | 便携投影仪 | XGIMI MoGo 2 | ViewSonic M1 Mini | **Lumivo Go** |
+| 6 | 扫地机器人 | iRobot Roomba i7 | Roborock Q5 | **Orvia W9** |
+| 7 | 空气净化器 | Levoit Core 300 | Blueair Blue Pure 411 | **Arvelia A2** |
+| 8 | 加湿器 | Honeywell HCM-350 | Vicks V745A | **Halvira H1** |
+| 9 | 电动升降桌 | FlexiSpot E7 | Uplift V2 | **Ostreno D2** |
+| 10 | 人体工学椅 | Steelcase Series 1 | Branch Ergonomic Chair | **Tarnwell C1** |
+| 11 | 便携投影仪 | XGIMI MoGo 2 | ViewSonic M1 Mini | **Previk PJ4** |
 
 **个人电子（5）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 12 | 降噪耳机 | Sony WH-1000XM4 | Bose QuietComfort 45 | **Auralis P2** |
-| 13 | 电子书阅读器 | Kobo Clara 2E | Kindle Paperwhite | **Lireon Page 2** |
-| 14 | 机械键盘 | Keychron K2 | Royal Kludge RK84 | **Kelvane K7** |
-| 15 | 移动电源 | Anker PowerCore 10000 | Belkin BoostCharge 10K | **Voltari P10** |
-| 16 | 运动手表 | Garmin Forerunner 55 | Coros Pace 3 | **Chronix S2** |
+| 12 | 降噪耳机 | Sony WH-1000XM4 | Bose QuietComfort 45 | **Wrenfeld NX40** |
+| 13 | 电子书阅读器 | Kobo Clara 2E | Kindle Paperwhite | **Lireon Q2** |
+| 14 | 机械键盘 | Keychron K2 | Royal Kludge RK84 | **Kelvane T8** |
+| 15 | 移动电源 | Anker PowerCore 10000 | Belkin BoostCharge 10K | **Ardento PB10** |
+| 16 | 运动手表 | Garmin Forerunner 55 | Coros Pace 3 | **Veltrun R40** |
 
 **软件与服务（5）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
-| 17 | 记账 App | YNAB | PocketGuard | **Ledgero** |
+| 17 | 记账 App | YNAB | PocketGuard | **Brimsley** |
 | 18 | 笔记 App | Notion | Evernote | **Notavia** |
 | 19 | 密码管理器 | Bitwarden | 1Password | **Cryptavo** |
-| 20 | 语言学习 App | Duolingo | Busuu | **Lingora** |
-| 21 | 番茄钟/专注 App | Forest | Focus To-Do | **Tempora** |
+| 20 | 语言学习 App | Duolingo | Busuu | **Quenlo** |
+| 21 | 番茄钟/专注 App | Forest | Focus To-Do | **Stillbrook** |
 
 **户外与个护（5）**
 
 | # | 类别 | 真实候选 | 备选 | 虚构候选 |
 |---|---|---|---|---|
 | 22 | 登山背包 | Osprey Talon 22 | Deuter Speed Lite 21 | **Cendric Ridge 28** |
-| 23 | 双人帐篷 | MSR Hubba Hubba NX | Big Agnes Copper Spur UL2 | **Solvane Dome 2** |
+| 23 | 双人帐篷 | MSR Hubba Hubba NX | Big Agnes Copper Spur UL2 | **Torvik Basin 2** |
 | 24 | 保温杯 | Thermos Stainless King | Stanley Classic Bottle | **Tavro Flask** |
 | 25 | 露营气炉 | SOTO WindMaster | Snow Peak GigaPower | **Fyrren S1** |
-| 26 | 电动牙刷 | Oral-B Pro 1000 | Philips Sonicare 4100 | **Dentavo B3** |
+| 26 | 电动牙刷 | Oral-B Pro 1000 | Philips Sonicare 4100 | **Peralux S3** |
 
-品牌不重复规则按**入选项**检查（备选与入选冲突时换备选：如 Philips、MSR、Ninja 各只允许出现一次）。虚构名逐个查重（§2.6 第一道）；已知风险标记：Novara 曾是 REI 自行车副牌（不同品类，查重时确认是否需要改名）。
+品牌不重复规则按**入选项**检查（备选与入选冲突时换备选：如 Philips、MSR、Ninja 各只允许出现一次）。
+
+**第一轮虚构名查重（2026-08-12 完成，网络检索，US 为主）**：原 26 个候选名中 **16 个品牌词碰撞被换**（撞真实产品/品牌，最严重者：Novara = Azkoyen 商用咖啡机产品线、Auralis = 在售降噪耳机、Blendara = 在售便携搅拌机、Lingora = 多个同名语言学习 app、Tempora = 同名时间追踪 app + GCHQ 监控项目名）；**3 个换型号后缀**（Orvia S6 → W9：撞 Roborock S6；Lireon Page → Q2：撞 Boox/Tolino Page；Kelvane K7 → T8：撞 Keychron K7——恰为本类真实物品的产品线）；**7 个保留**（Hamura、Tessro、Orvia、Notavia、Cryptavo、Cendric、Tavro、Fyrren 中除后缀调整外均干净）。经验教训已纳入命名规则：**功能描述性词根（Blend-/Dent-/Aural-/Ledger-/Lingo-/Tempo-/Mist-/Pure-/Volt-/Chron-/Elev-/Sed-/Lum-）在真实市场几乎全部被占**，替换名一律改用非描述性杜撰词根；型号后缀须避开该品类真实产品线的命名规律（K/Q/V 系 = Keychron、S 系 = Roborock 等）。
+
+⚠️ **替换名状态：候选，待第二轮查重**——19 个新名字在材料冻结前须再过一轮同标准检索，通过后方可进入 D2。查重记录（四批检索的完整判定表）存档于仓库 commit 历史。
 
 **明确排除的类别**（记录以防回头再议）：
 - 旅行目的地：文化先验太强、判断维度混杂（安全/物价/景色搅在一起）
