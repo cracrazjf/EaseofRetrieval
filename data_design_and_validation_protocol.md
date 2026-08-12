@@ -41,7 +41,8 @@
     trace_source:    self-native / self-quoted / other-assistant / user-written
     valence:         pros / cons                          # E6
     content_amount:  6 / 8 / 12                           # E4
-    n_requested:     6 / 12 / 25 / 50 / 100               # E1；E2–E8 恒定为 8
+    n_requested:     3 / 6 / 12 / 25 / 50                 # E1；E2–E8 恒定为 8
+    fabrication_mix: F0 / F4 / F8                          # E1b（编造移植）
     presentation:    with-list / told-only                # E5
     obstacle:        none / format-constraint             # E7
     attribution:     none / external / salience-question  # E7
