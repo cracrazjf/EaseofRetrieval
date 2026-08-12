@@ -175,7 +175,7 @@
 
 ### D5. 非 thinking 模式是"干净"的观测
 - **问题**：即使关闭 reasoning，模型仍可能在输出里自发推理
-- **处置**：（a）主观测 `reasoning_mode = off`；（b）**自发 CoT 检测**——判断步输出超过阈值 token 数则标记 `spontaneous_cot`，作为二值调节变量入模型；（c）thinking 模式作为**独立次级模块**在 E2/E6 上加跑，仅纳入 thinking 可见的模型；（d）thinking 段落中对痕迹的显式引用自动编码——这是唯一能直接观察"归因过程"的窗口
+- **处置**：（a）全部被试以 `reasoning_mode = off` 运行，thinking 模型不作为被试（仅 D1 确认犹豫存在于 thinking 通道）；（b）**自发 CoT 检测**——判断步输出超过阈值 token 数则标记 `spontaneous_cot`，作为二值调节变量入模型；（c）thinking 被试实验列入 future work
 - **状态**：`✅ 已落实`（数据协议 §6.2）
 
 ### D6. 0–100 判断跨模型可比
