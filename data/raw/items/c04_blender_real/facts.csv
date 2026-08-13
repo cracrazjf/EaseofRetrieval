@@ -17,6 +17,9 @@ blend_quality,smooth results on frozen fruit and nut butter,review_consensus,htt
 cabinet_fit,48-ounce container height fits under kitchen cabinets,review_consensus,https://joyofblending.com/vitamix-explorian-e310-review/;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,,yes
 cleaning_ease,self-clean cycle avoids disassembly,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,,yes
 no_presets,speed dial carries no preset programs,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_timer_display,no timer and no digital display on the base,spec_derived,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,"absence: the official listing gives the controls as a variable speed dial, a pulse switch and an on-off switch only; con",yes
 single_container,one container size supplied and no smaller jar included,spec_derived,derived-from:spec,2026-08-13,con,yes
 blades_fixed,blade assembly fixed in the container and does not come out for washing,spec_derived,derived-from:spec,2026-08-13,con,yes
 entry_level,placed at the entry point of the manufacturer's own range,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://joyofblending.com/vitamix-explorian-e310-review/;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,praise claim,yes
+no_timer,no timer or automatic shut-off,spec_derived,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,absence read off the official feature enumeration; the page lists what the product does and this is not among it,yes
+no_heating,no heating element; hot mixtures come only from blade friction,spec_derived,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,absence read off the official feature enumeration; the page lists what the product does and this is not among it,yes

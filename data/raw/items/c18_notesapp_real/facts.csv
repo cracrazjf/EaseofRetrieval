@@ -20,3 +20,5 @@ free_uploads,free plan limits file uploads to 5 megabytes,official,https://www.n
 free_guests,free plan caps guests at ten,official,https://www.notion.com/pricing,2026-08-13,con,yes
 free_history,free plan keeps seven days of page history,official,https://www.notion.com/pricing,2026-08-13,con,yes
 free_blocks,block allowance capped once a workspace has more than one member,official,https://www.notion.com/pricing,2026-08-13,con,yes
+no_local_storage,no local-only storage mode; pages live in the hosted workspace,spec_derived,https://www.notion.com/pricing,2026-08-13,absence read off the official feature enumeration; the page lists what the product does and this is not among it,yes
+no_e2ee,no end-to-end encryption of workspace content,spec_derived,https://www.notion.com/pricing,2026-08-13,absence read off the official feature enumeration; the page lists what the product does and this is not among it,yes

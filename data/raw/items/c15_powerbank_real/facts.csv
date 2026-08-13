@@ -20,5 +20,6 @@ ports_c,one USB-C port for both input and output,official,https://www.belkin.com
 ports_a,two USB-A ports that send power out only,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,con; input is USB-C only,yes
 cable_length,"six inch USB-A to USB-C cable, short for charging a phone in a bag",official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,con,yes
 coarse_indicators,"four indicator lights report the charge in quarters, no numeric display",official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,con,yes
+no_wireless,no wireless charging pad on the case; every device connects by cable,spec_derived,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,absence: the official listing enumerates one USB-C and two USB-A wired ports and no charging pad; con,yes
 no_wall_charger,no wall charger supplied in the box,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,absence: official box contents list the USB-A to USB-C cable only,yes
 equipment_cover,connected equipment coverage for devices damaged while charging,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,,yes
