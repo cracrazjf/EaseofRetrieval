@@ -6,7 +6,7 @@ output_c,USB-C output 5 V / 3 A,official,https://www.belkin.com/support-article/
 output_a,USB-A output 5 V / 2.4 A each,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,official text also appends 15 W max per port; internally inconsistent,yes
 total_output,15 W total across the three ports,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,con; three devices split the figure,yes
 input_c,USB-C input 5 V / 3 A,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,,yes
-recharge,recharge time not officially specified,official,https://www.belkin.com/support-article/?articleNum=333640,2026-08-13,,yes
+recharge,recharge time not officially specified,official,https://www.belkin.com/support-article/?articleNum=333640,2026-08-13,,no
 indicators,four LED charge indicators,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,,yes
 included,6 inch USB-A to USB-C cable,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,,yes
 runtime_claim,stated up to 40 hours of added battery life,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,,yes

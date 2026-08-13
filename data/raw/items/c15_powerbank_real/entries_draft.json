@@ -126,7 +126,7 @@
       "valence": "con",
       "tier": "core8",
       "text_draft": "Input and output share the single USB-C port",
-      "fact_field": "ports_c"
+      "fact_field": "ports"
     },
     {
       "entry_id": "n07",
