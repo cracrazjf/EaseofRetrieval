@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Blocks nest, link, and reuse",
+      "text_draft": "Blocks nest inside each other and link across pages",
       "fact_field": "structure"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Free plan usable for individual work",
+      "text_draft": "The free plan carries an individual a long way",
       "fact_field": "free_generous"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "One workspace replaces several tools",
+      "text_draft": "One workspace stands in for several separate tools",
       "fact_field": "flexibility"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Export as PDF, HTML, Markdown",
+      "text_draft": "Pages come out as PDF, HTML, or Markdown",
       "fact_field": "export"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Databases export as CSV files",
+      "text_draft": "Databases export straight to CSV",
       "fact_field": "export"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Per-page permissions with guest access",
+      "text_draft": "Permissions run page by page, guests included",
       "fact_field": "collab"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Clients on five platforms",
+      "text_draft": "Clients cover web, desktop, and both phone platforms",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Large template library and guides",
+      "text_draft": "The template library and community guides run deep",
       "fact_field": "templates"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Pages markable available for offline reading",
+      "text_draft": "Pages can be marked to read offline later",
       "fact_field": "offline"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Four plans across individual and team",
+      "text_draft": "Four plans span solo users up to enterprises",
       "fact_field": "tiers"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Unlimited blocks for individual users",
+      "text_draft": "Individuals get unlimited blocks on the free plan",
       "fact_field": "free_limits"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "AI features on higher plans",
+      "text_draft": "AI features come built into the higher plans",
       "fact_field": "ai"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Setup and features take weeks",
+      "text_draft": "Getting past the basics takes weeks of fiddling",
       "fact_field": "learning_curve"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Offline mode restricts editing and creation",
+      "text_draft": "Offline mode blocks new pages and most editing",
       "fact_field": "offline_limited"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Performance degrades on large databases",
+      "text_draft": "Databases past a few thousand rows start to crawl",
       "fact_field": "db_performance"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Mobile client lags the desktop",
+      "text_draft": "The phone app trails the desktop version badly",
       "fact_field": "mobile_weak"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free plan caps uploads at 5 megabytes",
+      "text_draft": "The free plan caps uploads at five megabytes",
       "fact_field": "free_limits"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Page history limited to seven days",
+      "text_draft": "Page history disappears after seven days",
       "fact_field": "free_limits"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Formulas do not recalculate offline",
+      "text_draft": "Formulas stop recalculating the moment it goes offline",
       "fact_field": "offline"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Guest access capped on free plan",
+      "text_draft": "Guests are capped at ten on the free plan",
       "fact_field": "free_limits"
     }
   ]

@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Capacity of 10,000 milliamp-hours",
+      "text_draft": "Ten thousand milliamp-hours cover several phone charges",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Cable built into the housing",
+      "text_draft": "A cable is built into the case and never gets lost",
       "fact_field": "integrated_cable"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Digital display shows remaining percentage",
+      "text_draft": "The display reads out the exact percentage left",
       "fact_field": "display"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Output up to 20 watts",
+      "text_draft": "Twenty watts out charges a phone at a decent clip",
       "fact_field": "output_c"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Recharge in about four hours",
+      "text_draft": "Four hours brings the pack back to full",
       "fact_field": "recharge"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two devices charge at once",
+      "text_draft": "Two devices charge at once, one on each",
       "fact_field": "simultaneous"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two year limited warranty",
+      "text_draft": "Two years of cover comes with the pack",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Weight of 210 grams when carried",
+      "text_draft": "At 210 grams it drops into a jacket pocket",
       "fact_field": "weight"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Cable stows in a moulded channel",
+      "text_draft": "The cable tucks into a channel along the edge",
       "fact_field": "integrated_cable"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Port accepts the same input rate",
+      "text_draft": "The port takes charge in at the same rate",
       "fact_field": "input_c"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Footprint of 104 millimetres long",
+      "text_draft": "It measures 104 millimetres end to end",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Rated at 37 watt-hours",
+      "text_draft": "Thirty-seven watt-hours sit inside the case",
       "fact_field": "capacity"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No USB-A port for older cables",
+      "text_draft": "No USB-A port means older cables will not fit",
       "fact_field": "no_usba"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Attached cable cannot be replaced",
+      "text_draft": "A damaged built-in cable cannot be replaced",
       "fact_field": "cable_wear"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Only two devices charge at once",
+      "text_draft": "Only two devices charge at a time",
       "fact_field": "two_device"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Display consumes power while active",
+      "text_draft": "The display drains the pack while it is lit",
       "fact_field": "display_draw"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Weight of 210 grams in pockets",
+      "text_draft": "At 210 grams it weighs down a jacket pocket",
       "fact_field": "weight_pocket"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Recharging takes about four hours",
+      "text_draft": "Recharging takes about four hours from empty",
       "fact_field": "recharge_time"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Thickness of 25 millimetres in bags",
+      "text_draft": "At 25 millimetres thick it bulks up a bag",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single port beyond the attached cable",
+      "text_draft": "One port and one cable is the whole set",
       "fact_field": "ports"
     }
   ]

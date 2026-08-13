@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Envelope method with automatic rollover",
+      "text_draft": "Envelopes roll unspent money into the next month",
       "fact_field": "method"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Free tier covering ten envelopes",
+      "text_draft": "Ten envelopes and one account cost nothing",
       "fact_field": "free_tier"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Offline entry syncing on reconnect",
+      "text_draft": "Entries made offline sync once the phone reconnects",
       "fact_field": "offline"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Savings goals with target dates",
+      "text_draft": "Savings goals take a target date",
       "fact_field": "goals"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Monthly category summaries in reports",
+      "text_draft": "Monthly reports total up every category",
       "fact_field": "reports"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Rollover history view across periods",
+      "text_draft": "The rollover view shows what carried across months",
       "fact_field": "reports"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Export of envelopes and transactions",
+      "text_draft": "Envelopes and transactions both export as CSV",
       "fact_field": "export"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Plan sharing with one member",
+      "text_draft": "A plan shares with one other person",
       "fact_field": "sharing"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Runs on web and iOS",
+      "text_draft": "It runs on the web and on iOS",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Paid tier removes envelope limits",
+      "text_draft": "The paid tier lifts the envelope limit entirely",
       "fact_field": "paid_tier"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "CSV import from bank statements",
+      "text_draft": "CSV import brings a whole statement in at once",
       "fact_field": "import"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "No account linking required to start",
+      "text_draft": "No bank login is needed to get started",
       "fact_field": "import"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Every transaction entered by hand",
+      "text_draft": "Every transaction gets typed or imported by hand",
       "fact_field": "no_bank_link"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free tier stops at ten envelopes",
+      "text_draft": "The free tier stops dead at ten envelopes",
       "fact_field": "free_caps"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No Android client available yet",
+      "text_draft": "Android users have nothing to install yet",
       "fact_field": "no_android"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sharing covers one additional member",
+      "text_draft": "Sharing stops at one other person",
       "fact_field": "sharing_limit"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Monthly CSV import adds a chore",
+      "text_draft": "Importing a statement becomes a monthly chore",
       "fact_field": "manual_effort"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Reports omit net worth tracking",
+      "text_draft": "Reports cover categories but never net worth",
       "fact_field": "report_depth"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free tier limited to one account",
+      "text_draft": "One account is all the free tier allows",
       "fact_field": "free_tier"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Rollover requires monthly reconciliation",
+      "text_draft": "Rollover only works if envelopes get reconciled",
       "fact_field": "method"
     }
   ]

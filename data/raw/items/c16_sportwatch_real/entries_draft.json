@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Weight of 37 grams on wrist",
+      "text_draft": "At 37 grams it disappears on the wrist",
       "fact_field": "weight"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Battery up to 14 days smartwatch",
+      "text_draft": "Two weeks pass between charges in watch mode",
       "fact_field": "battery_smart"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three positioning systems for tracking",
+      "text_draft": "Three satellite systems keep the track on the road",
       "fact_field": "sensors"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Rating of 5 ATM for swimming",
+      "text_draft": "Five ATM means it goes in the pool",
       "fact_field": "water"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "GPS tracks accurate across routes",
+      "text_draft": "GPS traces held accurate across test routes",
       "fact_field": "gps_accuracy"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Wrist heart rate near strap readings",
+      "text_draft": "Wrist heart rate came close to a chest strap",
       "fact_field": "hr_accuracy"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Pacing and suggested workouts for beginners",
+      "text_draft": "PacePro and suggested workouts guide a new runner",
       "fact_field": "beginner_features"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Display readable in direct sunlight",
+      "text_draft": "The screen stays readable in direct sun",
       "fact_field": "display"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Quick release band at 20 millimetres",
+      "text_draft": "Standard 20-millimetre bands swap in seconds",
       "fact_field": "materials"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "GPS mode running 20 hours",
+      "text_draft": "Twenty hours of GPS covers an ultra",
       "fact_field": "battery_gps"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Pairs with iPhone and Android",
+      "text_draft": "It pairs with iPhone and Android alike",
       "fact_field": "connectivity"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Operating range down to -20 Celsius",
+      "text_draft": "It keeps working down to twenty below",
       "fact_field": "temp"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No barometric altimeter for elevation",
+      "text_draft": "With no altimeter it never records elevation",
       "fact_field": "no_altimeter"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Display small and low resolution",
+      "text_draft": "The small screen looks dated beside newer watches",
       "fact_field": "low_res"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No onboard music or payments",
+      "text_draft": "There is no music on board and no way to pay",
       "fact_field": "no_music"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No sleep summary on watch",
+      "text_draft": "Sleep data only shows up in the phone app",
       "fact_field": "no_sleep_widget"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "History memory limited to 32 megabytes",
+      "text_draft": "Thirty-two megabytes fills after enough activities",
       "fact_field": "memory"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Listed as discontinued by maker",
+      "text_draft": "Garmin has already discontinued the model",
       "fact_field": "status"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Case fixed at 42 millimetres wide",
+      "text_draft": "The 42-millimetre case comes in one size only",
       "fact_field": "size"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Band material limited to silicone",
+      "text_draft": "Silicone is the only band material offered",
       "fact_field": "materials"
     }
   ]
