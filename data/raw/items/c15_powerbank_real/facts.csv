@@ -1,1 +1,18 @@
 field,value,source_type,source_url,accessed_date,note
+capacity,"10,000 mAh",official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,watt-hour figure not stated on retrieved official pages
+ports,"one USB-C for input and output, two USB-A outputs",official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,
+simultaneous,charges up to three devices at once,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,
+output_c,USB-C output 5 V / 3 A,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,
+output_a,USB-A output 5 V / 2.4 A each,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,official text also appends 15 W max per port; internally inconsistent
+total_output,15 W total across the ports,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,
+input_c,USB-C input 5 V / 3 A,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,
+recharge,recharge time not officially specified,official,https://www.belkin.com/support-article/?articleNum=333640,2026-08-13,
+indicators,four LED charge indicators,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,
+included,6 inch USB-A to USB-C cable,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,
+runtime_claim,stated up to 40 hours of added battery life,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,
+warranty,two year limited warranty with connected equipment coverage,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,
+dimensions,not confirmed on official pages,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,retailer and review figures conflict; omitted from spec sheet
+slow_output,15 W ceiling with no fast charge protocol support,review_consensus,https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/;https://www.bestbuy.com/site/reviews/belkin-boostcharge-usb-c-portable-charger-10k-power-bank-with-1-usb-c-port-and-2-usb-a-ports-included-usb-c-to-usb-a-cable-white/6577805,2026-08-13,con; incl customer_reviews as the corroborating source
+build_praise,housing feels solid in the hand,review_consensus,https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/;https://questdaily.com.au/tech-review/review-belkin-boostcharge-power-bank-10k/,2026-08-13,
+compact,"compact for a 10,000 mAh pack",review_consensus,https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/;https://questdaily.com.au/tech-review/review-belkin-boostcharge-power-bank-10k/,2026-08-13,
+multi_device,three ports convenient for charging several devices,review_consensus,https://questdaily.com.au/tech-review/review-belkin-boostcharge-power-bank-10k/;https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/,2026-08-13,

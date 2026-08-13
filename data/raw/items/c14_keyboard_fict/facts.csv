@@ -1,1 +1,20 @@
 field,value,source_type,source_url,accessed_date,note
+layout,68 keys in a 65 percent ANSI layout,difference_point,derived-from:c14_keyboard_real,2026-08-13,"diff: 65 percent, no function row"
+dimensions,315 x 105 mm aluminium frame,mirror,derived-from:c14_keyboard_real,2026-08-13,
+height,"32 mm front, 42 mm rear with keycaps",mirror,derived-from:c14_keyboard_real,2026-08-13,
+weight,about 810 g,mirror,derived-from:c14_keyboard_real,2026-08-13,
+switches,"linear or tactile switches, hot-swappable sockets",mirror,derived-from:c14_keyboard_real,2026-08-13,
+keycaps,dye-sublimated PBT keycaps,difference_point,derived-from:c14_keyboard_real,2026-08-13,diff: PBT keycaps
+backlight,white backlight with eight patterns and four brightness levels,mirror,derived-from:c14_keyboard_real,2026-08-13,
+connectivity,USB Type-C wired connection only,difference_point,derived-from:c14_keyboard_real,2026-08-13,diff: wired only
+polling,1000 Hz polling,mirror,derived-from:c14_keyboard_real,2026-08-13,
+compatibility,macOS and Windows layouts supported,mirror,derived-from:c14_keyboard_real,2026-08-13,
+nkro,full N-key rollover over the wired connection,mirror,derived-from:c14_keyboard_real,2026-08-13,
+gasket,gasket-mounted plate with foam damping,mirror,derived-from:c14_keyboard_real,2026-08-13,
+accessories,"USB-C cable, keycap puller, switch puller",mirror,derived-from:c14_keyboard_real,2026-08-13,
+no_wireless,no Bluetooth or wireless receiver,spec_derived,derived-from:spec,2026-08-13,con
+no_fn_row,no dedicated function row across the top,spec_derived,derived-from:spec,2026-08-13,con
+weight_desk,810 grams makes the board hard to travel with,spec_derived,derived-from:spec,2026-08-13,con
+white_only,backlight offers white light only,spec_derived,derived-from:spec,2026-08-13,con
+cable_tether,cable tethers the board to the machine,spec_derived,derived-from:spec,2026-08-13,con
+key_count,68 keys require layer combinations,spec_derived,derived-from:spec,2026-08-13,con

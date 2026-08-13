@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Layout of 68 keys at 65 percent",
+      "fact_field": "layout"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Dye-sublimated PBT keycaps resist wear",
+      "fact_field": "keycaps"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Hot-swappable sockets accept other switches",
+      "fact_field": "switches"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Gasket-mounted plate over foam damping",
+      "fact_field": "gasket"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Full rollover over the wired link",
+      "fact_field": "nkro"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Polling at 1000 hertz wired",
+      "fact_field": "polling"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Aluminium frame at 810 grams",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Both keycap layouts supported by switch",
+      "fact_field": "compatibility"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Backlight with eight selectable patterns",
+      "fact_field": "backlight"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Keycap and switch pullers included",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Compact 315 millimetre width on desks",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Type-C cable supplied in box",
+      "fact_field": "connectivity"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No Bluetooth or wireless receiver",
+      "fact_field": "no_wireless"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No dedicated function row",
+      "fact_field": "no_fn_row"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Weight of 810 grams resists travel",
+      "fact_field": "weight_desk"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Backlight offers white light only",
+      "fact_field": "white_only"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cable tethers board to machine",
+      "fact_field": "cable_tether"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Keys require layer combinations",
+      "fact_field": "key_count"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Height of 42 millimetres at rear",
+      "fact_field": "height"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Switches not included with board",
+      "fact_field": "switches"
+    }
+  ]
 }

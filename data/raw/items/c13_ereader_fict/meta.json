@@ -7,8 +7,9 @@
   "name": "Lireon Q2",
   "paired_item": "c13_ereader_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "physical page-turn buttons on the bezel",
+    "7 inch screen instead of 6",
+    "no water resistance rating"
   ],
-  "status": "registered"
+  "status": "validated"
 }

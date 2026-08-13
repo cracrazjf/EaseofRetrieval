@@ -7,8 +7,9 @@
   "name": "Kelvane Slate 65",
   "paired_item": "c14_keyboard_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "65 percent layout without a function row",
+    "PBT keycaps instead of ABS",
+    "wired only, no wireless"
   ],
-  "status": "registered"
+  "status": "validated"
 }

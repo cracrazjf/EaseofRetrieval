@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Capacity of 10,000 milliamp-hours",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three ports charging devices at once",
+      "fact_field": "simultaneous"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "USB-C port handling input and output",
+      "fact_field": "ports"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Four indicator lights report charge",
+      "fact_field": "indicators"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Cable included in the box",
+      "fact_field": "included"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two year limited warranty",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Connected equipment coverage with warranty",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Compact for a 10,000 milliamp-hour pack",
+      "fact_field": "compact"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Housing feels solid in hand",
+      "fact_field": "build_praise"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Convenient for charging several devices",
+      "fact_field": "multi_device"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Stated up to 40 added hours",
+      "fact_field": "runtime_claim"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "USB-C output at 3 amps",
+      "fact_field": "output_c"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Ceiling of 15 watts total output",
+      "fact_field": "slow_output"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No fast charge protocol support",
+      "fact_field": "slow_output"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Recharge time not officially stated",
+      "fact_field": "recharge"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Included cable only six inches",
+      "fact_field": "included"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Dimensions absent from official pages",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "USB-A ports limited to 2.4 amps",
+      "fact_field": "output_a"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Total output shared across three ports",
+      "fact_field": "total_output"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Charge state shown by four lights",
+      "fact_field": "indicators"
+    }
+  ]
 }

@@ -1,1 +1,20 @@
 field,value,source_type,source_url,accessed_date,note
+display,"7 inch E Ink touchscreen, 1680 x 1264, 300 ppi",difference_point,derived-from:c13_ereader_real,2026-08-13,diff: larger screen
+frontlight,front light with adjustable brightness and color temperature,mirror,derived-from:c13_ereader_real,2026-08-13,
+darkmode,dark mode invert option,mirror,derived-from:c13_ereader_real,2026-08-13,
+dimensions,128 x 172 x 8.2 mm,mirror,derived-from:c13_ereader_real,2026-08-13,
+weight,195 g,mirror,derived-from:c13_ereader_real,2026-08-13,
+storage,32 GB onboard storage,mirror,derived-from:c13_ereader_real,2026-08-13,
+processor,1.2 GHz processor,mirror,derived-from:c13_ereader_real,2026-08-13,
+connectivity,"dual-band Wi-Fi, Bluetooth, USB-C",mirror,derived-from:c13_ereader_real,2026-08-13,
+buttons,physical page-turn buttons on the left bezel,difference_point,derived-from:c13_ereader_real,2026-08-13,diff: page buttons
+no_water,no water resistance rating,difference_point,derived-from:c13_ereader_real,2026-08-13,diff: no IPX rating
+materials,matte polymer housing with a textured back,mirror,derived-from:c13_ereader_real,2026-08-13,
+battery,"weeks of use per charge, no capacity stated",mirror,derived-from:c13_ereader_real,2026-08-13,
+formats,twelve native formats plus audiobooks over Bluetooth,mirror,derived-from:c13_ereader_real,2026-08-13,
+no_water_con,cannot be used near water or in the bath,spec_derived,derived-from:spec,2026-08-13,con
+size_pocket,7 inch body does not fit a jacket pocket,spec_derived,derived-from:spec,2026-08-13,con
+weight_hand,195 grams during long one-handed sessions,spec_derived,derived-from:spec,2026-08-13,con
+no_card,storage fixed with no memory card slot,spec_derived,derived-from:spec,2026-08-13,con
+format_count,twelve formats fewer than some readers,spec_derived,derived-from:spec,2026-08-13,con
+no_capacity,battery stated in weeks without a figure,spec_derived,derived-from:spec,2026-08-13,con

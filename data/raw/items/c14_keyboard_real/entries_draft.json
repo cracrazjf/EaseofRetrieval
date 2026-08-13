@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Layout of 84 keys at 75 percent",
+      "fact_field": "layout"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Battery lasting 240 hours unlit",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Bluetooth pairing to three devices",
+      "fact_field": "connectivity"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Mac and Windows keycaps included",
+      "fact_field": "keycaps"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Mac legends uncommon among mechanical boards",
+      "fact_field": "mac_layout"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Switching among paired devices works reliably",
+      "fact_field": "bt_switching"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Backlight with 18 selectable patterns",
+      "fact_field": "backlight"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Hot-swappable variant accepts other switches",
+      "fact_field": "switches"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Wired polling at 1000 hertz",
+      "fact_field": "polling"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Charging in about three hours",
+      "fact_field": "charging"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Aluminium frame option for the case",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Battery lasts weeks unlit",
+      "fact_field": "battery_praise"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Case height needs a wrist rest",
+      "fact_field": "tall_case"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Non-standard sizes limit keycap sets",
+      "fact_field": "keycap_sizes"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Rollover limited to wired mode",
+      "fact_field": "nkro"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Wireless polling drops to 90 hertz",
+      "fact_field": "polling"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "RGB backlight cuts battery to 72 hours",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Aluminium version weighs nearly 800 grams",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "ABS keycaps wear smoother over time",
+      "fact_field": "keycaps"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Backlight brightness has four steps",
+      "fact_field": "backlight"
+    }
+  ]
 }

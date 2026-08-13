@@ -1,1 +1,19 @@
 field,value,source_type,source_url,accessed_date,note
+layout,84 keys in a 75 percent ANSI layout,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,official spec via authorized distributor page; keychron.com is JS-rendered
+dimensions,313 x 123 mm plastic frame; 317 x 129 mm aluminium frame,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,same source caveat
+height,"30 mm front, 40 mm rear with keycaps",official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,same source caveat
+weight,about 663 g plastic frame; about 794 g aluminium,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,same source caveat
+switches,"Gateron G Pro switches in blue, red, or brown; hot-swappable variant offered",official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard;https://www.keychron.com/products/keychron-k2-hot-swappable-wireless-mechanical-keyboard,2026-08-13,
+keycaps,double-shot ABS keycaps with Windows and Mac sets included,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+backlight,white or RGB backlight with 18 patterns and four brightness levels,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+battery,"4000 mAh battery: 240 hours backlight off, 72 hours with RGB",official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+charging,about 3 hours to a full charge,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+connectivity,"Bluetooth 5.1 for up to three devices, USB Type-C wired",official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+polling,"1000 Hz wired, 90 Hz wireless polling",official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+compatibility,macOS and Windows layouts supported,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+nkro,N-key rollover in wired mode only,official,https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard,2026-08-13,
+tall_case,case height needs a wrist rest for comfort,review_consensus,https://www.imore.com/keychron-k2-v2-review;https://appleinsider.com/articles/20/09/26/review-the-keychron-k2v2-is-a-good-upgrade-to-an-already-near-perfect-keyboard,2026-08-13,con
+keycap_sizes,non-standard key sizes limit aftermarket keycap sets,review_consensus,https://www.imore.com/keychron-k2-v2-review;https://appleinsider.com/articles/20/09/26/review-the-keychron-k2v2-is-a-good-upgrade-to-an-already-near-perfect-keyboard,2026-08-13,con
+mac_layout,Mac function legends uncommon among mechanical boards,review_consensus,https://www.imore.com/keychron-k2-v2-review;https://appleinsider.com/articles/20/09/26/review-the-keychron-k2v2-is-a-good-upgrade-to-an-already-near-perfect-keyboard,2026-08-13,
+bt_switching,switching among three paired devices works reliably,review_consensus,https://www.imore.com/keychron-k2-v2-review;https://appleinsider.com/articles/20/09/26/review-the-keychron-k2v2-is-a-good-upgrade-to-an-already-near-perfect-keyboard,2026-08-13,
+battery_praise,battery lasts weeks with the backlight off,review_consensus,https://www.imore.com/keychron-k2-v2-review;https://appleinsider.com/articles/20/09/26/review-the-keychron-k2v2-is-a-good-upgrade-to-an-already-near-perfect-keyboard,2026-08-13,

@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Screen at 300 pixels per inch",
+      "fact_field": "display"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Seven-inch page area for text",
+      "fact_field": "display"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Physical page-turn buttons on bezel",
+      "fact_field": "buttons"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Storage of 32 gigabytes onboard",
+      "fact_field": "storage"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Color temperature adjustable for night reading",
+      "fact_field": "frontlight"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Processor of 1.2 gigahertz",
+      "fact_field": "processor"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Bluetooth audiobook playback supported",
+      "fact_field": "connectivity"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Battery lasting weeks per charge",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Twelve file formats open natively",
+      "fact_field": "formats"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Textured back aids one-handed grip",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Dark mode inverts the display",
+      "fact_field": "darkmode"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Charging over the USB-C port",
+      "fact_field": "connectivity"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No water resistance for bath reading",
+      "fact_field": "no_water_con"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Seven-inch body resists pocket carry",
+      "fact_field": "size_pocket"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Weight of 195 grams held long",
+      "fact_field": "weight_hand"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Storage fixed without a card slot",
+      "fact_field": "no_card"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Twelve formats fewer than some readers",
+      "fact_field": "format_count"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Battery stated without a capacity figure",
+      "fact_field": "no_capacity"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Buttons only on the left bezel",
+      "fact_field": "buttons"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Housing in polymer rather than metal",
+      "fact_field": "materials"
+    }
+  ]
 }
