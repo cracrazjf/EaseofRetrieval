@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Canister sits beside the burner",
+      "text_draft": "The canister sits beside the burner instead of under it",
       "fact_field": "remote_feed"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three supports fold against the burner",
+      "text_draft": "Three supports fold flat against the burner",
       "fact_field": "supports"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Needle valve adjusts the flame",
+      "text_draft": "A needle valve on the hose trims the flame",
       "fact_field": "valve"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Pots up to 2.5 litres supported",
+      "text_draft": "Pots up to 2.5 litres sit safely on top",
       "fact_field": "pot_limit"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Runs 1.7 hours per canister",
+      "text_draft": "One canister runs about a hundred minutes",
       "fact_field": "burn_time"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Low stance from ground-set burner",
+      "text_draft": "A low stance keeps a full pot from tipping",
       "fact_field": "remote_feed"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Stainless burner head on aluminium base",
+      "text_draft": "A stainless burner head sits on an aluminium base",
       "fact_field": "material"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Output rated at 10,300 BTU",
+      "text_draft": "Ten thousand BTU boils water quickly",
       "fact_field": "output"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Supports stay attached when folded",
+      "text_draft": "The supports stay attached when folded away",
       "fact_field": "supports"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Two cups boil in three minutes",
+      "text_draft": "Two cups reach a boil in three minutes",
       "fact_field": "boil"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Accepts butane and isobutane mixes",
+      "text_draft": "It burns butane and isobutane mixes",
       "fact_field": "fuel"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Folds to a flat stowed shape",
+      "text_draft": "It folds down to a flat packed shape",
       "fact_field": "stowed"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A separate lighter must be carried",
+      "text_draft": "A match or lighter has to travel with it",
       "fact_field": "no_ignition_con"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Hose adds bulk in the pack",
+      "text_draft": "The hose adds bulk that a top-mount stove avoids",
       "fact_field": "hose_bulk"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Weight of 96 grams with hose",
+      "text_draft": "At 96 grams it weighs more than compact rivals",
       "fact_field": "weight_higher"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Burner and canister occupy wider space",
+      "text_draft": "Burner and canister together take a wider pitch",
       "fact_field": "footprint_wide"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Open burner head exposed to wind",
+      "text_draft": "An open burner head catches the wind",
       "fact_field": "wind_exposed"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pure propane canisters not supported",
+      "text_draft": "Pure propane canisters cannot be used",
       "fact_field": "fuel"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Boil time near three minutes",
+      "text_draft": "Three minutes to boil is slow in cold weather",
       "fact_field": "boil"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No igniter built into the burner",
+      "text_draft": "Nothing on the burner lights it",
       "fact_field": "no_igniter"
     }
   ]

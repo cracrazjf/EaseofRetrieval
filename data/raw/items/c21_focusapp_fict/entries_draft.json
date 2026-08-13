@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Scene fills in as session runs",
+      "text_draft": "The scene fills in detail as the session runs",
       "fact_field": "mechanic"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Progress kept when a session pauses",
+      "text_draft": "Pausing keeps whatever detail was already earned",
       "fact_field": "mechanic"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Blocks desktop applications and websites",
+      "text_draft": "It blocks desktop apps and websites during a session",
       "fact_field": "blocking"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ambient sound library during sessions",
+      "text_draft": "An ambient sound library plays alongside the timer",
       "fact_field": "sounds"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "History summarised by day and week",
+      "text_draft": "History summarises by day and by week",
       "fact_field": "stats"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Free tier covers timer and blocking",
+      "text_draft": "The free tier covers the timer and the blocking list",
       "fact_field": "free_tier"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Web dashboard for reviewing statistics",
+      "text_draft": "The web dashboard reviews statistics from anywhere",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Paid tier adds unlimited history",
+      "text_draft": "The paid tier lifts the history limit entirely",
       "fact_field": "paid_tier"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Clients on macOS and Windows",
+      "text_draft": "Clients run on both macOS and Windows",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Session data exports as CSV",
+      "text_draft": "Session data exports out as CSV",
       "fact_field": "stats"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Scene variants on the paid tier",
+      "text_draft": "Scene variants come with the paid tier",
       "fact_field": "paid_tier"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Three ambient tracks without payment",
+      "text_draft": "Three ambient tracks come at no cost",
       "fact_field": "free_tier"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No mobile client to limit phones",
+      "text_draft": "With no phone client the phone stays a distraction",
       "fact_field": "no_mobile"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sessions cannot be shared with others",
+      "text_draft": "Sessions cannot be shared with anyone else",
       "fact_field": "no_group_con"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nothing is lost when abandoning",
+      "text_draft": "Nothing is lost by abandoning a session halfway",
       "fact_field": "no_stake"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free tier keeps seven days",
+      "text_draft": "The free tier keeps only seven days of history",
       "fact_field": "history_cap"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free tier includes three tracks",
+      "text_draft": "Three ambient tracks is all the free tier gives",
       "fact_field": "sound_cap"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No client for tablets",
+      "text_draft": "Tablets have no client to install",
       "fact_field": "desktop_only"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Blocking applies to desktop only",
+      "text_draft": "Blocking reaches desktop apps and nothing beyond",
       "fact_field": "blocking"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Scene variants require the paid tier",
+      "text_draft": "Scene variants are held back for paying users",
       "fact_field": "paid_tier"
     }
   ]

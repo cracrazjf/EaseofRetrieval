@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Spaced repetition schedules each review",
+      "text_draft": "Spaced repetition schedules each item by how it went",
       "fact_field": "method"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Retention statistics recorded per item",
+      "text_draft": "Retention statistics track every item over time",
       "fact_field": "progress"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Lesson packs download for offline study",
+      "text_draft": "Lesson packs download ahead for offline study",
       "fact_field": "offline"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Graded reading and listening tracks",
+      "text_draft": "Every language pairs a reading and listening track",
       "fact_field": "courses"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Typed recall prompts instead of tapping",
+      "text_draft": "Typed answers force recall rather than recognition",
       "fact_field": "format"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Review queue shows what is due",
+      "text_draft": "The review queue shows exactly what is due",
       "fact_field": "progress"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Vocabulary export as CSV files",
+      "text_draft": "Vocabulary lists export as CSV files",
       "fact_field": "export"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Runs on iOS, Android, web",
+      "text_draft": "It runs on iOS, Android, and the web",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Fourteen day trial on new accounts",
+      "text_draft": "New accounts get fourteen days to try it",
       "fact_field": "trial"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Twelve languages with matched tracks",
+      "text_draft": "Twelve languages each get matched tracks",
       "fact_field": "courses"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Audio clips paired with graded texts",
+      "text_draft": "Audio clips pair with every graded text",
       "fact_field": "format"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Schedule adapts to recall history",
+      "text_draft": "The schedule adapts as recall improves or slips",
       "fact_field": "method"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No ongoing free tier after trial",
+      "text_draft": "Nothing is free once the fourteen days run out",
       "fact_field": "no_free"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Twelve languages narrower than large catalogues",
+      "text_draft": "Twelve languages is narrow beside the big catalogues",
       "fact_field": "language_count"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No speech recognition for pronunciation",
+      "text_draft": "No speech recognition means pronunciation goes unchecked",
       "fact_field": "no_speaking"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Missed days build a review backlog",
+      "text_draft": "Miss a few days and the review queue piles up",
       "fact_field": "queue_backlog"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Browser only on desktop machines",
+      "text_draft": "On a desktop it lives in the browser only",
       "fact_field": "no_desktop_app"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Recall prompts require typing throughout",
+      "text_draft": "Every answer has to be typed out in full",
       "fact_field": "typed_only"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Trial lasts only fourteen days",
+      "text_draft": "Fourteen days is a short window to judge it",
       "fact_field": "trial"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No math or music tracks",
+      "text_draft": "There is nothing here but languages",
       "fact_field": "courses"
     }
   ]

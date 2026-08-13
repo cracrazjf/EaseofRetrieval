@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sonic vibration against the tooth surface",
+      "text_draft": "The head vibrates at sonic frequency against each tooth",
       "fact_field": "action"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Pressure sensor reduces output when pressing",
+      "text_draft": "The sensor eases off when pressure gets heavy",
       "fact_field": "pressure_sensor"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Timer pacing thirty second quadrants",
+      "text_draft": "The timer pauses every thirty seconds to pace quadrants",
       "fact_field": "timer"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Charging over the USB-C port",
+      "text_draft": "It charges over the same USB-C as everything else",
       "fact_field": "charging"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Charge lasting about three weeks",
+      "text_draft": "A charge lasts about three weeks",
       "fact_field": "battery"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Travel case included with handle",
+      "text_draft": "A hard travel case comes in the box",
       "fact_field": "case"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Accepts three head shapes",
+      "text_draft": "Three head shapes fit the same handle",
       "fact_field": "head_compat"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two year warranty on handle",
+      "text_draft": "Two years of cover comes with the handle",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Cable supplied in the box",
+      "text_draft": "The cable comes along in the box",
       "fact_field": "box"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Brush head supplied with handle",
+      "text_draft": "A brush head ships with the handle",
       "fact_field": "box"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "No proprietary charger to carry",
+      "text_draft": "No proprietary charger has to travel with it",
       "fact_field": "charging"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Hard case protects the handle",
+      "text_draft": "The case protects the handle inside a bag",
       "fact_field": "case"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No charging stand for counters",
+      "text_draft": "Nothing stands it upright on a bathroom counter",
       "fact_field": "no_stand"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Three head shapes rather than more",
+      "text_draft": "Three head shapes is a narrow choice",
       "fact_field": "head_range"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sonic vibration feels unlike rotation",
+      "text_draft": "Sonic vibration feels different to anyone used to rotation",
       "fact_field": "sonic_feel"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cable must travel with brush",
+      "text_draft": "The cable has to travel wherever the brush goes",
       "fact_field": "cable_needed"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One brush head in the box",
+      "text_draft": "One brush head is all that comes along",
       "fact_field": "single_head"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Case adds bulk to bags",
+      "text_draft": "The case bulks up an already full washbag",
       "fact_field": "case_bulk"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Warranty covers only two years",
+      "text_draft": "Cover runs out after two years",
       "fact_field": "warranty"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Heads limited to one maker",
+      "text_draft": "Heads come from one maker and nowhere else",
       "fact_field": "head_compat"
     }
   ]

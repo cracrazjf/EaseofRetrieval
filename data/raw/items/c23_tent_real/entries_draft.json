@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Light for a freestanding double-wall tent",
+      "text_draft": "It is light for a freestanding double-wall tent",
       "fact_field": "light_weight"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two doors with matching vestibules",
+      "text_draft": "Two doors mean nobody climbs over anybody",
       "fact_field": "two_doors"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Symmetrical poles make pitching quick",
+      "text_draft": "Symmetrical poles go up the same way every time",
       "fact_field": "quick_setup"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Near-vertical walls give usable space",
+      "text_draft": "Near-vertical walls make the interior usable, not just enterable",
       "fact_field": "livable"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Floor area of 29 square feet",
+      "text_draft": "Twenty-nine square feet holds two sleeping pads",
       "fact_field": "floor"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Vestibules totalling 17.5 square feet",
+      "text_draft": "Two vestibules total 17.5 square feet for gear",
       "fact_field": "vestibules"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Packed size of 18 by 6",
+      "text_draft": "It packs down to eighteen by six inches",
       "fact_field": "packed_size"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Rain gutters over both doors",
+      "text_draft": "Gutters over both doors keep rain off the sleeper",
       "fact_field": "doors"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Floor coated to 3000 millimetres",
+      "text_draft": "The floor is coated to 3000 millimetres",
       "fact_field": "floor_fabric"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Hub and pole assembly in aluminium",
+      "text_draft": "The hub-and-pole assembly comes as one piece",
       "fact_field": "poles"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Stakes, guylines, and sack included",
+      "text_draft": "Stakes, guylines, and a sack all come along",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Freestanding pitch on hard ground",
+      "text_draft": "It stands on rock without a single stake",
       "fact_field": "capacity"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Rainfly attachment unintuitive during setup",
+      "text_draft": "Getting the rainfly on correctly is not obvious",
       "fact_field": "fly_fiddly"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Thin floor benefits from a footprint",
+      "text_draft": "A thin floor wants a footprint underneath it",
       "fact_field": "footprint_extra"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Footprint sold separately from the tent",
+      "text_draft": "That footprint costs extra on top of the tent",
       "fact_field": "footprint_extra"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Peak height of 39 inches inside",
+      "text_draft": "Thirty-nine inches of headroom keeps sitting hunched",
       "fact_field": "peak_height"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Fly coating rated at 1200 millimetres",
+      "text_draft": "A 1200-millimetre fly is modest for sustained rain",
       "fact_field": "rainfly"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Floor width of 50 inches for two",
+      "text_draft": "Fifty inches across is tight for two adults",
       "fact_field": "floor"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Packaged weight near four pounds",
+      "text_draft": "Packaged weight comes to nearly four pounds",
       "fact_field": "packed_weight"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Canopy fabric at 20 denier",
+      "text_draft": "Twenty-denier canopy fabric tears if snagged",
       "fact_field": "canopy"
     }
   ]

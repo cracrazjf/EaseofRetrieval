@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Double-wall vacuum insulation in stainless steel",
+      "text_draft": "Double-wall vacuum insulation sits inside stainless steel",
       "fact_field": "materials"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Hot retention rated eighteen hours",
+      "text_draft": "Thermos rates the hot side at eighteen hours",
       "fact_field": "retention"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Cold retention rated twenty-four hours",
+      "text_draft": "Cold drinks hold for a full twenty-four hours",
       "fact_field": "retention"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Twist-and-pour stopper without removing lid",
+      "text_draft": "The stopper pours without the lid coming off",
       "fact_field": "stopper"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Serving cup built into lid",
+      "text_draft": "The lid doubles as a cup to drink from",
       "fact_field": "cup"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Leak-proof twist cap when closed",
+      "text_draft": "Closed up it seals tight against leaks",
       "fact_field": "seal"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sweat-proof exterior fits cup holders",
+      "text_draft": "The outside never sweats and fits a cup holder",
       "fact_field": "exterior"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Led the field in retention tests",
+      "text_draft": "It led the field in independent retention tests",
       "fact_field": "heat_test"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Dishwasher safe on top rack",
+      "text_draft": "The body goes on the top rack of a dishwasher",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 0.9 pounds when filled",
+      "text_draft": "At 0.9 pounds it packs without much penalty",
       "fact_field": "weight"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Cup and stopper convenient outdoors",
+      "text_draft": "Cup and stopper both earn their place outdoors",
       "fact_field": "cup_convenience"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Body in 18/8 stainless steel",
+      "text_draft": "The shell is 18/8 stainless throughout",
       "fact_field": "materials"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Plastic handle and stopper less robust",
+      "text_draft": "Plastic handle and stopper feel weaker than the body",
       "fact_field": "plastic_parts"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Wide ridged body resists small bags",
+      "text_draft": "A wide ridged body fights against a small bag",
       "fact_field": "bulk"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Contents only warm by day's end",
+      "text_draft": "By evening the contents are warm rather than hot",
       "fact_field": "real_retention"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Capacity of 16 ounces per fill",
+      "text_draft": "Sixteen ounces runs out before a long day does",
       "fact_field": "capacity"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Height of 9.7 inches when packed",
+      "text_draft": "At 9.7 inches tall it sticks out of a pack",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Stopper threads need separate drying",
+      "text_draft": "The stopper threads have to dry separately",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Top rack only in dishwasher",
+      "text_draft": "Only the top rack of the dishwasher is safe",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Weight of 0.9 pounds empty",
+      "text_draft": "It already weighs 0.9 pounds before anything goes in",
       "fact_field": "weight"
     }
   ]

@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Gamified tree mechanic sustains focus sessions",
+      "text_draft": "A tree grows for as long as focus holds",
       "fact_field": "timer"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Deep Focus blocking with app allowlists",
+      "text_draft": "Leaving the app kills the tree outright",
       "fact_field": "deepfocus"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Time Guard applies scheduled focus automatically",
+      "text_draft": "Deep Focus blocks whatever apps get in the way",
       "fact_field": "timeguard"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Plant Together group sessions with friends",
+      "text_draft": "Group sessions put a shared tree on the line",
       "fact_field": "together"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Real trees planted through nonprofit partnership",
+      "text_draft": "Coins earned in the app plant real trees",
       "fact_field": "realtrees"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Cross-device sync across phone and browser",
+      "text_draft": "The free tier covers the timer and blocking",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ambient soundscapes within Mindful Space",
+      "text_draft": "Ambient sounds run alongside the timer",
       "fact_field": "sounds"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Free tier covers timer and blocking",
+      "text_draft": "The tree mechanic motivates where a plain timer does not",
       "fact_field": "free_tier"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Two million real trees planted",
+      "text_draft": "Blocking builds better phone habits over weeks",
       "fact_field": "realtrees"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Sixty million downloads across platforms",
+      "text_draft": "Time Guard schedules blocks outside sessions",
       "fact_field": "downloads"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Browser extension extends blocking to desktop",
+      "text_draft": "It syncs across phone, tablet, and browser",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Group planting available without paid tier",
+      "text_draft": "Mindful Space adds a breathing exercise",
       "fact_field": "free_tier"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Analytics and tags locked behind subscription",
+      "text_draft": "Analytics and tags sit behind the paid tier",
       "fact_field": "paywall"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Browser extension sold as separate purchase",
+      "text_draft": "The browser extension is bought separately again",
       "fact_field": "ext_purchase"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Subscription structure fragmented across platforms",
+      "text_draft": "One-time purchases are gone in favour of subscription",
       "fact_field": "pricing_confusing"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One-time purchase option discontinued for newcomers",
+      "text_draft": "Pricing splits by platform and confuses new users",
       "fact_field": "pricing_confusing"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single soundscape included in free tier",
+      "text_draft": "The free tier includes one soundscape only",
       "fact_field": "free_soundscape_limit"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Tree dies on any early exit",
+      "text_draft": "Killing a tree is the only feedback on a failed session",
       "fact_field": "leave_penalty"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Blocking requires manual allowlist configuration",
+      "text_draft": "Real-tree planting needs coins the free tier earns slowly",
       "fact_field": "allowlist_setup"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sync requires account creation and sign-in",
+      "text_draft": "Group sessions punish everyone for one person quitting",
       "fact_field": "sync_account"
     }
   ]

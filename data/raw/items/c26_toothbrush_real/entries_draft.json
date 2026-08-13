@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Head oscillates, rotates, and pulsates",
+      "text_draft": "The head oscillates, rotates, and pulsates against each tooth",
       "fact_field": "action"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Pressure sensor stops excessive force",
+      "text_draft": "The sensor cuts the pulsation when pressure gets heavy",
       "fact_field": "pressure_sensor"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two minute timer in the handle",
+      "text_draft": "A timer in the handle marks off two minutes",
       "fact_field": "timer"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Accepts seven replacement head types",
+      "text_draft": "Seven Oral-B head types fit the same handle",
       "fact_field": "head_compat"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Plaque removal effective in testing",
+      "text_draft": "Plaque removal held up across independent testing",
       "fact_field": "clean_perf"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sensor and timer uncommon at entry",
+      "text_draft": "A sensor and timer at this price are unusual",
       "fact_field": "sensor_praise"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Feature set unusual at its price",
+      "text_draft": "The feature set goes beyond what the price suggests",
       "fact_field": "value"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two year warranty on handle",
+      "text_draft": "Two years of cover comes with the handle",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Charging stand included in box",
+      "text_draft": "The charging stand comes in the box",
       "fact_field": "box"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Brush head supplied with handle",
+      "text_draft": "A brush head ships with the handle",
       "fact_field": "box"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Handle recharges on the stand",
+      "text_draft": "The handle sits on the stand to recharge",
       "fact_field": "battery"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Round head reaches around each tooth",
+      "text_draft": "A round head wraps around each tooth",
       "fact_field": "action"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Measured about 77 decibels close up",
+      "text_draft": "It runs near 77 decibels close to the ear",
       "fact_field": "noise"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Ten to twelve days per charge",
+      "text_draft": "A charge lasts ten to twelve days at most",
       "fact_field": "battery_life"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Vibration strong for sensitive gums",
+      "text_draft": "The vibration is strong for sensitive gums",
       "fact_field": "aggressive"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Recharge cycle runs long",
+      "text_draft": "Recharging takes the better part of a day",
       "fact_field": "battery_life"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cell chemistry not stated officially",
+      "text_draft": "Oral-B never states what cell is inside",
       "fact_field": "battery"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single brush head in box",
+      "text_draft": "One brush head is all that comes along",
       "fact_field": "box"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Warranty covers only two years",
+      "text_draft": "Cover runs out after two years",
       "fact_field": "warranty"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Head must be replaced regularly",
+      "text_draft": "Heads wear out and have to be replaced regularly",
       "fact_field": "head_compat"
     }
   ]

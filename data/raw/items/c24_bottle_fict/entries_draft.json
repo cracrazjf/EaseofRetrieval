@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Double-wall vacuum insulation in stainless steel",
+      "text_draft": "Double-wall vacuum insulation sits inside stainless steel",
       "fact_field": "materials"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Hot retention rated sixteen hours",
+      "text_draft": "Hot drinks hold for sixteen hours",
       "fact_field": "retention"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Cold retention rated twenty-two hours",
+      "text_draft": "Cold drinks hold for twenty-two hours",
       "fact_field": "retention"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Capacity of 20 ounces per fill",
+      "text_draft": "Twenty ounces covers a longer day out",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Serving cup built into lid",
+      "text_draft": "The lid doubles as a cup to drink from",
       "fact_field": "cup"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Gasketed cap seals against leaks",
+      "text_draft": "A gasket in the cap seals it against leaks",
       "fact_field": "seal"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Powder-coated exterior with carry loop",
+      "text_draft": "A powder-coated shell carries a loop for clipping on",
       "fact_field": "exterior"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Spare cap gasket in box",
+      "text_draft": "A spare cap gasket comes in the box",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Cap disassembles fully for cleaning",
+      "text_draft": "The cap comes apart completely for cleaning",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Body in 18/8 stainless steel",
+      "text_draft": "The shell is 18/8 stainless throughout",
       "fact_field": "materials"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Loop for clipping to a pack",
+      "text_draft": "The loop clips it to the outside of a pack",
       "fact_field": "exterior"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of one pound empty",
+      "text_draft": "At one pound empty it packs without much penalty",
       "fact_field": "weight"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cap removes entirely before pouring",
+      "text_draft": "The cap has to come right off before pouring",
       "fact_field": "no_pour_through"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Gasket needs removal and drying",
+      "text_draft": "The gasket has to be pulled out and dried",
       "fact_field": "gasket_care"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Hand washing recommended over dishwasher",
+      "text_draft": "Hand washing is the recommendation, not the dishwasher",
       "fact_field": "hand_wash"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Height of 10.2 inches when packed",
+      "text_draft": "At 10.2 inches tall it sticks out of a pack",
       "fact_field": "height_pack"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Carry loop offers no grip",
+      "text_draft": "A loop gives nothing to actually grip",
       "fact_field": "loop_only"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One pound empty before filling",
+      "text_draft": "It already weighs a pound before anything goes in",
       "fact_field": "weight_full"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Retention shorter than eighteen hours",
+      "text_draft": "Sixteen hours falls short of the eighteen-hour bottles",
       "fact_field": "retention"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Powder coat can chip in packs",
+      "text_draft": "Powder coating chips where it rubs inside a pack",
       "fact_field": "exterior"
     }
   ]

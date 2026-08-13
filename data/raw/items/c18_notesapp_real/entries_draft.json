@@ -32,7 +32,7 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Databases export straight to CSV",
+      "text_draft": "Databases export straight out to CSV files",
       "fact_field": "export"
     },
     {

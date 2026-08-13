@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Weight of 2.3 ounces with support",
+      "text_draft": "At 2.3 ounces it disappears into a pack",
       "fact_field": "weight"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Concave burner holds flame in wind",
+      "text_draft": "The concave burner holds its flame in wind",
       "fact_field": "wind_resist"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Micro regulator holds output steady",
+      "text_draft": "The regulator keeps output steady as fuel drops",
       "fact_field": "valve"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Piezo igniter built into post",
+      "text_draft": "A piezo igniter sits built into the burner post",
       "fact_field": "ignition"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Flame control fine enough to simmer",
+      "text_draft": "The flame turns down far enough to simmer",
       "fact_field": "simmer"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Pot supports stable under full pots",
+      "text_draft": "The supports stay stable under a full pot",
       "fact_field": "stable_support"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Output rated at 11,000 BTU",
+      "text_draft": "Eleven thousand BTU boils water quickly",
       "fact_field": "output"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Regulator holds output as canisters cool",
+      "text_draft": "Output holds up as the canister cools down",
       "fact_field": "cold_perf"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Runs 1.5 hours per canister",
+      "text_draft": "One canister runs about ninety minutes",
       "fact_field": "burn_time"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Light enough for long carries",
+      "text_draft": "Thru-hikers carry it for the weight alone",
       "fact_field": "light"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Die-cast aluminium body construction",
+      "text_draft": "Die-cast aluminium keeps the body light and stiff",
       "fact_field": "material"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Accepts three common fuel mixes",
+      "text_draft": "It burns butane, isobutane, and propane mixes",
       "fact_field": "fuel"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Packs bulkier than competing stoves",
+      "text_draft": "It packs bulkier than rival canister stoves",
       "fact_field": "bulk"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Supports fitted each use, easily lost",
+      "text_draft": "The pot supports come off and get lost",
       "fact_field": "support_fiddly"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pot capacity capped at two litres",
+      "text_draft": "Pots larger than two litres will not sit safely",
       "fact_field": "pot_limit"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pure propane canisters not supported",
+      "text_draft": "Pure propane canisters cannot be used",
       "fact_field": "fuel"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Three-arm support sold separately",
+      "text_draft": "The three-arm support has to be bought separately",
       "fact_field": "supports"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Boil time varies with conditions",
+      "text_draft": "Boil times swing widely with wind and altitude",
       "fact_field": "boil"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Canister lasts about ninety minutes",
+      "text_draft": "Ninety minutes per canister runs short on long trips",
       "fact_field": "burn_time"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Stowed bulk from the support arms",
+      "text_draft": "The support arms are what make it bulky packed",
       "fact_field": "stowed"
     }
   ]

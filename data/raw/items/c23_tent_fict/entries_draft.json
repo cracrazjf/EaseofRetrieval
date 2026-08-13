@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Minimum weight of 3 pounds 2",
+      "text_draft": "At 3 pounds 2 ounces it is light for two people",
       "fact_field": "min_weight"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Integrated footprint included with tent",
+      "text_draft": "A footprint is built in rather than sold separately",
       "fact_field": "footprint"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Peak height of 41 inches inside",
+      "text_draft": "Forty-one inches of headroom allows sitting upright",
       "fact_field": "peak_height"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Packed size of 17 by 6",
+      "text_draft": "It packs down to seventeen by six inches",
       "fact_field": "packed_size"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Fly coated to 1500 millimetres",
+      "text_draft": "The fly is coated to 1500 millimetres",
       "fact_field": "rainfly"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Mesh upper panels for ventilation",
+      "text_draft": "Mesh panels overhead vent the condensation out",
       "fact_field": "canopy"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Aluminium alloy hub and poles",
+      "text_draft": "Aluminium alloy poles come as a hubbed assembly",
       "fact_field": "poles"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Stakes and guylines in box",
+      "text_draft": "Stakes and guylines both come in the box",
       "fact_field": "footprint"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Head end stands without stakes",
+      "text_draft": "The head end stands up before any stake goes in",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Vestibule of 9 square feet",
+      "text_draft": "Nine square feet of vestibule takes the packs",
       "fact_field": "vestibule"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Floor coated to 2500 millimetres",
+      "text_draft": "The floor is coated to 2500 millimetres",
       "fact_field": "floor_fabric"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Canopy fabric at 15 denier",
+      "text_draft": "Fifteen-denier canopy keeps the packed weight down",
       "fact_field": "canopy"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One occupant climbs over the other",
+      "text_draft": "One person climbs over the other to get out",
       "fact_field": "one_door_con"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Foot end must be staked first",
+      "text_draft": "The foot end will not stand until it is staked",
       "fact_field": "stakes_needed"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Gear for two shares one vestibule",
+      "text_draft": "Two people share a single vestibule for gear",
       "fact_field": "single_vestibule"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Canopy at 15 denier is delicate",
+      "text_draft": "Fifteen-denier canopy tears if snagged on anything",
       "fact_field": "thin_canopy"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Floor of 27 square feet is narrow",
+      "text_draft": "Twenty-seven square feet is narrow for two adults",
       "fact_field": "floor_area"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single door on the left",
+      "text_draft": "One door sits on the left and nowhere else",
       "fact_field": "doors"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Semi-freestanding pitch needs soft ground",
+      "text_draft": "Hard ground leaves the foot end sagging",
       "fact_field": "capacity"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Floor coating rated 2500 millimetres",
+      "text_draft": "A 2500-millimetre floor is modest under a wet pitch",
       "fact_field": "floor_fabric"
     }
   ]
