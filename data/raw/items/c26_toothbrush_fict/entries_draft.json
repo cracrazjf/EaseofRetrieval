@@ -11,28 +11,28 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The sensor eases off when pressure gets heavy",
+      "text_draft": "The sensor eases output when pressure runs heavy",
       "fact_field": "pressure_sensor"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The timer pauses every thirty seconds to pace quadrants",
+      "text_draft": "The timer pauses every thirty seconds between quadrants",
       "fact_field": "timer"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It charges over the same USB-C as everything else",
+      "text_draft": "It charges over USB-C like everything else in the bag",
       "fact_field": "charging"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A charge lasts about three weeks",
+      "text_draft": "A charge lasts about three weeks of twice-daily use",
       "fact_field": "battery"
     },
     {
@@ -46,43 +46,43 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three head shapes fit the same handle",
-      "fact_field": "head_compat"
+      "text_draft": "The handle carries a two year warranty",
+      "fact_field": "warranty"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two years of cover comes with the handle",
-      "fact_field": "warranty"
+      "text_draft": "It runs quieter than an oscillating handle",
+      "fact_field": "quiet"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The cable comes along in the box",
-      "fact_field": "box"
+      "text_draft": "Head and handle rinse under a running tap",
+      "fact_field": "rinseable"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A brush head ships with the handle",
-      "fact_field": "box"
+      "text_draft": "A rubberised grip holds steady in a wet hand",
+      "fact_field": "grip"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "No proprietary charger has to travel with it",
-      "fact_field": "charging"
+      "text_draft": "A light on the handle shows the charge remaining",
+      "fact_field": "battery_indicator"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The case protects the handle inside a bag",
-      "fact_field": "case"
+      "text_draft": "The motor ramps up gradually at the start",
+      "fact_field": "soft_start"
     }
   ],
   "cons": [
@@ -90,7 +90,7 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nothing stands it upright on a bathroom counter",
+      "text_draft": "Nothing holds it upright on a bathroom counter",
       "fact_field": "no_stand"
     },
     {
@@ -111,36 +111,36 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The cable has to travel wherever the brush goes",
+      "text_draft": "The cable travels wherever the brush goes",
       "fact_field": "cable_needed"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One brush head is all that comes along",
+      "text_draft": "Only one brush head comes in the box",
       "fact_field": "single_head"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The case bulks up an already full washbag",
+      "text_draft": "The hard case bulks up a packed washbag",
       "fact_field": "case_bulk"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cover runs out after two years",
-      "fact_field": "warranty"
+      "text_draft": "Heads come from one maker and nowhere else",
+      "fact_field": "one_maker"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Heads come from one maker and nowhere else",
-      "fact_field": "head_compat"
+      "text_draft": "The charging port sits exposed in a wet bathroom",
+      "fact_field": "port_water"
     }
   ]
 }

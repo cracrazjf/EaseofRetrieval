@@ -1,16 +1,25 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
-action,"round head oscillating, rotating, and pulsating against the tooth surface",official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+action,"round head oscillates, rotates, and pulsates against the tooth surface",official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
 modes,mode count omitted from materials,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,official page states three modes; earlier production units shipped with one; mid-cycle refresh; omitted per DECISIONS,no
-pressure_sensor,pressure sensor stops pulsation when brushing too hard,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
-timer,two minute timer built into the handle,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
-plaque_claim,maker states 300 percent more plaque removal along the gumline than a manual brush,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+pressure_sensor,pressure sensor stops the pulsation when the user presses too hard,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+timer,timer in the handle marks off two minutes,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+plaque_claim,maker states 300 percent more plaque removed along the gumline than a manual brush,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
 box,"handle, one CrossAction brush head, charger",official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
 battery,rechargeable handle; cell chemistry not stated by the maker,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,one review identifies nickel metal hydride,yes
-head_compat,accepts seven Oral-B head types,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+head_compat,"handle accepts seven Oral-B replacement head types, sold in packs",official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
 warranty,two year warranty,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
-noise,measured about 77 dB at close range,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,con,yes
-battery_life,ten to twelve days per charge with a recharge cycle running about a day,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,con,yes
-aggressive,vibration strong for sensitive gums,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/,2026-08-13,con,yes
-clean_perf,plaque removal effective in independent testing,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,,yes
-value,feature set unusual at its price point,review_consensus,https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,,yes
-sensor_praise,pressure sensor and quadrant timer uncommon at entry level,review_consensus,https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,,yes
+noise,running noise measured at about 77 decibels close to the ear,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,con,yes
+battery_life,ten to twelve days of use per charge,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,con,yes
+aggressive,vibration runs strong for sensitive gums,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/,2026-08-13,con,yes
+clean_perf,independent testing finds the plaque removal effective,review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,,yes
+value,feature set unusual at its price point,review_consensus,https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,,no
+sensor_praise,pressure sensor and timer uncommon at entry level,review_consensus,https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,,yes
+round_head,round head wrapping around each tooth in turn rather than sweeping across several,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+charger,charging stand included in the box,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+head_included,one CrossAction brush head ships with the handle,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,,yes
+rinseable,head and handle rinse under a running tap,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,care instructions,yes
+head_wear,heads replaced as the bristles splay outward from the centre,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,con,yes
+no_case,no travel case is included,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,absence claim stated explicitly in briefing; con,yes
+no_bluetooth,no smartphone connectivity; the handle connects to no app or phone,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,absence claim stated explicitly in briefing; con,yes
+no_usb,charging needs the supplied stand rather than a USB cable,official,https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/,2026-08-13,con,yes
+recharge_time,"full recharge takes about 22 hours, the better part of a day",review_consensus,https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000;https://www.dentalroundup.com/best/oral-b-pro-1000-review/;https://medgrade.org/reviews/oral-b-pro-1000-review/,2026-08-13,con,yes

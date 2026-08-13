@@ -21,7 +21,7 @@ portable,171 g body suited to one-handed reading,review_consensus,https://www.re
 audiobooks,Bluetooth audiobook playback to headphones,official,https://gl.kobobooks.com/products/kobo-clara-2e,2026-08-13,,yes
 wifi,dual-band Wi-Fi,official,https://gl.kobobooks.com/products/kobo-clara-2e,2026-08-13,,yes
 pocket,articles saved to Pocket sync across to the device,review_consensus,https://www.techadvisor.com/article/1364904/kobo-clara-2e-review.html;https://www.reviewed.com/tech/content/kobo-clara-e2-review,2026-08-13,,yes
-screen_size,6 inch page shows less text before a turn than larger readers,official,https://gl.kobobooks.com/products/kobo-clara-2e,2026-08-13,con; derived from the official 6 inch screen size,yes
+screen_size,6 inch page shows less text before a turn than larger readers,spec_derived,https://gl.kobobooks.com/products/kobo-clara-2e,2026-08-13,"con; derived from the official 6 inch screen size; reclassified official -> spec_derived: the source does not state this, it follows from stated figures",yes
 no_buttons,no page-turn buttons on the bezel,official,https://gl.kobobooks.com/products/kobo-clara-2e,2026-08-13,absence: official spec lists touchscreen input only,yes
 no_card,storage fixed with no memory card slot,official,https://gl.kobobooks.com/products/kobo-clara-2e,2026-08-13,absence: official storage spec lists 16 GB onboard only,yes
 no_capacity,"no battery capacity figure published, only weeks per charge",official,https://us.kobobooks.com/products/kobo-clara-2e,2026-08-13,absence: official page states battery life in weeks with no mAh figure,yes

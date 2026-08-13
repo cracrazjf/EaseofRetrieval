@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The sensor cuts the pulsation when pressure gets heavy",
+      "text_draft": "The sensor stops the pulsation when pressure runs heavy",
       "fact_field": "pressure_sensor"
     },
     {
@@ -32,57 +32,57 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Plaque removal held up across independent testing",
+      "text_draft": "Independent testing found the plaque removal effective",
       "fact_field": "clean_perf"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A sensor and timer at this price are unusual",
+      "text_draft": "A pressure sensor and timer are uncommon at entry level",
       "fact_field": "sensor_praise"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The feature set goes beyond what the price suggests",
-      "fact_field": "value"
+      "text_draft": "Oral-B states 300 percent more plaque removed at the gumline",
+      "fact_field": "plaque_claim"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two years of cover comes with the handle",
-      "fact_field": "warranty"
+      "text_draft": "A charging stand comes in the box",
+      "fact_field": "charger"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The charging stand comes in the box",
-      "fact_field": "box"
+      "text_draft": "The round head wraps around each tooth in turn",
+      "fact_field": "round_head"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A brush head ships with the handle",
-      "fact_field": "box"
+      "text_draft": "One CrossAction head ships with the handle",
+      "fact_field": "head_included"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The handle sits on the stand to recharge",
-      "fact_field": "battery"
+      "text_draft": "The handle carries a two year warranty",
+      "fact_field": "warranty"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A round head wraps around each tooth",
-      "fact_field": "action"
+      "text_draft": "Head and handle rinse under a running tap",
+      "fact_field": "rinseable"
     }
   ],
   "cons": [
@@ -97,50 +97,50 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A charge lasts ten to twelve days at most",
+      "text_draft": "A charge lasts only ten to twelve days",
       "fact_field": "battery_life"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The vibration is strong for sensitive gums",
-      "fact_field": "aggressive"
+      "text_draft": "A full recharge takes the better part of a day",
+      "fact_field": "recharge_time"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Recharging takes the better part of a day",
-      "fact_field": "battery_life"
+      "text_draft": "The vibration runs strong for sensitive gums",
+      "fact_field": "aggressive"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Oral-B never states what cell is inside",
-      "fact_field": "battery"
+      "text_draft": "Heads need replacing as the bristles splay outward",
+      "fact_field": "head_wear"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One brush head is all that comes along",
-      "fact_field": "box"
+      "text_draft": "No travel case is included with it",
+      "fact_field": "no_case"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cover runs out after two years",
-      "fact_field": "warranty"
+      "text_draft": "The handle connects to no app or phone",
+      "fact_field": "no_bluetooth"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Heads wear out and have to be replaced regularly",
-      "fact_field": "head_compat"
+      "text_draft": "Charging needs the stand rather than a USB cable",
+      "fact_field": "no_usb"
     }
   ]
 }
