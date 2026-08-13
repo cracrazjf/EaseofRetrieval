@@ -12,8 +12,19 @@ controls,"five physical buttons, no touchscreen",difference_point,derived-from:c
 connectivity,Bluetooth pairing to the maker's own companion app,difference_point,derived-from:c16_sportwatch_real,2026-08-13,diff: first-party app only,yes
 features,"interval timer, elevation profile, recovery advisor",mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
 no_touch,five physical buttons with no touchscreen,spec_derived,derived-from:spec,2026-08-13,con,yes
-first_party_only,pairs only with the maker's companion app,spec_derived,derived-from:spec,2026-08-13,con,yes
+first_party_only,pairs only with the maker's own companion app,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_music_derived,no onboard music storage,spec_derived,derived-from:spec,2026-08-13,con,yes
-case_size,case fixed at 44 millimetres wide,spec_derived,derived-from:spec,2026-08-13,con,yes
-band_material,band offered in silicone only,spec_derived,derived-from:spec,2026-08-13,con,yes
-res_modest,display resolution modest at 240 pixels,spec_derived,derived-from:spec,2026-08-13,con,yes
+case_size,case offered in one 44-millimetre width,spec_derived,derived-from:spec,2026-08-13,con,yes
+band_material,"silicone band, the only material offered",spec_derived,derived-from:spec,2026-08-13,con,yes
+res_modest,"240 by 240 pixels, a resolution that reads coarse close up",spec_derived,derived-from:spec,2026-08-13,con,yes
+altimeter,barometric altimeter records elevation through every activity,difference_point,derived-from:c16_sportwatch_real,2026-08-13,diff: altimeter,yes
+buttons_gloves,five physical buttons operated with gloves or wet hands,spec_derived,derived-from:spec,2026-08-13,,yes
+quick_release,22-millimetre quick release fitting that swaps without tools,mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
+display_transflective,transflective display stays readable in direct sunlight,mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
+interval_timer,interval timer for repeat efforts,mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
+wrist_range,fits wrists between 130 and 210 millimetres,mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
+elevation_profile,elevation profiles drawn after each recorded activity,mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
+recovery_advisor,recovery advisor that suggests rest days after activities,mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
+sensors_two,"GPS and GLONASS only, no third satellite system",spec_derived,derived-from:spec,2026-08-13,con,yes
+no_maps,no map or breadcrumb trail for navigation,spec_derived,derived-from:spec,2026-08-13,con,yes
+charger,proprietary clip cable rather than a standard connector,spec_derived,derived-from:spec,2026-08-13,con,yes

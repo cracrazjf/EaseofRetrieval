@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three ports run three devices at the same time",
+      "text_draft": "Three devices charge from the pack at the same time",
       "fact_field": "simultaneous"
     },
     {
@@ -19,70 +19,70 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The USB-C port takes charge in and pushes it out",
-      "fact_field": "ports"
+      "fact_field": "ports_c"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Four lights on the case report what is left",
-      "fact_field": "indicators"
+      "text_draft": "Two years of warranty cover comes with the pack",
+      "fact_field": "warranty"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A cable comes in the box rather than sold separately",
-      "fact_field": "included"
+      "text_draft": "Belkin covers devices damaged while charging from the pack",
+      "fact_field": "equipment_cover"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two years of cover comes with the pack",
-      "fact_field": "warranty"
+      "text_draft": "It packs small for a ten thousand milliamp-hour battery",
+      "fact_field": "compact"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Belkin adds equipment cover on top of the warranty",
-      "fact_field": "warranty"
+      "text_draft": "The pack refills through the same USB-C port",
+      "fact_field": "input_c"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It packs small for a ten thousand milliamp-hour pack",
-      "fact_field": "compact"
+      "text_draft": "Belkin puts the pack at forty added hours",
+      "fact_field": "runtime_claim"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The housing feels solid rather than hollow",
+      "text_draft": "The housing feels solid rather than hollow in hand",
       "fact_field": "build_praise"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Three ports suit a phone, watch, and earbuds together",
+      "text_draft": "Phone, watch and earbuds all draw from it together",
       "fact_field": "multi_device"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Belkin claims up to forty added hours of battery",
-      "fact_field": "runtime_claim"
+      "text_draft": "The USB-C port pushes three amps out",
+      "fact_field": "output_c"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The USB-C port pushes three amps out",
-      "fact_field": "output_c"
+      "text_draft": "Four lights on the case report what is left",
+      "fact_field": "indicators"
     }
   ],
   "cons": [
@@ -90,15 +90,15 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Fifteen watts total is slow by current standards",
+      "text_draft": "Neither Power Delivery nor Quick Charge is supported",
       "fact_field": "slow_output"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No fast charge protocol is supported at all",
-      "fact_field": "slow_output"
+      "text_draft": "Three devices sharing fifteen watts each charge slowly",
+      "fact_field": "total_output"
     },
     {
       "entry_id": "n03",
@@ -112,35 +112,35 @@
       "valence": "con",
       "tier": "core8",
       "text_draft": "The bundled cable measures only six inches",
-      "fact_field": "included"
+      "fact_field": "cable_length"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No official page lists the size or weight",
-      "fact_field": "dimensions"
+      "text_draft": "Four lights report the charge only in quarters",
+      "fact_field": "coarse_indicators"
     },
     {
       "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No wall charger comes in the box",
+      "fact_field": "no_wall_charger"
+    },
+    {
+      "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
       "text_draft": "The USB-A ports stop at 2.4 amps each",
       "fact_field": "output_a"
     },
     {
-      "entry_id": "n07",
-      "valence": "con",
-      "tier": "core8",
-      "text_draft": "Fifteen watts has to stretch across three ports",
-      "fact_field": "total_output"
-    },
-    {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Four lights give only a rough sense of charge",
-      "fact_field": "indicators"
+      "text_draft": "The USB-A ports send power out and take none",
+      "fact_field": "ports_a"
     }
   ]
 }

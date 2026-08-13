@@ -19,34 +19,34 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Hold mode keeps the water hot for up to an hour",
-      "fact_field": "functions"
+      "fact_field": "hold_mode"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The colour screen and dial make the settings obvious",
+      "text_draft": "The colour screen and dial make the settings plain",
       "fact_field": "controls"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The body is 304 stainless rather than coated steel",
+      "text_draft": "The body is 304 stainless steel with a BPA-free handle",
       "fact_field": "materials"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A brew stopwatch runs inside the same interface",
-      "fact_field": "functions"
+      "text_draft": "A brew stopwatch times the pour inside the same interface",
+      "fact_field": "stopwatch"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The stream stays slow and steady through the pour",
+      "text_draft": "The stream stays steady and controllable through the pour",
       "fact_field": "pour_control"
     },
     {
@@ -60,29 +60,29 @@
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The altitude setting corrects the boiling point",
-      "fact_field": "functions"
+      "text_draft": "An altitude setting corrects the boiling point where you live",
+      "fact_field": "altitude"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The screen shows both the target and current temperature",
+      "text_draft": "The screen shows the set and the current temperature",
       "fact_field": "display_info"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A pre-boil cycle sanitises the water before brewing",
-      "fact_field": "functions"
+      "text_draft": "A pre-boil cycle takes the water to boiling first",
+      "fact_field": "sanitize"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 1400 grams with its base it sits firmly",
-      "fact_field": "weight"
+      "text_draft": "The schedule function starts heating at a set time",
+      "fact_field": "schedule"
     }
   ],
   "cons": [
@@ -90,14 +90,14 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The display reads a few degrees above what the water is",
+      "text_draft": "The display reads a few degrees above the actual water",
       "fact_field": "temp_accuracy"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The pour is slow by design, which drags for large volumes",
+      "text_draft": "The pour is slow by design and drags for large volumes",
       "fact_field": "pour_rate"
     },
     {
@@ -125,22 +125,22 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The base adds its own footprint on the counter",
-      "fact_field": "dimensions"
+      "text_draft": "The powered base occupies its own area of counter",
+      "fact_field": "base_footprint"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
       "text_draft": "Scale builds up and needs descaling on a schedule",
-      "fact_field": "materials"
+      "fact_field": "descale"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Screen and dial add steps before any water heats",
-      "fact_field": "controls"
+      "text_draft": "No window shows the water level without opening the lid",
+      "fact_field": "no_level_window"
     }
   ]
 }

@@ -3,15 +3,23 @@ method,zero-based budgeting: every dollar assigned to a category,official,https:
 platforms,"web, iOS, and Android with automatic sync across devices",official,https://www.ynab.com/features,2026-08-13,,yes
 bank_sync,linked accounts import transactions automatically,official,https://www.ynab.com/features,2026-08-13,,yes
 sharing,subscription covers up to six people,official,https://www.ynab.com/pricing,2026-08-13,,yes
-trial,34 day free trial without a card; 365 day trial for students,official,https://www.ynab.com/pricing,2026-08-13,,yes
-goals,target setting for categories and a loan planner,official,https://www.ynab.com/features,2026-08-13,,yes
+trial,34-day trial without entering a card,official,https://www.ynab.com/pricing,2026-08-13,,yes
+goals,target setting for categories and a loan planner,official,https://www.ynab.com/features,2026-08-13,,no
 reports,spending and net worth charts,official,https://www.ynab.com/features,2026-08-13,,yes
 export,plan and transaction history export as CSV or TSV from the web app,official,https://support.ynab.com/en_us/how-to-export-plan-data-Sy_CouWA9,2026-08-13,,yes
-apple_card,Apple Card transaction import supported,official,https://www.ynab.com/features,2026-08-13,,yes
-tier_note,all features are on one paid subscription tier; no free tier,official,https://www.ynab.com/pricing,2026-08-13,prices omitted per DECISIONS,yes
+apple_card,Apple Card activity imports alongside ordinary bank accounts,official,https://www.ynab.com/features,2026-08-13,,yes
+tier_note,all features on one paid tier; no free tier for continued use,official,https://www.ynab.com/pricing,2026-08-13,prices omitted per DECISIONS,yes
 learning_curve,zero-based method takes weeks to learn,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/,2026-08-13,con,yes
-cost_high,"among the more expensive budgeting subscriptions, with repeated price increases",review_consensus,https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/;https://fortune.com/article/ynab-pros-and-cons/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,con,yes
+cost_high,"among the more expensive budgeting subscriptions, with a price that has risen repeatedly",review_consensus,https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/;https://fortune.com/article/ynab-pros-and-cons/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,con,yes
 no_bills,no bill tracking and no bill payment,review_consensus,https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,con,yes
 sync_praise,bank import and reconciliation work reliably,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/,2026-08-13,,yes
 goal_tools,category targets and debt payoff tools,review_consensus,https://www.nerdwallet.com/finance/learn/best-budget-apps;https://fortune.com/article/ynab-pros-and-cons/,2026-08-13,,yes
-sharing_praise,household sharing across the subscription,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,,yes
+sharing_praise,one subscription covers up to six people in a household,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,,yes
+sync,changes sync automatically across devices,official,https://www.ynab.com/features,2026-08-13,,yes
+no_desktop_app,no installed desktop application; desktop use happens in a browser,official,https://www.ynab.com/features,2026-08-13,con: absence stated explicitly,yes
+loan_planner,loan planner projects interest and payoff timing,official,https://www.ynab.com/features,2026-08-13,,yes
+student_trial,students get a 365-day trial,official,https://www.ynab.com/pricing,2026-08-13,,yes
+export_web_only,export from the web app only; the mobile clients do not export,official,https://support.ynab.com/en_us/how-to-export-plan-data-Sy_CouWA9,2026-08-13,con,yes
+separate_logins,each member holds their own login to the same budget,official,https://www.ynab.com/pricing,2026-08-13,,yes
+manual_upkeep,categorising and reconciling transactions by hand stays regular work,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/,2026-08-13,con,yes
+no_credit_score,no credit score monitoring,review_consensus,https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,con: absence stated explicitly,yes

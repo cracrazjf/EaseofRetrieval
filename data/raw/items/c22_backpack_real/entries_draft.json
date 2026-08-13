@@ -4,21 +4,21 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Twenty-two litres swallows a full day of gear",
+      "text_draft": "Twenty-two litres holds a full day of gear",
       "fact_field": "volume"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The back length adjusts to fit the wearer properly",
+      "text_draft": "The back length adjusts to the wearer torso",
       "fact_field": "fit_praise"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Channels in the backpanel keep air moving behind the spine",
+      "text_draft": "Ventilated channels keep air moving behind the spine",
       "fact_field": "ventilation"
     },
     {
@@ -32,57 +32,57 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Helmet and trekking poles both clip to the outside",
-      "fact_field": "attachments"
+      "text_draft": "A LidLock strap carries a helmet on the outside",
+      "fact_field": "helmet_attach"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Recycled nylon carries a water repellent finish",
-      "fact_field": "main_fabric"
+      "text_draft": "Trekking poles stow without taking the pack off",
+      "fact_field": "pole_stow"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Fabric and zippers survive seasons of hard use",
-      "fact_field": "durability"
+      "text_draft": "Recycled bluesign nylon carries a water repellent finish",
+      "fact_field": "main_fabric"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two zippered pockets sit on the hipbelt",
-      "fact_field": "pockets"
+      "text_draft": "The fabric and zippers hold up across seasons",
+      "fact_field": "durability"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A hydration sleeve hides behind the backpanel",
-      "fact_field": "pockets"
+      "text_draft": "Side compression straps pull a half-empty pack tight",
+      "fact_field": "compression"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The framesheet carries twenty pounds without collapsing",
-      "fact_field": "load_range"
+      "text_draft": "The base uses heavier 420 denier packcloth",
+      "fact_field": "bottom_fabric"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Side straps compress a half-empty pack",
-      "fact_field": "attachments"
+      "text_draft": "An ice axe loop sits on the front",
+      "fact_field": "ice_axe"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The base uses heavier 420 denier packcloth",
-      "fact_field": "bottom_fabric"
+      "text_draft": "An injection-molded framesheet holds the pack shape under load",
+      "fact_field": "suspension"
     }
   ],
   "cons": [
@@ -90,57 +90,57 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At two pounds it is heavy for twenty-two litres",
+      "text_draft": "At 2.04 pounds it is heavy for 22 litres",
       "fact_field": "heavy"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The hipbelt pockets are shallow and awkward to reach",
-      "fact_field": "hipbelt_pockets"
+      "text_draft": "One weighed sample came in above the stated figure",
+      "fact_field": "measured_weight"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The hydration sleeve is narrow and the hanger tab is odd",
-      "fact_field": "hydration_fit"
+      "text_draft": "The hipbelt pockets are shallow and awkward to reach",
+      "fact_field": "hipbelt_pockets"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Minimalists will find the feature count fussy",
-      "fact_field": "fussy"
+      "text_draft": "The hydration sleeve is narrow with an odd hanger tab",
+      "fact_field": "hydration_fit"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Loads past twenty pounds overwhelm the suspension",
-      "fact_field": "load_range"
+      "text_draft": "The feature count is excessive for minimal loads",
+      "fact_field": "fussy"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Two fixed sizes rather than one adjustable pack",
-      "fact_field": "volume"
+      "text_draft": "Loads beyond 20 pounds sit outside its design range",
+      "fact_field": "load_range"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The framesheet is part of why it weighs so much",
-      "fact_field": "suspension"
+      "text_draft": "Two fixed sizes rather than one adjustable body",
+      "fact_field": "sizes"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The stretch mesh pocket abrades against rock",
-      "fact_field": "pockets"
+      "text_draft": "No hydration reservoir is included with the pack",
+      "fact_field": "no_reservoir"
     }
   ]
 }

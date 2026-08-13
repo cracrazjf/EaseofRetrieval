@@ -1,19 +1,24 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 capacity,"two person, semi-freestanding, three season",difference_point,derived-from:c23_tent_real,2026-08-13,diff: semi-freestanding,yes
-min_weight,3 lb 2 oz / 1.42 kg minimum weight,mirror,derived-from:c23_tent_real,2026-08-13,,yes
-packed_weight,3 lb 9 oz / 1.63 kg packaged,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+min_weight,"3 lb 2 oz minimum weight, light for a two-person double-wall tent",mirror,derived-from:c23_tent_real,2026-08-13,,yes
+packed_weight,"3 lb 9 oz packaged, coming in under four pounds",mirror,derived-from:c23_tent_real,2026-08-13,,yes
 packed_size,17 x 6 in packed,mirror,derived-from:c23_tent_real,2026-08-13,,yes
 floor,"82 x 48 in floor, 27 sq ft",mirror,derived-from:c23_tent_real,2026-08-13,,yes
-vestibule,one vestibule of 9 sq ft,difference_point,derived-from:c23_tent_real,2026-08-13,diff: single vestibule,yes
-peak_height,41 in interior peak height,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+vestibule,one vestibule of 9 square feet that takes both packs,difference_point,derived-from:c23_tent_real,2026-08-13,diff: single vestibule,yes
+peak_height,"41 inches interior peak height, enough headroom to allow sitting upright",mirror,derived-from:c23_tent_real,2026-08-13,,yes
 doors,one door on the left side,difference_point,derived-from:c23_tent_real,2026-08-13,diff: single door,yes
 rainfly,20 denier ripstop nylon with 1500 mm silicone coating,mirror,derived-from:c23_tent_real,2026-08-13,,yes
-canopy,15 denier ripstop nylon canopy with mesh upper panels,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+canopy,15 denier ripstop nylon canopy with mesh upper panels venting condensation out overnight,mirror,derived-from:c23_tent_real,2026-08-13,,yes
 floor_fabric,20 denier ripstop nylon with 2500 mm coating,mirror,derived-from:c23_tent_real,2026-08-13,,yes
-poles,hub and pole assembly in aluminium alloy holding the head end upright,mirror,derived-from:c23_tent_real,2026-08-13,,yes
-footprint,integrated footprint included with the tent,difference_point,derived-from:c23_tent_real,2026-08-13,diff: footprint included,yes
-one_door_con,single door requiring the inner occupant to climb over the other,spec_derived,derived-from:spec,2026-08-13,con,yes
-stakes_needed,foot end staked out before the tent takes shape,spec_derived,derived-from:spec,2026-08-13,con,yes
+poles,aluminium alloy hub and pole assembly holding the head end upright,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+footprint,footprint built into the floor rather than sold separately,difference_point,derived-from:c23_tent_real,2026-08-13,diff: footprint included,yes
+one_door_con,"single door on the left, so one person climbs over the other to get out",spec_derived,derived-from:spec,2026-08-13,con,yes
+stakes_needed,"foot end will not stand until it is staked, and hard ground leaves it sagging",spec_derived,derived-from:spec,2026-08-13,con,yes
 single_vestibule,one vestibule shared by both occupants' gear,spec_derived,derived-from:spec,2026-08-13,con,yes
-thin_canopy,"15 denier canopy, light and easily torn",spec_derived,derived-from:spec,2026-08-13,con,yes
+thin_canopy,15 denier canopy fabric tears where it snags,spec_derived,derived-from:spec,2026-08-13,con,yes
 floor_area,"27 square feet, narrow for two adults",spec_derived,derived-from:spec,2026-08-13,con,yes
+accessories,"stakes, guylines, and a stuff sack included",mirror,derived-from:c23_tent_real,2026-08-13,,yes
+pockets,two interior mesh pockets holding headlamps and phones,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+three_season,"three-season build, not made for winter snow loads",spec_derived,derived-from:spec,2026-08-13,con,yes
+no_gutters,"door has no rain gutter, so rain drips inside when the door opens in weather",difference_point,derived-from:c23_tent_real,2026-08-13,diff: no rain gutters; absence stated explicitly in briefing; con,yes
+footprint_fixed,built-in footprint cannot be left home to save weight,spec_derived,derived-from:spec,2026-08-13,con,yes

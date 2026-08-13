@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "At 37 grams it disappears on the wrist",
+      "text_draft": "At 37 grams the watch sits light on the wrist",
       "fact_field": "weight"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two weeks pass between charges in watch mode",
+      "text_draft": "Smartwatch mode runs up to fourteen days between charges",
       "fact_field": "battery_smart"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three satellite systems keep the track on the road",
-      "fact_field": "sensors"
+      "text_draft": "The 5 ATM rating lets it stay on through swims",
+      "fact_field": "water"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Five ATM means it goes in the pool",
-      "fact_field": "water"
+      "text_draft": "GPS traces held accurate across independent test routes",
+      "fact_field": "gps_accuracy"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "GPS traces held accurate across test routes",
-      "fact_field": "gps_accuracy"
+      "text_draft": "Wrist heart rate readings tracked close to a chest strap",
+      "fact_field": "hr_accuracy"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Wrist heart rate came close to a chest strap",
-      "fact_field": "hr_accuracy"
+      "text_draft": "PacePro pacing and daily suggested workouts guide newer runners",
+      "fact_field": "beginner_features"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "PacePro and suggested workouts guide a new runner",
-      "fact_field": "beginner_features"
+      "text_draft": "The 20-millimetre band releases quickly and swaps without tools",
+      "fact_field": "quick_release"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The screen stays readable in direct sun",
-      "fact_field": "display"
+      "text_draft": "The transflective screen stays readable in direct sunlight",
+      "fact_field": "display_sunlight"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Standard 20-millimetre bands swap in seconds",
-      "fact_field": "materials"
+      "text_draft": "It keeps working from minus twenty to sixty degrees Celsius",
+      "fact_field": "temp"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Twenty hours of GPS covers an ultra",
-      "fact_field": "battery_gps"
+      "text_draft": "It pairs with iPhone and Android over Bluetooth and ANT+",
+      "fact_field": "connectivity"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It pairs with iPhone and Android alike",
-      "fact_field": "connectivity"
+      "text_draft": "Thirty-two megabytes of memory holds a long run history",
+      "fact_field": "memory"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It keeps working down to twenty below",
-      "fact_field": "temp"
+      "text_draft": "It fixes position from GPS, GLONASS, and Galileo satellites",
+      "fact_field": "sensors"
     }
   ],
   "cons": [
@@ -90,57 +90,57 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "With no altimeter it never records elevation",
+      "text_draft": "Without a barometric altimeter it records no elevation at all",
       "fact_field": "no_altimeter"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The small screen looks dated beside newer watches",
+      "text_draft": "The small 208-pixel screen looks coarse beside newer watches",
       "fact_field": "low_res"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There is no music on board and no way to pay",
+      "text_draft": "It holds no music, so runs still need a phone",
       "fact_field": "no_music"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sleep data only shows up in the phone app",
-      "fact_field": "no_sleep_widget"
+      "text_draft": "Contactless payment is missing, so a card travels along",
+      "fact_field": "no_payment"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Thirty-two megabytes fills after enough activities",
-      "fact_field": "memory"
+      "text_draft": "Sleep results appear only in the phone app, not the watch",
+      "fact_field": "no_sleep_widget"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Garmin has already discontinued the model",
-      "fact_field": "status"
+      "text_draft": "GPS tracking runs out at twenty hours, short for ultras",
+      "fact_field": "battery_gps"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The 42-millimetre case comes in one size only",
-      "fact_field": "size"
+      "text_draft": "The maker now lists the model as discontinued",
+      "fact_field": "status"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Silicone is the only band material offered",
-      "fact_field": "materials"
+      "text_draft": "Charging needs the proprietary clip cable, not a standard connector",
+      "fact_field": "charger"
     }
   ]
 }

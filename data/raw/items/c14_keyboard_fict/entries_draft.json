@@ -4,14 +4,14 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sixty-eight keys fit a 65 percent footprint",
+      "text_draft": "Sixty-eight keys fit a 65 percent desk footprint",
       "fact_field": "layout"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Dye-sublimated PBT legends never wear off",
+      "text_draft": "Dye-sublimated PBT legends never wear off with use",
       "fact_field": "keycaps"
     },
     {
@@ -32,7 +32,7 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Full rollover works across the whole board",
+      "text_draft": "Full rollover works across every key on the board",
       "fact_field": "nkro"
     },
     {
@@ -46,15 +46,15 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "An aluminium frame gives it 810 grams of heft",
-      "fact_field": "weight"
+      "text_draft": "An underside switch flips between Mac and Windows layouts",
+      "fact_field": "compatibility"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A switch on the underside flips between Mac and Windows",
-      "fact_field": "compatibility"
+      "text_draft": "At 810 grams it stays planted on the desk",
+      "fact_field": "weight"
     },
     {
       "entry_id": "p09",
@@ -81,8 +81,8 @@
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A USB-C cable comes with the board",
-      "fact_field": "connectivity"
+      "text_draft": "The USB-C cable detaches at the board for storage",
+      "fact_field": "cable_detachable"
     }
   ],
   "cons": [
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A cable ties the board to the machine",
-      "fact_field": "cable_tether"
+      "text_draft": "Home, end and the page keys live on a layer",
+      "fact_field": "nav_cluster"
     },
     {
       "entry_id": "n06",
-      "valence": "con",
-      "tier": "core8",
-      "text_draft": "Missing keys have to be reached through a layer",
-      "fact_field": "key_count"
-    },
-    {
-      "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
       "text_draft": "At 42 millimetres the back edge sits high",
       "fact_field": "height"
     },
     {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No software means keys cannot be remapped at all",
+      "fact_field": "no_software"
+    },
+    {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Switches are bought separately from the board",
-      "fact_field": "switches"
+      "text_draft": "Switches are bought separately from the board itself",
+      "fact_field": "switches_separate"
     }
   ]
 }

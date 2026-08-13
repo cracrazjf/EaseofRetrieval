@@ -1,7 +1,7 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 capacity,16 oz / 475 ml,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
 dimensions,9.7 x 3.0 x 3.0 in,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
-weight,0.9 lb,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
+weight,0.9 lb empty; reviewers put the weight high for the capacity,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,con aspect corroborated by reviews,yes
 materials,"18/8 stainless steel, double-wall vacuum insulation, BPA-free",official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
 retention,"hot 18 hours, cold 24 hours",official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
 stopper,twist-and-pour stopper allows pouring without removing the lid,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
@@ -12,5 +12,14 @@ maintenance,"dishwasher safe, top rack only",official,https://thermos.com/produc
 plastic_parts,plastic handle and stopper less robust than the steel body,review_consensus,https://www.outdoorlife.com/gear/best-thermos/;https://www.againstmenandfish.com/2019/12/thermos-stainless-king-flask-review.html/,2026-08-13,con; independent tests used other sizes,yes
 bulk,wide ridged body harder to fit into a small bag,review_consensus,https://candidfindings.com/reviews/thermos-stainless-king-68oz-review;https://www.outdoorlife.com/gear/best-thermos/,2026-08-13,con,yes
 real_retention,contents warm rather than hot by the end of a full day,review_consensus,https://www.againstmenandfish.com/2019/12/thermos-stainless-king-flask-review.html/;https://www.walmart.com/reviews/product/405973672,2026-08-13,con; incl customer_reviews,yes
-heat_test,led the field in independent retention testing,review_consensus,https://www.outdoorlife.com/gear/best-thermos/;https://candidfindings.com/reviews/thermos-stainless-king-68oz-review,2026-08-13,,yes
+heat_test,"led the field in independent retention testing, holding 106 F at 24 hours",review_consensus,https://www.outdoorlife.com/gear/best-thermos/;https://candidfindings.com/reviews/thermos-stainless-king-68oz-review,2026-08-13,,yes
 cup_convenience,cup lid and pour-through stopper convenient in the field,review_consensus,https://www.outdoorlife.com/gear/best-thermos/;https://candidfindings.com/reviews/thermos-stainless-king-68oz-review,2026-08-13,,yes
+hot_retention,hot retention of 18 hours,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
+cold_retention,cold retention of 24 hours,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
+sweatproof,sweat-proof exterior leaves no ring on a table,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
+cupholder_fit,fits most vehicle cup holders,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
+price_value,priced below comparable vacuum bottles,review_consensus,https://www.outdoorlife.com/gear/best-thermos/;https://candidfindings.com/reviews/thermos-stainless-king-68oz-review,2026-08-13,praise claim; price kept qualitative per DECISIONS,yes
+stopper_threads,stopper threads and cup dried separately before reassembly,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_drink_lid,no drinking spout and no straw lid; contents poured into the cup,spec_derived,derived-from:spec,2026-08-13,con,yes
+line_sizes,same stopper and cup design across the Stainless King line; the 16 oz is the smallest,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes
+colors,offered in several exterior colours,official,https://thermos.com/products/stainless-king-beverage-bottle-16oz,2026-08-13,,yes

@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A tree grows for as long as focus holds",
+      "text_draft": "A tree grows for as long as the session runs",
       "fact_field": "timer"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Leaving the app kills the tree outright",
+      "text_draft": "Deep Focus blocks the apps and websites that interrupt",
       "fact_field": "deepfocus"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Deep Focus blocks whatever apps get in the way",
+      "text_draft": "Time Guard applies focus schedules automatically outside sessions",
       "fact_field": "timeguard"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Group sessions put a shared tree on the line",
+      "text_draft": "Plant Together runs a focus session shared with other people",
       "fact_field": "together"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Coins earned in the app plant real trees",
+      "text_draft": "Coins earned in sessions fund real tree planting",
       "fact_field": "realtrees"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The free tier covers the timer and blocking",
-      "fact_field": "platforms"
+      "text_draft": "The free tier covers the timer, blocking, and group sessions",
+      "fact_field": "free_tier"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ambient sounds run alongside the timer",
+      "text_draft": "Ambient soundscapes play alongside the running timer",
       "fact_field": "sounds"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The tree mechanic motivates where a plain timer does not",
-      "fact_field": "free_tier"
+      "text_draft": "Sessions sync across iOS, Android, and the browser extension",
+      "fact_field": "platforms"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Blocking builds better phone habits over weeks",
-      "fact_field": "realtrees"
+      "text_draft": "The growing tree pushes longer sessions than a plain countdown",
+      "fact_field": "gamified"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Time Guard schedules blocks outside sessions",
-      "fact_field": "downloads"
+      "text_draft": "The blocking builds steadier phone habits over weeks of use",
+      "fact_field": "blocking_praise"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It syncs across phone, tablet, and browser",
-      "fact_field": "platforms"
+      "text_draft": "Mindful Space adds a guided breathing exercise",
+      "fact_field": "mindful_space"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Mindful Space adds a breathing exercise",
-      "fact_field": "free_tier"
+      "text_draft": "Downloads past sixty million back a long track record",
+      "fact_field": "downloads"
     }
   ],
   "cons": [
@@ -90,29 +90,29 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Analytics and tags sit behind the paid tier",
+      "text_draft": "Focus analytics and custom tags sit behind the paid tier",
       "fact_field": "paywall"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The browser extension is bought separately again",
+      "text_draft": "The browser extension is purchased separately from the mobile clients",
       "fact_field": "ext_purchase"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One-time purchases are gone in favour of subscription",
+      "text_draft": "Pricing splits by platform and confuses new users",
       "fact_field": "pricing_confusing"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pricing splits by platform and confuses new users",
-      "fact_field": "pricing_confusing"
+      "text_draft": "The one-time purchase is gone in favour of a subscription",
+      "fact_field": "legacy_gone"
     },
     {
       "entry_id": "n05",
@@ -125,22 +125,22 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Killing a tree is the only feedback on a failed session",
+      "text_draft": "Leaving the app mid-session kills the growing tree",
       "fact_field": "leave_penalty"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Real-tree planting needs coins the free tier earns slowly",
+      "text_draft": "Allowlists are set before a session, not during one",
       "fact_field": "allowlist_setup"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Group sessions punish everyone for one person quitting",
-      "fact_field": "sync_account"
+      "text_draft": "One member giving up kills the whole group tree",
+      "fact_field": "group_stake"
     }
   ]
 }

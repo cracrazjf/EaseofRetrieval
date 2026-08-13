@@ -4,22 +4,22 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Double-wall vacuum insulation sits inside stainless steel",
+      "text_draft": "Double-wall vacuum insulation sits inside an 18/8 stainless body",
       "fact_field": "materials"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Thermos rates the hot side at eighteen hours",
-      "fact_field": "retention"
+      "text_draft": "Thermos rates hot contents at eighteen hours",
+      "fact_field": "hot_retention"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Cold drinks hold for a full twenty-four hours",
-      "fact_field": "retention"
+      "fact_field": "cold_retention"
     },
     {
       "entry_id": "p04",
@@ -46,14 +46,14 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The outside never sweats and fits a cup holder",
-      "fact_field": "exterior"
+      "text_draft": "The outside never sweats, so it leaves no ring",
+      "fact_field": "sweatproof"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It led the field in independent retention tests",
+      "text_draft": "It led the field in independent retention testing",
       "fact_field": "heat_test"
     },
     {
@@ -67,22 +67,22 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 0.9 pounds it packs without much penalty",
-      "fact_field": "weight"
+      "text_draft": "It drops into most vehicle cup holders",
+      "fact_field": "cupholder_fit"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Cup and stopper both earn their place outdoors",
+      "text_draft": "Cup lid and pour-through stopper both earn their place outdoors",
       "fact_field": "cup_convenience"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The shell is 18/8 stainless throughout",
-      "fact_field": "materials"
+      "text_draft": "It costs less than comparable vacuum bottles",
+      "fact_field": "price_value"
     }
   ],
   "cons": [
@@ -90,7 +90,7 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Plastic handle and stopper feel weaker than the body",
+      "text_draft": "The plastic handle and stopper feel weaker than the body",
       "fact_field": "plastic_parts"
     },
     {
@@ -104,7 +104,7 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "By evening the contents are warm rather than hot",
+      "text_draft": "By evening the contents are warm instead of hot",
       "fact_field": "real_retention"
     },
     {
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 9.7 inches tall it sticks out of a pack",
-      "fact_field": "dimensions"
+      "text_draft": "It weighs 0.9 pounds before anything goes into it",
+      "fact_field": "weight"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The stopper threads have to dry separately",
-      "fact_field": "maintenance"
+      "text_draft": "The stopper threads and cup have to dry separately",
+      "fact_field": "stopper_threads"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Only the top rack of the dishwasher is safe",
-      "fact_field": "maintenance"
+      "text_draft": "There is no drinking spout or straw lid",
+      "fact_field": "no_drink_lid"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "It already weighs 0.9 pounds before anything goes in",
-      "fact_field": "weight"
+      "text_draft": "At 9.7 inches tall it sticks out of a pack",
+      "fact_field": "dimensions"
     }
   ]
 }

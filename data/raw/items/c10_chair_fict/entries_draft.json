@@ -4,7 +4,7 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It is rated to 300 pounds for everyday desk use",
+      "text_draft": "It is rated to 300 pounds for daily desk use",
       "fact_field": "capacity"
     },
     {
@@ -25,7 +25,7 @@
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A three-position lock holds the tilt where it is wanted",
+      "text_draft": "The tension knob dials recline resistance by hand",
       "fact_field": "recline"
     },
     {
@@ -39,22 +39,22 @@
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sixty-millimetre casters roll on carpet and hard floor",
+      "text_draft": "Sixty-millimetre casters roll on carpet and hard floors",
       "fact_field": "base"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Seven years of cover runs on the parts",
+      "text_draft": "Seven years of cover run on the parts",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The tension knob dials recline resistance by hand",
-      "fact_field": "recline"
+      "text_draft": "Fabric covers moulded foam on the seat",
+      "fact_field": "seat_materials"
     },
     {
       "entry_id": "p09",
@@ -67,22 +67,22 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Fabric covers moulded foam on the seat",
-      "fact_field": "seat_materials"
+      "text_draft": "The seat front curves down away from the knees",
+      "fact_field": "waterfall_seat"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "An assembly tool comes in the box",
-      "fact_field": "assembly_req"
+      "fact_field": "tool_included"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The five-star base spreads weight across the floor",
-      "fact_field": "base"
+      "text_draft": "The back opens through about eighteen degrees",
+      "fact_field": "recline_range"
     }
   ],
   "cons": [
@@ -90,7 +90,7 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The arms cannot be raised, widened, or turned",
+      "text_draft": "The arms cannot be raised, widened, or pivoted",
       "fact_field": "no_arm_adjust"
     },
     {
@@ -104,7 +104,7 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The tension knob needs turning whenever the sitter changes",
+      "text_draft": "The knob needs turning again whenever the sitter changes",
       "fact_field": "manual_tension"
     },
     {
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "300 pounds is the ceiling for the chair",
-      "fact_field": "capacity_300"
+      "text_draft": "Base, cylinder, and seat all assemble on arrival",
+      "fact_field": "assembly_req"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Base, cylinder, and seat all assemble on arrival",
-      "fact_field": "assembly_req"
+      "text_draft": "No headrest is offered for the chair at all",
+      "fact_field": "no_headrest"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cover runs out after seven years",
-      "fact_field": "warranty"
+      "text_draft": "The lumbar pad moves up and down but not forward",
+      "fact_field": "no_lumbar_depth"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
       "text_draft": "The mesh back needs vacuuming to stay clean",
-      "fact_field": "back"
+      "fact_field": "mesh_clean"
     }
   ]
 }

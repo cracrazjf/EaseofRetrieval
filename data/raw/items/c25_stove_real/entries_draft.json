@@ -5,27 +5,27 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "At 2.3 ounces it disappears into a pack",
-      "fact_field": "weight"
+      "fact_field": "light"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The concave burner holds its flame in wind",
+      "text_draft": "The concave burner head holds its flame in wind",
       "fact_field": "wind_resist"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The regulator keeps output steady as fuel drops",
-      "fact_field": "valve"
+      "text_draft": "The micro regulator holds output as the canister cools",
+      "fact_field": "cold_perf"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A piezo igniter sits built into the burner post",
+      "text_draft": "A piezo igniter is built into the burner post",
       "fact_field": "ignition"
     },
     {
@@ -39,50 +39,50 @@
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The supports stay stable under a full pot",
+      "text_draft": "The four arms stay stable under a full pot",
       "fact_field": "stable_support"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Eleven thousand BTU boils water quickly",
+      "text_draft": "Eleven thousand BTU brings water up quickly",
       "fact_field": "output"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Output holds up as the canister cools down",
-      "fact_field": "cold_perf"
+      "text_draft": "One eight-ounce canister runs about ninety minutes",
+      "fact_field": "burn_time"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "One canister runs about ninety minutes",
-      "fact_field": "burn_time"
+      "text_draft": "A die-cast aluminium body keeps it light and stiff",
+      "fact_field": "material"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Thru-hikers carry it for the weight alone",
-      "fact_field": "light"
+      "text_draft": "It takes butane, isobutane, and propane mixes",
+      "fact_field": "fuel"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Die-cast aluminium keeps the body light and stiff",
-      "fact_field": "material"
+      "text_draft": "The burner alone weighs 2.12 ounces",
+      "fact_field": "weight"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It burns butane, isobutane, and propane mixes",
-      "fact_field": "fuel"
+      "text_draft": "SOTO times two cups to boil in wind under 2.5 minutes",
+      "fact_field": "boil"
     }
   ],
   "cons": [
@@ -97,50 +97,50 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The pot supports come off and get lost",
+      "text_draft": "The pot supports detach each use and go missing",
       "fact_field": "support_fiddly"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pots larger than two litres will not sit safely",
-      "fact_field": "pot_limit"
+      "text_draft": "Measured boil times swing widely between test protocols",
+      "fact_field": "boil_variance"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
       "text_draft": "Pure propane canisters cannot be used",
-      "fact_field": "fuel"
+      "fact_field": "fuel_limit"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
       "text_draft": "The three-arm support has to be bought separately",
-      "fact_field": "supports"
+      "fact_field": "supports_extra"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Boil times swing widely with wind and altitude",
-      "fact_field": "boil"
+      "text_draft": "Pots over two litres sit outside its limit",
+      "fact_field": "pot_limit"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Ninety minutes per canister runs short on long trips",
-      "fact_field": "burn_time"
+      "text_draft": "No fuel canister comes in the box",
+      "fact_field": "no_canister"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The support arms are what make it bulky packed",
-      "fact_field": "stowed"
+      "text_draft": "No windscreen is supplied with the stove",
+      "fact_field": "no_windscreen"
     }
   ]
 }

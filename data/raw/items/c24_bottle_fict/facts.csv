@@ -15,3 +15,13 @@ hand_wash,hand washing recommended rather than a dishwasher,spec_derived,derived
 height_pack,10.2 inch height when packed,spec_derived,derived-from:spec,2026-08-13,con,yes
 loop_only,carry loop offering no full-hand grip,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_full,one pound empty before filling,spec_derived,derived-from:spec,2026-08-13,con,yes
+hot_retention,hot retention of 16 hours,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+cold_retention,cold retention of 22 hours,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+wide_mouth,wide opening takes ice cubes and a cleaning brush,spec_derived,derived-from:spec,2026-08-13,,yes
+spare_gasket,spare cap gasket supplied in the box,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+loop,fixed loop moulded into the collar for clipping to a pack,difference_point,derived-from:c24_bottle_real,2026-08-13,diff: carry loop,yes
+colors,offered in several exterior colours,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+bpa_free,cap and cup components are BPA-free,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+line_parts,same cap and cup fit the other sizes in the line,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+coating_chip,powder coating chips where it rubs inside a pack,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_cupholder,3.2-inch body wider than a standard vehicle cup holder,difference_point,derived-from:c24_bottle_real,2026-08-13,diff: does not fit cup holders,yes

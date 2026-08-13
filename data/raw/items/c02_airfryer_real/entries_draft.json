@@ -4,63 +4,63 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The square 5.8-quart basket holds a meal for a family",
+      "text_draft": "The square basket holds 5.8 quarts, enough for a family meal",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Twelve presets cover most of what people cook in it",
+      "text_draft": "Twelve one-touch presets cover most of what people cook in it",
       "fact_field": "presets"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It runs anywhere from 170 to 400 degrees",
-      "fact_field": "controls"
+      "text_draft": "It runs anywhere from 170 to 400 degrees Fahrenheit",
+      "fact_field": "temp_range"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Food crisps in roughly half the time an oven takes",
-      "fact_field": "temp_range"
+      "text_draft": "The touch panel, app, and voice control reach the same settings",
+      "fact_field": "controls"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The app and voice control start it from another room",
+      "text_draft": "The nonstick baskets lift out and go into the dishwasher",
       "fact_field": "baskets"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Both basket and crisper plate go into the dishwasher",
-      "fact_field": "presets"
+      "text_draft": "Settings dialled in by hand can be saved for next time",
+      "fact_field": "savable_presets"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Presets can be saved once they are dialled in",
-      "fact_field": "timer"
+      "text_draft": "It comes up to temperature in about five minutes",
+      "fact_field": "preheat_speed"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "A whole chicken fits inside the square basket",
-      "fact_field": "power"
+      "fact_field": "whole_chicken"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The recipe book covers a hundred starting points",
+      "text_draft": "A hundred-recipe book comes in the box as a starting point",
       "fact_field": "accessories"
     },
     {
@@ -68,21 +68,21 @@
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "The timer runs from one minute up to sixty",
-      "fact_field": "presets"
+      "fact_field": "timer"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "1700 watts brings the chamber up to heat quickly",
-      "fact_field": "presets"
+      "fact_field": "power"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The nonstick coating survives repeated dishwasher cycles",
-      "fact_field": "controls"
+      "text_draft": "Reviewers report food coming out crisp at the top of the range",
+      "fact_field": "crisp_results"
     }
   ],
   "cons": [
@@ -111,36 +111,36 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Twelve presets take a while to learn to navigate",
-      "fact_field": "no_dualzone"
+      "text_draft": "Nothing among the twelve presets dehydrates food",
+      "fact_field": "no_dehydrate"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "1700 watts loads a circuit shared with other appliances",
-      "fact_field": "no_dehydrate"
+      "text_draft": "The timer stops at sixty minutes and goes no further",
+      "fact_field": "timer_cap"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The app needs an account before the smart features work",
-      "fact_field": "temp_ceiling"
+      "text_draft": "The app needs a WiFi network and an account first",
+      "fact_field": "wifi_account"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Food in one layer means cooking in batches",
-      "fact_field": "wifi_account"
+      "text_draft": "One basket means cooking larger quantities in batches",
+      "fact_field": "no_dualzone"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
       "text_draft": "The drawer has to come out to check on food",
-      "fact_field": "timer_cap"
+      "fact_field": "no_window"
     }
   ]
 }

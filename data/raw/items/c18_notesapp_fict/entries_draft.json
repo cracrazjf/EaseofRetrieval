@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Documents live on the device rather than a server",
-      "fact_field": "storage"
+      "text_draft": "Outline sections collapse and expand and link to each other",
+      "fact_field": "structure"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Editing works offline because that is the default",
-      "fact_field": "offline"
+      "text_draft": "Documents live locally on the device by default",
+      "fact_field": "storage"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Encrypted sync copies documents between installs when wanted",
-      "fact_field": "storage"
+      "text_draft": "Full editing and creation work offline without any connection",
+      "fact_field": "offline"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Outline sections fold away to hide the detail",
-      "fact_field": "structure"
+      "text_draft": "Documents export as Markdown, plain text, or PDF",
+      "fact_field": "export"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Documents link to each other across the library",
-      "fact_field": "structure"
+      "text_draft": "Full-text search across the local library runs on both tiers",
+      "fact_field": "search"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Files come out as Markdown, plain text, or PDF",
-      "fact_field": "export"
+      "text_draft": "Optional sync copies documents with end-to-end encryption",
+      "fact_field": "encryption"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Full-text search covers the whole local library",
-      "fact_field": "search"
+      "text_draft": "Clients cover macOS, Windows, iOS, and Android",
+      "fact_field": "platforms"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The free tier holds unlimited documents locally",
-      "fact_field": "free_limits"
+      "text_draft": "The free tier holds unlimited local documents",
+      "fact_field": "free_docs"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Version history comes with the paid tier",
+      "text_draft": "The paid tier lifts the device limit entirely",
       "fact_field": "paid_features"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Clients cover desktop and both phone platforms",
-      "fact_field": "platforms"
+      "text_draft": "Files are plain enough for other applications to open",
+      "fact_field": "file_format"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Attachments run up to twenty megabytes",
-      "fact_field": "free_limits"
+      "text_draft": "Files of any type attach to individual outline sections",
+      "fact_field": "attachments"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The paid tier lifts the device limit entirely",
-      "fact_field": "paid_features"
+      "text_draft": "Two tiers are offered, free and paid, nothing else",
+      "fact_field": "tiers"
     }
   ],
   "cons": [
@@ -90,14 +90,14 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Documents cannot be handed to anyone outside the account",
+      "text_draft": "Documents cannot be shared with anyone outside the account",
       "fact_field": "no_sharing_con"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There is no browser client on a borrowed machine",
+      "text_draft": "No browser client exists, so a borrowed machine cannot open documents",
       "fact_field": "no_web"
     },
     {
@@ -111,36 +111,36 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nothing here builds a table or database view",
+      "text_draft": "There are no table or database views at all",
       "fact_field": "no_database"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Attachments hit a twenty-megabyte wall on the free tier",
+      "text_draft": "Attachments stop at 20 megabytes on the free tier",
       "fact_field": "attach_cap"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Version history sits behind the paid tier",
+      "text_draft": "Version history is locked to the paid tier alone",
       "fact_field": "history_paid"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sync has to be switched on and set up separately",
-      "fact_field": "storage"
+      "text_draft": "Offline edits on two devices leave conflicting copies to merge",
+      "fact_field": "sync_conflicts"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There are no guest links for collaborators",
-      "fact_field": "no_guests"
+      "text_draft": "No Linux client is offered on the desktop",
+      "fact_field": "no_linux"
     }
   ]
 }

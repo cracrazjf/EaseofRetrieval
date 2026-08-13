@@ -1,19 +1,24 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
-weight,2.3 oz / 67 g with the four-arm pot support; 2.12 oz / 60 g stove only,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
+weight,2.3 oz / 67 g with the four-arm pot support; burner alone weighs 2.12 oz,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
 stowed,1.9 x 3.0 x 1.7 in / 47 x 77 x 44 mm stowed with the support,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
-output,"2800 kcal per hour, 3260 W, 11,000 BTU",official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
-boil,"two cups in under two and a half minutes in wind, per the maker",official,https://sotooutdoors.com/products/windmaster/,2026-08-13,review boil times range 2:27 to 4:02 by protocol,yes
+output,"2800 kcal per hour, 3260 W, 11,000 BTU, which brings water up quickly",official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
+boil,maker times two cups to a boil in wind in under two and a half minutes,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,"boil times vary by test protocol; measured range 2:27-4:02, condition attached in briefing",yes
 burn_time,about ninety minutes per eight-ounce canister,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
-fuel,"butane, isobutane, and propane mixes; not pure propane",official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
-ignition,built-in piezo igniter on the burner post,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
+fuel,"burner takes butane, isobutane, and propane mixes",official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
+ignition,piezo igniter built into the burner post,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
 valve,micro regulator valve,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
-material,die-cast aluminium body,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
+material,die-cast aluminium body keeping it light and stiff,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
 supports,four-arm pot support included; three-arm support sold separately,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
-pot_limit,"pots up to two litres, 1.5 litres of liquid",official,https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
-bulk,packs bulkier than competing canister stoves,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster,2026-08-13,con,yes
-support_fiddly,detachable pot supports fitted each use and easily lost,review_consensus,https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster;https://www.adventurealan.com/product/soto-windmaster-stove-review/,2026-08-13,con,yes
-wind_resist,concave burner head holding the flame in wind,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster;https://www.adventurealan.com/product/soto-windmaster-stove-review/,2026-08-13,,yes
-light,2.3 oz weight suited to long-distance carrying,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.adventurealan.com/product/soto-windmaster-stove-review/,2026-08-13,,yes
-simmer,flame control fine enough for simmering,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster,2026-08-13,,yes
-stable_support,pot supports stable under a full pot,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster,2026-08-13,,yes
-cold_perf,micro regulator holding output as canisters cool,review_consensus,https://www.adventurealan.com/product/soto-windmaster-stove-review/;https://sotooutdoors.com/products/windmaster/,2026-08-13,,yes
+pot_limit,"pots over two litres, or 1.5 litres of liquid, sit outside its limit",official,https://sotooutdoors.com/products/windmaster/,2026-08-13,con,yes
+bulk,packs bulkier than rival canister stoves because the support arms detach,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster,2026-08-13,con,yes
+support_fiddly,detachable supports are fitted each use and go missing,review_consensus,https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster;https://www.adventurealan.com/product/soto-windmaster-stove-review/,2026-08-13,con,yes
+wind_resist,concave burner head sitting close under the pot and holding its flame in wind,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster;https://www.adventurealan.com/product/soto-windmaster-stove-review/,2026-08-13,,yes
+light,2.3 ounce weight that reviewers say disappears into a pack,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.adventurealan.com/product/soto-windmaster-stove-review/,2026-08-13,,yes
+simmer,flame turns down far enough to simmer,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster,2026-08-13,,yes
+stable_support,four arms stay stable under a full pot,review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster,2026-08-13,,yes
+cold_perf,micro regulator valve holds output as the canister cools,review_consensus,https://www.adventurealan.com/product/soto-windmaster-stove-review/;https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/,2026-08-13,,yes
+boil_variance,"independently measured boil times swing widely between test protocols, from 2:27 to 4:02",review_consensus,https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/;https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster,2026-08-13,boil times vary by test protocol; con,yes
+fuel_limit,pure propane canisters cannot be used,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,con,yes
+supports_extra,three-arm support has to be bought separately,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,con,yes
+no_canister,no fuel canister comes in the box,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,absence claim stated explicitly in briefing; con,yes
+no_windscreen,no windscreen is supplied with the stove,official,https://sotooutdoors.com/products/windmaster/,2026-08-13,absence claim stated explicitly in briefing; con,yes

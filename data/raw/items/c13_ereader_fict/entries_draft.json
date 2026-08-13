@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Text sits sharp at 300 pixels per inch",
+      "text_draft": "The seven-inch page runs at 300 pixels per inch",
       "fact_field": "display"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A seven-inch page holds more text before turning",
-      "fact_field": "display"
-    },
-    {
-      "entry_id": "p03",
-      "valence": "pro",
-      "tier": "core8",
       "text_draft": "Buttons on the bezel turn pages without touching the screen",
       "fact_field": "buttons"
     },
     {
-      "entry_id": "p04",
+      "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Thirty-two gigabytes holds thousands of books at once",
       "fact_field": "storage"
     },
     {
-      "entry_id": "p05",
+      "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The colour temperature warms up for reading at night",
       "fact_field": "frontlight"
     },
     {
-      "entry_id": "p06",
+      "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A 1.2-gigahertz chip keeps the menus moving",
+      "text_draft": "A 1.2-gigahertz chip keeps the menus moving along",
       "fact_field": "processor"
     },
     {
-      "entry_id": "p07",
+      "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Bluetooth plays audiobooks straight to headphones",
-      "fact_field": "connectivity"
+      "text_draft": "Bluetooth plays audiobooks straight to a pair of headphones",
+      "fact_field": "audiobooks"
     },
     {
-      "entry_id": "p08",
+      "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "A charge lasts weeks rather than days",
       "fact_field": "battery"
     },
     {
-      "entry_id": "p09",
+      "entry_id": "p08",
       "valence": "pro",
-      "tier": "extra4",
-      "text_draft": "Twelve file formats open without conversion",
-      "fact_field": "formats"
+      "tier": "core8",
+      "text_draft": "Dark mode flips the page to white on black",
+      "fact_field": "darkmode"
     },
     {
-      "entry_id": "p10",
+      "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "The textured back stops it sliding out of one hand",
       "fact_field": "materials"
     },
     {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "At 8.2 millimetres thick it slides into a bag",
+      "fact_field": "dimensions"
+    },
+    {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Dark mode flips the page white on black",
-      "fact_field": "darkmode"
+      "text_draft": "It charges over the same USB-C as everything else",
+      "fact_field": "usbc"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It charges over the same USB-C as everything else",
-      "fact_field": "connectivity"
+      "text_draft": "Dual-band Wi-Fi pulls books down without a computer",
+      "fact_field": "wifi"
     }
   ],
   "cons": [
@@ -118,7 +118,7 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Twelve formats leave a few files needing conversion",
+      "text_draft": "Twelve formats leave some files needing conversion first",
       "fact_field": "format_count"
     },
     {
@@ -132,15 +132,15 @@
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The page buttons sit on the left side only",
-      "fact_field": "buttons"
+      "text_draft": "Borrowed library titles have to be side-loaded over USB-C",
+      "fact_field": "no_library"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A polymer shell feels less solid than metal",
-      "fact_field": "materials"
+      "text_draft": "Brightness is set by hand with no light sensor",
+      "fact_field": "no_auto_brightness"
     }
   ]
 }

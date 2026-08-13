@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Over 280 courses span more than forty languages",
-      "fact_field": "courses"
+      "text_draft": "Every course is reachable without paying anything",
+      "fact_field": "free_breadth"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Every course opens without paying anything",
-      "fact_field": "free_breadth"
+      "text_draft": "The selection includes languages rarely taught anywhere else",
+      "fact_field": "language_range"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Streaks and points keep people coming back daily",
+      "text_draft": "Streaks and experience points keep daily practice going",
       "fact_field": "gamification"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The catalogue reaches languages few apps bother with",
-      "fact_field": "language_range"
+      "text_draft": "Over 280 courses span more than 40 languages",
+      "fact_field": "courses"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Lessons are short enough for a bus ride",
-      "fact_field": "format"
+      "text_draft": "148 new courses arrived during 2025 alone",
+      "fact_field": "expansion"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Clients run on phones, tablets, watches, TVs, and the web",
+      "text_draft": "It runs on iPhone, Android, Apple Watch, and the web",
       "fact_field": "platforms"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Math, music, and chess sit alongside the languages",
-      "fact_field": "courses"
+      "text_draft": "Separate math, music, and chess tracks sit alongside languages",
+      "fact_field": "subjects"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Duolingo added 148 courses during 2025",
-      "fact_field": "expansion"
+      "text_draft": "A placement test starts returning learners partway into a course",
+      "fact_field": "placement"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Progress follows the account across every device",
-      "fact_field": "platforms"
+      "text_draft": "Learners pick a daily goal and the streak tracks it",
+      "fact_field": "daily_goal"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The paid tier drops the mistake limit",
-      "fact_field": "paid_tier"
+      "text_draft": "Progress syncs across every signed-in device automatically",
+      "fact_field": "sync"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Exercises mix reading, listening, and speaking",
+      "text_draft": "Short lessons mix reading, listening, and written responses",
       "fact_field": "format"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Nothing has to be paid to start learning",
-      "fact_field": "free_access"
+      "text_draft": "Weekly leaderboards group learners into leagues by points",
+      "fact_field": "leagues"
     }
   ],
   "cons": [
@@ -90,57 +90,57 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Adverts break in between lessons on the free tier",
+      "text_draft": "Advertisements interrupt between lessons on the free tier",
       "fact_field": "ads_con"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The hearts system stops practice after a few mistakes",
+      "text_draft": "The hearts system halts a session after several mistakes",
       "fact_field": "hearts_con"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Grammar gets a passing mention and little more",
+      "text_draft": "Grammar explanations stay brief throughout the courses",
       "fact_field": "grammar_thin"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A year of this alone will not make anyone conversational",
+      "text_draft": "Study here alone does not reach conversational fluency",
       "fact_field": "not_fluency"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free users hit a mistake ceiling every session",
-      "fact_field": "hearts"
+      "text_draft": "Downloading lessons for offline study needs the paid tier",
+      "fact_field": "offline_paid"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Adverts appear between every couple of lessons",
-      "fact_field": "ads"
+      "text_draft": "Course depth varies considerably from one language to another",
+      "fact_field": "depth_varies"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Tapping answers builds recognition rather than production",
-      "fact_field": "format"
+      "text_draft": "No live conversation practice with another person exists",
+      "fact_field": "no_conversation"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Course depth varies wildly between languages",
-      "fact_field": "courses"
+      "text_draft": "Course progress produces no certificate of any kind",
+      "fact_field": "no_certificate"
     }
   ]
 }

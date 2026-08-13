@@ -1,19 +1,23 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
-dimensions,7.9 x 7.9 x 15.4 in (20 x 20 x 39 cm),difference_point,derived-from:c07_airpurifier_real,2026-08-13,diff: tower body,yes
+dimensions,"7.9 x 7.9 in base, 15.4 in tall (20 x 20 x 39 cm)",difference_point,derived-from:c07_airpurifier_real,2026-08-13,diff: tower body,yes
 weight,8.4 lb / 3.8 kg,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
 cadr,135 CFM,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
 coverage,960 sq ft at one air change per hour; 200 sq ft at 4.8,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
-noise,26 to 56 dB,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
+noise,"26 to 56 dB, 56 dB at the highest fan speed",mirror,derived-from:c07_airpurifier_real,2026-08-13,con at the top of the range,yes
 power,"52 W, AC 120 V 60 Hz",mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
 filtration,"three stage: pre-filter, main filter, activated carbon",mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
 sensor,particle sensor driving an automatic fan mode,difference_point,derived-from:c07_airpurifier_real,2026-08-13,diff: sensor and auto mode,yes
-modes,"auto mode, sleep mode, four manual fan speeds",difference_point,derived-from:c07_airpurifier_real,2026-08-13,,yes
+modes,"automatic mode, sleep mode, four manual fan speeds",difference_point,derived-from:c07_airpurifier_real,2026-08-13,"diff: auto mode present, no timer",yes
 no_timer,no timer function,difference_point,derived-from:c07_airpurifier_real,2026-08-13,diff: no timer,yes
 controls,touch panel with an air quality indicator ring,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
 box,"purifier with filter pre-installed, user manual, quick start guide",mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
-no_timer_con,no timer function to schedule a shutdown,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_timer_con,no timer function to schedule a shutdown,spec_derived,derived-from:spec,2026-08-13,con,premise
 sensor_light,indicator ring stays lit during operation,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_app,no app or remote control,spec_derived,derived-from:spec,2026-08-13,con,yes
 prefilter_care,pre-filter needs regular vacuuming,spec_derived,derived-from:spec,2026-08-13,con,premise
 tower_height,height of 15.4 inches on floors,spec_derived,derived-from:spec,2026-08-13,con,yes
 cadr_mid,135 CFM covers a single room,spec_derived,derived-from:spec,2026-08-13,con,yes
+sleep_noise,26 dB at the lowest fan speed,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
+filter_access,main filter lifts out of the base without tools,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes
+filter_cost,main filter is a recurring purchase on a fixed schedule,spec_derived,derived-from:spec,2026-08-13,con,yes
+filter_life,filter life six to eight months in typical use,mirror,derived-from:c07_airpurifier_real,2026-08-13,,yes

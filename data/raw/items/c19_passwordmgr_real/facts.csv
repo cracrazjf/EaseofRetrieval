@@ -8,10 +8,19 @@ mobile,clients for iOS and Android,official,https://bitwarden.com/download/,2026
 extensions,"browser extensions for nine browsers including Chrome, Firefox, Safari, and Edge",official,https://bitwarden.com/download/,2026-08-13,,yes
 web_vault,web vault accessible from a browser,official,https://bitwarden.com/download/,2026-08-13,,yes
 cli,command line interface available,official,https://bitwarden.com/download/,2026-08-13,,yes
-encryption,vault encrypted on the device before sync; master password not transmitted,official,https://bitwarden.com/pricing/,2026-08-13,,yes
-open_source,source code published and independently audited,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,yes
+encryption,vault contents encrypted on the device before they reach the sync service; master password never transmitted,official,https://bitwarden.com/pricing/,2026-08-13,,yes
+open_source,source code published and reviewed in independent audits,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,yes
 dated_ui,interface less polished than competing managers,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con,yes
 autofill_incons,autofill inconsistent on complex sites,review_consensus,https://www.malcare.com/blog/bitwarden-review/;https://cybernews.com/best-password-managers/bitwarden-review/,2026-08-13,con,yes
-free_support,free tier support limited to community forums,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con,yes
+free_support,support for free-tier users limited to community forums,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con,yes
 free_praise,free tier covers the core function fully,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,yes
 cross_platform,clients across every mainstream platform,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,yes
+free_unlimited,free tier stores unlimited passwords and syncs across unlimited devices,official,https://bitwarden.com/pricing/,2026-08-13,,yes
+free_sharing_limit,free accounts share items with one other user and no more,official,https://bitwarden.com/pricing/,2026-08-13,con,yes
+no_totp_free,integrated authenticator codes sit behind the paid individual tier,official,https://bitwarden.com/pricing/,2026-08-13,con,yes
+no_attach_free,file attachments sit behind the paid individual tier,official,https://bitwarden.com/pricing/,2026-08-13,con,yes
+no_emergency_free,emergency access sits behind the paid individual tier,official,https://bitwarden.com/pricing/,2026-08-13,con,yes
+self_host,the server can be self-hosted on an organisation's own hardware,official,https://bitwarden.com/help/install-on-premise/,2026-08-13,,yes
+import_export,vault data exports as JSON or CSV; imports arrive from other managers,official,https://bitwarden.com/help/export-your-data/,2026-08-13,,yes
+account_2fa,two-step login on every tier through email codes and authenticator apps,official,https://bitwarden.com/help/setup-two-step-login/,2026-08-13,,yes
+no_recovery,no master password recovery; an account whose password is lost cannot be reopened,official,https://bitwarden.com/help/lost-master-password/,2026-08-13,con,yes

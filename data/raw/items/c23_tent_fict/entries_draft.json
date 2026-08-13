@@ -4,7 +4,7 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "At 3 pounds 2 ounces it is light for two people",
+      "text_draft": "At 3 pounds 2 ounces it is light for two",
       "fact_field": "min_weight"
     },
     {
@@ -25,7 +25,7 @@
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It packs down to seventeen by six inches",
+      "text_draft": "It packs down to 17 by 6 inches",
       "fact_field": "packed_size"
     },
     {
@@ -39,50 +39,50 @@
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Mesh panels overhead vent the condensation out",
+      "text_draft": "Mesh upper panels vent condensation out overnight",
       "fact_field": "canopy"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Aluminium alloy poles come as a hubbed assembly",
+      "text_draft": "Aluminium alloy poles hold the head end upright",
       "fact_field": "poles"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Stakes and guylines both come in the box",
-      "fact_field": "footprint"
+      "text_draft": "Stakes, guylines, and a stuff sack are included",
+      "fact_field": "accessories"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The head end stands up before any stake goes in",
-      "fact_field": "capacity"
-    },
-    {
-      "entry_id": "p10",
-      "valence": "pro",
-      "tier": "extra4",
-      "text_draft": "Nine square feet of vestibule takes the packs",
+      "text_draft": "Nine square feet of vestibule takes both packs",
       "fact_field": "vestibule"
     },
     {
-      "entry_id": "p11",
+      "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "The floor is coated to 2500 millimetres",
       "fact_field": "floor_fabric"
     },
     {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Packaged weight comes in under four pounds",
+      "fact_field": "packed_weight"
+    },
+    {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Fifteen-denier canopy keeps the packed weight down",
-      "fact_field": "canopy"
+      "text_draft": "Two interior mesh pockets hold headlamps and phones",
+      "fact_field": "pockets"
     }
   ],
   "cons": [
@@ -111,7 +111,7 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Fifteen-denier canopy tears if snagged on anything",
+      "text_draft": "Fifteen denier canopy fabric tears where it snags",
       "fact_field": "thin_canopy"
     },
     {
@@ -125,22 +125,22 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One door sits on the left and nowhere else",
-      "fact_field": "doors"
+      "text_draft": "A three-season build is not made for winter snow",
+      "fact_field": "three_season"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Hard ground leaves the foot end sagging",
-      "fact_field": "capacity"
+      "text_draft": "Rain drips inside when the door opens in weather",
+      "fact_field": "no_gutters"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A 2500-millimetre floor is modest under a wet pitch",
-      "fact_field": "floor_fabric"
+      "text_draft": "The built-in footprint cannot be left home to save weight",
+      "fact_field": "footprint_fixed"
     }
   ]
 }

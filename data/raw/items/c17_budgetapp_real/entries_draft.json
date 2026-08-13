@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Every dollar gets a job before it is spent",
-      "fact_field": "method"
+      "text_draft": "Linked bank accounts import transactions and reconcile reliably",
+      "fact_field": "sync_praise"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Linked accounts pull transactions in on their own",
-      "fact_field": "bank_sync"
+      "text_draft": "Category targets and debt payoff tools track progress clearly",
+      "fact_field": "goal_tools"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "One subscription covers a household of six",
-      "fact_field": "sharing"
+      "text_draft": "One subscription covers up to six people in a household",
+      "fact_field": "sharing_praise"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Category targets track progress toward what was planned",
-      "fact_field": "goals"
+      "text_draft": "A 34-day trial runs without entering a card",
+      "fact_field": "trial"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The loan planner projects when a debt clears",
-      "fact_field": "goals"
+      "text_draft": "Students get a full 365-day trial at no cost",
+      "fact_field": "student_trial"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Plan data exports as CSV or TSV",
-      "fact_field": "export"
+      "text_draft": "It runs on the web, on iOS, and on Android",
+      "fact_field": "platforms"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The trial runs 34 days without a card",
-      "fact_field": "trial"
+      "text_draft": "Changes sync automatically across every signed-in device",
+      "fact_field": "sync"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Import and reconciliation hold up in daily use",
-      "fact_field": "sync_praise"
+      "text_draft": "Plan data and transaction history export as CSV or TSV",
+      "fact_field": "export"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Spending and net worth both chart over time",
-      "fact_field": "reports"
+      "text_draft": "Apple Card activity imports alongside ordinary bank accounts",
+      "fact_field": "apple_card"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The target and payoff tools draw consistent praise",
-      "fact_field": "goal_tools"
+      "text_draft": "The loan planner projects interest and payoff timing",
+      "fact_field": "loan_planner"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Couples share one plan rather than two",
-      "fact_field": "sharing_praise"
+      "text_draft": "Spending and net worth charts show activity over time",
+      "fact_field": "reports"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It runs on web, iOS, and Android together",
-      "fact_field": "platforms"
+      "text_draft": "Each household member holds their own login to the budget",
+      "fact_field": "separate_logins"
     }
   ],
   "cons": [
@@ -90,57 +90,57 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The zero-based method takes weeks to click",
+      "text_draft": "The zero-based method takes weeks to learn properly",
       "fact_field": "learning_curve"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "It sits among the priciest budgeting subscriptions",
+      "text_draft": "It sits among the more expensive budgeting subscriptions",
       "fact_field": "cost_high"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Bills are neither tracked nor paid from here",
+      "text_draft": "It offers no bill tracking and no bill payment",
       "fact_field": "no_bills"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There is no free tier once the trial ends",
+      "text_draft": "Everything sits behind one paid tier with no free option",
       "fact_field": "tier_note"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Exports only come out of the web app",
-      "fact_field": "export"
+      "text_draft": "Exporting works from the web app, never from mobile",
+      "fact_field": "export_web_only"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The subscription price has gone up repeatedly",
-      "fact_field": "cost_high"
+      "text_draft": "Categorising and reconciling transactions stays regular hand work",
+      "fact_field": "manual_upkeep"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Reconciling still takes hand work every week",
-      "fact_field": "bank_sync"
+      "text_draft": "There is no installed desktop app, only the browser",
+      "fact_field": "no_desktop_app"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sharing stops at six people per plan",
-      "fact_field": "sharing"
+      "text_draft": "It carries no credit score monitoring at all",
+      "fact_field": "no_credit_score"
     }
   ]
 }

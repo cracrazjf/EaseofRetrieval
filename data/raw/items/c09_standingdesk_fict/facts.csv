@@ -1,19 +1,28 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 height_range,24.4 to 49.6 in frame height,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
 capacity,265 lb weight capacity,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
-motors,single motor drive,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: single motor,yes
+motors,single motor driving both columns in step,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: single motor,yes
 column,two stage lifting column,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
 speed,about 1.0 inch per second,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
 noise,under about 55 dB during travel,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
-keypad,LED keypad with two memory presets and a child lock,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: two presets,yes
+keypad,LED keypad showing the current height as a number,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
 no_anticollision,no obstacle sensing during travel,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: no anti-collision,yes
 frame,powder-coated steel frame,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
 assembled_weight,about 62 lb assembled,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
-warranty,ten year warranty on the frame and five on the motor,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+warranty,ten year warranty on the frame itself,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
 accessories,"keypad, mounting hardware, cable clips",mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
 no_stop,desk does not stop when it meets an obstacle,spec_derived,derived-from:spec,2026-08-13,con,premise
 single_motor_speed,one motor limits travel speed,spec_derived,derived-from:spec,2026-08-13,con,yes
-two_presets,two memory presets on the keypad,spec_derived,derived-from:spec,2026-08-13,con,yes
+two_presets,two memory presets on the keypad,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: two presets; con,yes
 two_stage,two-stage column narrows the height range,spec_derived,derived-from:spec,2026-08-13,con,yes
-clips_only,cable clips instead of a tray,spec_derived,derived-from:spec,2026-08-13,con,yes
+clips_only,adhesive cable clips instead of a tray,spec_derived,derived-from:spec,2026-08-13,con,yes
 capacity_limit,265 pounds limits heavy setups,spec_derived,derived-from:spec,2026-08-13,con,yes
+child_lock,child lock on the keypad,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+desktop,takes whatever desktop the buyer supplies,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+hardware,mounting hardware and an assembly tool included,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+levelling_feet,levelling feet on both bases for an uneven floor,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+frame_width,frame widens to fit desktops from 43 to 63 inches,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+warranty_motor,motor covered for five years,spec_derived,derived-from:spec,2026-08-13,con,yes
+keypad_mount,keypad mounts under the front edge of the desktop,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+travel_time,about twenty-five seconds across the full range at the rated speed,spec_derived,derived-from:spec,2026-08-13,arithmetic from the 1.0 in/s rated speed,yes
+finish,columns powder-coated in black or white,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes

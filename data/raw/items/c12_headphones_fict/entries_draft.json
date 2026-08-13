@@ -11,14 +11,14 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Wired playback stretches to forty hours",
+      "text_draft": "Wired playback stretches to forty hours on the supplied cable",
       "fact_field": "wired"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three buttons work by feel without looking",
+      "text_draft": "Three physical buttons work by feel without looking down",
       "fact_field": "controls"
     },
     {
@@ -32,57 +32,57 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Forty-two millimetre drivers sit in each cup",
+      "text_draft": "Forty-two millimetre dynamic drivers sit in each cup",
       "fact_field": "driver"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten minutes on the charger returns four hours of play",
+      "text_draft": "Ten minutes on the charger returns about four hours of play",
       "fact_field": "quickcharge"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Bluetooth 5.2 handles AAC on top of the basic codec",
-      "fact_field": "bluetooth"
+      "text_draft": "Bluetooth 5.2 holds the link across a room",
+      "fact_field": "bluetooth_version"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A carrying pouch comes in the box",
-      "fact_field": "box"
+      "text_draft": "The earcups fold flat against the headband for storage",
+      "fact_field": "fold_flat"
     },
     {
       "entry_id": "p09",
-      "valence": "pro",
-      "tier": "extra4",
-      "text_draft": "At 268 grams the weight sits evenly on the head",
-      "fact_field": "weight"
-    },
-    {
-      "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "Response reaches down to 20 hertz at the low end",
       "fact_field": "frequency"
     },
     {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Canceling switches off entirely when playing time matters more",
+      "fact_field": "anc_off"
+    },
+    {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Both charging and audio cables come along",
+      "text_draft": "Charging and audio cables both come in the box",
       "fact_field": "box"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Noise canceling switches on its own dedicated button",
-      "fact_field": "controls"
+      "text_draft": "Thirty-four hours play with the canceling switched off",
+      "fact_field": "battery_nc_off"
     }
   ],
   "cons": [
@@ -97,7 +97,7 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nothing beyond AAC handles higher bitrate audio",
+      "text_draft": "Nothing beyond AAC and SBC carries higher-bitrate audio",
       "fact_field": "codec_basic"
     },
     {
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Three buttons take practice to tell apart blind",
-      "fact_field": "button_learn"
+      "text_draft": "No companion app means settings live on the headset only",
+      "fact_field": "no_app"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "IPX4 covers splashes but nothing more",
-      "fact_field": "splash_only"
+      "text_draft": "Canceling runs at one fixed strength with no adjustment",
+      "fact_field": "anc_single_level"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Twenty-six hours falls short of the thirty-hour class",
-      "fact_field": "battery_nc_on"
+      "text_draft": "Filling the battery from empty takes about three hours",
+      "fact_field": "charge_full"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Swapping devices means unpairing and pairing again",
-      "fact_field": "bluetooth"
+      "text_draft": "The USB-C port charges but passes no audio at all",
+      "fact_field": "no_usb_audio"
     }
   ]
 }

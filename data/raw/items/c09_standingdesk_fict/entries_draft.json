@@ -4,7 +4,7 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The frame covers 25 inches of height, from sitting to standing",
+      "text_draft": "The frame travels from 24.4 to 49.6 inches",
       "fact_field": "height_range"
     },
     {
@@ -18,71 +18,71 @@
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two saved heights bring it back without hunting",
-      "fact_field": "keypad"
+      "text_draft": "A child lock stops the keypad being pressed by accident",
+      "fact_field": "child_lock"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A child lock stops the keypad being pressed by accident",
+      "text_draft": "The keypad shows the current height as a number",
       "fact_field": "keypad"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Powder-coated steel holds the columns together",
+      "text_draft": "Powder-coated steel holds the columns and crossbars together",
       "fact_field": "frame"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The assembled frame comes in around 62 pounds",
+      "text_draft": "The assembled frame comes in near 62 pounds",
       "fact_field": "assembled_weight"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten years of cover runs on the frame itself",
+      "text_draft": "Ten years of cover run on the frame itself",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It stays under 55 decibels while moving",
-      "fact_field": "noise"
+      "text_draft": "The frame takes whatever desktop the buyer supplies",
+      "fact_field": "desktop"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Adhesive cable clips come with the hardware",
-      "fact_field": "accessories"
+      "text_draft": "Mounting hardware and an assembly tool come in the box",
+      "fact_field": "hardware"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "One motor drives both two-stage columns together",
-      "fact_field": "motors"
+      "text_draft": "Levelling feet take up the slack on an uneven floor",
+      "fact_field": "levelling_feet"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It travels about an inch per second",
-      "fact_field": "speed"
+      "text_draft": "A single motor drives both columns in step",
+      "fact_field": "motors"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The frame takes whatever desktop the buyer supplies",
-      "fact_field": "frame"
+      "text_draft": "The frame widens to fit desktops from 43 to 63 inches",
+      "fact_field": "frame_width"
     }
   ],
   "cons": [
@@ -97,14 +97,14 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One motor makes for slower travel than twin-motor frames",
+      "text_draft": "One motor makes travel slower than twin-motor frames",
       "fact_field": "single_motor_speed"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Two saved heights run out quickly with shared desks",
+      "text_draft": "Two memory presets run out quickly on a shared desk",
       "fact_field": "two_presets"
     },
     {
@@ -139,8 +139,8 @@
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Column bolts need checking every so often",
-      "fact_field": "frame"
+      "text_draft": "The motor is covered for five years, not ten",
+      "fact_field": "warranty_motor"
     }
   ]
 }

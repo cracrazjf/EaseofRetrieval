@@ -4,64 +4,64 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The image runs at a full 1920 by 1080",
+      "text_draft": "The picture runs at a full 1920 by 1080",
       "fact_field": "resolution"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The battery keeps it going away from an outlet",
+      "text_draft": "The internal battery keeps it running away from an outlet",
       "fact_field": "battery"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "32 gigabytes holds a decent library of apps",
-      "fact_field": "os"
+      "text_draft": "Thirty-two gigabytes holds a run of streaming apps",
+      "fact_field": "storage"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Four wired ports include full HDMI 2.0",
-      "fact_field": "ports"
+      "text_draft": "A full HDMI 2.0 input takes a console or a player",
+      "fact_field": "hdmi"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A focus ring on the barrel sharpens the image by hand",
-      "fact_field": "focus"
+      "text_draft": "The picture scales anywhere from 40 to 150 inches",
+      "fact_field": "image_size"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The image scales anywhere from 40 to 150 inches",
-      "fact_field": "throw"
+      "text_draft": "Dual-band Wi-Fi connects without a cable in reach",
+      "fact_field": "wireless"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Dual-band Wi-Fi and Bluetooth 5.0 both connect",
-      "fact_field": "wireless"
+      "text_draft": "It keeps playing while the adapter tops the battery up",
+      "fact_field": "charging"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two 6-watt speakers cover a room without extra kit",
-      "fact_field": "speakers"
+      "text_draft": "Android TV brings the usual streaming apps along",
+      "fact_field": "os"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 1.3 kilograms it travels in a backpack",
-      "fact_field": "weight"
+      "text_draft": "Bluetooth 5.0 pairs a speaker or a set of headphones",
+      "fact_field": "bluetooth"
     },
     {
       "entry_id": "p10",
@@ -74,15 +74,15 @@
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Adapter and remote both come in the box",
-      "fact_field": "power"
+      "text_draft": "Adapter and remote control both come in the box",
+      "fact_field": "accessories"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Android TV brings the usual streaming apps along",
-      "fact_field": "os"
+      "text_draft": "A 0.33-inch chip drives the full 1080p image",
+      "fact_field": "display_tech"
     }
   ],
   "cons": [
@@ -104,7 +104,7 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "350 lumens washes out in anything but a dark room",
+      "text_draft": "At 350 lumens the picture washes out in a lit room",
       "fact_field": "bright_limit"
     },
     {
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 1.3 kilograms the battery adds real weight",
+      "text_draft": "At 1.3 kilograms the battery adds real weight to carry",
       "fact_field": "weight_carry"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The image stops growing at 150 inches",
-      "fact_field": "image_cap"
+      "text_draft": "Digital keystone correction shrinks the image inside the frame",
+      "fact_field": "digital_keystone"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Keystone correction is digital, so pixels get squeezed",
-      "fact_field": "focus"
+      "text_draft": "Two gigabytes of memory leaves the interface sluggish",
+      "fact_field": "memory"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "2 gigabytes of memory slows the interface down",
-      "fact_field": "os"
+      "text_draft": "One HDMI input means swapping cables between sources",
+      "fact_field": "single_hdmi"
     }
   ]
 }

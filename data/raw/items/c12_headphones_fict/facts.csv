@@ -9,10 +9,18 @@ quickcharge,about 4 hours of playback from a 10 minute charge,mirror,derived-fro
 wired,up to 40 hours of wired operation with the supplied cable,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
 controls,"physical buttons for power, playback, and noise canceling",difference_point,derived-from:c12_headphones_real,2026-08-13,diff: buttons not touch,yes
 water,IPX4 splash resistance,difference_point,derived-from:c12_headphones_real,2026-08-13,diff: splash rating,yes
-box,"headset, USB-C cable, 3.5 mm cable, fabric pouch",mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+box,"USB-C charging cable, 3.5 mm audio cable, fabric carrying pouch",mirror,derived-from:c12_headphones_real,2026-08-13,,yes
 no_multipoint,"single device pairing, no multipoint",spec_derived,derived-from:spec,2026-08-13,con,yes
 codec_basic,"AAC and SBC only, no higher bitrate codec",spec_derived,derived-from:spec,2026-08-13,con,yes
 pouch_only,fabric carrying pouch rather than a hard case,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_head,268 g clamping weight over long sessions,spec_derived,derived-from:spec,2026-08-13,con,yes
-button_learn,three physical buttons on the right cup take practice to distinguish blind,spec_derived,derived-from:spec,2026-08-13,con,yes
+button_learn,three physical buttons on the right cup take practice to distinguish blind,spec_derived,derived-from:spec,2026-08-13,con,premise
 splash_only,"IPX4 covers splashes, not immersion",spec_derived,derived-from:spec,2026-08-13,con,yes
+bluetooth_version,Bluetooth 5.2,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+charge_full,about 3 hours for a charge from empty,mirror,derived-from:c12_headphones_real,2026-08-13,con,yes
+fold_flat,earcups fold flat against the headband for storage,spec_derived,derived-from:spec,2026-08-13,,yes
+anc_off,noise canceling can be switched off entirely to extend playback,spec_derived,derived-from:spec,2026-08-13,,yes
+no_app,no companion app; every setting is changed on the headset,difference_point,derived-from:c12_headphones_real,2026-08-13,diff: no app; con,yes
+anc_single_level,"canceling at a single fixed strength, no adjustable levels",spec_derived,derived-from:spec,2026-08-13,con,yes
+no_usb_audio,the USB-C port carries charging only and passes no audio,spec_derived,derived-from:spec,2026-08-13,con,yes
+earpads,replaceable earpads and a sliding headband adjustment,mirror,derived-from:c12_headphones_real,2026-08-13,,yes

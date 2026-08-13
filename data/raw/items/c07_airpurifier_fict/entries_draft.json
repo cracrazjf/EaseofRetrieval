@@ -4,14 +4,14 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A sensor reads the air and adjusts the fan on its own",
+      "text_draft": "A particle sensor reads the air and sets the fan itself",
       "fact_field": "sensor"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The ring on the panel reports what the sensor sees",
+      "text_draft": "The ring on the panel reports what the sensor reads",
       "fact_field": "controls"
     },
     {
@@ -25,7 +25,7 @@
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Four fan speeds plus sleep mode cover most rooms",
+      "text_draft": "Four manual fan speeds and a sleep mode cover most rooms",
       "fact_field": "modes"
     },
     {
@@ -39,14 +39,14 @@
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It draws only 52 watts running continuously",
+      "text_draft": "It draws 52 watts running at full speed",
       "fact_field": "power"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The base takes up less than eight inches square",
+      "text_draft": "The tower base takes up less than eight inches square",
       "fact_field": "dimensions"
     },
     {
@@ -60,29 +60,29 @@
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 8.4 pounds it moves from room to room easily",
+      "text_draft": "At 8.4 pounds it moves between rooms one-handed",
       "fact_field": "weight"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Sleep mode drops close to the noise floor of a room",
-      "fact_field": "noise"
+      "text_draft": "Sleep mode drops to 26 decibels, close to a quiet room",
+      "fact_field": "sleep_noise"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It turns over the air in 960 square feet hourly",
+      "text_draft": "It turns the air over in 960 square feet hourly",
       "fact_field": "coverage"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The tower shape tucks in beside furniture",
-      "fact_field": "dimensions"
+      "text_draft": "The main filter lifts out of the base without tools",
+      "fact_field": "filter_access"
     }
   ],
   "cons": [
@@ -97,50 +97,50 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The indicator ring glows the whole time it runs",
+      "text_draft": "The indicator ring stays lit the whole time it runs",
       "fact_field": "sensor_light"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There is no app or remote to reach it from a chair",
+      "text_draft": "No app or remote reaches it from across the room",
       "fact_field": "no_app"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The pre-filter needs vacuuming or it clogs",
+      "text_draft": "The pre-filter clogs unless it is vacuumed regularly",
       "fact_field": "prefilter_care"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 15.4 inches tall it stands out in a small room",
+      "text_draft": "At 15.4 inches tall it takes over a side table",
       "fact_field": "tower_height"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "135 CFM stretches to cover only one room",
+      "text_draft": "135 cubic feet a minute stretches to one room only",
       "fact_field": "cadr_mid"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "On full speed it climbs to 56 decibels",
+      "text_draft": "At the highest fan speed it reaches 56 decibels",
       "fact_field": "noise"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Rated coverage drops to 200 square feet at real turnover",
-      "fact_field": "coverage"
+      "text_draft": "The main filter has to be bought again on schedule",
+      "fact_field": "filter_cost"
     }
   ]
 }

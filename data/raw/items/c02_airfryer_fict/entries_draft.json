@@ -4,14 +4,14 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The 5.5-quart round basket holds a meal for a family",
+      "text_draft": "The round basket holds 5.5 quarts, enough for a family meal",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It runs anywhere from 180 to 400 degrees",
+      "text_draft": "It runs anywhere from 180 to 400 degrees Fahrenheit",
       "fact_field": "temp_range"
     },
     {
@@ -32,57 +32,57 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The dial and buttons work without any account or setup",
+      "text_draft": "The dial and buttons work without an account or setup",
       "fact_field": "controls"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Both basket and crisper plate go into the dishwasher",
+      "text_draft": "The nonstick basket and crisper plate go into the dishwasher",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Time and temperature can be dialled in by hand",
-      "fact_field": "controls"
+      "text_draft": "At 12.8 inches tall it clears an overhead cabinet",
+      "fact_field": "dimensions"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "1600 watts brings the chamber up to heat quickly",
-      "fact_field": "power"
+      "text_draft": "The drawer handle stays cool enough to grip while cooking",
+      "fact_field": "cool_handle"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The recipe booklet gives a set of starting points",
+      "text_draft": "A recipe booklet and quick start guide come in the box",
       "fact_field": "accessories"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 11.4 inches wide it leaves room on the counter",
-      "fact_field": "dimensions"
+      "text_draft": "At 11.6 pounds it shifts across the counter without trouble",
+      "fact_field": "weight"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 11.6 pounds it shifts across the counter easily",
-      "fact_field": "weight"
+      "text_draft": "The crisper plate lifts out and keeps airflow under food",
+      "fact_field": "crisper_plate"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The crisper plate lifts out for airflow underneath",
-      "fact_field": "maintenance"
+      "text_draft": "A button on the handle releases the basket from the drawer",
+      "fact_field": "basket_release"
     }
   ],
   "cons": [
@@ -104,7 +104,7 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A round basket wastes the corners of the square drawer",
+      "text_draft": "The round basket wastes the corners of the square drawer",
       "fact_field": "round_basket_area"
     },
     {

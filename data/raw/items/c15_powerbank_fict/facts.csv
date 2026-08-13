@@ -1,11 +1,11 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
-capacity,"10,000 mAh / 37 Wh",mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
+capacity,"10,000 mAh",mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
 ports,"one USB-C for input and output, plus an integrated cable",difference_point,derived-from:c15_powerbank_real,2026-08-13,"diff: integrated cable, no USB-A",yes
 integrated_cable,USB-C cable built into the housing and stowed in a channel,difference_point,derived-from:c15_powerbank_real,2026-08-13,diff: attached cable,yes
 simultaneous,charges up to two devices at once,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
 output_c,"USB-C output 5 V / 3 A, 20 W maximum",mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
 input_c,USB-C input 5 V / 3 A,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
-recharge,about 4 hours from a 20 W charger,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
+recharge,back to full in about four hours from a 20 W charger,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
 display,digital percentage display on the front face,difference_point,derived-from:c15_powerbank_real,2026-08-13,diff: percentage display,yes
 dimensions,104 x 62 x 25 mm,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
 weight,210 g,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
@@ -16,3 +16,10 @@ two_device,only two devices charge at once,spec_derived,derived-from:spec,2026-0
 display_draw,digital display draws power from the pack while lit,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_pocket,210 grams in a pocket or bag,spec_derived,derived-from:spec,2026-08-13,con,yes
 recharge_time,recharging takes about four hours,spec_derived,derived-from:spec,2026-08-13,con,yes
+capacity_wh,"37 Wh, under the 100 Wh airline cabin limit",spec_derived,derived-from:spec,2026-08-13,,yes
+passthrough,passes power through to a phone while it is itself charging,spec_derived,derived-from:spec,2026-08-13,,yes
+protection,"over-current, over-voltage and temperature protection in the cell circuit",mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
+cable_channel,moulded channel along one edge stows the attached cable,spec_derived,derived-from:spec,2026-08-13,,yes
+cable_length,the attached cable reaches 15 centimetres,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_wall_charger,no wall charger supplied in the box,mirror,derived-from:c15_powerbank_real,2026-08-13,con,yes
+no_low_current,no low-current mode; earbuds fall below the current the pack needs,difference_point,derived-from:c15_powerbank_real,2026-08-13,diff: no low-current mode; con,yes

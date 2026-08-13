@@ -4,8 +4,8 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Text sits sharp at 300 pixels per inch",
-      "fact_field": "display"
+      "text_draft": "Text stays crisp at 300 pixels per inch",
+      "fact_field": "sharp_screen"
     },
     {
       "entry_id": "p02",
@@ -25,14 +25,14 @@
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sixteen gigabytes holds thousands of books at once",
+      "text_draft": "Sixteen gigabytes holds twelve thousand titles at once",
       "fact_field": "storage"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Library borrowing works from inside the reader",
+      "text_draft": "Library borrowing runs from inside the reader itself",
       "fact_field": "library"
     },
     {
@@ -46,15 +46,15 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Fifteen file formats open without conversion",
+      "text_draft": "Fifteen file formats open without any conversion first",
       "fact_field": "formats"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Print stays crisp at ordinary reading distance",
-      "fact_field": "sharp_screen"
+      "text_draft": "Bluetooth plays audiobooks straight to a pair of headphones",
+      "fact_field": "audiobooks"
     },
     {
       "entry_id": "p09",
@@ -67,22 +67,22 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Bluetooth plays audiobooks straight to headphones",
-      "fact_field": "connectivity"
+      "text_draft": "A charge lasts weeks rather than days",
+      "fact_field": "battery"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A charge lasts weeks rather than days",
-      "fact_field": "battery"
+      "text_draft": "Dark mode flips the page to white on black",
+      "fact_field": "darkmode"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Dark mode flips the page white on black",
-      "fact_field": "darkmode"
+      "text_draft": "Articles saved to Pocket sync across to the reader",
+      "fact_field": "pocket"
     }
   ],
   "cons": [
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There are no page-turn buttons on the body",
-      "fact_field": "display"
+      "text_draft": "No page-turn buttons sit on the bezel at all",
+      "fact_field": "no_buttons"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Kobo never states an actual battery capacity",
-      "fact_field": "battery"
+      "text_draft": "Storage is fixed with no card slot to add more",
+      "fact_field": "no_card"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Storage is fixed with no card slot to add more",
-      "fact_field": "storage"
+      "text_draft": "A six-inch page shows less text than larger readers",
+      "fact_field": "screen_size"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A six-inch page shows less text than larger readers",
-      "fact_field": "display"
+      "text_draft": "Kobo never states an actual battery capacity figure",
+      "fact_field": "no_capacity"
     }
   ]
 }

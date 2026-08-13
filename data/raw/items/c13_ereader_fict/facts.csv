@@ -18,3 +18,8 @@ weight_hand,195 grams during long one-handed sessions,spec_derived,derived-from:
 no_card,storage fixed with no memory card slot,spec_derived,derived-from:spec,2026-08-13,con,yes
 format_count,"twelve native formats, fewer than some readers",spec_derived,derived-from:spec,2026-08-13,con,yes
 no_capacity,battery stated in weeks without a figure,spec_derived,derived-from:spec,2026-08-13,con,yes
+audiobooks,Bluetooth audiobook playback to headphones,mirror,derived-from:c13_ereader_real,2026-08-13,,yes
+wifi,dual-band Wi-Fi,mirror,derived-from:c13_ereader_real,2026-08-13,,yes
+usbc,USB-C for charging,mirror,derived-from:c13_ereader_real,2026-08-13,,yes
+no_library,no built-in library borrowing service; borrowed titles are side-loaded,difference_point,derived-from:c13_ereader_real,2026-08-13,diff: no library integration; con,yes
+no_auto_brightness,"brightness set by hand, with no ambient light sensor",spec_derived,derived-from:spec,2026-08-13,con,yes

@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The fuzzy logic adjusts heat and timing as it cooks",
+      "text_draft": "Fuzzy logic adjusts heat and timing while the rice cooks",
       "fact_field": "technology"
     },
     {
@@ -19,13 +19,13 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The rounded inner pan surrounds the rice with heat",
-      "fact_field": "technology"
+      "fact_field": "spherical_pan"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Keep warm holds rice at serving temperature for hours",
+      "text_draft": "Keep warm, extended warm, and reheat all run from the panel",
       "fact_field": "keepwarm"
     },
     {
@@ -39,22 +39,22 @@
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The LCD panel shows the clock and the timer together",
+      "text_draft": "The colour panel shows the clock and the timer together",
       "fact_field": "controls"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The inner lid detaches so it can be washed properly",
-      "fact_field": "maintenance"
+      "text_draft": "Rice comes out the same texture batch after batch",
+      "fact_field": "rice_quality"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Rice comes out the same texture batch after batch",
-      "fact_field": "rice_quality"
+      "text_draft": "Owners report these cookers running well past a decade",
+      "fact_field": "longevity"
     },
     {
       "entry_id": "p09",
@@ -67,22 +67,22 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Rice stays good on keep warm past twelve hours",
+      "text_draft": "Rice holds its texture past twelve hours on keep warm",
       "fact_field": "warm_hold"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The cord retracts and the handles stay cool",
-      "fact_field": "maintenance"
+      "text_draft": "The cord winds back into the housing after use",
+      "fact_field": "retract_cord"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Owners report these running well past a decade",
-      "fact_field": "longevity"
+      "text_draft": "The handles stay cool enough to grip after cooking",
+      "fact_field": "stay_cool"
     }
   ],
   "cons": [
@@ -90,36 +90,36 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Brown rice takes well over an hour to finish",
+      "text_draft": "Brown rice takes eighty minutes or more to finish",
       "fact_field": "cook_time"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
+      "text_draft": "Even plain white rice needs forty minutes from the start",
+      "fact_field": "white_time"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
       "text_draft": "The inner lid is fiddly to pull off each week",
       "fact_field": "lid_cleaning"
     },
     {
-      "entry_id": "n03",
+      "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
       "text_draft": "It costs considerably more than a basic rice cooker",
       "fact_field": "price_high"
     },
     {
-      "entry_id": "n04",
+      "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
       "text_draft": "5.5 cups is the ceiling for a single batch",
       "fact_field": "capacity"
-    },
-    {
-      "entry_id": "n05",
-      "valence": "con",
-      "tier": "core8",
-      "text_draft": "Even white rice needs forty minutes from start",
-      "fact_field": "cook_time"
     },
     {
       "entry_id": "n06",
@@ -132,15 +132,15 @@
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Working through eleven settings adds steps to each meal",
-      "fact_field": "menus"
+      "text_draft": "The maker never states what the cooker weighs",
+      "fact_field": "weight"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Zojirushi never states what the cooker weighs",
-      "fact_field": "weight"
+      "text_draft": "Neither steaming nor slow cooking gets a setting",
+      "fact_field": "no_steam_setting"
     }
   ]
 }

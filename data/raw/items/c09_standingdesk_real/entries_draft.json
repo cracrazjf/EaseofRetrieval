@@ -4,7 +4,7 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The frame covers 25 inches of height, from sitting to standing",
+      "text_draft": "The frame travels from 22.8 to 48.4 inches",
       "fact_field": "height_range"
     },
     {
@@ -18,7 +18,7 @@
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two motors drive three-stage columns rather than one",
+      "text_draft": "Two motors drive the lifting columns instead of one",
       "fact_field": "motors"
     },
     {
@@ -26,13 +26,13 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Four saved heights bring it back without hunting",
-      "fact_field": "keypad"
+      "fact_field": "presets"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It stops and backs off when it meets an obstacle",
+      "text_draft": "It stops and reverses when it meets an obstacle",
       "fact_field": "anticollision"
     },
     {
@@ -46,7 +46,7 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Carbon steel and BIFMA certification back the frame",
+      "text_draft": "Carbon steel makes up the frame and columns",
       "fact_field": "frame"
     },
     {
@@ -60,29 +60,29 @@
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Fifteen years of cover runs across frame and motors",
+      "text_draft": "Fifteen years of cover run across frame and motor",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The capacity handles a multi-monitor setup without strain",
-      "fact_field": "capacity_praise"
+      "text_draft": "Three-stage columns cover the whole range in one frame",
+      "fact_field": "column"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It stays under 50 decibels while moving",
-      "fact_field": "noise"
+      "text_draft": "A child lock stops the keypad being pressed by accident",
+      "fact_field": "child_lock"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A child lock stops the keypad being pressed by accident",
-      "fact_field": "keypad"
+      "text_draft": "The frame is certified to BIFMA standards",
+      "fact_field": "bifma"
     }
   ],
   "cons": [
@@ -111,36 +111,36 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The motors are audible in a shared room",
+      "text_draft": "The motors reach 50 decibels in a shared room",
       "fact_field": "noise"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The assembled frame comes in around 76.7 pounds",
+      "text_draft": "The assembled frame comes in near 76.7 pounds",
       "fact_field": "assembled_weight"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Travel is slow enough to notice when switching often",
-      "fact_field": "speed"
+      "text_draft": "The frame arrives without any desktop at all",
+      "fact_field": "no_desktop"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The frame arrives without any desktop at all",
-      "fact_field": "accessories"
+      "text_draft": "The USB port comes only on the upgraded keypad",
+      "fact_field": "usb_optional"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Column bolts need checking every so often",
-      "fact_field": "frame"
+      "text_draft": "Control is by keypad only, with no wireless link",
+      "fact_field": "no_app"
     }
   ]
 }

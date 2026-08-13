@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The microcomputer adjusts heat as the rice cooks",
+      "text_draft": "The microcomputer adjusts heat while the rice cooks",
       "fact_field": "technology"
     },
     {
@@ -19,42 +19,42 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The rounded inner pan surrounds the rice with heat",
-      "fact_field": "technology"
+      "fact_field": "spherical_pan"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Keep warm and reheat both run from one panel",
+      "text_draft": "Keep warm holds the rice at serving temperature",
       "fact_field": "keepwarm"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The LCD shows which stage the cycle has reached",
-      "fact_field": "controls"
+      "text_draft": "A reheating cycle brings cooled rice back to temperature",
+      "fact_field": "reheat"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The inner lid detaches so it can be washed properly",
-      "fact_field": "maintenance"
+      "text_draft": "The LCD shows which stage the cycle has reached",
+      "fact_field": "controls"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The steam vent lifts out for washing as well",
-      "fact_field": "maintenance"
+      "text_draft": "The nonstick pan releases cooked rice without sticking",
+      "fact_field": "nonstick_pan"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "At 9.5 inches wide it leaves room on the counter",
-      "fact_field": "dimensions"
+      "text_draft": "The side handles stay cool enough to grip after cooking",
+      "fact_field": "stay_cool"
     },
     {
       "entry_id": "p09",
@@ -67,22 +67,22 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 8.4 pounds it lifts easily onto a shelf",
+      "text_draft": "At 8.4 pounds it lifts onto a shelf without trouble",
       "fact_field": "weight"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The handles stay cool enough to grip after cooking",
-      "fact_field": "maintenance"
+      "text_draft": "650 watts runs on any ordinary kitchen circuit",
+      "fact_field": "power"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "650 watts runs on any ordinary kitchen circuit",
-      "fact_field": "power"
+      "text_draft": "At 9.5 inches wide it leaves room on the counter",
+      "fact_field": "dimensions"
     }
   ],
   "cons": [
@@ -125,7 +125,7 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The cord stays out rather than winding back in",
+      "text_draft": "The cord stays out instead of winding back in",
       "fact_field": "cord_fixed"
     },
     {
@@ -139,8 +139,8 @@
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One pan means one batch size and nothing else",
-      "fact_field": "single_pan"
+      "text_draft": "Keep warm has no extended mode for longer holds",
+      "fact_field": "no_extended_warm"
     }
   ]
 }

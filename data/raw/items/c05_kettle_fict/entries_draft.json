@@ -18,43 +18,43 @@
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "1.2 litres covers several cups from one fill",
+      "text_draft": "1.2 litres covers several cups from a single fill",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Hold mode keeps the water hot for thirty minutes",
-      "fact_field": "functions"
+      "text_draft": "A boil-dry cutoff kills the element when it runs empty",
+      "fact_field": "boil_dry"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The body is 304 stainless rather than coated steel",
+      "text_draft": "The body is 304 stainless steel with a BPA-free handle",
       "fact_field": "materials"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A boil-dry cutoff kills the element when it runs empty",
-      "fact_field": "functions"
+      "text_draft": "The backlit display stays readable in a dim kitchen",
+      "fact_field": "controls"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The backlit display stays readable in a dim kitchen",
-      "fact_field": "controls"
+      "text_draft": "The three-foot cord reaches an outlet set back from the counter",
+      "fact_field": "cord"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The cord reaches three feet to the nearest outlet",
-      "fact_field": "cord"
+      "text_draft": "The handle stays cool while the element is running",
+      "fact_field": "cool_handle"
     },
     {
       "entry_id": "p09",
@@ -74,15 +74,15 @@
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The handle and lid pull are both BPA-free",
-      "fact_field": "materials"
+      "text_draft": "The lid lifts off completely for filling and cleaning",
+      "fact_field": "lid"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Preset buttons get water heating in one press",
-      "fact_field": "controls"
+      "text_draft": "At 203 millimetres tall it sits under a wall cabinet",
+      "fact_field": "dimensions"
     }
   ],
   "cons": [
@@ -97,50 +97,50 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nothing schedules a boil or times the brew",
+      "text_draft": "Heating cannot be started at a set time",
       "fact_field": "no_schedule"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Hold mode stops at thirty minutes and cannot be extended",
-      "fact_field": "hold_single"
+      "text_draft": "Nothing times the pour once brewing starts",
+      "fact_field": "no_stopwatch"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The base adds its own footprint on the counter",
-      "fact_field": "base_footprint"
+      "text_draft": "Hold mode stops at thirty minutes and cannot be extended",
+      "fact_field": "hold_single"
     },
     {
       "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "The powered base occupies its own area of counter",
+      "fact_field": "base_footprint"
+    },
+    {
+      "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
       "text_draft": "Scale builds up and needs descaling on a schedule",
       "fact_field": "descale_need"
     },
     {
-      "entry_id": "n06",
+      "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
       "text_draft": "Nothing corrects the boiling point at altitude",
       "fact_field": "no_altitude"
     },
     {
-      "entry_id": "n07",
+      "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
       "text_draft": "The gooseneck pours slowly, which drags for large volumes",
       "fact_field": "slow_pour"
-    },
-    {
-      "entry_id": "n08",
-      "valence": "con",
-      "tier": "core8",
-      "text_draft": "Five presets rule out anything between them",
-      "fact_field": "temp_range"
     }
   ]
 }

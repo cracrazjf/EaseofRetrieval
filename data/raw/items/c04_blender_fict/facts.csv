@@ -4,7 +4,7 @@ weight,11.2 lb,mirror,derived-from:c04_blender_real,2026-08-13,,yes
 container,"64-ounce container, dishwasher safe",difference_point,derived-from:c04_blender_real,2026-08-13,diff: larger container,yes
 motor,"1.8 horsepower motor, 110-120 V",mirror,derived-from:c04_blender_real,2026-08-13,,yes
 blades,"stainless steel blades, metal drive coupling",mirror,derived-from:c04_blender_real,2026-08-13,,yes
-speeds,eight variable speeds plus three preset programs,difference_point,derived-from:c04_blender_real,2026-08-13,diff: preset programs,yes
+speeds,eight variable speeds,mirror,derived-from:c04_blender_real,2026-08-13,,yes
 controls,speed dial and three program buttons,difference_point,derived-from:c04_blender_real,2026-08-13,,yes
 accessories,"motor base, 64-ounce container, lid with fill cap",difference_point,derived-from:c04_blender_real,2026-08-13,diff: no tamper,yes
 cord,4 foot cord,mirror,derived-from:c04_blender_real,2026-08-13,,yes
@@ -14,6 +14,12 @@ no_tamper,no tamper supplied for pushing down thick mixtures,spec_derived,derive
 tall_assembly,assembled height of 19 inches,spec_derived,derived-from:spec,2026-08-13,con,yes
 fixed_programs,three preset programs cover limited recipes,spec_derived,derived-from:spec,2026-08-13,con,yes
 cord_short,four-foot cord limits outlet placement,spec_derived,derived-from:spec,2026-08-13,con,premise
-warranty_span,"warranty runs three years, shorter than some",SD,derived-from:spec,2026-08-13,con,premise
+warranty_span,warranty runs three years,spec_derived,derived-from:spec,2026-08-13,"con; unused, superseded by warranty_shipping",yes
 large_min,64-ounce container needs volume to circulate,spec_derived,derived-from:spec,2026-08-13,con,yes
 single_container,one container size supplied for all batch sizes,spec_derived,derived-from:spec,2026-08-13,con,yes
+programs,"three preset programs: smoothies, frozen desserts, soups",difference_point,derived-from:c04_blender_real,2026-08-13,diff: preset programs,yes
+fill_cap,lid with removable fill cap for adding ingredients,mirror,derived-from:c04_blender_real,2026-08-13,,yes
+base_feet,non-slip feet on the motor base,mirror,derived-from:c04_blender_real,2026-08-13,category standard,yes
+no_pulse,no separate pulse switch on the panel,difference_point,derived-from:c04_blender_real,2026-08-13,diff: no pulse switch,yes
+warranty_shipping,warranty does not cover shipping or performance,spec_derived,derived-from:spec,2026-08-13,con,yes
+blades_fixed,blade assembly fixed in the container and does not come out for washing,spec_derived,derived-from:spec,2026-08-13,con,yes

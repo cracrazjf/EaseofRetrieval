@@ -4,15 +4,19 @@ weight,1300 g including base,mirror,derived-from:c05_kettle_real,2026-08-13,,yes
 capacity,40 oz / 1.2 L,difference_point,derived-from:c05_kettle_real,2026-08-13,diff: larger capacity,yes
 power,"110-120 V, 1200 W, 50-60 Hz",mirror,derived-from:c05_kettle_real,2026-08-13,,yes
 materials,"304 stainless steel body, BPA-free handle and lid pull",mirror,derived-from:c05_kettle_real,2026-08-13,,yes
-temp_range,five preset temperatures from 140 to 212 F,difference_point,derived-from:c05_kettle_real,2026-08-13,diff: presets not degree dial,yes
+temp_range,"five preset temperatures: 140, 160, 175, 195, 212 F",difference_point,derived-from:c05_kettle_real,2026-08-13,diff: presets not degree dial,yes
 functions,"hold mode at 30 minutes, boil-dry cutoff",difference_point,derived-from:c05_kettle_real,2026-08-13,diff: no schedule or stopwatch,yes
 controls,backlit segment display with five preset buttons,mirror,derived-from:c05_kettle_real,2026-08-13,,yes
 cord,3 foot cord,mirror,derived-from:c05_kettle_real,2026-08-13,,yes
 spout,gooseneck spout for directed pouring,mirror,derived-from:c05_kettle_real,2026-08-13,,yes
 no_degree_set,temperature cannot be set to a specific degree between presets,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_schedule,no scheduling function and no brew stopwatch,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_schedule,"no scheduling function, so heating cannot be started at a set time",difference_point,derived-from:c05_kettle_real,2026-08-13,diff: no schedule,yes
 hold_single,hold mode fixed at thirty minutes,spec_derived,derived-from:spec,2026-08-13,con,yes
-base_footprint,powered base adds its own counter footprint,spec_derived,derived-from:spec,2026-08-13,con,yes
+base_footprint,powered base occupies its own area of counter,spec_derived,derived-from:spec,2026-08-13,con,yes
 descale_need,stainless interior needs periodic descaling,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_altitude,no altitude adjustment for boil point,spec_derived,derived-from:spec,2026-08-13,con,yes
 slow_pour,gooseneck spout pours slowly by design,spec_derived,derived-from:spec,2026-08-13,con,yes
+boil_dry,boil-dry cutoff shuts the element off when the kettle runs empty,mirror,derived-from:c05_kettle_real,2026-08-13,,yes
+lid,lid lifts off completely for filling and cleaning,mirror,derived-from:c05_kettle_real,2026-08-13,,yes
+cool_handle,handle stays cool while the element runs,mirror,derived-from:c05_kettle_real,2026-08-13,,yes
+no_stopwatch,no brew stopwatch to time the pour,difference_point,derived-from:c05_kettle_real,2026-08-13,diff: no stopwatch,yes

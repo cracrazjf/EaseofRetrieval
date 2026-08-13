@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Eight speeds on the dial cover most textures",
+      "text_draft": "Eight variable speeds on the dial cover most textures",
       "fact_field": "speeds"
     },
     {
@@ -19,28 +19,28 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Three preset programs run smoothies, frozen desserts, and soups",
-      "fact_field": "speeds"
+      "fact_field": "programs"
     },
     {
       "entry_id": "p04",
-      "valence": "pro",
-      "tier": "core8",
-      "text_draft": "It cleans itself in about a minute without taking apart",
-      "fact_field": "maintenance"
-    },
-    {
-      "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The 64-ounce container goes straight into the dishwasher",
       "fact_field": "container"
     },
     {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Steel blades sit on a metal drive instead of plastic",
+      "fact_field": "blades"
+    },
+    {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The lid carries a fill cap that pops out mid-blend",
-      "fact_field": "accessories"
+      "text_draft": "It cleans itself in about a minute without coming apart",
+      "fact_field": "maintenance"
     },
     {
       "entry_id": "p07",
@@ -53,36 +53,36 @@
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Steel blades sit on a metal drive rather than plastic",
-      "fact_field": "blades"
+      "text_draft": "The fill cap pops out to add ingredients mid-blend",
+      "fact_field": "fill_cap"
     },
     {
       "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "The base, container, and lid arrive ready to use",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "At 11.2 pounds the base stays planted while running",
       "fact_field": "weight"
     },
     {
-      "entry_id": "p10",
-      "valence": "pro",
-      "tier": "extra4",
-      "text_draft": "The footprint stays under ten inches across",
-      "fact_field": "dimensions"
-    },
-    {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The larger container takes a bigger batch in one go",
-      "fact_field": "container"
+      "text_draft": "The footprint stays under ten inches across the counter",
+      "fact_field": "dimensions"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The cord reaches four feet to the nearest outlet",
-      "fact_field": "cord"
+      "text_draft": "Non-slip feet hold the base against the counter",
+      "fact_field": "base_feet"
     }
   ],
   "cons": [
@@ -104,43 +104,43 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Three programs cover only a narrow set of recipes",
-      "fact_field": "fixed_programs"
+      "text_draft": "A four-foot cord ties the base close to an outlet",
+      "fact_field": "cord_short"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A four-foot cord limits where the base can sit",
-      "fact_field": "cord_short"
-    },
-    {
-      "entry_id": "n05",
-      "valence": "con",
-      "tier": "core8",
-      "text_draft": "Cover runs out after three years",
-      "fact_field": "warranty_span"
-    },
-    {
-      "entry_id": "n06",
-      "valence": "con",
-      "tier": "core8",
-      "text_draft": "A 64-ounce jar needs volume before ingredients circulate",
+      "text_draft": "The 64-ounce jar needs volume before ingredients circulate",
       "fact_field": "large_min"
     },
     {
-      "entry_id": "n07",
+      "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
       "text_draft": "One container size covers every job, large or small",
       "fact_field": "single_container"
     },
     {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "There is no separate pulse switch on the panel",
+      "fact_field": "no_pulse"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "The warranty leaves out shipping and performance",
+      "fact_field": "warranty_shipping"
+    },
+    {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 11.2 pounds it is awkward to lift onto a shelf",
-      "fact_field": "weight"
+      "text_draft": "The blades never come out of the container for washing",
+      "fact_field": "blades_fixed"
     }
   ]
 }

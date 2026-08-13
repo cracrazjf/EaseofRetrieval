@@ -4,7 +4,7 @@ dimensions,9-1/2 x 12-3/4 x 8 in,mirror,derived-from:c03_ricecooker_real,2026-08
 power,120 V / 650 W,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
 weight,8.4 lb,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
 menus,"white regular, softer, harder, mixed, porridge, brown, quick",difference_point,derived-from:c03_ricecooker_real,2026-08-13,diff: seven settings,yes
-keepwarm,automatic keep warm and reheating cycle,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
+keepwarm,automatic keep warm holds rice at serving temperature,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
 no_timer,no delay timer,difference_point,derived-from:c03_ricecooker_real,2026-08-13,diff: no delay timer,yes
 technology,"microcomputer temperature control, spherical inner pan",mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
 controls,monochrome LCD panel with cook-stage indicator,difference_point,derived-from:c03_ricecooker_real,2026-08-13,diff: monochrome panel,yes
@@ -13,6 +13,11 @@ maintenance,"detachable inner lid, removable steam vent, stay-cool handles",mirr
 cook_time_derived,brown rice cycle runs longer than white,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_sushi_setting,no sushi or rinse-free setting among the seven menus,spec_derived,derived-from:spec,2026-08-13,con,yes
 lid_parts,inner lid and steam vent wash separately,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_clock,monochrome panel shows no clock,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_clock,monochrome panel shows no clock and no time of day,spec_derived,derived-from:spec,2026-08-13,con,yes
 cord_fixed,power cord is fixed and does not retract,spec_derived,derived-from:spec,2026-08-13,con,yes
-single_pan,single inner pan limits batch size,spec_derived,derived-from:spec,2026-08-13,con,premise
+single_pan,single inner pan limits batch size,spec_derived,derived-from:spec,2026-08-13,con,yes
+spherical_pan,spherical inner pan surrounds the rice with heat,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
+stay_cool,side handles stay cool to the touch,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
+nonstick_pan,nonstick inner pan releases cooked rice without sticking,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
+reheat,separate reheating cycle returns cooled rice to serving temperature,mirror,derived-from:c03_ricecooker_real,2026-08-13,,yes
+no_extended_warm,no extended keep-warm mode beyond the automatic one,difference_point,derived-from:c03_ricecooker_real,2026-08-13,diff: no extended keep warm,yes

@@ -9,11 +9,16 @@ timer,delay timer with two settings,official,https://www.zojirushi.com/app/produ
 technology,"Neuro Fuzzy logic microcomputer, spherical inner pan",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 controls,colored LCD panel with clock and timer,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 accessories,"rice measuring cup, rinse-free measuring cup, nonstick spatula, spatula holder",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
-maintenance,"detachable inner lid, retractable cord, stay-cool handles",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,premise
-origin,"made in Japan, cETLus listed",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,no
-cook_time,white rice 40-45 min; brown rice 80-100 min,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/,2026-08-13,con,yes
+maintenance,"detachable inner lid, retractable cord, stay-cool handles",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
+origin,"made in Japan, cETLus listed",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
+cook_time,brown rice cycle 80 to 100 minutes,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/,2026-08-13,con,yes
 lid_cleaning,detachable inner lid; removal is fiddly and needed weekly,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/,2026-08-13,con,yes
 price_high,priced above basic rice cookers,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/;https://medium.com/@smartlivingsolutions/zojirushi-ns-zcc10-neuro-fuzzy-rice-cooker-review-e1b377982cb7,2026-08-13,con; price not in spec sheet per DECISIONS,yes
 rice_quality,consistent rice texture across grain types,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/;https://medium.com/@smartlivingsolutions/zojirushi-ns-zcc10-neuro-fuzzy-rice-cooker-review-e1b377982cb7,2026-08-13,,yes
 warm_hold,keep warm holds texture over 12 hours,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/,2026-08-13,,yes
-longevity,reported service life over a decade in owner reports,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://www.bestbuy.com/site/reviews/zojirushi-neuro-fuzzy-rice-cooker-and-warmer-white/9391909,2026-08-13,,premise
+longevity,reported service life over a decade in owner reports,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://www.bestbuy.com/site/reviews/zojirushi-neuro-fuzzy-rice-cooker-and-warmer-white/9391909,2026-08-13,,yes
+spherical_pan,spherical inner pan surrounds the rice with heat,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
+retract_cord,cord retracts into the housing,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
+stay_cool,handles stay cool to the touch,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
+white_time,white rice cycle 40 to 45 minutes,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/,2026-08-13,con,yes
+no_steam_setting,no steam setting and no slow-cook setting among the eleven menus,spec_derived,derived-from:spec,2026-08-13,con,yes

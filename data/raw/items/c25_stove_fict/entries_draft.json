@@ -4,43 +4,43 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The canister sits beside the burner instead of under it",
+      "text_draft": "The canister sits beside the burner on a hose",
       "fact_field": "remote_feed"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three supports fold flat against the burner",
+      "text_draft": "Three supports fold flat and stay attached",
       "fact_field": "supports"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A needle valve on the hose trims the flame",
+      "text_draft": "A needle valve on the hose fitting trims the flame",
       "fact_field": "valve"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Pots up to 2.5 litres sit safely on top",
+      "text_draft": "Pots up to 2.5 litres sit on the supports",
       "fact_field": "pot_limit"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "One canister runs about a hundred minutes",
+      "text_draft": "One eight-ounce canister runs about a hundred minutes",
       "fact_field": "burn_time"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A low stance keeps a full pot from tipping",
-      "fact_field": "remote_feed"
+      "text_draft": "Ten thousand BTU brings water up quickly",
+      "fact_field": "output"
     },
     {
       "entry_id": "p07",
@@ -53,36 +53,36 @@
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten thousand BTU boils water quickly",
-      "fact_field": "output"
+      "text_draft": "The low burner keeps a full pot from tipping",
+      "fact_field": "low_stance"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The supports stay attached when folded away",
-      "fact_field": "supports"
-    },
-    {
-      "entry_id": "p10",
-      "valence": "pro",
-      "tier": "extra4",
-      "text_draft": "Two cups reach a boil in three minutes",
+      "text_draft": "Two cups reach a boil in about three minutes",
       "fact_field": "boil"
     },
     {
-      "entry_id": "p11",
+      "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "It burns butane and isobutane mixes",
       "fact_field": "fuel"
     },
     {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Folded it measures 3.1 by 2.4 inches",
+      "fact_field": "stowed"
+    },
+    {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It folds down to a flat packed shape",
-      "fact_field": "stowed"
+      "text_draft": "The canister runs inverted for liquid feed in cold weather",
+      "fact_field": "inverted_use"
     }
   ],
   "cons": [
@@ -97,7 +97,7 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The hose adds bulk that a top-mount stove avoids",
+      "text_draft": "The hose adds bulk a top-mount stove avoids",
       "fact_field": "hose_bulk"
     },
     {
@@ -111,14 +111,14 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Burner and canister together take a wider pitch",
+      "text_draft": "Burner and canister together take a wider footprint",
       "fact_field": "footprint_wide"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "An open burner head catches the wind",
+      "text_draft": "The open burner head catches wind from the side",
       "fact_field": "wind_exposed"
     },
     {
@@ -126,21 +126,21 @@
       "valence": "con",
       "tier": "core8",
       "text_draft": "Pure propane canisters cannot be used",
-      "fact_field": "fuel"
+      "fact_field": "fuel_limit"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Three minutes to boil is slow in cold weather",
-      "fact_field": "boil"
+      "text_draft": "The hose threads onto the canister before every use",
+      "fact_field": "hose_setup"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nothing on the burner lights it",
-      "fact_field": "no_igniter"
+      "text_draft": "No fuel canister comes in the box",
+      "fact_field": "no_canister"
     }
   ]
 }

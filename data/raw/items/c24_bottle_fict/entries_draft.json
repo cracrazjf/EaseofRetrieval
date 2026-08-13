@@ -4,7 +4,7 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Double-wall vacuum insulation sits inside stainless steel",
+      "text_draft": "Double-wall vacuum insulation sits inside an 18/8 stainless body",
       "fact_field": "materials"
     },
     {
@@ -12,14 +12,14 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Hot drinks hold for sixteen hours",
-      "fact_field": "retention"
+      "fact_field": "hot_retention"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Cold drinks hold for twenty-two hours",
-      "fact_field": "retention"
+      "fact_field": "cold_retention"
     },
     {
       "entry_id": "p04",
@@ -32,7 +32,7 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The lid doubles as a cup to drink from",
+      "text_draft": "The outer lid doubles as a cup to drink from",
       "fact_field": "cup"
     },
     {
@@ -46,43 +46,43 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A powder-coated shell carries a loop for clipping on",
-      "fact_field": "exterior"
+      "text_draft": "The wide opening takes ice cubes and a cleaning brush",
+      "fact_field": "wide_mouth"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "A spare cap gasket comes in the box",
-      "fact_field": "maintenance"
+      "fact_field": "spare_gasket"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The cap comes apart completely for cleaning",
-      "fact_field": "maintenance"
+      "text_draft": "The moulded loop clips it to the outside of a pack",
+      "fact_field": "loop"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The shell is 18/8 stainless throughout",
-      "fact_field": "materials"
+      "text_draft": "Several exterior colours tell bottles apart in a group",
+      "fact_field": "colors"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The loop clips it to the outside of a pack",
-      "fact_field": "exterior"
+      "text_draft": "The cap and cup components are BPA-free",
+      "fact_field": "bpa_free"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At one pound empty it packs without much penalty",
-      "fact_field": "weight"
+      "text_draft": "The cap and cup fit the other sizes in the line",
+      "fact_field": "line_parts"
     }
   ],
   "cons": [
@@ -104,7 +104,7 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Hand washing is the recommendation, not the dishwasher",
+      "text_draft": "Hand washing is the instruction, not the dishwasher",
       "fact_field": "hand_wash"
     },
     {
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A loop gives nothing to actually grip",
+      "text_draft": "The loop gives nothing to actually grip",
       "fact_field": "loop_only"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "It already weighs a pound before anything goes in",
+      "text_draft": "It weighs a pound before anything goes into it",
       "fact_field": "weight_full"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sixteen hours falls short of the eighteen-hour bottles",
-      "fact_field": "retention"
+      "text_draft": "The powder coating chips where it rubs inside a pack",
+      "fact_field": "coating_chip"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Powder coating chips where it rubs inside a pack",
-      "fact_field": "exterior"
+      "text_draft": "The 3.2-inch body will not sit in a cup holder",
+      "fact_field": "no_cupholder"
     }
   ]
 }

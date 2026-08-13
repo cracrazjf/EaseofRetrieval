@@ -1,17 +1,24 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 volume,28 L in a single size,difference_point,derived-from:c22_backpack_real,2026-08-13,diff: 28 L single size,yes
-weight,1.85 lb,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+weight,"1.85 pounds, light for 28 litres",mirror,derived-from:c22_backpack_real,2026-08-13,,yes
 dimensions,23.2 x 10.6 x 9.4 in,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
-closure,roll-top closure with a side release buckle,difference_point,derived-from:c22_backpack_real,2026-08-13,diff: roll-top,yes
+closure,roll top with a side release buckle cinches the pack down to its contents,difference_point,derived-from:c22_backpack_real,2026-08-13,diff: roll-top,yes
 main_fabric,recycled 210 denier ripstop nylon with a water repellent finish,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
-bottom_fabric,recycled 400 denier packcloth base,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
-suspension,perforated foam backpanel with an adjustable torso strap,difference_point,derived-from:c22_backpack_real,2026-08-13,"diff: single size, adjustable strap",yes
+bottom_fabric,heavier recycled 400 denier packcloth base,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+suspension,adjustable torso strap moves the harness to fit different back lengths,difference_point,derived-from:c22_backpack_real,2026-08-13,diff: single size with adjustable strap,yes
 attachments,"daisy chain webbing, trekking pole loops, side compression straps",mirror,derived-from:c22_backpack_real,2026-08-13,,yes
 pockets,"one zippered hipbelt pocket, internal sleeve, front stretch pocket",mirror,derived-from:c22_backpack_real,2026-08-13,,yes
-load_range,designed for loads of 8 to 18 lb,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+load_range,designed for loads of 8 to 18 pounds; suspension carries 18 pounds without complaint,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
 no_lid_pocket,roll top leaves no lid pocket for small items,spec_derived,derived-from:spec,2026-08-13,con,yes
 single_hip_pocket,one hipbelt pocket rather than two,spec_derived,derived-from:spec,2026-08-13,con,yes
 roll_access,main compartment reached by unrolling the top,spec_derived,derived-from:spec,2026-08-13,con,yes
 foam_panel,perforated foam backpanel venting less than suspended mesh,spec_derived,derived-from:spec,2026-08-13,con,yes
-one_size,single size fitting fewer torso lengths,spec_derived,derived-from:spec,2026-08-13,con,yes
+one_size,single size fitting fewer torso lengths than a two-size range,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_axe_loop,no ice axe attachment on the exterior,spec_derived,derived-from:spec,2026-08-13,con,yes
+daisy_chain,daisy chain webbing down the front takes whatever needs clipping on,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+pole_loops,trekking poles stow in loops along the side,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+compression,side compression straps pull a half-empty pack tight,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+stretch_pocket,front stretch pocket swallows a wet layer without opening the main compartment,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+internal_sleeve,internal sleeve sized for a hydration reservoir,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
+height_varies,pack height shifts with how much is carried,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_rain_cover,no rain cover included with the pack,difference_point,derived-from:c22_backpack_real,2026-08-13,diff: no rain cover; absence claim stated explicitly in briefing; con,yes

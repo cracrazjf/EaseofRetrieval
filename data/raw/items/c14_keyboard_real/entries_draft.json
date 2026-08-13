@@ -4,7 +4,7 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Eighty-four keys keep the arrows without the numpad",
+      "text_draft": "Eighty-four keys keep the arrows without the number pad",
       "fact_field": "layout"
     },
     {
@@ -12,34 +12,34 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "With the light off the battery runs 240 hours",
-      "fact_field": "battery"
+      "fact_field": "battery_backlight_off"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It pairs with three devices and swaps between them",
-      "fact_field": "connectivity"
+      "text_draft": "It runs wired over USB-C when the battery dies",
+      "fact_field": "wired_usbc"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Both Windows and Mac keycaps come in the box",
+      "text_draft": "Both Windows and Mac keycap sets come in the box",
       "fact_field": "keycaps"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Mac legends are rare on a mechanical board this size",
+      "text_draft": "Mac legends are uncommon on a mechanical board this size",
       "fact_field": "mac_layout"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Switching between paired machines works without fuss",
+      "text_draft": "Switching between three paired machines works without fuss",
       "fact_field": "bt_switching"
     },
     {
@@ -54,35 +54,35 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The hot-swap version takes any switch without soldering",
-      "fact_field": "switches"
+      "fact_field": "hotswap"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "Wired polling runs at a full 1000 hertz",
-      "fact_field": "polling"
+      "fact_field": "polling_wired"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Three hours brings the battery back to full",
-      "fact_field": "charging"
+      "text_draft": "A 4000-milliamp-hour cell sits inside the case",
+      "fact_field": "battery_capacity"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "An aluminium frame version sits alongside the plastic one",
-      "fact_field": "dimensions"
+      "text_draft": "Both macOS and Windows layouts are supported out of the box",
+      "fact_field": "compatibility"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weeks pass between charges with the light off",
-      "fact_field": "battery_praise"
+      "text_draft": "Gateron G Pro switches come in blue, red, or brown",
+      "fact_field": "switches"
     }
   ],
   "cons": [
@@ -112,14 +112,14 @@
       "valence": "con",
       "tier": "core8",
       "text_draft": "Wireless polling drops to 90 hertz",
-      "fact_field": "polling"
+      "fact_field": "polling_wireless"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
       "text_draft": "Turning on RGB cuts the battery to 72 hours",
-      "fact_field": "battery"
+      "fact_field": "battery_rgb"
     },
     {
       "entry_id": "n06",
@@ -132,15 +132,15 @@
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "ABS keycaps go shiny where fingers land most",
-      "fact_field": "keycaps"
+      "text_draft": "A flat battery takes about three hours to charge",
+      "fact_field": "charging"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Brightness moves in four steps and nothing between",
-      "fact_field": "backlight"
+      "text_draft": "Brightness moves in four steps with nothing between",
+      "fact_field": "backlight_levels"
     }
   ]
 }

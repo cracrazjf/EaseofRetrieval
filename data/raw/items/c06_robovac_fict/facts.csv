@@ -17,3 +17,10 @@ bin_small,0.5 L bin fills within a few rooms,spec_derived,derived-from:spec,2026
 bristle_tangle,bristle brush collects hair over time,spec_derived,derived-from:spec,2026-08-13,con,yes
 runtime_cap,90 minutes covers limited floor area,spec_derived,derived-from:spec,2026-08-13,con,yes
 threshold_limit,thresholds above 18 mm stop the unit,spec_derived,derived-from:spec,2026-08-13,con,yes
+bin_access,dustbin lifts out through a hinged door on the top,mirror,derived-from:c06_robovac_real,2026-08-13,,yes
+dock_return,robot returns to the charging dock on its own,mirror,derived-from:c06_robovac_real,2026-08-13,,yes
+accessories,"charging dock, spare filter, cleaning tool",mirror,derived-from:c06_robovac_real,2026-08-13,,yes
+no_voice,"no voice assistant control, so no run starts by voice",difference_point,derived-from:c06_robovac_real,2026-08-13,diff: no voice control,yes
+no_camera,"no camera, so objects left on the floor are not recognised",difference_point,derived-from:c06_robovac_real,2026-08-13,"diff: gyro navigation, no camera",yes
+wifi,joins a 2.4 GHz Wi-Fi network; app reports battery level and run history,mirror,derived-from:c06_robovac_real,2026-08-13,,yes
+noise,62 dB rated during a run,mirror,derived-from:c06_robovac_real,2026-08-13,,yes

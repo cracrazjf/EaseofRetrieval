@@ -7,13 +7,19 @@ together,Plant Together shared group focus sessions,official,https://www.foresta
 sounds,Mindful Space and ambient soundscapes,official,https://www.forestapp.cc/,2026-08-13,,yes
 realtrees,Trees for the Future partnership; over 2 million real trees planted,official,https://www.forestapp.cc/,2026-08-13,,yes
 free_tier,"free tier covers the timer, Deep Focus blocking, group sessions, and one soundscape",official,https://www.forestapp.cc/,2026-08-13,,yes
-paid_tier,Plus subscription unlocks remaining features,official,https://www.forestapp.cc/,2026-08-13,"no price recorded anywhere per DECISIONS.md item 4; regional variation, no official figure",premise
-legacy_gone,legacy one-time Pro purchase discontinued,official,https://www.forestapp.cc/,2026-08-13,spec grounding; also review-noted under pricing_confusing,yes
+paid_tier,Plus subscription unlocks remaining features,official,https://www.forestapp.cc/,2026-08-13,"no price recorded anywhere per DECISIONS.md item 4; regional variation, no official figure",yes
+legacy_gone,legacy one-time purchase discontinued in favour of a subscription,official,https://www.forestapp.cc/,2026-08-13,also review-noted under pricing_confusing,yes
 downloads,over 60 million downloads,official,https://www.forestapp.cc/,2026-08-13,,yes
-paywall,"detailed statistics, tags, and additional soundscapes require the paid tier",review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con,premise
-ext_purchase,browser extension is a separate purchase,review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con,premise
-pricing_confusing,pricing fragmented across platforms; subscription push after legacy one-time option removed,review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con; no specific prices recorded per DECISIONS.md item 4,premise
-free_soundscape_limit,free tier includes one soundscape only,spec_derived,derived-from:spec,2026-08-13,con; restates free_tier boundary,yes
-leave_penalty,leaving the app during a session kills the growing tree,spec_derived,derived-from:spec,2026-08-13,con,yes
-allowlist_setup,custom allowlists configured before a session begins,spec_derived,derived-from:spec,2026-08-13,con,yes
-sync_account,cross-device sync requires an account,spec_derived,derived-from:spec,2026-08-13,con; implied by sync feature,premise
+paywall,"detailed statistics, tags, and additional soundscapes require the paid tier",review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con,yes
+ext_purchase,browser extension is a separate purchase,review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con,yes
+pricing_confusing,pricing fragmented across platforms; subscription push after legacy one-time option removed,review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con; no specific prices recorded per DECISIONS.md item 4,yes
+free_soundscape_limit,free tier includes one soundscape only,spec_derived,derived-from:spec,2026-08-13,con,yes
+leave_penalty,leaving the app mid-session kills the growing tree,spec_derived,derived-from:spec,2026-08-13,con,yes
+allowlist_setup,custom allowlists configured before a session begins rather than during one,spec_derived,derived-from:spec,2026-08-13,con,yes
+sync_account,cross-device sync requires an account,spec_derived,derived-from:spec,2026-08-13,con; implied by sync feature,yes
+gamified,growing tree motivates longer sessions than a plain countdown timer,review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,,yes
+blocking_praise,blocking described as building steadier phone habits over weeks,review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,,yes
+mindful_space,Mindful Space adds a guided breathing exercise,official,https://www.forestapp.cc/,2026-08-13,,yes
+group_stake,group tree dies if any member gives up before the timer ends,official,https://www.forestapp.cc/,2026-08-13,con,yes
+no_desktop_app,no standalone desktop application; desktop work runs through the browser extension,official,https://www.forestapp.cc/,2026-08-13,absence claim stated explicitly in briefing,yes
+tree_species,coins unlock further tree species,official,https://www.forestapp.cc/,2026-08-13,,yes

@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The altimeter records elevation through every run",
-      "fact_field": "sensors"
+      "text_draft": "GPS tracking runs a full twenty-four hours on one charge",
+      "fact_field": "battery_gps"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Twenty-four hours of GPS covers an ultra",
-      "fact_field": "battery_gps"
+      "text_draft": "A barometric altimeter records elevation through every activity",
+      "fact_field": "altimeter"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Five buttons work through gloves in winter",
-      "fact_field": "controls"
+      "text_draft": "The 5 ATM rating covers swimming without taking it off",
+      "fact_field": "water"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Five ATM means it goes in the pool",
-      "fact_field": "water"
+      "text_draft": "Sixty-four megabytes stores a long stretch of activity history",
+      "fact_field": "memory"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sixty-four megabytes holds a long history of activities",
-      "fact_field": "memory"
+      "text_draft": "Five physical buttons work with gloves or wet hands",
+      "fact_field": "buttons_gloves"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The screen stays readable in direct sun",
-      "fact_field": "display"
+      "text_draft": "The 22-millimetre band swaps without tools",
+      "fact_field": "quick_release"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Standard 22-millimetre bands swap in seconds",
-      "fact_field": "materials"
+      "text_draft": "The transflective display stays readable in direct sunlight",
+      "fact_field": "display_transflective"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The recovery advisor says when to run again",
-      "fact_field": "features"
+      "text_draft": "An interval timer is built in for repeat efforts",
+      "fact_field": "interval_timer"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Twelve days pass between charges in watch mode",
+      "text_draft": "Watch mode lasts up to twelve days between charges",
       "fact_field": "battery_smart"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "An interval timer sits in the training menu",
-      "fact_field": "features"
+      "text_draft": "The band fits wrists from 130 to 210 millimetres",
+      "fact_field": "wrist_range"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 41 grams it sits light on the wrist",
-      "fact_field": "weight"
+      "text_draft": "Elevation profiles are drawn after each recorded activity",
+      "fact_field": "elevation_profile"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Elevation profiles come out of the barometric sensor",
-      "fact_field": "sensors"
+      "text_draft": "A recovery advisor suggests rest days after activities",
+      "fact_field": "recovery_advisor"
     }
   ],
   "cons": [
@@ -90,57 +90,57 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Everything runs through buttons with no touchscreen",
-      "fact_field": "no_touch"
+      "text_draft": "It shows no map or breadcrumb trail for navigation",
+      "fact_field": "no_maps"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "It pairs only with the maker's own app",
+      "text_draft": "It pairs only with the maker's own companion app",
       "fact_field": "first_party_only"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There is no music on board at all",
+      "text_draft": "No music is stored on the watch itself",
       "fact_field": "no_music_derived"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The 44-millimetre case comes in one size only",
+      "text_draft": "The case comes in one 44-millimetre width only",
       "fact_field": "case_size"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Silicone is the only band material offered",
+      "text_draft": "The band is offered in silicone and nothing else",
       "fact_field": "band_material"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 240 pixels the screen looks coarse up close",
+      "text_draft": "At 240 by 240 pixels the screen reads coarse",
       "fact_field": "res_modest"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 41 grams it presses into the wrist overnight",
-      "fact_field": "weight"
+      "text_draft": "It uses GPS and GLONASS only, without a third system",
+      "fact_field": "sensors_two"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Only two satellite systems are supported",
-      "fact_field": "sensors"
+      "text_draft": "Charging depends on the proprietary clip cable, not a standard connector",
+      "fact_field": "charger"
     }
   ]
 }

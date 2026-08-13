@@ -9,7 +9,7 @@ presets,"8 presets: fries, chicken, steak, fish, vegetables, bake, reheat, keep 
 controls,"dial and button panel, no wireless control",difference_point,derived-from:c02_airfryer_real,2026-08-13,diff: no app,yes
 accessories,"recipe booklet, quick start guide, user manual",mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
 maintenance,"nonstick basket and crisper plate, dishwasher safe",mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
-no_remote_start,no remote start or scheduling without app,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_remote_start,no remote start or scheduling without app,spec_derived,derived-from:spec,2026-08-13,con,yes
 preset_gap,fewer presets means more manual time and temperature entry,spec_derived,derived-from:spec,2026-08-13,con,yes
 round_basket_area,round basket leaves unused corners in a square drawer,spec_derived,derived-from:spec,2026-08-13,con,yes
 counter_space,footprint of about 29 by 34 cm occupies counter depth,spec_derived,derived-from:spec,2026-08-13,con,yes
@@ -17,3 +17,6 @@ single_layer,single basket cooks one layer at a time,spec_derived,derived-from:s
 manual_shake,no reminder to shake the basket mid-cycle,spec_derived,derived-from:spec,2026-08-13,con,yes
 wattage_draw,1600 W draw on a shared kitchen circuit,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_window,no viewing window in the drawer,spec_derived,derived-from:spec,2026-08-13,con,yes
+crisper_plate,removable crisper plate raises food for airflow underneath,mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+cool_handle,drawer handle stays cool to the touch during cooking,mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+basket_release,basket releases from the drawer with a button on the handle,mirror,derived-from:c02_airfryer_real,2026-08-13,,yes

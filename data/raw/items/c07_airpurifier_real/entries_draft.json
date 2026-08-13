@@ -18,35 +18,35 @@
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sleep mode drops close to the noise floor of a room",
+      "text_draft": "Sleep mode drops to 24 decibels, close to a quiet room",
       "fact_field": "quiet_sleep"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The timer shuts it off after two to eight hours",
-      "fact_field": "modes"
+      "text_draft": "The timer switches it off after two to eight hours",
+      "fact_field": "timer"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A light on the panel says when the filter is spent",
-      "fact_field": "controls"
+      "text_draft": "A panel light says when the filter is spent",
+      "fact_field": "filter_indicator"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Replacement filters are cheap and widely stocked",
+      "text_draft": "Replacement filters cost little and are widely stocked",
       "fact_field": "filter_cost"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It cleans a room quickly for something this size",
+      "text_draft": "Measured delivery held between 126 and 154 cubic feet",
       "fact_field": "clean_rate"
     },
     {
@@ -60,7 +60,7 @@
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 7.9 pounds it moves from room to room easily",
+      "text_draft": "At 7.9 pounds it moves between rooms one-handed",
       "fact_field": "weight"
     },
     {
@@ -74,7 +74,7 @@
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It draws only 56 watts running continuously",
+      "text_draft": "It draws 56 watts running at full speed",
       "fact_field": "power"
     },
     {
@@ -97,50 +97,50 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The thin carbon layer struggles with strong cooking odours",
+      "text_draft": "The thin carbon layer struggles with heavy cooking odours",
       "fact_field": "carbon_thin"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "On full speed it climbs past 60 decibels",
+      "text_draft": "At full speed it measures 50 to 65 decibels",
       "fact_field": "loud_max"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Newer models in the line use less power for the same work",
+      "text_draft": "Newer models in the line do the same work on less power",
       "fact_field": "efficiency"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There is no app or remote to reach it from a chair",
-      "fact_field": "no_sensor"
+      "text_draft": "No app or remote reaches it from across the room",
+      "fact_field": "no_app"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Rated coverage drops to 222 square feet at real turnover",
+      "text_draft": "Coverage falls to 222 square feet at 4.8 air changes",
       "fact_field": "coverage"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The pre-filter needs vacuuming or it clogs",
-      "fact_field": "filtration"
+      "text_draft": "The pre-filter clogs unless it is vacuumed regularly",
+      "fact_field": "prefilter_care"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 14.2 inches tall it stands out in a small room",
-      "fact_field": "dimensions"
+      "text_draft": "At 14.2 inches tall it takes over a side table",
+      "fact_field": "height"
     }
   ]
 }

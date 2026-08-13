@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two doors mean nobody climbs over anybody",
+      "text_draft": "Two doors mean neither occupant climbs over the other",
       "fact_field": "two_doors"
     },
     {
@@ -25,14 +25,14 @@
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Near-vertical walls make the interior usable, not just enterable",
+      "text_draft": "Near-vertical walls make the interior usable, not merely enterable",
       "fact_field": "livable"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Twenty-nine square feet holds two sleeping pads",
+      "text_draft": "Twenty-nine square feet takes two sleeping pads",
       "fact_field": "floor"
     },
     {
@@ -46,15 +46,15 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It packs down to eighteen by six inches",
+      "text_draft": "It packs down to 18 by 6 inches",
       "fact_field": "packed_size"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Gutters over both doors keep rain off the sleeper",
-      "fact_field": "doors"
+      "text_draft": "It stands on hard ground without a single stake",
+      "fact_field": "capacity"
     },
     {
       "entry_id": "p09",
@@ -67,22 +67,22 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The hub-and-pole assembly comes as one piece",
+      "text_draft": "The hub and pole assembly comes as one piece",
       "fact_field": "poles"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Stakes, guylines, and a sack all come along",
-      "fact_field": "capacity"
+      "text_draft": "Rain gutters over both doors shed water away",
+      "fact_field": "doors"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It stands on rock without a single stake",
-      "fact_field": "capacity"
+      "text_draft": "Stakes, guylines, and a stuff sack are included",
+      "fact_field": "accessories"
     }
   ],
   "cons": [
@@ -90,57 +90,57 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Getting the rainfly on correctly is not obvious",
+      "text_draft": "Getting the rainfly on the right way is not obvious",
       "fact_field": "fly_fiddly"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A thin floor wants a footprint underneath it",
+      "text_draft": "The thin floor wants a footprint bought separately",
       "fact_field": "footprint_extra"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "That footprint costs extra on top of the tent",
-      "fact_field": "footprint_extra"
+      "text_draft": "Thirty-nine inches of headroom keeps taller campers hunched",
+      "fact_field": "peak_height"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Thirty-nine inches of headroom keeps sitting hunched",
-      "fact_field": "peak_height"
+      "text_draft": "A 1200 millimetre fly is modest for sustained rain",
+      "fact_field": "rainfly"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A 1200-millimetre fly is modest for sustained rain",
-      "fact_field": "rainfly"
+      "text_draft": "Fifty inches across is tight for two adults",
+      "fact_field": "floor_width"
     },
     {
       "entry_id": "n06",
-      "valence": "con",
-      "tier": "core8",
-      "text_draft": "Fifty inches across is tight for two adults",
-      "fact_field": "floor"
-    },
-    {
-      "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
       "text_draft": "Packaged weight comes to nearly four pounds",
       "fact_field": "packed_weight"
     },
     {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No gear loft comes with the tent",
+      "fact_field": "no_gear_loft"
+    },
+    {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Twenty-denier canopy fabric tears if snagged",
-      "fact_field": "canopy"
+      "text_draft": "The minimum weight figure leaves out stakes and sack",
+      "fact_field": "min_weight_basis"
     }
   ]
 }

@@ -4,35 +4,35 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Twenty-eight litres swallows a full day of gear",
+      "text_draft": "Twenty-eight litres holds a full day of gear",
       "fact_field": "volume"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The roll top shrinks the pack down to what is inside",
-      "fact_field": "closure"
+      "text_draft": "At 1.85 pounds it is light for 28 litres",
+      "fact_field": "weight"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The torso strap moves the harness to fit the wearer",
-      "fact_field": "suspension"
+      "text_draft": "The roll top cinches the pack down to its contents",
+      "fact_field": "closure"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "At 1.85 pounds it is light for its volume",
-      "fact_field": "weight"
+      "text_draft": "An adjustable torso strap moves the harness to fit",
+      "fact_field": "suspension"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Recycled nylon carries a water repellent finish",
+      "text_draft": "Recycled ripstop nylon carries a water repellent finish",
       "fact_field": "main_fabric"
     },
     {
@@ -40,21 +40,21 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Daisy chain webbing takes whatever needs clipping on",
-      "fact_field": "attachments"
+      "fact_field": "daisy_chain"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Trekking poles stow along the side",
-      "fact_field": "attachments"
+      "text_draft": "Trekking poles stow in loops along the side",
+      "fact_field": "pole_loops"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A stretch pocket on the front swallows a wet layer",
-      "fact_field": "pockets"
+      "text_draft": "A front stretch pocket swallows a wet layer",
+      "fact_field": "stretch_pocket"
     },
     {
       "entry_id": "p09",
@@ -67,21 +67,21 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Side straps compress a half-empty pack",
-      "fact_field": "attachments"
+      "text_draft": "Side compression straps pull a half-empty pack tight",
+      "fact_field": "compression"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "An internal sleeve takes a hydration reservoir",
-      "fact_field": "pockets"
+      "fact_field": "internal_sleeve"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The suspension handles eighteen pounds comfortably",
+      "text_draft": "The suspension carries 18 pounds without complaint",
       "fact_field": "load_range"
     }
   ],
@@ -90,14 +90,14 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A roll top leaves nowhere quick to stash small items",
+      "text_draft": "The roll top leaves no lid pocket for small items",
       "fact_field": "no_lid_pocket"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One hipbelt pocket rather than two",
+      "text_draft": "One zippered hipbelt pocket rather than two",
       "fact_field": "single_hip_pocket"
     },
     {
@@ -111,36 +111,36 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A foam panel breathes less than suspended mesh",
+      "text_draft": "A perforated foam panel vents less than suspended mesh",
       "fact_field": "foam_panel"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One size will not fit every torso length",
+      "text_draft": "A single size fits fewer torso lengths",
       "fact_field": "one_size"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nothing on the outside takes an ice axe",
+      "text_draft": "Nothing on the exterior takes an ice axe",
       "fact_field": "no_axe_loop"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Loads past eighteen pounds overwhelm the suspension",
-      "fact_field": "load_range"
+      "text_draft": "Pack height shifts with how much is carried",
+      "fact_field": "height_varies"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pack height changes as the contents shift around",
-      "fact_field": "closure"
+      "text_draft": "No rain cover is included with the pack",
+      "fact_field": "no_rain_cover"
     }
   ]
 }

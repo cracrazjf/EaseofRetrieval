@@ -1,18 +1,23 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 weight,3.4 oz / 96 g including the hose,mirror,derived-from:c25_stove_real,2026-08-13,,yes
-stowed,3.1 x 2.4 x 1.6 in stowed with supports folded,mirror,derived-from:c25_stove_real,2026-08-13,,yes
-output,"2600 kcal per hour, 3020 W, 10,300 BTU",mirror,derived-from:c25_stove_real,2026-08-13,,yes
-boil,two cups in about three minutes in still air,mirror,derived-from:c25_stove_real,2026-08-13,,yes
-burn_time,about a hundred minutes per eight-ounce canister,mirror,derived-from:c25_stove_real,2026-08-13,,yes
-fuel,"butane and isobutane mixes, not pure propane",mirror,derived-from:c25_stove_real,2026-08-13,,yes
+stowed,3.1 by 2.4 by 1.6 inches folded,mirror,derived-from:c25_stove_real,2026-08-13,,yes
+output,"2600 kcal per hour, 3020 W, 10,300 BTU, which brings water up quickly",mirror,derived-from:c25_stove_real,2026-08-13,,yes
+boil,two cups reach a boil in about three minutes in still air,mirror,derived-from:c25_stove_real,2026-08-13,,yes
+burn_time,about a hundred minutes per eight-ounce canister at a moderate setting,mirror,derived-from:c25_stove_real,2026-08-13,,yes
+fuel,burns butane and isobutane mixes,mirror,derived-from:c25_stove_real,2026-08-13,,yes
 no_igniter,no built-in igniter; lit with a match or lighter,difference_point,derived-from:c25_stove_real,2026-08-13,diff: no igniter,yes
-valve,needle valve on the hose fitting,mirror,derived-from:c25_stove_real,2026-08-13,,yes
+valve,needle valve on the hose fitting trims the flame,mirror,derived-from:c25_stove_real,2026-08-13,,yes
 material,stainless steel burner head on an aluminium base,mirror,derived-from:c25_stove_real,2026-08-13,,yes
-supports,three fixed pot supports that fold against the burner,difference_point,derived-from:c25_stove_real,2026-08-13,diff: folding fixed supports,yes
-remote_feed,canister sits beside the burner on a hose,difference_point,derived-from:c25_stove_real,2026-08-13,diff: remote canister,yes
-pot_limit,"2.5 L pot maximum, 2 L liquid",mirror,derived-from:c25_stove_real,2026-08-13,,yes
-no_ignition_con,"no igniter, so a match or lighter is carried separately",spec_derived,derived-from:spec,2026-08-13,con,yes
-hose_bulk,hose adding bulk and weight in the pack,spec_derived,derived-from:spec,2026-08-13,con,yes
-weight_higher,"96 g, heavier than compact top-mount stoves",spec_derived,derived-from:spec,2026-08-13,con,yes
-footprint_wide,burner and canister occupying a wider footprint,spec_derived,derived-from:spec,2026-08-13,con,yes
-wind_exposed,open burner head more exposed to wind,spec_derived,derived-from:spec,2026-08-13,con,yes
+supports,three pot supports that fold flat and stay attached,difference_point,derived-from:c25_stove_real,2026-08-13,diff: folding fixed supports,yes
+remote_feed,canister sits alongside the burner on a flexible hose rather than underneath,difference_point,derived-from:c25_stove_real,2026-08-13,diff: remote canister,yes
+pot_limit,"pots up to 2.5 litres, or 2 litres of liquid",mirror,derived-from:c25_stove_real,2026-08-13,,yes
+no_ignition_con,"no igniter, so a match or lighter has to travel with it",spec_derived,derived-from:spec,2026-08-13,con,yes
+hose_bulk,hose adds bulk a top-mount stove avoids,spec_derived,derived-from:spec,2026-08-13,con,yes
+weight_higher,"3.4 oz / 96 g including the hose, more than compact top-mount rivals",spec_derived,derived-from:spec,2026-08-13,con,yes
+footprint_wide,burner and canister together take a wider footprint than a top-mount stove,spec_derived,derived-from:spec,2026-08-13,con,yes
+wind_exposed,open burner head catches wind from the side,spec_derived,derived-from:spec,2026-08-13,con,yes
+low_stance,low burner keeps a full pot from tipping,difference_point,derived-from:c25_stove_real,2026-08-13,diff: remote burner sits low,yes
+inverted_use,canister can be run inverted for liquid feed in cold weather,difference_point,derived-from:c25_stove_real,2026-08-13,diff: remote feed allows inverted canister,yes
+fuel_limit,pure propane canisters cannot be used,spec_derived,derived-from:spec,2026-08-13,con,yes
+hose_setup,hose threads onto the canister before every use,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_canister,no fuel canister comes in the box,mirror,derived-from:c25_stove_real,2026-08-13,absence claim stated explicitly in briefing; con,yes

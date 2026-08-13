@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "On low it keeps going for thirty hours",
+      "text_draft": "On the low setting it keeps going for thirty hours",
       "fact_field": "runtime"
     },
     {
@@ -32,8 +32,8 @@
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The nozzle aims the mist away from nearby furniture",
-      "fact_field": "type"
+      "text_draft": "The nozzle turns to aim mist away from the furniture",
+      "fact_field": "nozzle"
     },
     {
       "entry_id": "p06",
@@ -46,14 +46,14 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A mineral cartridge sits in the reservoir from the start",
-      "fact_field": "cartridge"
+      "text_draft": "With no fan in the housing it runs quietly",
+      "fact_field": "quiet_run"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It draws only 34 watts running continuously",
+      "text_draft": "It draws 34 watts running continuously",
       "fact_field": "power"
     },
     {
@@ -74,7 +74,7 @@
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Two years of cover comes with the unit",
+      "text_draft": "Two years of cover come with the unit",
       "fact_field": "warranty"
     },
     {
@@ -97,7 +97,7 @@
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The mineral cartridge has to be bought again",
+      "text_draft": "The mineral cartridge has to be bought again on schedule",
       "fact_field": "cartridge_cost"
     },
     {
@@ -125,22 +125,22 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 13.8 inches tall it dominates a side table",
-      "fact_field": "dimensions"
+      "text_draft": "Output cannot be set by hand, only by target",
+      "fact_field": "no_speeds"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cover runs out after two years",
-      "fact_field": "warranty"
+      "text_draft": "It keeps running after the reservoir has run dry",
+      "fact_field": "no_auto_off"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The cartridge sits down inside the reservoir to reach",
-      "fact_field": "cartridge"
+      "text_draft": "At full output a fill lasts about ten hours",
+      "fact_field": "runtime_high"
     }
   ]
 }

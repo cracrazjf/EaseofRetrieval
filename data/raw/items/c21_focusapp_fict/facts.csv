@@ -5,11 +5,19 @@ no_group,no shared or group sessions,difference_point,derived-from:c21_focusapp_
 sounds,ambient sound library included on the free tier,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
 stats,session statistics summarised by day and by week in the dashboard,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
 free_tier,"free tier: timer, blocking, three ambient tracks, seven day history",mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
-paid_tier,"paid tier adds the full sound library, unlimited history, and scene variants",mirror,derived-from:c21_focusapp_real,2026-08-13,prices omitted per DECISIONS,yes
+paid_tier,"paid tier adds the full sound library, lifts the history limit entirely, and unlocks scene variants",mirror,derived-from:c21_focusapp_real,2026-08-13,prices omitted per DECISIONS,yes
 platforms,"macOS and Windows desktop, with a companion web dashboard",mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
 no_mobile,"no mobile client, so phone use during a session is unrestricted",spec_derived,derived-from:spec,2026-08-13,con,yes
-no_group_con,no shared or group sessions,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_stake,progress already earned is kept when a session is abandoned,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_group_con,no shared or group sessions of any kind; sessions cannot be shared with anyone else,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_stake,"detail already earned is kept, so nothing is lost by abandoning a session halfway",spec_derived,derived-from:spec,2026-08-13,con,yes
 history_cap,free tier keeps seven days of history,spec_derived,derived-from:spec,2026-08-13,con,yes
 sound_cap,free tier includes three ambient tracks,spec_derived,derived-from:spec,2026-08-13,con,yes
 desktop_only,no client for tablets or phones,spec_derived,derived-from:spec,2026-08-13,con,yes
+dashboard,companion web dashboard reviews the statistics from any browser,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
+export,session data exports from the dashboard as CSV,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
+session_length,session length set anywhere from five to 180 minutes in one-minute steps,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
+offline,sessions run offline and sync once the machine reconnects,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
+no_account,timer runs on one machine without an account,difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: account optional,yes
+blocklist_locked,blocking list cannot change while a session runs,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_realtree,finished sessions fund nothing outside the application; no tree planting or donation,difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: no real-world component; absence stated in briefing,yes
+no_schedule,no schedule starts a session automatically; every session started by hand,difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: no Time Guard equivalent,yes

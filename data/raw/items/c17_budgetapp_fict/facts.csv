@@ -1,17 +1,26 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
-method,envelope budgeting with unspent amounts rolling into the next period,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: envelope with rollover,yes
+method,envelope method with any unspent amount rolling into the following period,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: envelope with rollover,yes
 platforms,"web and iOS, with Android in progress",mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
 import,manual CSV import from bank statements,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: no bank linking,yes
 sharing,plan shared with one additional member,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
-free_tier,free tier limited to ten envelopes and one account,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: free tier exists,yes
-paid_tier,"paid tier unlocks unlimited envelopes, reports, and sharing",mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
-goals,savings goals with target dates,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+free_tier,free tier covers ten envelopes and one account without payment,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: free tier exists,yes
+paid_tier,paid tier lifts the envelope limit and adds sharing,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+goals,savings goals accept target dates for planned purchases,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
 reports,monthly category summaries and a rollover history view,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
-export,envelope and transaction export as CSV,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
-offline,entries can be recorded offline and sync when reconnected,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
-no_bank_link,every transaction is entered or imported by hand,spec_derived,derived-from:spec,2026-08-13,con,yes
-free_caps,free tier stops at ten envelopes,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_android,no Android client yet,spec_derived,derived-from:spec,2026-08-13,con,yes
-sharing_limit,sharing covers one additional member only,spec_derived,derived-from:spec,2026-08-13,con,yes
+export,envelope and transaction data export as CSV files,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+offline,entries can be recorded offline and sync when the device reconnects,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+no_bank_link,the application does not link to bank accounts,spec_derived,derived-from:spec,2026-08-13,con,yes
+free_caps,free tier stops at ten envelopes and one account,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_android,there is no Android client,spec_derived,derived-from:spec,2026-08-13,con,yes
+sharing_limit,sharing reaches one additional member and no more,spec_derived,derived-from:spec,2026-08-13,con,yes
 manual_effort,monthly CSV import is a recurring manual step,spec_derived,derived-from:spec,2026-08-13,con,yes
-report_depth,reports cover categories without net worth tracking,spec_derived,derived-from:spec,2026-08-13,con,yes
+report_depth,"reports cover categories only, with no net worth tracking",spec_derived,derived-from:spec,2026-08-13,con,yes
+search,"search runs across transactions by payee, amount, and date",mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+templates,envelope templates copy a plan from one month to the next,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+recurring,recurring transactions scheduled once and posted automatically each period,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+attachments,receipt photos attach to individual transactions,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+rollover_view,rollover history view shows how envelope balances moved across earlier periods,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+multi_currency,envelopes denominated in more than one currency within the same plan,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+no_desktop_client,no installed desktop client; the browser is used instead,spec_derived,derived-from:spec,2026-08-13,con,yes
+import_format,CSV import accepts one fixed column layout,spec_derived,derived-from:spec,2026-08-13,con,yes
+web_only_reports,"reports open in the web app only, not on iOS",spec_derived,derived-from:spec,2026-08-13,con,yes

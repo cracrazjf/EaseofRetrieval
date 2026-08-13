@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The free tier stores as many passwords as needed",
-      "fact_field": "free_tier"
+      "text_draft": "The free tier covers the core function fully",
+      "fact_field": "free_praise"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Free accounts sync across as many devices as wanted",
-      "fact_field": "free_tier"
+      "text_draft": "Unlimited passwords sync across unlimited devices at no cost",
+      "fact_field": "free_unlimited"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The source is public and has passed outside audits",
-      "fact_field": "open_source"
+      "text_draft": "Clients reach every mainstream platform in use",
+      "fact_field": "cross_platform"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Clients cover every platform people actually use",
-      "fact_field": "cross_platform"
+      "text_draft": "Browser extensions cover nine browsers, Chrome and Safari included",
+      "fact_field": "extensions"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Extensions exist for nine different browsers",
-      "fact_field": "extensions"
+      "text_draft": "The source code is published and independently audited",
+      "fact_field": "open_source"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A command line client handles scripted work",
-      "fact_field": "cli"
+      "text_draft": "Vault contents encrypt on the device before syncing anywhere",
+      "fact_field": "encryption"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The web vault opens from any browser anywhere",
-      "fact_field": "web_vault"
+      "text_draft": "The server can be self-hosted on your own hardware",
+      "fact_field": "self_host"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The free tier covers what most people need",
-      "fact_field": "free_praise"
+      "text_draft": "A command line interface covers scripted use",
+      "fact_field": "cli"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A family plan covers six accounts at once",
-      "fact_field": "families"
+      "text_draft": "A web vault opens from any browser without installing",
+      "fact_field": "web_vault"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The paid tier folds an authenticator into the vault",
-      "fact_field": "paid_tier"
+      "text_draft": "Vault data exports as JSON or CSV for migration",
+      "fact_field": "import_export"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Emergency access comes with the paid tier",
-      "fact_field": "paid_tier"
+      "text_draft": "The families plan covers six accounts with shared collections",
+      "fact_field": "families"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Everything encrypts on the device before it uploads",
-      "fact_field": "encryption"
+      "text_draft": "Two-step login works on every tier, free included",
+      "fact_field": "account_2fa"
     }
   ],
   "cons": [
@@ -90,57 +90,57 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The interface looks dated beside rival managers",
+      "text_draft": "The interface looks less polished than competing managers",
       "fact_field": "dated_ui"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Autofill misses on more complicated sites",
+      "text_draft": "Autofill misfires on complex sites and needs manual help",
       "fact_field": "autofill_incons"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free users get community forums and nothing else",
+      "text_draft": "Free-tier support runs through community forums only",
       "fact_field": "free_support"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Authenticator codes sit behind the paid tier",
-      "fact_field": "free_limits"
+      "text_draft": "Integrated authenticator codes sit behind the paid tier",
+      "fact_field": "no_totp_free"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "File attachments never appear on the free tier",
-      "fact_field": "free_limits"
+      "text_draft": "File attachments require the paid tier as well",
+      "fact_field": "no_attach_free"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Security reports are held back for paying users",
-      "fact_field": "free_limits"
+      "text_draft": "Emergency access is locked to the paid tier",
+      "fact_field": "no_emergency_free"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Free sharing reaches exactly one other person",
-      "fact_field": "free_tier"
+      "text_draft": "Free accounts share items with one other user only",
+      "fact_field": "free_sharing_limit"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Emergency access is missing from the free tier",
-      "fact_field": "free_limits"
+      "text_draft": "A lost master password locks the vault permanently",
+      "fact_field": "no_recovery"
     }
   ]
 }

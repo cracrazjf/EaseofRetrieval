@@ -1,18 +1,28 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
-height_range,22.8 to 48.4 in frame height,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,one source lists 48.8 in max; discrepancy recorded,yes
+height_range,22.8 to 48.4 in frame height,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,conflict: one source lists 48.8 in max; 48.4 taken; verify before freeze,yes
 capacity,355 lb weight capacity,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,,yes
 motors,dual motor drive,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,,yes
-column,three stage lifting column,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,,yes
+column,three stage lifting column,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,flexispot.com 403s; value from search snippet of the official URL,yes
 speed,about 1.5 inches per second,review_consensus,https://www.remoteofficeguy.com/flexispot-e7-review/;https://standingdeskreference.com/desks/flexispot-e7/,2026-08-13,,yes
 noise,under about 50 dB during travel,review_consensus,https://standingdeskreference.com/desks/flexispot-e7/;https://thereviewrewind.com/flexispot-e7-standing-desk-review,2026-08-13,,yes
 keypad,"LED keypad with four memory presets, child lock, sit-stand reminders",official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,,yes
 anticollision,stops and reverses on contact with an obstacle,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,,yes
-frame,"carbon steel frame, BIFMA certified",review_consensus,https://thereviewrewind.com/flexispot-e7-standing-desk-review;https://standingdeskreference.com/desks/flexispot-e7/,2026-08-13,,yes
+frame,carbon steel frame,review_consensus,https://thereviewrewind.com/flexispot-e7-standing-desk-review;https://standingdeskreference.com/desks/flexispot-e7/,2026-08-13,,yes
 assembled_weight,about 76.7 lb assembled,review_consensus,https://thereviewrewind.com/flexispot-e7-standing-desk-review;https://www.remoteofficeguy.com/flexispot-e7-review/,2026-08-13,,yes
-warranty,"fifteen year warranty on frame, motor, and electronics",review_consensus,https://www.remoteofficeguy.com/flexispot-e7-review/;https://thereviewrewind.com/flexispot-e7-standing-desk-review,2026-08-13,one source lists 5/5/2 year split,yes
+warranty,"fifteen year warranty on frame, motor, and electronics",review_consensus,https://www.remoteofficeguy.com/flexispot-e7-review/;https://thereviewrewind.com/flexispot-e7-standing-desk-review,2026-08-13,conflict: one source lists a 5/5/2 year split; verify before freeze,yes
 accessories,"keypad, mounting hardware, under-desk cable tray",official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,,yes
 wobble,noticeable wobble at maximum height under load,review_consensus,https://www.remoteofficeguy.com/flexispot-e7-review/;https://standingdeskreference.com/desks/flexispot-e7/,2026-08-13,con,yes
 assembly,assembly is heavy and realistically a two person job,review_consensus,https://thereviewrewind.com/flexispot-e7-standing-desk-review;https://www.remoteofficeguy.com/flexispot-e7-review/,2026-08-13,con,yes
 cable_mgmt,basic under-desk cable tray only,review_consensus,https://thereviewrewind.com/flexispot-e7-standing-desk-review;https://www.remoteofficeguy.com/flexispot-e7-review/,2026-08-13,con,yes
 stability,stable through most of the height range,review_consensus,https://thereviewrewind.com/flexispot-e7-standing-desk-review;https://www.remoteofficeguy.com/flexispot-e7-review/;https://standingdeskreference.com/desks/flexispot-e7/,2026-08-13,,yes
 capacity_praise,355 lb capacity carries multi-monitor setups,review_consensus,https://www.remoteofficeguy.com/flexispot-e7-review/;https://standingdeskreference.com/desks/flexispot-e7/,2026-08-13,,yes
+presets,four memory heights on the keypad,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,flexispot.com 403s; value from search snippet of the official URL,yes
+child_lock,child lock on the keypad,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,flexispot.com 403s; value from search snippet of the official URL,yes
+reminders,sit-stand reminders on the keypad,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,flexispot.com 403s; value from search snippet of the official URL,yes
+bifma,frame certified to BIFMA standards,review_consensus,https://thereviewrewind.com/flexispot-e7-standing-desk-review;https://standingdeskreference.com/desks/flexispot-e7/,2026-08-13,,yes
+no_desktop,frame ships without a desktop of any kind,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,con; desktop is a separate purchase,yes
+usb_optional,USB charging port comes only on the upgraded keypad,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,"con; batch2 records the USB port as an option, not standard",yes
+no_app,"control is by keypad only, with no app and no wireless connection",official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,"con; absence recorded from the official spec listing, which lists keypad control only; verify before freeze",yes
+keypad_mount,keypad mounts under the front edge of the desktop and reads out the current height in inches,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,flexispot.com 403s; value from search snippet of the official URL,yes
+frame_width,frame widens to fit desktops between 47 and 71 inches,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,flexispot.com 403s; value from search snippet of the official URL; verify before freeze,yes
+travel_time,roughly twenty seconds across the full range at the rated speed,official,https://www.flexispot.com/flexispot-pro-standing-desk-e7,2026-08-13,arithmetic from the 1.5 in/s rated speed over the 22.8-48.4 in range,yes

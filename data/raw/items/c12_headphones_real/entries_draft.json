@@ -4,7 +4,7 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The noise canceling ranks among the strongest available",
+      "text_draft": "The noise canceling ranks among the strongest on the market",
       "fact_field": "anc_quality"
     },
     {
@@ -18,28 +18,28 @@
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten minutes on the charger returns five hours of play",
+      "text_draft": "Ten minutes on the charger returns about five hours of play",
       "fact_field": "quickcharge"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "LDAC pushes audio at up to 990 kilobits",
-      "fact_field": "bluetooth"
+      "text_draft": "LDAC carries audio at up to 990 kilobits per second",
+      "fact_field": "ldac"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "It holds two devices at once and swaps between them",
-      "fact_field": "bluetooth"
+      "fact_field": "multipoint"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The padding stays comfortable through long sessions",
+      "text_draft": "The padding stays comfortable through long listening sessions",
       "fact_field": "comfort"
     },
     {
@@ -54,35 +54,35 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "A hard case comes in the box rather than a pouch",
-      "fact_field": "box"
+      "fact_field": "case_hard"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Each cup holds a 40-millimetre driver with a polymer diaphragm",
+      "text_draft": "Each cup holds a 40-millimetre polymer diaphragm driver",
       "fact_field": "driver"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Wired playback stretches to thirty-six hours",
+      "text_draft": "Wired playback stretches to thirty-six hours on one charge",
       "fact_field": "wired"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 254 grams the weight sits lightly on the head",
+      "text_draft": "At 254 grams they sit lightly on the head",
       "fact_field": "weight"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A plug adaptor covers in-flight entertainment systems",
-      "fact_field": "box"
+      "text_draft": "An in-flight plug adaptor covers seat-back entertainment systems",
+      "fact_field": "flight_adaptor"
     }
   ],
   "cons": [
@@ -90,14 +90,14 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sony dropped aptX support that the earlier model had",
+      "text_draft": "Neither aptX nor aptX HD is supported at all",
       "fact_field": "no_aptx"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "There is no water rating of any kind",
+      "text_draft": "There is no water resistance rating of any kind",
       "fact_field": "no_ip"
     },
     {
@@ -118,15 +118,15 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Switching to LDAC nearly halves the battery life",
-      "fact_field": "battery_nc_on"
+      "text_draft": "Turning on LDAC or DSEE nearly halves the playback time",
+      "fact_field": "battery_dsee"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Two-device pairing drops back to the basic codec",
-      "fact_field": "bluetooth"
+      "text_draft": "Pairing two devices drops the connection back to AAC",
+      "fact_field": "multipoint_codec"
     },
     {
       "entry_id": "n07",
@@ -139,8 +139,8 @@
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The hard case takes up real room in a bag",
-      "fact_field": "box"
+      "text_draft": "Response stops at 20 kilohertz unless LDAC is running",
+      "fact_field": "frequency"
     }
   ]
 }

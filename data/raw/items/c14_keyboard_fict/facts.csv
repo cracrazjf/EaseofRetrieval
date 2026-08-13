@@ -2,10 +2,10 @@ field,value,source_type,source_url,accessed_date,note,in_spec
 layout,68 keys in a 65 percent ANSI layout,difference_point,derived-from:c14_keyboard_real,2026-08-13,"diff: 65 percent, no function row",yes
 dimensions,315 x 105 mm aluminium frame,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
 height,"32 mm front, 42 mm rear with keycaps",mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
-weight,about 810 g,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
+weight,"about 810 g aluminium frame, planted on a desk",mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
 switches,"linear or tactile switches, hot-swappable sockets",mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
 keycaps,dye-sublimated PBT keycaps,difference_point,derived-from:c14_keyboard_real,2026-08-13,diff: PBT keycaps,yes
-backlight,white backlight with eight patterns and four brightness levels,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
+backlight,white backlight with eight patterns across four brightness levels,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
 connectivity,USB Type-C wired connection only,difference_point,derived-from:c14_keyboard_real,2026-08-13,diff: wired only,yes
 polling,1000 Hz polling,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
 compatibility,macOS and Windows layouts supported,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
@@ -16,5 +16,10 @@ no_wireless,no Bluetooth and no wireless receiver,spec_derived,derived-from:spec
 no_fn_row,no dedicated function row; those keys reached through a layer,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_desk,810 grams makes the board hard to travel with,spec_derived,derived-from:spec,2026-08-13,con,yes
 white_only,backlight offers white light only,spec_derived,derived-from:spec,2026-08-13,con,yes
-cable_tether,cable tethers the board to the machine,spec_derived,derived-from:spec,2026-08-13,con,yes
+cable_tether,cable tethers the board to the machine,spec_derived,derived-from:spec,2026-08-13,con,premise
 key_count,68 keys require layer combinations,spec_derived,derived-from:spec,2026-08-13,con,yes
+nav_cluster,"no separate navigation cluster; home, end and the page keys sit on a layer",spec_derived,derived-from:spec,2026-08-13,con,yes
+no_software,"no configuration software, so keys cannot be remapped",difference_point,derived-from:c14_keyboard_real,2026-08-13,diff: no software; con,yes
+switches_separate,switches bought separately and not included with the board,spec_derived,derived-from:spec,2026-08-13,con,yes
+cable_detachable,the USB-C cable detaches at the board for storage,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
+arrows,dedicated arrow cluster and a delete key in the right-hand column,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes

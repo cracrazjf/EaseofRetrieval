@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The scene fills in detail as the session runs",
+      "text_draft": "The scene fills in with detail as the session runs",
       "fact_field": "mechanic"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Pausing keeps whatever detail was already earned",
-      "fact_field": "mechanic"
-    },
-    {
-      "entry_id": "p03",
-      "valence": "pro",
-      "tier": "core8",
-      "text_draft": "It blocks desktop apps and websites during a session",
+      "text_draft": "It blocks the desktop applications and websites you choose",
       "fact_field": "blocking"
     },
     {
-      "entry_id": "p04",
+      "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "An ambient sound library plays alongside the timer",
       "fact_field": "sounds"
     },
     {
-      "entry_id": "p05",
+      "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "History summarises by day and by week",
+      "text_draft": "History is summarised by day and by week",
       "fact_field": "stats"
     },
     {
-      "entry_id": "p06",
+      "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The free tier covers the timer and the blocking list",
       "fact_field": "free_tier"
     },
     {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Clients run on both macOS and Windows",
+      "fact_field": "platforms"
+    },
+    {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The web dashboard reviews statistics from anywhere",
-      "fact_field": "platforms"
+      "text_draft": "A web dashboard reviews the statistics from any browser",
+      "fact_field": "dashboard"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The paid tier lifts the history limit entirely",
-      "fact_field": "paid_tier"
+      "text_draft": "Session data exports from the dashboard as CSV",
+      "fact_field": "export"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Clients run on both macOS and Windows",
-      "fact_field": "platforms"
+      "text_draft": "The paid tier lifts the history limit entirely",
+      "fact_field": "paid_tier"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Session data exports out as CSV",
-      "fact_field": "stats"
+      "text_draft": "Session length sets anywhere from five to 180 minutes",
+      "fact_field": "session_length"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Scene variants come with the paid tier",
-      "fact_field": "paid_tier"
+      "text_draft": "Sessions run offline and sync once the machine reconnects",
+      "fact_field": "offline"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Three ambient tracks come at no cost",
-      "fact_field": "free_tier"
+      "text_draft": "The timer runs on one machine without an account",
+      "fact_field": "no_account"
     }
   ],
   "cons": [
@@ -90,7 +90,7 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "With no phone client the phone stays a distraction",
+      "text_draft": "With no mobile client the phone stays unrestricted",
       "fact_field": "no_mobile"
     },
     {
@@ -125,22 +125,22 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Tablets have no client to install",
-      "fact_field": "desktop_only"
+      "text_draft": "No schedule starts a session automatically",
+      "fact_field": "no_schedule"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Blocking reaches desktop apps and nothing beyond",
-      "fact_field": "blocking"
+      "text_draft": "The blocking list cannot change while a session runs",
+      "fact_field": "blocklist_locked"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Scene variants are held back for paying users",
-      "fact_field": "paid_tier"
+      "text_draft": "Finished sessions fund nothing outside the application",
+      "fact_field": "no_realtree"
     }
   ]
 }

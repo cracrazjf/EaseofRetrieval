@@ -4,85 +4,85 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The vault is one encrypted file the user owns",
+      "text_draft": "The vault stays as one encrypted file you own",
       "fact_field": "storage"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A hardware key backs up the master password",
+      "text_draft": "A master password and hardware key are both required",
       "fact_field": "unlock"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Authenticator codes generate inside the vault itself",
+      "text_draft": "Authenticator codes are generated inside the vault itself",
       "fact_field": "authenticator"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The free tier holds as many entries as needed",
-      "fact_field": "free_tier"
+      "text_draft": "Desktop clients cover Windows, macOS, and Linux",
+      "fact_field": "desktop"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Clients cover desktop and both phone platforms",
-      "fact_field": "desktop"
+      "text_draft": "Mobile clients cover both iOS and Android",
+      "fact_field": "mobile"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "A command line client handles scripted work",
+      "text_draft": "A command line interface handles scripted use",
       "fact_field": "cli"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Vaults export as an encrypted archive or plain CSV",
+      "text_draft": "Vaults export as an encrypted archive for migration",
       "fact_field": "export"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Whatever file service the user already has does the syncing",
-      "fact_field": "storage"
+      "text_draft": "The free tier holds unlimited entries without payment",
+      "fact_field": "free_entries"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Audit reports come with the paid tier",
+      "text_draft": "The paid tier adds vault sharing and audit reports",
       "fact_field": "paid_tier"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "iOS and Android clients both exist",
-      "fact_field": "mobile"
+      "text_draft": "The vault file backs up like any other document",
+      "fact_field": "backup"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "No company server ever holds the vault",
-      "fact_field": "storage"
+      "text_draft": "The password generator takes configurable length and character rules",
+      "fact_field": "generator"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The paid tier shares a vault across devices",
-      "fact_field": "paid_tier"
+      "text_draft": "No online account or email registration is needed",
+      "fact_field": "no_account"
     }
   ],
   "cons": [
@@ -90,28 +90,28 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Without an extension nothing fills in the browser",
+      "text_draft": "No browser extension exists, so nothing fills credentials automatically",
       "fact_field": "no_autofill"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Forget the hardware key and the vault stays shut",
+      "text_draft": "The hardware key must be present at every unlock",
       "fact_field": "key_dependency"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sync has to be built and maintained by the user",
+      "text_draft": "You configure and maintain the sync service yourself",
       "fact_field": "sync_setup"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A borrowed machine has no web vault to reach",
+      "text_draft": "No web vault opens on a machine without a client",
       "fact_field": "no_web_vault"
     },
     {
@@ -125,22 +125,22 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Lose both key and password and the vault is gone",
+      "text_draft": "Losing both key and password locks the vault permanently",
       "fact_field": "recovery_risk"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No browser extensions exist at all",
-      "fact_field": "no_extensions"
+      "text_draft": "The plain CSV export carries no encryption at all",
+      "fact_field": "csv_plain"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "CSV export drops the encryption entirely",
-      "fact_field": "export"
+      "text_draft": "Edits on two devices before syncing write conflicting copies",
+      "fact_field": "sync_conflicts"
     }
   ]
 }

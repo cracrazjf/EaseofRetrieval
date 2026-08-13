@@ -11,7 +11,7 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "On low it keeps going for twenty-four hours",
+      "text_draft": "On the low setting it keeps going for twenty-four hours",
       "fact_field": "runtime"
     },
     {
@@ -25,14 +25,14 @@
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Evaporative mist leaves no white dust on the furniture",
+      "text_draft": "Evaporative mist leaves no mineral dust on the furniture",
       "fact_field": "no_dust"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three speeds trade output against how loud it runs",
+      "text_draft": "Three speeds trade moisture output against how loud it runs",
       "fact_field": "speeds"
     },
     {
@@ -46,28 +46,28 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The filter resists mould growth on its own surface",
+      "text_draft": "The filter surface resists mould growth on its own",
       "fact_field": "germ"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The tank goes into the dishwasher between refills",
-      "fact_field": "tank_features"
+      "text_draft": "Testing reached 45 percent humidity in 34 minutes",
+      "fact_field": "humidify_rate"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Three years of cover comes with the unit",
+      "text_draft": "Three years of cover come with the unit",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "It draws only 60 watts running continuously",
+      "text_draft": "It draws 60 watts running continuously",
       "fact_field": "power"
     },
     {
@@ -75,7 +75,7 @@
       "valence": "pro",
       "tier": "extra4",
       "text_draft": "Output tapers off once the room reaches its own balance",
-      "fact_field": "no_dust"
+      "fact_field": "self_regulating"
     },
     {
       "entry_id": "p12",
@@ -90,7 +90,7 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The fan is louder than most units in its class",
+      "text_draft": "The fan is louder than most evaporative units its size",
       "fact_field": "noise_high"
     },
     {
@@ -118,29 +118,29 @@
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At nearly eighteen inches wide it dominates a side table",
+      "text_draft": "At nearly eighteen inches wide it takes over a side table",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The tank needs refilling every single day",
-      "fact_field": "tank"
+      "text_draft": "The tank needs refilling about every day",
+      "fact_field": "refill_daily"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The filter has to be swapped on a schedule",
-      "fact_field": "filter"
+      "text_draft": "The housing has to dry out between periods of use",
+      "fact_field": "dry_between"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The base has to dry out between periods of use",
-      "fact_field": "wick_mold"
+      "text_draft": "Only Replacement Filter A wicks fit the housing",
+      "fact_field": "filter_type"
     }
   ]
 }

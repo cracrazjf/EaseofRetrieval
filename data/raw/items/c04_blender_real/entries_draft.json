@@ -11,28 +11,28 @@
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten speeds plus pulse give fine control over texture",
+      "text_draft": "Ten variable speeds plus pulse give control over texture",
       "fact_field": "speeds"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The laser-cut steel blades handle frozen fruit and ice",
+      "text_draft": "Laser-cut steel blades break down frozen fruit and ice",
       "fact_field": "blades"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "It cleans itself in under a minute without taking apart",
+      "text_draft": "It cleans itself in under a minute without coming apart",
       "fact_field": "cleaning_ease"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Smoothies come out smooth rather than gritty",
+      "text_draft": "Smoothies come out smooth instead of gritty",
       "fact_field": "blend_quality"
     },
     {
@@ -53,7 +53,7 @@
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The shorter container fits under most kitchen cabinets",
+      "text_draft": "The container clears the underside of most kitchen cabinets",
       "fact_field": "cabinet_fit"
     },
     {
@@ -67,22 +67,22 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The speed dial moves gradually rather than in jumps",
+      "text_draft": "The speed dial moves gradually instead of in steps",
       "fact_field": "controls"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The cord reaches 4.5 feet to the nearest outlet",
-      "fact_field": "cord"
+      "text_draft": "At 10.5 pounds the base stays planted while running",
+      "fact_field": "weight"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "At 10.5 pounds the base stays planted while running",
-      "fact_field": "weight"
+      "text_draft": "It sits at the entry point of the maker's own range",
+      "fact_field": "entry_level"
     }
   ],
   "cons": [
@@ -90,7 +90,7 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Past speed five it climbs to nearly 90 decibels",
+      "text_draft": "Past speed five it climbs toward 100 decibels",
       "fact_field": "noise"
     },
     {
@@ -111,36 +111,36 @@
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "At 18 inches assembled it will not fit under low shelves",
-      "fact_field": "dimensions"
+      "text_draft": "The speed dial carries no preset programs at all",
+      "fact_field": "no_presets"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
       "text_draft": "One container size covers every job, large or small",
-      "fact_field": "accessories"
+      "fact_field": "single_container"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The dial carries no preset programs at all",
-      "fact_field": "controls"
+      "text_draft": "The 4.5-foot cord ties the base close to an outlet",
+      "fact_field": "cord"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "A 4.5-foot cord limits where the base can sit",
-      "fact_field": "cord"
+      "text_draft": "The self-clean cycle still needs a rinse and drying",
+      "fact_field": "maintenance"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The self-clean cycle still needs a rinse afterwards",
-      "fact_field": "maintenance"
+      "text_draft": "The blades never come out of the container for washing",
+      "fact_field": "blades_fixed"
     }
   ]
 }

@@ -11,8 +11,13 @@ baskets,"removable nonstick baskets, dishwasher safe",official,https://cosori.co
 accessories,"100-recipe book, quick reference guide, user manual",official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,,yes
 fan_noise,fan noise around 68 dB in operation,review_consensus,https://homeessentialslab.com/cosori-pro-gen-2-air-fryer-review-power-features-real-world-use/;https://www.bestbuy.com/site/reviews/cosori-pro-ii-5-8-quart-smart-air-fryer-red/6538303,2026-08-13,con; part of coverage is of Pro/Pro Gen 2 siblings; retail platform counted once as auxiliary source,yes
 footprint_con,bulky counter footprint,review_consensus,https://www.realhomes.com/reviews/cosori-cp358-af-pro-air-fryer-review;https://thereviewrewind.com/cosori-pro-gen-2-air-fryer-review,2026-08-13,con; sibling-model coverage caveat,yes
-no_dualzone,single basket; no dual-zone cooking,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_dualzone,single basket; no dual-zone cooking,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_dehydrate,no dehydrate function among the twelve presets,spec_derived,derived-from:spec,2026-08-13,con,yes
 timer_cap,timer maximum 60 minutes,spec_derived,derived-from:spec,2026-08-13,con,yes
 wifi_account,app control requires WiFi and a VeSync account,spec_derived,derived-from:spec,2026-08-13,con,yes
 temp_ceiling,maximum temperature 400 F,spec_derived,derived-from:spec,2026-08-13,con,yes
+savable_presets,adjusted time and temperature settings can be saved,official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,,yes
+preheat_speed,reviewers time the preheat at about five minutes,review_consensus,https://www.realhomes.com/reviews/cosori-cp358-af-pro-air-fryer-review;https://thereviewrewind.com/cosori-pro-gen-2-air-fryer-review,2026-08-13,praise claim; sibling-model coverage caveat,yes
+whole_chicken,the square basket takes a whole chicken,review_consensus,https://homeessentialslab.com/cosori-pro-gen-2-air-fryer-review-power-features-real-world-use/;https://www.realhomes.com/reviews/cosori-cp358-af-pro-air-fryer-review,2026-08-13,praise claim,yes
+crisp_results,reviewers report crisp food surfaces,review_consensus,https://thereviewrewind.com/cosori-pro-gen-2-air-fryer-review;https://homeessentialslab.com/cosori-pro-gen-2-air-fryer-review-power-features-real-world-use/,2026-08-13,praise claim,yes
+no_window,the drawer has no viewing window,spec_derived,derived-from:spec,2026-08-13,con,yes
