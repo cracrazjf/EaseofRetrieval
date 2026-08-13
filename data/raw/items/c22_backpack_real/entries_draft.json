@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Volume of 22 litres in larger size",
+      "fact_field": "volume"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Adjustable back length for comfortable fit",
+      "fact_field": "fit_praise"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Ventilated channels keep the back cooler",
+      "fact_field": "ventilation"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Pocket layout organises small items",
+      "fact_field": "organization"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Helmet and trekking pole attachments",
+      "fact_field": "attachments"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Recycled nylon with water repellent finish",
+      "fact_field": "main_fabric"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Fabric and zippers hold up seasonally",
+      "fact_field": "durability"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two zippered hipbelt pockets",
+      "fact_field": "pockets"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "External hydration sleeve behind the panel",
+      "fact_field": "pockets"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Framesheet supports loads to 20 pounds",
+      "fact_field": "load_range"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Side compression straps stabilise contents",
+      "fact_field": "attachments"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Base in heavier 420 denier packcloth",
+      "fact_field": "bottom_fabric"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Heavy for a 22 litre pack",
+      "fact_field": "heavy"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Hipbelt pockets shallow and awkward",
+      "fact_field": "hipbelt_pockets"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Hydration sleeve narrow, hanger not universal",
+      "fact_field": "hydration_fit"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Feature count excessive for light loads",
+      "fact_field": "fussy"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Load range tops out near 20 pounds",
+      "fact_field": "load_range"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Two size options rather than adjustable",
+      "fact_field": "volume"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Framesheet adds weight to the pack",
+      "fact_field": "suspension"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Mesh pocket exposed to abrasion",
+      "fact_field": "pockets"
+    }
+  ]
 }

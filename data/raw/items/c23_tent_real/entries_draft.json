@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Light for a freestanding double-wall tent",
+      "fact_field": "light_weight"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two doors with matching vestibules",
+      "fact_field": "two_doors"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Symmetrical poles make pitching quick",
+      "fact_field": "quick_setup"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Near-vertical walls give usable space",
+      "fact_field": "livable"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Floor area of 29 square feet",
+      "fact_field": "floor"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Vestibules totalling 17.5 square feet",
+      "fact_field": "vestibules"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Packed size of 18 by 6",
+      "fact_field": "packed_size"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Rain gutters over both doors",
+      "fact_field": "doors"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Floor coated to 3000 millimetres",
+      "fact_field": "floor_fabric"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Hub and pole assembly in aluminium",
+      "fact_field": "poles"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Stakes, guylines, and sack included",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Freestanding pitch on hard ground",
+      "fact_field": "capacity"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Rainfly attachment unintuitive during setup",
+      "fact_field": "fly_fiddly"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Thin floor benefits from a footprint",
+      "fact_field": "footprint_extra"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Footprint sold separately from the tent",
+      "fact_field": "footprint_extra"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Peak height of 39 inches inside",
+      "fact_field": "peak_height"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Fly coating rated at 1200 millimetres",
+      "fact_field": "rainfly"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Floor width of 50 inches for two",
+      "fact_field": "floor"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Packaged weight near four pounds",
+      "fact_field": "packed_weight"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Canopy fabric at 20 denier",
+      "fact_field": "canopy"
+    }
+  ]
 }

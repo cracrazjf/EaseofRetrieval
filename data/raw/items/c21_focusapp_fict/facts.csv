@@ -1,1 +1,15 @@
 field,value,source_type,source_url,accessed_date,note
+mechanic,"a scene fills in detail as a focus session runs, and pauses keep the progress earned",difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: no failure state
+blocking,blocks selected desktop applications and websites during a session,difference_point,derived-from:c21_focusapp_real,2026-08-13,"diff: desktop blocking, no phone blocking"
+no_group,no shared or group sessions,difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: no group feature
+sounds,ambient sound library included on the free tier,mirror,derived-from:c21_focusapp_real,2026-08-13,
+stats,session history with daily and weekly summaries,mirror,derived-from:c21_focusapp_real,2026-08-13,
+free_tier,"free tier: timer, blocking, three ambient tracks, seven day history",mirror,derived-from:c21_focusapp_real,2026-08-13,
+paid_tier,"paid tier adds the full sound library, unlimited history, and scene variants",mirror,derived-from:c21_focusapp_real,2026-08-13,prices omitted per DECISIONS
+platforms,"macOS and Windows desktop, with a companion web dashboard",mirror,derived-from:c21_focusapp_real,2026-08-13,
+no_mobile,"no mobile client, so phone use is unaffected",spec_derived,derived-from:spec,2026-08-13,con
+no_group_con,sessions cannot be shared with other people,spec_derived,derived-from:spec,2026-08-13,con
+no_stake,nothing is lost when a session is abandoned,spec_derived,derived-from:spec,2026-08-13,con
+history_cap,free tier keeps seven days of history,spec_derived,derived-from:spec,2026-08-13,con
+sound_cap,free tier includes three ambient tracks,spec_derived,derived-from:spec,2026-08-13,con
+desktop_only,no client for tablets or phones,spec_derived,derived-from:spec,2026-08-13,con

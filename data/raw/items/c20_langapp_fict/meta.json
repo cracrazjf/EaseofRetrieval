@@ -7,8 +7,9 @@
   "name": "Quenlo",
   "paired_item": "c20_langapp_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "spaced repetition scheduling instead of streak-based lessons",
+    "twelve languages instead of forty",
+    "no free tier beyond a trial"
   ],
-  "status": "registered"
+  "status": "validated"
 }
