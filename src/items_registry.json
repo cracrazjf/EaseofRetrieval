@@ -152,8 +152,15 @@
       "item_type": "real",
       "name": "iRobot Roomba i7",
       "paired_item": "c06_robovac_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://store.irobot.com/default/roomba-vacuuming-robot-vacuum-irobot-roomba-i7-plus/i755020.html?cgid=us",
+        "https://www.manua.ls/irobot/roomba-i7/specifications"
+      ],
+      "review_urls": [
+        "https://www.techadvisor.com/article/723267/irobot-roomba-i7-automatic-dirt-disposal-review.html",
+        "https://www.trustedreviews.com/reviews/irobot-roomba-i7",
+        "https://www.tomsguide.com/us/irobot-roomba-i7-plus,review-6080.html"
+      ]
     },
     "c06_robovac_fict": {
       "category_num": 6,
@@ -174,8 +181,14 @@
       "item_type": "real",
       "name": "Levoit Core 300",
       "paired_item": "c07_airpurifier_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://levoit.com/products/core300-air-purifier"
+      ],
+      "review_urls": [
+        "https://housefresh.com/levoit-core-300-review/",
+        "https://www.airpurifierfirst.com/review/levoit-core-300/",
+        "https://www.tomsguide.com/reviews/levoit-core-300"
+      ]
     },
     "c07_airpurifier_fict": {
       "category_num": 7,
@@ -196,8 +209,14 @@
       "item_type": "real",
       "name": "Honeywell HCM-350",
       "paired_item": "c08_humidifier_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.honeywellstore.com/store/products/germ-free-cool-mist-humidifier-hcm-350.htm",
+        "https://www.honeywellstore.com/store/images/pdf/honeywell-hcm-350-humidifier-manual.pdf"
+      ],
+      "review_urls": [
+        "https://www.techgearlab.com/reviews/health-fitness/humidifier/honeywell-hcm-350",
+        "https://www.babygearlab.com/reviews/health-safety/humidifier/honeywell-hcm-350"
+      ]
     },
     "c08_humidifier_fict": {
       "category_num": 8,
@@ -218,8 +237,14 @@
       "item_type": "real",
       "name": "FlexiSpot E7",
       "paired_item": "c09_standingdesk_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.flexispot.com/flexispot-pro-standing-desk-e7"
+      ],
+      "review_urls": [
+        "https://www.remoteofficeguy.com/flexispot-e7-review/",
+        "https://standingdeskreference.com/desks/flexispot-e7/",
+        "https://thereviewrewind.com/flexispot-e7-standing-desk-review"
+      ]
     },
     "c09_standingdesk_fict": {
       "category_num": 9,
@@ -240,8 +265,15 @@
       "item_type": "real",
       "name": "Steelcase Series 1",
       "paired_item": "c10_chair_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.steelcase.com/products/office-chairs/steelcase-series-1/",
+        "https://www.steelcase.com/content/uploads/2024/02/Series-1-Spec-Guide.pdf"
+      ],
+      "review_urls": [
+        "https://www.howtogeek.com/steelcase-series-1-review/",
+        "https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1",
+        "https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500"
+      ]
     },
     "c10_chair_fict": {
       "category_num": 10,
