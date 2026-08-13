@@ -27,3 +27,4 @@ cooldown,cool-down wait separates steaming from the next shot,spec_derived,deriv
 temp_fixed,brewing temperature is fixed and not adjustable,spec_derived,derived-from:spec,2026-08-13,con,yes
 wattage,1250 W while heating,mirror,derived-from:c01_espresso_real,2026-08-13,,yes
 no_ese,filter holder does not accept ESE pods,difference_point,derived-from:c01_espresso_real,2026-08-13,diff: no ESE support,yes
+steam_dial,separate steam dial apart from the brewing buttons,difference_point,derived-from:c01_espresso_real,2026-08-13,diff: steam on its own dial,yes

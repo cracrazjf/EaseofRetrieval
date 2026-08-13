@@ -261,11 +261,15 @@ def cmd_validate(item_id: str):
         warnings.append(f"hedging asymmetry: {hp}/{len(pros)} pros vs {hc}/{len(cons)} cons "
                         f"use hedge words — cons must not read softer than pros (E6 confound)")
 
-    all_fields = [e.get("fact_field") for e in pros + cons]
-    n_distinct = len(set(f for f in all_fields if f))
-    if n_distinct < r.get("min_distinct_fact_fields", 18):
-        problems.append(f"only {n_distinct} distinct fact_fields across 20 entries "
-                        f"(need >= {r['min_distinct_fact_fields']}) — entries are recycling facts")
+    core = [e for e in pros if e.get("tier") == "core8"] + cons
+    n_core = len(set(e.get("fact_field") for e in core if e.get("fact_field")))
+    if n_core < r.get("min_distinct_core16", 16):
+        problems.append(f"only {n_core} distinct fact_fields across the 8 core pros and 8 cons "
+                        f"(need {r['min_distinct_core16']}) — core entries are recycling facts")
+    n_distinct = len(set(e.get("fact_field") for e in pros + cons if e.get("fact_field")))
+    if n_distinct < 20:
+        warnings.append(f"extra4 fallback in use: {n_distinct}/20 distinct fields "
+                        f"(extra4 pros reuse core fields; item is lower priority for E4)")
     n_shared = len(set(f for f in pro_fields if f) & set(f for f in con_fields if f))
     if n_shared > r.get("max_shared_pro_con_fields", 2):
         problems.append(f"{n_shared} fields support both a pro and a con "

@@ -19,7 +19,7 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "The 1.0-litre tank lifts out of the top and shows the level",
-      "fact_field": "tank"
+      "fact_field": "tank_position"
     },
     {
       "entry_id": "p04",
@@ -33,7 +33,7 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "A separate dial keeps steam off the brewing controls",
-      "fact_field": "controls"
+      "fact_field": "steam_dial"
     },
     {
       "entry_id": "p06",
