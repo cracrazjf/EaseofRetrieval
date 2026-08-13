@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Height range spanning 25 inches",
+      "fact_field": "height_range"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Capacity rated at 355 pounds",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Dual motors on three-stage columns",
+      "fact_field": "motors"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Four memory presets on the keypad",
+      "fact_field": "keypad"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Anti-collision stops travel on contact",
+      "fact_field": "anticollision"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Stable through most height positions",
+      "fact_field": "stability"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Carbon steel frame with BIFMA certification",
+      "fact_field": "frame"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Travel speed near 1.5 inches per second",
+      "fact_field": "speed"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Fifteen year component warranty",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Capacity handles multi-monitor setups",
+      "fact_field": "capacity_praise"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Sound under 50 decibels while moving",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Child lock on the keypad",
+      "fact_field": "keypad"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Wobble at maximum height under load",
+      "fact_field": "wobble"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Heavy assembly needing two people",
+      "fact_field": "assembly"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Basic under-desk cable tray only",
+      "fact_field": "cable_mgmt"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Motor sound audible in shared rooms",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Assembled frame weighs 76.7 pounds",
+      "fact_field": "assembled_weight"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Travel speed limits quick repositioning",
+      "fact_field": "speed"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Frame sold without a desktop",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Column bolts need periodic checking",
+      "fact_field": "frame"
+    }
+  ]
 }

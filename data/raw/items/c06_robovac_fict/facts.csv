@@ -1,1 +1,19 @@
 field,value,source_type,source_url,accessed_date,note
+dimensions,12.9 in wide x 3.5 in high,mirror,derived-from:c06_robovac_real,2026-08-13,
+weight,6.8 lb,mirror,derived-from:c06_robovac_real,2026-08-13,
+battery,"lithium ion battery, 90 minute runtime",mirror,derived-from:c06_robovac_real,2026-08-13,
+charging,2 hour charge to full,mirror,derived-from:c06_robovac_real,2026-08-13,
+dustbin,0.5 L onboard dustbin,mirror,derived-from:c06_robovac_real,2026-08-13,
+threshold,climbs thresholds up to 18 mm,mirror,derived-from:c06_robovac_real,2026-08-13,
+navigation,gyroscope navigation in parallel passes,difference_point,derived-from:c06_robovac_real,2026-08-13,diff: gyro not camera mapping
+mapping,"no stored floor plans, resumes by dead reckoning",difference_point,derived-from:c06_robovac_real,2026-08-13,diff: no mapping
+brushes,single side brush with a bristle main brush,difference_point,derived-from:c06_robovac_real,2026-08-13,diff: single side brush
+dock,charging dock without dust disposal,difference_point,derived-from:c06_robovac_real,2026-08-13,diff: no self-empty base
+app,companion app for scheduling and suction level,mirror,derived-from:c06_robovac_real,2026-08-13,
+filter,washable filter behind the dustbin door,mirror,derived-from:c06_robovac_real,2026-08-13,
+no_selfempty,dustbin emptied by hand after runs,spec_derived,derived-from:spec,2026-08-13,con
+no_zones,no room selection without stored maps,spec_derived,derived-from:spec,2026-08-13,con
+bin_small,0.5 L bin fills within a few rooms,spec_derived,derived-from:spec,2026-08-13,con
+bristle_tangle,bristle brush collects hair over time,spec_derived,derived-from:spec,2026-08-13,con
+runtime_cap,90 minutes covers limited floor area,spec_derived,derived-from:spec,2026-08-13,con
+threshold_limit,18 mm limit stops at thicker transitions,spec_derived,derived-from:spec,2026-08-13,con

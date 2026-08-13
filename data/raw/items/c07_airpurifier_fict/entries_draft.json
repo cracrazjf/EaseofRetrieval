@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Particle sensor driving automatic fan mode",
+      "fact_field": "sensor"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Indicator ring reports current reading",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three-stage filtration with carbon layer",
+      "fact_field": "filtration"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Four manual fan speeds plus sleep",
+      "fact_field": "modes"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Rated 135 cubic feet per minute",
+      "fact_field": "cadr"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Draws 52 watts in operation",
+      "fact_field": "power"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Footprint under eight inches square",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Filter installed before first use",
+      "fact_field": "box"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 8.4 pounds when moved",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Sleep mode near the noise floor",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Coverage of 960 square feet hourly",
+      "fact_field": "coverage"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Tower shape fits beside furniture",
+      "fact_field": "dimensions"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No timer to schedule shutdown",
+      "fact_field": "no_timer_con"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Indicator ring stays lit throughout",
+      "fact_field": "sensor_light"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No app or remote control",
+      "fact_field": "no_app"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pre-filter needs regular vacuuming",
+      "fact_field": "prefilter_care"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Height of 15.4 inches on floors",
+      "fact_field": "tower_height"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Rate of 135 CFM covers one room",
+      "fact_field": "cadr_mid"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Reaches 56 decibels at top speed",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Coverage of 200 square feet at 4.8",
+      "fact_field": "coverage"
+    }
+  ]
 }

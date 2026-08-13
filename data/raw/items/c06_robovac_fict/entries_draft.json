@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Height of 3.5 inches clears furniture",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Runtime near ninety minutes per charge",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Dustbin holding half a liter",
+      "fact_field": "dustbin"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Washable filter behind the bin door",
+      "fact_field": "filter"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Gyroscope navigation in parallel passes",
+      "fact_field": "navigation"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "App scheduling and suction control",
+      "fact_field": "app"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Climbs thresholds up to 18 millimeters",
+      "fact_field": "threshold"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Charging dock returns power automatically",
+      "fact_field": "dock"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Spare filter and cleaning tool included",
+      "fact_field": "filter"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 6.8 pounds when carried",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Two-hour recharge between runs",
+      "fact_field": "charging"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Side brush reaches along edges",
+      "fact_field": "brushes"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Dustbin emptied by hand after runs",
+      "fact_field": "no_selfempty"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No room selection without stored maps",
+      "fact_field": "no_zones"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Bin fills within a few rooms",
+      "fact_field": "bin_small"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Bristle brush collects hair over time",
+      "fact_field": "bristle_tangle"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Ninety minutes covers limited area",
+      "fact_field": "runtime_cap"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Stops at thresholds above 18 millimeters",
+      "fact_field": "threshold_limit"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No floor plans stored between runs",
+      "fact_field": "mapping"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single side brush along edges",
+      "fact_field": "brushes"
+    }
+  ]
 }

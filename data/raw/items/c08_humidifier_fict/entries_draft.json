@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Reservoir of 1.3 gallons per fill",
+      "fact_field": "tank"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Runtime up to 30 hours on low",
+      "fact_field": "runtime"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Humidistat holds a target humidity level",
+      "fact_field": "humidistat"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Top-fill opening under lift-off cap",
+      "fact_field": "fill"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Adjustable nozzle directs the mist",
+      "fact_field": "type"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Dial shows target and current readings",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Mineral cartridge included in reservoir",
+      "fact_field": "cartridge"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Draws 34 watts in operation",
+      "fact_field": "power"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 6.2 pounds when empty",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Footprint under eleven inches wide",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Two year limited warranty",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cleaning brush included in box",
+      "fact_field": "accessories"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Mist deposits dust with hard water",
+      "fact_field": "white_dust"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Mineral cartridge is a recurring purchase",
+      "fact_field": "cartridge_cost"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Reservoir does not lift out",
+      "fact_field": "no_removable_tank"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Nozzle and reservoir need frequent wiping",
+      "fact_field": "nozzle_clean"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Mist settles on nearby surfaces",
+      "fact_field": "surface_damp"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Height of 13.8 inches on tables",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Warranty covers only two years",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cartridge sits inside the reservoir",
+      "fact_field": "cartridge"
+    }
+  ]
 }

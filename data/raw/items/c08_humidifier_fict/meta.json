@@ -7,8 +7,9 @@
   "name": "Halvira H1",
   "paired_item": "c08_humidifier_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "ultrasonic mist instead of evaporative wick",
+    "built-in humidistat with target setting",
+    "top-fill opening instead of removable tank"
   ],
-  "status": "registered"
+  "status": "validated"
 }

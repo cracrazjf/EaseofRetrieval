@@ -50,3 +50,11 @@ def set_diffs(item_id, diffs):
 def P(*rows):
     """shorthand: build pro/con tuple lists"""
     return list(rows)
+
+
+def check(spec):
+    """word-count guard used while drafting"""
+    import re
+    n = len(re.findall(r"[A-Za-z0-9][A-Za-z0-9'&.-]*", spec))
+    assert 140 <= n <= 160, f"spec word count {n} (need 140-160)"
+    return spec

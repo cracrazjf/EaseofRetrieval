@@ -7,8 +7,9 @@
   "name": "Arvelia A2",
   "paired_item": "c07_airpurifier_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "air quality sensor with auto mode",
+    "rectangular tower body instead of cylinder",
+    "no timer function"
   ],
-  "status": "registered"
+  "status": "validated"
 }

@@ -7,8 +7,9 @@
   "name": "Orvia Petrel",
   "paired_item": "c06_robovac_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "no self-emptying base",
+    "gyroscope navigation instead of camera mapping",
+    "single side brush instead of dual rubber brushes"
   ],
-  "status": "registered"
+  "status": "validated"
 }
