@@ -1,1 +1,18 @@
 field,value,source_type,source_url,accessed_date,note
+dimensions,11.4 x 7.1 x 8.0 in (290 x 180 x 203 mm),mirror,derived-from:c05_kettle_real,2026-08-13,
+weight,1300 g including base,mirror,derived-from:c05_kettle_real,2026-08-13,
+capacity,40 oz / 1.2 L,difference_point,derived-from:c05_kettle_real,2026-08-13,diff: larger capacity
+power,"110-120 V, 1200 W, 50-60 Hz",mirror,derived-from:c05_kettle_real,2026-08-13,
+materials,"304 stainless steel body, BPA-free handle and lid pull",mirror,derived-from:c05_kettle_real,2026-08-13,
+temp_range,five preset temperatures from 140 to 212 F,difference_point,derived-from:c05_kettle_real,2026-08-13,diff: presets not degree dial
+functions,"hold mode at 30 minutes, boil-dry cutoff",difference_point,derived-from:c05_kettle_real,2026-08-13,diff: no schedule or stopwatch
+controls,backlit segment display with five preset buttons,mirror,derived-from:c05_kettle_real,2026-08-13,
+cord,3 foot cord,mirror,derived-from:c05_kettle_real,2026-08-13,
+spout,gooseneck spout for directed pouring,mirror,derived-from:c05_kettle_real,2026-08-13,
+no_degree_set,temperature cannot be set to a specific degree,spec_derived,derived-from:spec,2026-08-13,con
+no_schedule,no scheduling or brew stopwatch,spec_derived,derived-from:spec,2026-08-13,con
+hold_single,hold mode fixed at thirty minutes,spec_derived,derived-from:spec,2026-08-13,con
+base_footprint,base adds to counter footprint,spec_derived,derived-from:spec,2026-08-13,con
+descale_need,stainless interior needs periodic descaling,spec_derived,derived-from:spec,2026-08-13,con
+no_altitude,no altitude adjustment for boil point,spec_derived,derived-from:spec,2026-08-13,con
+slow_pour,gooseneck spout pours slowly by design,spec_derived,derived-from:spec,2026-08-13,con

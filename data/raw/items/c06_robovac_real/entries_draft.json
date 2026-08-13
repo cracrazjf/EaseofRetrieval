@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Camera vSLAM navigation in orderly rows",
+      "fact_field": "nav"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Imprint Smart Mapping stores ten floor plans",
+      "fact_field": "mapping"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Room-specific cleaning through saved floor maps",
+      "fact_field": "mapping"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Clean Base self-emptying for sixty days",
+      "fact_field": "cleanbase"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Dual rubber brush rolls resist hair tangling",
+      "fact_field": "brushes"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Automatic return to dock for recharging",
+      "fact_field": "recharge"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Cleaning schedules via iRobot Home app",
+      "fact_field": "app"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Voice control with Alexa and Google",
+      "fact_field": "voice"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Low 3.63-inch profile under furniture",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Threshold crossing up to 20 mm",
+      "fact_field": "threshold"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cleaning resumes automatically after recharging",
+      "fact_field": "recharge"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Portable 7.44-pound weight between floors",
+      "fact_field": "weight"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Operating noise of 65-68 dB measured",
+      "fact_field": "noise_con"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Clean Base emptying cycle notably loud",
+      "fact_field": "base_noise_con"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Limited deep cleaning on thicker carpet",
+      "fact_field": "carpet_con"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Frequent bumps into furniture while navigating",
+      "fact_field": "bump_con"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Proprietary disposal bags as recurring consumable",
+      "fact_field": "bags_con"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Small 0.4-liter dustbin fills quickly",
+      "fact_field": "dustbin"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Runtime of 75 minutes per charge",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Recharge wait of 1.5 hours mid-job",
+      "fact_field": "battery"
+    }
+  ]
 }

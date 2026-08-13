@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Double-wall vacuum insulation in stainless steel",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Hot retention rated sixteen hours",
+      "fact_field": "retention"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Cold retention rated twenty-two hours",
+      "fact_field": "retention"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Capacity of 20 ounces per fill",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Serving cup built into lid",
+      "fact_field": "cup"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Gasketed cap seals against leaks",
+      "fact_field": "seal"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Powder-coated exterior with carry loop",
+      "fact_field": "exterior"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Spare cap gasket in box",
+      "fact_field": "maintenance"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cap disassembles fully for cleaning",
+      "fact_field": "maintenance"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Body in 18/8 stainless steel",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Loop for clipping to a pack",
+      "fact_field": "exterior"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of one pound empty",
+      "fact_field": "weight"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cap removes entirely before pouring",
+      "fact_field": "no_pour_through"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Gasket needs removal and drying",
+      "fact_field": "gasket_care"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Hand washing recommended over dishwasher",
+      "fact_field": "hand_wash"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Height of 10.2 inches when packed",
+      "fact_field": "height_pack"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Carry loop offers no grip",
+      "fact_field": "loop_only"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "One pound empty before filling",
+      "fact_field": "weight_full"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Retention shorter than eighteen hours",
+      "fact_field": "retention"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Powder coat can chip in packs",
+      "fact_field": "exterior"
+    }
+  ]
 }

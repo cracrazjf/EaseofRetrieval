@@ -7,8 +7,9 @@
   "name": "Tavro Flask",
   "paired_item": "c24_bottle_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "screw-off cap with no pour-through stopper",
+    "20 oz capacity instead of 16",
+    "carry loop instead of a side handle"
   ],
-  "status": "registered"
+  "status": "validated"
 }

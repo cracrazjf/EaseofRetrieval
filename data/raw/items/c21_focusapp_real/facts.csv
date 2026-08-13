@@ -1,1 +1,19 @@
 field,value,source_type,source_url,accessed_date,note
+platforms,"iOS, Android, and browser extension; cross-device sync",official,https://www.forestapp.cc/,2026-08-13,
+timer,"focus timer plants a virtual tree; tree grows during the session and withers if the user leaves the app before the timer ends",official,https://www.forestapp.cc/,2026-08-13,
+deepfocus,"Deep Focus mode blocks other apps during sessions; allowlists for permitted apps",official,https://www.forestapp.cc/,2026-08-13,
+timeguard,Time Guard applies focus schedules automatically,official,https://www.forestapp.cc/,2026-08-13,
+together,Plant Together shared group focus sessions,official,https://www.forestapp.cc/,2026-08-13,
+sounds,Mindful Space and ambient soundscapes,official,https://www.forestapp.cc/,2026-08-13,
+realtrees,"Trees for the Future partnership; over 2 million real trees planted",official,https://www.forestapp.cc/,2026-08-13,
+free_tier,"free tier: timer, Deep Focus, group planting, one soundscape",official,https://www.forestapp.cc/,2026-08-13,
+paid_tier,Plus subscription unlocks remaining features,official,https://www.forestapp.cc/,2026-08-13,"no price recorded anywhere per DECISIONS.md item 4; regional variation, no official figure"
+legacy_gone,legacy one-time Pro purchase discontinued,official,https://www.forestapp.cc/,2026-08-13,spec grounding; also review-noted under pricing_confusing
+downloads,over 60 million downloads,official,https://www.forestapp.cc/,2026-08-13,
+paywall,"detailed statistics, tags, and additional soundscapes require the paid tier",review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con
+ext_purchase,browser extension is a separate purchase,review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con
+pricing_confusing,"pricing fragmented across platforms; subscription push after legacy one-time option removed",review_consensus,https://primeproductiv4.com/apps-tools/forestapp-review;https://nerdynav.com/forest-vs-flora-pomodoro/,2026-08-13,con; no specific prices recorded per DECISIONS.md item 4
+free_soundscape_limit,free tier includes one soundscape only,spec_derived,derived-from:spec,2026-08-13,con; restates free_tier boundary
+leave_penalty,tree withers on any early exit regardless of reason,spec_derived,derived-from:spec,2026-08-13,con
+allowlist_setup,app blocking requires manual allowlist configuration,spec_derived,derived-from:spec,2026-08-13,con
+sync_account,cross-device sync requires an account,spec_derived,derived-from:spec,2026-08-13,con; implied by sync feature

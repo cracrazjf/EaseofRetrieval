@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Motor of 1.8 horsepower with metal coupling",
+      "fact_field": "motor"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Eight variable speeds on a dial",
+      "fact_field": "speeds"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three preset programs for common recipes",
+      "fact_field": "speeds"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Self-cleaning cycle in about a minute",
+      "fact_field": "maintenance"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Container of 64 ounces, dishwasher safe",
+      "fact_field": "container"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Lid with removable fill cap",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three-year parts and labor warranty",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Stainless steel blades on metal drive",
+      "fact_field": "blades"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 11.2 pounds anchors base",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Footprint under ten inches wide",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Larger batches in one container",
+      "fact_field": "container"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cord length of four feet",
+      "fact_field": "cord"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No tamper for thick mixtures",
+      "fact_field": "no_tamper"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Assembled height of 19 inches",
+      "fact_field": "tall_assembly"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Three programs cover limited recipes",
+      "fact_field": "fixed_programs"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Four-foot cord limits outlet placement",
+      "fact_field": "cord_short"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Warranty runs only three years",
+      "fact_field": "warranty_span"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Large container needs volume to circulate",
+      "fact_field": "large_min"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "One container size for all batches",
+      "fact_field": "single_container"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Weight of 11.2 pounds when moving",
+      "fact_field": "weight"
+    }
+  ]
 }

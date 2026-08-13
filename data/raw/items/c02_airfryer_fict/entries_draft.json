@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Round 5.5-quart basket for family portions",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Temperature range from 180 to 400 degrees",
+      "fact_field": "temp_range"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Timer covering one to sixty minutes",
+      "fact_field": "time_range"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Eight presets for common foods",
+      "fact_field": "presets"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Dial and button panel without setup",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Nonstick basket and plate, dishwasher safe",
+      "fact_field": "maintenance"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Manual entry for time and temperature",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "1600-watt element for countertop cooking",
+      "fact_field": "power"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Recipe booklet included in box",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Compact 11.4-inch width on counters",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 11.6 pounds for repositioning",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Removable crisper plate for airflow",
+      "fact_field": "maintenance"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No remote start or scheduling",
+      "fact_field": "no_remote_start"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Eight presets require frequent manual entry",
+      "fact_field": "preset_gap"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Round basket wastes drawer corner space",
+      "fact_field": "round_basket_area"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Footprint occupies notable counter depth",
+      "fact_field": "counter_space"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single basket cooks one layer",
+      "fact_field": "single_layer"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No mid-cycle shake reminder",
+      "fact_field": "manual_shake"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "1600 watts loads a shared circuit",
+      "fact_field": "wattage_draw"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No viewing window in drawer",
+      "fact_field": "no_window"
+    }
+  ]
 }

@@ -7,8 +7,9 @@
   "name": "Hamura GR-6",
   "paired_item": "c03_ricecooker_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "no delay timer",
+    "seven menu settings instead of eleven",
+    "monochrome LCD instead of colored panel"
   ],
-  "status": "registered"
+  "status": "validated"
 }

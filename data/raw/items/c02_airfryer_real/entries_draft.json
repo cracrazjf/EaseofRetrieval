@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Square 5.8-quart basket fits family portions",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Twelve one-touch presets including preheat",
+      "fact_field": "presets"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "VeSync app control with voice assistants",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Temperature adjustable from 170 to 400 F",
+      "fact_field": "temp_range"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Removable nonstick baskets, dishwasher safe",
+      "fact_field": "baskets"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Savable custom presets for repeat recipes",
+      "fact_field": "presets"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Timer adjustable from 1 to 60 minutes",
+      "fact_field": "timer"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "1700-watt element for rapid cooking",
+      "fact_field": "power"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "100-recipe book included in the box",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Keep-warm preset holds finished food",
+      "fact_field": "presets"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Preheat preset for consistent starting temperatures",
+      "fact_field": "presets"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Front touch panel for setting adjustments",
+      "fact_field": "controls"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Fan noise near 68 dB when running",
+      "fact_field": "fan_noise"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Bulky footprint claims counter space",
+      "fact_field": "footprint_con"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Heavy 12.3-pound body to reposition",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single basket prevents two-zone cooking",
+      "fact_field": "no_dualzone"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No dehydrate preset among cooking modes",
+      "fact_field": "no_dehydrate"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Maximum 400 F caps searing temperatures",
+      "fact_field": "temp_ceiling"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "App features require WiFi and account",
+      "fact_field": "wifi_account"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "60-minute timer ceiling for long cooks",
+      "fact_field": "timer_cap"
+    }
+  ]
 }

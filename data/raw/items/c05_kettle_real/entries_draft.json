@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Temperature set to the degree",
+      "fact_field": "temp_range"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Gooseneck spout for directed pouring",
+      "fact_field": "spout"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Hold mode at four durations",
+      "fact_field": "functions"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Full-color screen with dial control",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Body in 304 stainless steel",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Brew stopwatch built into interface",
+      "fact_field": "functions"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Steady controllable stream while pouring",
+      "fact_field": "pour_control"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Brew temperature in about three minutes",
+      "fact_field": "heat_speed"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Altitude setting adjusts boil point",
+      "fact_field": "functions"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Screen reports set and current temperature",
+      "fact_field": "display_info"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Pre-boil sanitization cycle available",
+      "fact_field": "functions"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 1400 grams with base",
+      "fact_field": "weight"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Display reads above measured temperature",
+      "fact_field": "temp_accuracy"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pour rate deliberately slow",
+      "fact_field": "pour_rate"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Priced above most electric kettles",
+      "fact_field": "price_high"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Capacity of 0.9 liters per fill",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cord length of only 2.5 feet",
+      "fact_field": "cord"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Base adds to counter footprint",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Descaling needed on a schedule",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Screen and dial add setup steps",
+      "fact_field": "controls"
+    }
+  ]
 }

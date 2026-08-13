@@ -1,1 +1,18 @@
 field,value,source_type,source_url,accessed_date,note
+dimensions,"42 x 42 x 11.6 mm case; fits wrists 126-203 mm",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+weight,37 g,official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+display,"1.04-inch color memory-in-pixel (MIP), 208 x 208 pixels, sunlight-visible transflective",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+build,"chemically strengthened glass lens; 20 mm quick-release silicone band",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+battery,"up to 14 days smartwatch mode; up to 20 hours GPS mode",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,"20 h GPS figure praised by DC Rainmaker but criticized by OutdoorGearLab — polarized takes on same value; spec value itself undisputed"
+power,"rechargeable lithium battery; proprietary charging cable",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,cable type per official manual
+water,"5 ATM; pool swim activity supported",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+memory,32 MB internal memory,official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+gnss,"GPS, GLONASS, Galileo",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+sensors,"Elevate optical heart-rate sensor; accelerometer",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+connectivity,"Bluetooth, ANT+",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,
+training,"PacePro pacing strategies; daily suggested workouts",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,beginner running features also praised by 2 review sources
+availability,"released 2021; listed as DISCONTINUED on official US site",official,https://www.garmin.com/en-US/p/741137/,2026-08-13,third retired product in the set (with Roomba i7 and Hubba Hubba NX); D1 knowledge-verification focus
+no_altimeter,no barometric altimeter,review_consensus,https://www.dcrainmaker.com/2021/06/garmin-forerunner-55-depth-review.html;https://www.outdoorgearlab.com/reviews/fitness/fitness-tracker/garmin-forerunner-55,2026-08-13,"con; also an official-spec absence; OGL URL path reconstructed from truncated batch4 entry"
+screen_con,small display with low resolution,review_consensus,https://www.dcrainmaker.com/2021/06/garmin-forerunner-55-depth-review.html;https://www.techradar.com/reviews/garmin-forerunner-55;https://www.outdoorgearlab.com/reviews/fitness/fitness-tracker/garmin-forerunner-55,2026-08-13,con
+no_music_nfc,no music storage; no NFC payments,review_consensus,https://www.dcrainmaker.com/2021/06/garmin-forerunner-55-depth-review.html;https://www.tomsguide.com/reviews/garmin-forerunner-55,2026-08-13,"con; Tom's Guide URL reconstructed from batch4 shorthand"
+no_sleepwidget,no on-watch sleep data widget,review_consensus,https://www.techradar.com/reviews/garmin-forerunner-55;https://www.dcrainmaker.com/2021/06/garmin-forerunner-55-depth-review.html,2026-08-13,con

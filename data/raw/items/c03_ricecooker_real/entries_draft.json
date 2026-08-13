@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Eleven menu settings across grain types",
+      "fact_field": "menus"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Neuro Fuzzy logic adjusts cycle automatically",
+      "fact_field": "technology"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Spherical inner pan surrounds rice evenly",
+      "fact_field": "technology"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Automatic and extended keep-warm modes",
+      "fact_field": "keepwarm"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Delay timer with two saved settings",
+      "fact_field": "timer"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "LCD panel showing clock and timer",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Detachable inner lid for cleaning",
+      "fact_field": "maintenance"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Consistent rice texture across grain types",
+      "fact_field": "rice_quality"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Four accessories included in box",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Keep warm holds texture twelve hours",
+      "fact_field": "warm_hold"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Retractable cord and stay-cool handles",
+      "fact_field": "maintenance"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Reported service life over a decade",
+      "fact_field": "longevity"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Brown rice cycles run past eighty minutes",
+      "fact_field": "cook_time"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Inner lid removal is fiddly weekly",
+      "fact_field": "lid_cleaning"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Costs more than basic rice cookers",
+      "fact_field": "price_high"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Capacity limited to 5.5 uncooked cups",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "White rice still needs forty minutes",
+      "fact_field": "cook_time"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Footprint of thirteen inches deep",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Menu list adds selection steps",
+      "fact_field": "menus"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No stated weight for shelf planning",
+      "fact_field": "weight"
+    }
+  ]
 }

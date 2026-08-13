@@ -7,8 +7,9 @@
   "name": "Quarvel BX5",
   "paired_item": "c04_blender_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "preset program buttons instead of pulse-only control",
+    "64-ounce container instead of 48",
+    "no tamper included"
   ],
-  "status": "registered"
+  "status": "validated"
 }

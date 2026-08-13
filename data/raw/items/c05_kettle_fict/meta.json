@@ -7,8 +7,9 @@
   "name": "Tessro Kettle",
   "paired_item": "c05_kettle_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "preset temperature buttons instead of to-the-degree dial",
+    "1.2 L capacity instead of 0.9 L",
+    "no scheduling or stopwatch functions"
   ],
-  "status": "registered"
+  "status": "validated"
 }

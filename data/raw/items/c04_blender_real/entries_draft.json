@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two-horsepower motor with metal drive",
+      "fact_field": "motor"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Ten variable speeds plus pulse",
+      "fact_field": "speeds"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Laser-cut stainless steel blades",
+      "fact_field": "blades"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Self-cleaning cycle without disassembly",
+      "fact_field": "cleaning_ease"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Smooth results on frozen ingredients",
+      "fact_field": "blend_quality"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Container of 48 ounces, dishwasher safe",
+      "fact_field": "container"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Five-year full warranty coverage",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Shorter container fits under cabinets",
+      "fact_field": "cabinet_fit"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Mini-tamper included with base",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Speed dial for gradual control",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cord length of 4.5 feet",
+      "fact_field": "cord"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 10.5 pounds anchors base",
+      "fact_field": "weight"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Noise reaching 88 decibels above speed five",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Usable volume below the 48-ounce rating",
+      "fact_field": "batch_limit"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Thick blends require tamping throughout",
+      "fact_field": "tamper_required"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Container height of 18 inches assembled",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single container with no smaller vessel",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No preset programs on the dial",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cord limits placement to 4.5 feet",
+      "fact_field": "cord"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Self-clean still needs a rinse",
+      "fact_field": "maintenance"
+    }
+  ]
 }

@@ -7,8 +7,9 @@
   "name": "Farnholt A5",
   "paired_item": "c02_airfryer_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "no app or wireless control (dial and button panel only)",
+    "round basket instead of square",
+    "8 presets instead of 12"
   ],
-  "status": "registered"
+  "status": "validated"
 }

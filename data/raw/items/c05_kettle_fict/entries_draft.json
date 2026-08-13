@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Five preset temperatures on the panel",
+      "fact_field": "temp_range"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Gooseneck spout for directed pouring",
+      "fact_field": "spout"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Capacity of 1.2 liters per fill",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Hold mode keeps temperature thirty minutes",
+      "fact_field": "functions"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Body in 304 stainless steel",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Boil-dry cutoff protects the element",
+      "fact_field": "functions"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Backlit display readable in dim light",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Cord length of three feet",
+      "fact_field": "cord"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 1300 grams with base",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "1200-watt element for household circuits",
+      "fact_field": "power"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "BPA-free handle and lid pull",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Preset buttons reduce setup steps",
+      "fact_field": "controls"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No setting to a specific degree",
+      "fact_field": "no_degree_set"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No scheduling or brew stopwatch",
+      "fact_field": "no_schedule"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Hold mode fixed at thirty minutes",
+      "fact_field": "hold_single"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Base adds to counter footprint",
+      "fact_field": "base_footprint"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Interior needs periodic descaling",
+      "fact_field": "descale_need"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No altitude adjustment for boiling",
+      "fact_field": "no_altitude"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Gooseneck pours slowly by design",
+      "fact_field": "slow_pour"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Five presets limit temperature choices",
+      "fact_field": "temp_range"
+    }
+  ]
 }
