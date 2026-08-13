@@ -104,15 +104,15 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Belkin never states how long a recharge takes",
-      "fact_field": "recharge"
+      "text_draft": "The bundled cable is six inches long",
+      "fact_field": "cable_length"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The bundled cable measures only six inches",
-      "fact_field": "cable_length"
+      "text_draft": "Nothing in the box charges the pack from a wall",
+      "fact_field": "no_wall_charger"
     },
     {
       "entry_id": "n05",
@@ -125,8 +125,8 @@
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No wall charger comes in the box",
-      "fact_field": "no_wall_charger"
+      "text_draft": "Input and output share the single USB-C port",
+      "fact_field": "ports_c"
     },
     {
       "entry_id": "n07",

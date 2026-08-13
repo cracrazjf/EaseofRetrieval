@@ -2,7 +2,7 @@ field,value,source_type,source_url,accessed_date,note,in_spec
 capacity,5.5 cups uncooked / 1.0 L,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 dimensions,10 x 13-1/8 x 8-1/4 in,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 power,120 V / 680 W,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
-weight,weight not stated by the maker,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,omitted from spec sheet,yes
+weight,weight not stated by the maker,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,omitted from spec sheet,no
 menus,"white regular, sushi, softer, harder, mixed, porridge, sweet, semi-brown, brown, rinse-free, quick",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 keepwarm,"automatic keep warm, extended keep warm, reheating cycle",official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 timer,delay timer with two settings,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
@@ -16,7 +16,7 @@ lid_cleaning,detachable inner lid; removal is fiddly and needed weekly,review_co
 price_high,priced above basic rice cookers,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/;https://medium.com/@smartlivingsolutions/zojirushi-ns-zcc10-neuro-fuzzy-rice-cooker-review-e1b377982cb7,2026-08-13,con; price not in spec sheet per DECISIONS,yes
 rice_quality,consistent rice texture across grain types,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/;https://medium.com/@smartlivingsolutions/zojirushi-ns-zcc10-neuro-fuzzy-rice-cooker-review-e1b377982cb7,2026-08-13,,yes
 warm_hold,keep warm holds texture over 12 hours,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/,2026-08-13,,yes
-longevity,reported service life over a decade in owner reports,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://www.bestbuy.com/site/reviews/zojirushi-neuro-fuzzy-rice-cooker-and-warmer-white/9391909,2026-08-13,,yes
+longevity,reported service life over a decade in owner reports,review_consensus,https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/;https://www.bestbuy.com/site/reviews/zojirushi-neuro-fuzzy-rice-cooker-and-warmer-white/9391909,2026-08-13,,premise
 spherical_pan,spherical inner pan surrounds the rice with heat,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 retract_cord,cord retracts into the housing,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes
 stay_cool,handles stay cool to the touch,official,https://www.zojirushi.com/app/product/nszcc,2026-08-13,,yes

@@ -132,8 +132,8 @@
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The maker never states what the cooker weighs",
-      "fact_field": "weight"
+      "text_draft": "The cooker draws 680 watts through every cycle",
+      "fact_field": "power"
     },
     {
       "entry_id": "n08",

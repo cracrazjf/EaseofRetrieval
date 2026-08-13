@@ -139,8 +139,8 @@
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Kobo never states an actual battery capacity figure",
-      "fact_field": "no_capacity"
+      "text_draft": "Battery is quoted in weeks, so it cannot be compared by capacity",
+      "fact_field": "battery"
     }
   ]
 }

@@ -58,5 +58,17 @@
   "max_shared_pro_con_fields": 2,
   "_distinctness_note": "Each of the 20 entries rests on its own fact_field. A field may support one pro and one con only when they address genuinely different attributes of the same component (a removable tank with a level window vs its capacity), never the same attribute spun twice (a two-year warranty as both an advantage and 'only two years'). Rationale: recycled facts read as quota-filling, and quota-filling content pre-loads the very difficulty signal the trace manipulation is supposed to introduce independently. It also breaks E4, whose 12-item condition tests amount of supporting evidence -- if entries 9-12 are recycled, E4 measures amount of filler.",
   "min_distinct_core16": 16,
-  "_extra4_fallback": "The 8 core pros and 8 cons must each rest on their own fact_field (16 distinct) — these appear in every experiment. The 4 extra4 pros, used only by E4's 12-item condition, may reuse a core8 pro's field when an item cannot yield enough distinct attributes (common for software and accessories). Items that use the fallback are recorded so E4's 16-item subset can prefer fact-dense items, keeping 'more evidence' genuinely more evidence where it is measured."
+  "_extra4_fallback": "The 8 core pros and 8 cons must each rest on their own fact_field (16 distinct) — these appear in every experiment. The 4 extra4 pros, used only by E4's 12-item condition, may reuse a core8 pro's field when an item cannot yield enough distinct attributes (common for software and accessories). Items that use the fallback are recorded so E4's 16-item subset can prefer fact-dense items, keeping 'more evidence' genuinely more evidence where it is measured.",
+  "banned_attribution_patterns": [
+    "\\breviewers?\\b",
+    "\\b(independent|third-party) (testing|measurement|measurements|reviews?|reviewers?|audits?|retention|tests?)\\b",
+    "\\btesters?\\b",
+    "\\bowners? report\\b",
+    "\\bin testing\\b",
+    "\\breview sources?\\b",
+    "\\b[A-Z][a-zA-Z'-]+ (states|rates|claims|asserts)\\b",
+    "\\bthe (maker|manufacturer|company|brand) (states|rates|claims|reports|does not state)\\b",
+    "\\bmeasured (brew |sound |output |noise )?(temperature|figures?|times?|values?)\\b"
+  ],
+  "_no_attribution_note": "Briefings must state facts directly and never attribute them: no 'reviewers report', no 'independent measurements place', no 'Sony rates'. Reason: a fictional product has no reviewers and no independent testing, so attribution phrases appear only in real-item briefings. That makes them a textual marker of realness -- they would tip the model off, hand real items an authority signal fictional ones cannot have, and confound the real/fictional moderator that E2 relies on to separate parametric knowledge from context dependence. Provenance is not lost: it lives in the source_type and source_url columns of facts.csv, which is where an auditor looks for it. Write 'fan noise runs near 68 decibels', not 'independent measurements place fan noise near 68 decibels'."
 }

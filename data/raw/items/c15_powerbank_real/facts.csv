@@ -1,7 +1,7 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 capacity,"10,000 mAh",official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,watt-hour figure not stated on retrieved official pages,yes
 ports,"one USB-C for input and output, two USB-A outputs",official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,,yes
-simultaneous,charges up to three devices at once,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,,premise
+simultaneous,charges up to three devices at once,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,,yes
 output_c,USB-C output 5 V / 3 A,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,,yes
 output_a,USB-A output 5 V / 2.4 A each,official,https://www.belkin.com/support-article/?articleNum=333639,2026-08-13,official text also appends 15 W max per port; internally inconsistent,yes
 total_output,15 W total across the three ports,official,https://www.belkin.com/p/power-bank-10k/BPB011btBK.html,2026-08-13,con; three devices split the figure,yes

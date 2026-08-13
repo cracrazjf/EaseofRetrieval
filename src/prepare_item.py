@@ -207,6 +207,12 @@ def cmd_validate(item_id: str):
         for bad in r["banned_words"]:
             if re.search(rf"\b{re.escape(bad)}\b", spec, re.I):
                 problems.append(f"spec sheet contains banned word: '{bad}'")
+        for pat in r.get("banned_attribution_patterns", []):
+            m = re.search(pat, spec, re.I)
+            if m:
+                problems.append(f"briefing attributes a fact ('{m.group(0).strip()}') — state it "
+                                f"directly; fictional items have no reviewers, so attribution "
+                                f"marks an item as real")
 
     # --- facts ---
     fact_fields = _fact_fields(d)
