@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Automatic focus and keystone on setup",
+      "text_draft": "Focus, keystone, and alignment all sort themselves out",
       "fact_field": "setup_praise"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Weight of 1.1 kilograms for carrying",
+      "text_draft": "At 1.1 kilograms it travels in a backpack",
       "fact_field": "portable"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two 8-watt speakers with Dolby Audio",
+      "text_draft": "Two 8-watt speakers carry a film without extra kit",
       "fact_field": "speakers"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Image between 40 and 200 inches",
+      "text_draft": "The image scales anywhere from 40 to 200 inches",
       "fact_field": "throw"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Android TV 11 with 16 gigabytes",
+      "text_draft": "Android TV runs apps off 16 gigabytes of storage",
       "fact_field": "os"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Four wired ports including HDMI 2.0",
+      "text_draft": "Four wired ports include full HDMI 2.0",
       "fact_field": "ports"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Coverage of 90 percent DCI-P3",
+      "text_draft": "It covers 90 percent of the DCI-P3 colour range",
       "fact_field": "color"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Operating noise under 30 decibels",
+      "text_draft": "It stays under 30 decibels while projecting",
       "fact_field": "noise"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Dual-band Wi-Fi and Bluetooth 5.0",
+      "text_draft": "Dual-band Wi-Fi and Bluetooth 5.0 both connect",
       "fact_field": "wireless"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Obstacle avoidance during screen alignment",
+      "text_draft": "It steers the image around obstacles on the wall",
       "fact_field": "autosetup"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Speakers louder than the size suggests",
+      "text_draft": "The speakers are louder than the size suggests",
       "fact_field": "audio_praise"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Footprint of 161 millimeters tall",
+      "text_draft": "It stands 161 millimetres tall on a table",
       "fact_field": "dimensions"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Resolution of 720p looks soft",
+      "text_draft": "720p goes soft the moment detail matters",
       "fact_field": "res_limit"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No internal battery for cordless use",
+      "text_draft": "No battery inside means it stays near an outlet",
       "fact_field": "no_battery"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "400 lumens insufficient in daylight",
+      "text_draft": "400 lumens washes out in anything but a dark room",
       "fact_field": "bright_limit"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Needs a 65-watt supply to run",
+      "text_draft": "It needs a 65-watt supply to run at all",
       "fact_field": "power"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Storage limited to 16 gigabytes",
+      "text_draft": "16 gigabytes fills up after a handful of apps",
       "fact_field": "os"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Memory of 2 gigabytes for apps",
+      "text_draft": "2 gigabytes of memory slows the interface down",
       "fact_field": "os"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single HDMI input for sources",
+      "text_draft": "One HDMI input means swapping cables between sources",
       "fact_field": "ports"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Throw ratio needs distance for size",
+      "text_draft": "A 1.2:1 throw needs real distance for a big image",
       "fact_field": "throw"
     }
   ]

@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Noise canceling among the strongest available",
+      "text_draft": "The noise canceling ranks among the strongest available",
       "fact_field": "anc_quality"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Battery up to 30 hours canceling",
+      "text_draft": "Thirty hours of canceling covers a week of commutes",
       "fact_field": "battery_nc_on"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten-minute charge returns five hours",
+      "text_draft": "Ten minutes on the charger returns five hours of play",
       "fact_field": "quickcharge"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "LDAC codec at 990 kilobits",
+      "text_draft": "LDAC pushes audio at up to 990 kilobits",
       "fact_field": "bluetooth"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Multipoint connection to two devices",
+      "text_draft": "It holds two devices at once and swaps between them",
       "fact_field": "bluetooth"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Padding comfortable over long sessions",
+      "text_draft": "The padding stays comfortable through long sessions",
       "fact_field": "comfort"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Tuning satisfying across musical genres",
+      "text_draft": "The tuning satisfies across most kinds of music",
       "fact_field": "sound_quality"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Carrying case included in box",
+      "text_draft": "A hard case comes in the box rather than a pouch",
       "fact_field": "box"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Drivers of 40 millimeters with polymer",
+      "text_draft": "Forty-millimetre drivers use polymer diaphragms",
       "fact_field": "driver"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Wired operation up to 36 hours",
+      "text_draft": "Wired playback stretches to thirty-six hours",
       "fact_field": "wired"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 254 grams on head",
+      "text_draft": "At 254 grams the weight sits lightly on the head",
       "fact_field": "weight"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "In-flight plug adaptor supplied",
+      "text_draft": "A plug adaptor covers in-flight entertainment systems",
       "fact_field": "box"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No aptX or aptX HD support",
+      "text_draft": "Sony dropped aptX support that the earlier model had",
       "fact_field": "no_aptx"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No water resistance rating",
+      "text_draft": "There is no water rating of any kind",
       "fact_field": "no_ip"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Touch gestures register inconsistently",
+      "text_draft": "The touch panel misreads taps often enough to annoy",
       "fact_field": "touch_controls"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Speak-to-chat triggers on other sounds",
+      "text_draft": "Speak-to-chat cuts the music at coughs and laughter",
       "fact_field": "speak_to_chat"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Battery drops sharply using LDAC",
+      "text_draft": "Switching to LDAC nearly halves the battery life",
       "fact_field": "battery_nc_on"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Multipoint limited to standard codecs",
+      "text_draft": "Two-device pairing drops back to the basic codec",
       "fact_field": "bluetooth"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Talk time shorter than playback time",
+      "text_draft": "Talk time falls well short of the playback figure",
       "fact_field": "talk"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Case adds bulk when packed",
+      "text_draft": "The hard case takes up real room in a bag",
       "fact_field": "box"
     }
   ]

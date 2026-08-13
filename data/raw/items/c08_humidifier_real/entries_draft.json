@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Tank of 1.1 gallons per fill",
+      "text_draft": "The 1.1-gallon tank runs a full day between fills",
       "fact_field": "tank"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Runtime up to 24 hours on low",
+      "text_draft": "On low it keeps going for twenty-four hours",
       "fact_field": "runtime"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Wide tank opening simplifies cleaning",
+      "text_draft": "The tank opening is wide enough to reach inside and scrub",
       "fact_field": "clean_ease"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Evaporative design leaves no mineral dust",
+      "text_draft": "Evaporative mist leaves no white dust on the furniture",
       "fact_field": "no_dust"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three speed settings for output",
+      "text_draft": "Three speeds trade output against how loud it runs",
       "fact_field": "speeds"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Wicking filter captures water minerals",
+      "text_draft": "The wick traps minerals so they never reach the air",
       "fact_field": "filter"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Inhibits mold growth on the filter",
+      "text_draft": "The filter resists mould growth on its own surface",
       "fact_field": "germ"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Tank is dishwasher safe",
+      "text_draft": "The tank goes into the dishwasher between refills",
       "fact_field": "tank_features"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Three year limited warranty",
+      "text_draft": "Three years of cover comes with the unit",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Draws 60 watts in operation",
+      "text_draft": "It draws only 60 watts running continuously",
       "fact_field": "power"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Output self-regulates with room humidity",
+      "text_draft": "Output tapers off once the room reaches its own balance",
       "fact_field": "no_dust"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 8.36 pounds when empty",
+      "text_draft": "At 8.36 pounds it carries to the sink one-handed",
       "fact_field": "weight"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Fan noise higher than comparable units",
+      "text_draft": "The fan is louder than most units in its class",
       "fact_field": "noise_high"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Wick replacement adds recurring cost",
+      "text_draft": "Wick filters have to be bought again every season",
       "fact_field": "filter_cost"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Wick grows mold without drying",
+      "text_draft": "The wick grows mould if it never dries out",
       "fact_field": "wick_mold"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single dial without a humidistat",
+      "text_draft": "A single dial is all there is, with no humidity target",
       "fact_field": "basic_controls"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Footprint of nearly eighteen inches wide",
+      "text_draft": "At nearly eighteen inches wide it dominates a side table",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Tank needs refilling every day",
+      "text_draft": "The tank needs refilling every single day",
       "fact_field": "tank"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Filter must be replaced seasonally",
+      "text_draft": "The filter has to be swapped on a schedule",
       "fact_field": "filter"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Base needs drying between uses",
+      "text_draft": "The base has to dry out between periods of use",
       "fact_field": "wick_mold"
     }
   ]

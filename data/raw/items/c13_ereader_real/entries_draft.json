@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Screen at 300 pixels per inch",
+      "text_draft": "Text sits sharp at 300 pixels per inch",
       "fact_field": "display"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Color temperature adjustable for night reading",
+      "text_draft": "The colour temperature warms up for reading at night",
       "fact_field": "warmth_praise"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Rating of IPX8 for water",
+      "text_draft": "An IPX8 rating survives a drop in the bath",
       "fact_field": "waterproof"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Storage of 16 gigabytes onboard",
+      "text_draft": "Sixteen gigabytes holds thousands of books at once",
       "fact_field": "storage"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Library borrowing built into the reader",
+      "text_draft": "Library borrowing works from inside the reader",
       "fact_field": "library"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Weight of 171 grams one-handed",
+      "text_draft": "At 171 grams it holds in one hand for hours",
       "fact_field": "portable"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Fifteen file formats open natively",
+      "text_draft": "Fifteen file formats open without conversion",
       "fact_field": "formats"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Text sharp at reading distance",
+      "text_draft": "Print stays crisp at ordinary reading distance",
       "fact_field": "sharp_screen"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Exterior over 85 percent recycled plastic",
+      "text_draft": "The shell is over 85 percent recycled plastic",
       "fact_field": "materials"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Bluetooth audiobook playback supported",
+      "text_draft": "Bluetooth plays audiobooks straight to headphones",
       "fact_field": "connectivity"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Battery lasting weeks per charge",
+      "text_draft": "A charge lasts weeks rather than days",
       "fact_field": "battery"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Dark mode inverts the display",
+      "text_draft": "Dark mode flips the page white on black",
       "fact_field": "darkmode"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Menus and page turns lag",
+      "text_draft": "Menus and page turns lag behind rival readers",
       "fact_field": "slow_ui"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Front light darker near lower edge",
+      "text_draft": "The front light goes patchy along the bottom edge",
       "fact_field": "uneven_light"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Screen recessed rather than flush",
+      "text_draft": "The screen sits sunk below the bezel rather than flush",
       "fact_field": "recessed"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Processor of 1.0 gigahertz only",
+      "text_draft": "A 1.0-gigahertz chip is the source of the sluggishness",
       "fact_field": "processor"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No page-turn buttons on the body",
+      "text_draft": "There are no page-turn buttons on the body",
       "fact_field": "display"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Battery stated without a capacity figure",
+      "text_draft": "Kobo never states an actual battery capacity",
       "fact_field": "battery"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Storage fixed with no card slot",
+      "text_draft": "Storage is fixed with no card slot to add more",
       "fact_field": "storage"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Six-inch screen limits page area",
+      "text_draft": "A six-inch page shows less text than larger readers",
       "fact_field": "display"
     }
   ]

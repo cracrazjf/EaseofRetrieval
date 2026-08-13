@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Battery up to 26 hours canceling",
+      "text_draft": "Twenty-six hours of canceling covers a week of commutes",
       "fact_field": "battery_nc_on"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Wired operation up to 40 hours",
+      "text_draft": "Wired playback stretches to forty hours",
       "fact_field": "wired"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Physical buttons for blind operation",
+      "text_draft": "Three buttons work by feel without looking",
       "fact_field": "controls"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "IPX4 rating for splash resistance",
+      "text_draft": "An IPX4 rating shrugs off rain and sweat",
       "fact_field": "water"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Drivers of 42 millimeters per side",
+      "text_draft": "Forty-two millimetre drivers sit in each cup",
       "fact_field": "driver"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten-minute charge returns four hours",
+      "text_draft": "Ten minutes on the charger returns four hours of play",
       "fact_field": "quickcharge"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Bluetooth 5.2 with AAC support",
+      "text_draft": "Bluetooth 5.2 handles AAC on top of the basic codec",
       "fact_field": "bluetooth"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Carrying pouch included in box",
+      "text_draft": "A carrying pouch comes in the box",
       "fact_field": "box"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 268 grams on head",
+      "text_draft": "At 268 grams the weight sits evenly on the head",
       "fact_field": "weight"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Response from 20 hertz upward",
+      "text_draft": "Response reaches down to 20 hertz at the low end",
       "fact_field": "frequency"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Both cables supplied in box",
+      "text_draft": "Both charging and audio cables come along",
       "fact_field": "box"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Noise canceling mode on a button",
+      "text_draft": "Noise canceling switches on its own dedicated button",
       "fact_field": "controls"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cannot hold two connections at once",
+      "text_draft": "It pairs with one device and no more",
       "fact_field": "no_multipoint"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No high bitrate codec beyond AAC",
+      "text_draft": "Nothing beyond AAC handles higher bitrate audio",
       "fact_field": "codec_basic"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Fabric pouch offers limited protection",
+      "text_draft": "A fabric pouch does little to protect the hinges",
       "fact_field": "pouch_only"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Weight of 268 grams over hours",
+      "text_draft": "At 268 grams the clamp tires the head over hours",
       "fact_field": "weight_head"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Three buttons take practice to learn",
+      "text_draft": "Three buttons take practice to tell apart blind",
       "fact_field": "button_learn"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "IPX4 covers splashes, not immersion",
+      "text_draft": "IPX4 covers splashes but nothing more",
       "fact_field": "splash_only"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Battery shorter than 30 hour class",
+      "text_draft": "Twenty-six hours falls short of the thirty-hour class",
       "fact_field": "battery_nc_on"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single device pairing at a time",
+      "text_draft": "Swapping devices means unpairing and pairing again",
       "fact_field": "bluetooth"
     }
   ]

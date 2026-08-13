@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Height range spanning 25 inches",
+      "text_draft": "The frame covers 25 inches of height, from sitting to standing",
       "fact_field": "height_range"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Capacity rated at 265 pounds",
+      "text_draft": "It carries 265 pounds of monitors and machines",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Two memory presets on the keypad",
+      "text_draft": "Two saved heights bring it back without hunting",
       "fact_field": "keypad"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Child lock built into keypad",
+      "text_draft": "A child lock stops the keypad being pressed by accident",
       "fact_field": "keypad"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Powder-coated steel frame construction",
+      "text_draft": "Powder-coated steel holds the columns together",
       "fact_field": "frame"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Assembled frame weighs 62 pounds",
+      "text_draft": "The assembled frame comes in around 62 pounds",
       "fact_field": "assembled_weight"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ten year frame warranty coverage",
+      "text_draft": "Ten years of cover runs on the frame itself",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sound under 55 decibels while moving",
+      "text_draft": "It stays under 55 decibels while moving",
       "fact_field": "noise"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Cable clips included with hardware",
+      "text_draft": "Adhesive cable clips come with the hardware",
       "fact_field": "accessories"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Two-stage columns with single motor",
+      "text_draft": "One motor drives both two-stage columns together",
       "fact_field": "motors"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Travel speed near one inch per second",
+      "text_draft": "It travels about an inch per second",
       "fact_field": "speed"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Frame accepts a separate desktop",
+      "text_draft": "The frame takes whatever desktop the buyer supplies",
       "fact_field": "frame"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No stop when meeting an obstacle",
+      "text_draft": "It keeps rising even when something is in the way",
       "fact_field": "no_stop"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One motor limits travel speed",
+      "text_draft": "One motor makes for slower travel than twin-motor frames",
       "fact_field": "single_motor_speed"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Two presets cover fewer users",
+      "text_draft": "Two saved heights run out quickly with shared desks",
       "fact_field": "two_presets"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Two-stage column narrows height range",
+      "text_draft": "Two-stage columns cut the range short at both ends",
       "fact_field": "two_stage"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cable clips instead of a tray",
+      "text_draft": "Cable management amounts to a handful of stick-on clips",
       "fact_field": "clips_only"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Capacity of 265 pounds limits setups",
+      "text_draft": "265 pounds rules out the heaviest desk setups",
       "fact_field": "capacity_limit"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Sound reaches 55 decibels in travel",
+      "text_draft": "The motors reach 55 decibels in a shared room",
       "fact_field": "noise"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Column bolts need periodic checking",
+      "text_draft": "Column bolts need checking every so often",
       "fact_field": "frame"
     }
   ]

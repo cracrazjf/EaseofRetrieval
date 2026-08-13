@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Rated to 400 pounds of load",
+      "text_draft": "It is rated to 400 pounds, well past most task chairs",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Arms adjusting in four directions",
+      "text_draft": "The arms move in four directions to meet the desk",
       "fact_field": "arms"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Adjustable lumbar support fitted as standard",
+      "text_draft": "Lumbar support adjusts and comes fitted as standard",
       "fact_field": "lumbar"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Seat depth adjusting 2-1/4 inches",
+      "text_draft": "Seat depth slides over two and a quarter inches",
       "fact_field": "seat_depth"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Weight-activated recline sets its own resistance",
+      "text_draft": "Recline resistance sets itself from the sitter's weight",
       "fact_field": "recline"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Mesh back stays breathable in warmth",
+      "text_draft": "The mesh back keeps air moving in a warm room",
       "fact_field": "mesh_breath"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Arrives assembled and usable without tools",
+      "text_draft": "It arrives assembled and is usable within minutes",
       "fact_field": "assembly"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Adjustment range unusual at its price",
+      "text_draft": "This much adjustment is unusual at the price",
       "fact_field": "feature_set"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Twelve years multi-shift parts coverage",
+      "text_draft": "Twelve years of parts and labour cover multi-shift use",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Back offered in mesh or polypropylene",
+      "text_draft": "The back comes in mesh or moulded polypropylene",
       "fact_field": "back"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Seat offered in three material choices",
+      "text_draft": "Seats come in fabric, leather, or vinyl",
       "fact_field": "seat_materials"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Recline angle spanning 22 degrees",
+      "text_draft": "The recline opens through twenty-two degrees",
       "fact_field": "recline"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Armrests shift under pressure without locking",
+      "text_draft": "The arms never lock and drift under an elbow",
       "fact_field": "arms_shift"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Lumbar support insufficient for some sitters",
+      "text_draft": "Several testers found the lumbar support too soft",
       "fact_field": "lumbar_weak"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Comfort limited past five hours",
+      "text_draft": "Half the testers wanted out after four or five hours",
       "fact_field": "allday"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Backrest height shorter than taller chairs",
+      "text_draft": "The backrest sits lower than on taller chairs",
       "fact_field": "lumbar_weak"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Seat depth range only 2-1/4 inches",
+      "text_draft": "Seat depth only travels two and a quarter inches",
       "fact_field": "seat_depth"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Caster housings need periodic checking",
+      "text_draft": "Caster housings collect hair and need clearing",
       "fact_field": "capacity"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Two seat height ranges to choose",
+      "text_draft": "The right seat height range has to be chosen at purchase",
       "fact_field": "seat_height"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Headrest is a separate purchase",
+      "text_draft": "A headrest costs extra and adds little",
       "fact_field": "arms"
     }
   ]

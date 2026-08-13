@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Screen at 300 pixels per inch",
+      "text_draft": "Text sits sharp at 300 pixels per inch",
       "fact_field": "display"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Seven-inch page area for text",
+      "text_draft": "A seven-inch page holds more text before turning",
       "fact_field": "display"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Physical page-turn buttons on bezel",
+      "text_draft": "Buttons on the bezel turn pages without touching the screen",
       "fact_field": "buttons"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Storage of 32 gigabytes onboard",
+      "text_draft": "Thirty-two gigabytes holds thousands of books at once",
       "fact_field": "storage"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Color temperature adjustable for night reading",
+      "text_draft": "The colour temperature warms up for reading at night",
       "fact_field": "frontlight"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Processor of 1.2 gigahertz",
+      "text_draft": "A 1.2-gigahertz chip keeps the menus moving",
       "fact_field": "processor"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Bluetooth audiobook playback supported",
+      "text_draft": "Bluetooth plays audiobooks straight to headphones",
       "fact_field": "connectivity"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Battery lasting weeks per charge",
+      "text_draft": "A charge lasts weeks rather than days",
       "fact_field": "battery"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Twelve file formats open natively",
+      "text_draft": "Twelve file formats open without conversion",
       "fact_field": "formats"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Textured back aids one-handed grip",
+      "text_draft": "The textured back stops it sliding out of one hand",
       "fact_field": "materials"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Dark mode inverts the display",
+      "text_draft": "Dark mode flips the page white on black",
       "fact_field": "darkmode"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Charging over the USB-C port",
+      "text_draft": "It charges over the same USB-C as everything else",
       "fact_field": "connectivity"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No water resistance for bath reading",
+      "text_draft": "No water rating rules out reading in the bath",
       "fact_field": "no_water_con"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Seven-inch body resists pocket carry",
+      "text_draft": "A seven-inch body will not go in a jacket pocket",
       "fact_field": "size_pocket"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Weight of 195 grams held long",
+      "text_draft": "At 195 grams the wrist notices it after an hour",
       "fact_field": "weight_hand"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Storage fixed without a card slot",
+      "text_draft": "Storage is fixed with no card slot to add more",
       "fact_field": "no_card"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Twelve formats fewer than some readers",
+      "text_draft": "Twelve formats leave a few files needing conversion",
       "fact_field": "format_count"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Battery stated without a capacity figure",
+      "text_draft": "No battery capacity is ever stated, only weeks",
       "fact_field": "no_capacity"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Buttons only on the left bezel",
+      "text_draft": "The page buttons sit on the left side only",
       "fact_field": "buttons"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Housing in polymer rather than metal",
+      "text_draft": "A polymer shell feels less solid than metal",
       "fact_field": "materials"
     }
   ]

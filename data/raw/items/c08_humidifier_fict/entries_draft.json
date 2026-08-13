@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Reservoir of 1.3 gallons per fill",
+      "text_draft": "The 1.3-gallon reservoir runs well past a day",
       "fact_field": "tank"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Runtime up to 30 hours on low",
+      "text_draft": "On low it keeps going for thirty hours",
       "fact_field": "runtime"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Humidistat holds a target humidity level",
+      "text_draft": "The humidistat holds the room at whatever level is set",
       "fact_field": "humidistat"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Top-fill opening under lift-off cap",
+      "text_draft": "Water goes in through the top without lifting anything out",
       "fact_field": "fill"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Adjustable nozzle directs the mist",
+      "text_draft": "The nozzle aims the mist away from nearby furniture",
       "fact_field": "type"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Dial shows target and current readings",
+      "text_draft": "The dial shows both the target and the current reading",
       "fact_field": "controls"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Mineral cartridge included in reservoir",
+      "text_draft": "A mineral cartridge sits in the reservoir from the start",
       "fact_field": "cartridge"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Draws 34 watts in operation",
+      "text_draft": "It draws only 34 watts running continuously",
       "fact_field": "power"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 6.2 pounds when empty",
+      "text_draft": "At 6.2 pounds it carries to the sink one-handed",
       "fact_field": "weight"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Footprint under eleven inches wide",
+      "text_draft": "The base takes up less than eleven inches across",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Two year limited warranty",
+      "text_draft": "Two years of cover comes with the unit",
       "fact_field": "warranty"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Cleaning brush included in box",
+      "text_draft": "A cleaning brush comes in the box",
       "fact_field": "accessories"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Mist deposits dust with hard water",
+      "text_draft": "Hard water leaves mineral dust on nearby surfaces",
       "fact_field": "white_dust"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Mineral cartridge is a recurring purchase",
+      "text_draft": "The mineral cartridge has to be bought again",
       "fact_field": "cartridge_cost"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Reservoir does not lift out",
+      "text_draft": "The reservoir stays put, so it cannot go to the sink",
       "fact_field": "no_removable_tank"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Nozzle and reservoir need frequent wiping",
+      "text_draft": "Nozzle and reservoir need wiping down often",
       "fact_field": "nozzle_clean"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Mist settles on nearby surfaces",
+      "text_draft": "Mist settles on whatever sits close to the outlet",
       "fact_field": "surface_damp"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Height of 13.8 inches on tables",
+      "text_draft": "At 13.8 inches tall it dominates a side table",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Warranty covers only two years",
+      "text_draft": "Cover runs out after two years",
       "fact_field": "warranty"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cartridge sits inside the reservoir",
+      "text_draft": "The cartridge sits down inside the reservoir to reach",
       "fact_field": "cartridge"
     }
   ]
