@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Rated to 400 pounds of load",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Arms adjusting in four directions",
+      "fact_field": "arms"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Adjustable lumbar support fitted as standard",
+      "fact_field": "lumbar"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Seat depth adjusting 2-1/4 inches",
+      "fact_field": "seat_depth"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Weight-activated recline sets its own resistance",
+      "fact_field": "recline"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Mesh back stays breathable in warmth",
+      "fact_field": "mesh_breath"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Arrives assembled and usable without tools",
+      "fact_field": "assembly"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Adjustment range unusual at its price",
+      "fact_field": "feature_set"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Twelve years multi-shift parts coverage",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Back offered in mesh or polypropylene",
+      "fact_field": "back"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Seat offered in three material choices",
+      "fact_field": "seat_materials"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Recline angle spanning 22 degrees",
+      "fact_field": "recline"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Armrests shift under pressure without locking",
+      "fact_field": "arms_shift"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Lumbar support insufficient for some sitters",
+      "fact_field": "lumbar_weak"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Comfort limited past five hours",
+      "fact_field": "allday"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Backrest height shorter than taller chairs",
+      "fact_field": "lumbar_weak"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Seat depth range only 2-1/4 inches",
+      "fact_field": "seat_depth"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Caster housings need periodic checking",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Two seat height ranges to choose",
+      "fact_field": "seat_height"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Headrest is a separate purchase",
+      "fact_field": "arms"
+    }
+  ]
 }

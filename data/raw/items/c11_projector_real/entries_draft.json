@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Automatic focus and keystone on setup",
+      "fact_field": "setup_praise"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Weight of 1.1 kilograms for carrying",
+      "fact_field": "portable"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two 8-watt speakers with Dolby Audio",
+      "fact_field": "speakers"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Image between 40 and 200 inches",
+      "fact_field": "throw"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Android TV 11 with 16 gigabytes",
+      "fact_field": "os"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Four wired ports including HDMI 2.0",
+      "fact_field": "ports"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Coverage of 90 percent DCI-P3",
+      "fact_field": "color"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Operating noise under 30 decibels",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Dual-band Wi-Fi and Bluetooth 5.0",
+      "fact_field": "wireless"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Obstacle avoidance during screen alignment",
+      "fact_field": "autosetup"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Speakers louder than the size suggests",
+      "fact_field": "audio_praise"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Footprint of 161 millimeters tall",
+      "fact_field": "dimensions"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Resolution of 720p looks soft",
+      "fact_field": "res_limit"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No internal battery for cordless use",
+      "fact_field": "no_battery"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "400 lumens insufficient in daylight",
+      "fact_field": "bright_limit"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Needs a 65-watt supply to run",
+      "fact_field": "power"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Storage limited to 16 gigabytes",
+      "fact_field": "os"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Memory of 2 gigabytes for apps",
+      "fact_field": "os"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single HDMI input for sources",
+      "fact_field": "ports"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Throw ratio needs distance for size",
+      "fact_field": "throw"
+    }
+  ]
 }

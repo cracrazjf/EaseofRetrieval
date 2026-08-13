@@ -7,8 +7,9 @@
   "name": "Tarnwell C1",
   "paired_item": "c10_chair_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "fixed-height arms instead of 4D arms",
+    "manual tension knob instead of weight-activated recline",
+    "no seat depth adjustment"
   ],
-  "status": "registered"
+  "status": "validated"
 }

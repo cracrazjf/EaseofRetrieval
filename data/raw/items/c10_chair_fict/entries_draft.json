@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Rated to 300 pounds of load",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Pneumatic seat height lever under seat",
+      "fact_field": "seat_height"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Height-adjustable lumbar pad on back",
+      "fact_field": "lumbar"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three-position tilt lock holds recline",
+      "fact_field": "recline"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Knit mesh back over molded frame",
+      "fact_field": "back"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Five-star base with 60-millimeter casters",
+      "fact_field": "base"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Seven year warranty on parts",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Tension knob sets recline resistance",
+      "fact_field": "recline"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Padded caps on the arms",
+      "fact_field": "arms"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Fabric seat over molded foam",
+      "fact_field": "seat_materials"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Assembly tool included in box",
+      "fact_field": "assembly_req"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Casters suit hard floors and carpet",
+      "fact_field": "base"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Arms cannot be raised or pivoted",
+      "fact_field": "no_arm_adjust"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Seat depth cannot match leg length",
+      "fact_field": "no_depth_adjust"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Tension knob needs turning after changes",
+      "fact_field": "manual_tension"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Tilt lock offers three positions",
+      "fact_field": "three_lock"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Capacity rated to 300 pounds",
+      "fact_field": "capacity_300"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Base and cylinder assemble on arrival",
+      "fact_field": "assembly_req"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Warranty covers parts for seven years",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Mesh back needs periodic vacuuming",
+      "fact_field": "back"
+    }
+  ]
 }

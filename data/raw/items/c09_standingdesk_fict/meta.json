@@ -7,8 +7,9 @@
   "name": "Ostreno D2",
   "paired_item": "c09_standingdesk_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "single motor instead of dual",
+    "two memory presets instead of four",
+    "no anti-collision sensing"
   ],
-  "status": "registered"
+  "status": "validated"
 }

@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Height range spanning 25 inches",
+      "fact_field": "height_range"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Capacity rated at 265 pounds",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two memory presets on the keypad",
+      "fact_field": "keypad"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Child lock built into keypad",
+      "fact_field": "keypad"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Powder-coated steel frame construction",
+      "fact_field": "frame"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Assembled frame weighs 62 pounds",
+      "fact_field": "assembled_weight"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Ten year frame warranty coverage",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Sound under 55 decibels while moving",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cable clips included with hardware",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Two-stage columns with single motor",
+      "fact_field": "motors"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Travel speed near one inch per second",
+      "fact_field": "speed"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Frame accepts a separate desktop",
+      "fact_field": "frame"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No stop when meeting an obstacle",
+      "fact_field": "no_stop"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "One motor limits travel speed",
+      "fact_field": "single_motor_speed"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Two presets cover fewer users",
+      "fact_field": "two_presets"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Two-stage column narrows height range",
+      "fact_field": "two_stage"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cable clips instead of a tray",
+      "fact_field": "clips_only"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Capacity of 265 pounds limits setups",
+      "fact_field": "capacity_limit"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Sound reaches 55 decibels in travel",
+      "fact_field": "noise"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Column bolts need periodic checking",
+      "fact_field": "frame"
+    }
+  ]
 }
