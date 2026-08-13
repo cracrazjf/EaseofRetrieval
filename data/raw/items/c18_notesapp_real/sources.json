@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.notion.com/pricing",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_notion_com_pricing.html",
+      "sha256": "eeb0c18d4f60e40a0f269e736f1b04aaf3a84528d3264f4ca13a569cb2198e62"
+    },
+    {
+      "url": "https://www.notion.com/help/export-your-content",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_notion_com_help_export_your_content.html",
+      "sha256": "ad1e6a4dace6e08e40c81381a2ecf4a56b70abef56b9d02c031c1a8cb3cf1b87"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://thebusinessdive.com/notion-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_thebusinessdive_com_notion_review.html",
+      "sha256": "f7340e34b376ffe171002c6c5fea40063ceffd0bde97bb1a23d79a27ca5f4ebf"
+    },
+    {
+      "url": "https://hackceleration.com/labs/review/notion",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_hackceleration_com_labs_review_notion.html",
+      "sha256": "93c9c6120ff2825f0272530235cc0d591666c25df2d7066ffa7c96863da898b1"
+    }
+  ]
 }

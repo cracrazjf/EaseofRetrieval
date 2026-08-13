@@ -1,4 +1,27 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.forestapp.cc/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_forestapp_cc_.html",
+      "sha256": "73d537aa97b1e72165ed813838b7ad9e58fdd33c8f41e99522673daee2b0a1f9"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.primeproductiv4.com/apps-tools/forestapp-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_primeproductiv4_com_apps_tools_forestapp_review.html",
+      "sha256": "132f61d6c57530f13cb8e34a20e74eb6336d78930b42d66aac163cf01b03a990"
+    },
+    {
+      "url": "https://nerdynav.com/forest-vs-flora-pomodoro/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_nerdynav_com_forest_vs_flora_pomodoro_.html",
+      "sha256": "0518ba245175c75ffa159860299c687ef7bc3efbd225d18401f2768bfdf0529e"
+    }
+  ]
 }

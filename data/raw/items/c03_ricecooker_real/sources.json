@@ -1,4 +1,27 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.zojirushi.com/app/product/nszcc",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_zojirushi_com_app_product_nszcc.html",
+      "sha256": "6bf78cdb08f99db89c427aaa23e9986b45db1b6aeca3070bc115157f112ed0d6"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_mrkitchenadviser_com_zojirushi_ns_zcc10_review_.html",
+      "sha256": "1ce51e3035670d25b8027f0d2f5a75f4a96c8f5f81656b2588bd9367e5478933"
+    },
+    {
+      "url": "https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_applegreenshop_com_product_reviews_zojirushi_ns_zcc10_rice_cooker_review_.html",
+      "sha256": "415789cdfa01116b4cf230102b39b4b5dd1e5126cb229b0e5797babaa8ad921f"
+    }
+  ]
 }

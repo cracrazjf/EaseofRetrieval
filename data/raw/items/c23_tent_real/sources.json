@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_cascadedesigns_com_en_eu_products_hubba_hubba_nx_2_person_backpacking_tent.html",
+      "sha256": "6ef97e69745c4e7ef620af670a81d192be378aedc4520a48eb46ec90f41c3019"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://wildernesstimes.com/msr-hubba-hubba-tent-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_wildernesstimes_com_msr_hubba_hubba_tent_review_.html",
+      "sha256": "f4f2e23079a2c82855688662c25a544993a2cedb1c660db891cf60923f8008e1"
+    },
+    {
+      "url": "https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_ultimategearlists_com_gear_reviews_msr_hubba_hubba_2_tent.html",
+      "sha256": "5cfaf3dfc1e7342530a69d82f706a997c665f85c0ff6aa9d965f791b7a6628f4"
+    },
+    {
+      "url": "https://www.thebrokebackpacker.com/msr-hubba-hubba-nx-tent-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_thebrokebackpacker_com_msr_hubba_hubba_nx_tent_review_.html",
+      "sha256": "800dc40858a3199b2b4b1ab4b216cbbbc8614e232a51d830e65d4c9d8bc412a9"
+    }
+  ]
 }

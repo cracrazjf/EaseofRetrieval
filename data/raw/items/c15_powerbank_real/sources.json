@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.belkin.com/p/power-bank-10k/BPB011btBK.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_belkin_com_p_power_bank_10k_bpb011btbk_html.html",
+      "sha256": "cb0d4d6cb1d03e13fc462074e0fd2bfb4ea0ff8f82cd76ba1996f14daf0d4eff"
+    },
+    {
+      "url": "https://www.belkin.com/support-article/?articleNum=333639",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_belkin_com_support_article_articlenum_333639.html",
+      "sha256": "21168e11843823b568f3200d14b7ac709803b34ebb3d0edba50b96bd191c809f"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_androidauthority_com_belkin_power_bank_10k_review_3036766_.html",
+      "sha256": "2f2687fd77afe9fc52d069aab48be0814aeeb7e169c23cd87f822da56bd70db8"
+    },
+    {
+      "url": "https://questdaily.com.au/tech-review/review-belkin-boostcharge-power-bank-10k/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_questdaily_com_au_tech_review_review_belkin_boostcharge_power_bank_10k_.html",
+      "sha256": "6bcd3f886a378e404b2e8373d26fcd2311fa9f7dba19e0ae1d1a99fa86569018"
+    }
+  ]
 }

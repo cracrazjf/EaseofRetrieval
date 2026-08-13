@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://bitwarden.com/pricing/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_bitwarden_com_pricing_.html",
+      "sha256": "9528e8ef2db843b1ad3421625211027daa7543e3a72a01e7211b03462bada91b"
+    },
+    {
+      "url": "https://bitwarden.com/download/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_bitwarden_com_download_.html",
+      "sha256": "9512e96b52d740001d9af658ad33f36f10688ea8895186577b569f46c6e3a4ee"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://cyberinsider.com/password-manager/reviews/bitwarden/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_cyberinsider_com_password_manager_reviews_bitwarden_.html",
+      "sha256": "44633eb912257270a18963401f663437238d4d929857cab12913263e99b93be4"
+    },
+    {
+      "url": "https://www.malcare.com/blog/bitwarden-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_malcare_com_blog_bitwarden_review_.html",
+      "sha256": "bae33231b11ac04e5001cfcc1d07ae515baf1e765f139c41ad94ea0446fcda7f"
+    }
+  ]
 }

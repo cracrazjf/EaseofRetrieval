@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_keychron_ph_products_keychron_k2_wireless_mechanical_keyboard.html",
+      "sha256": "a8b97dd9bbbfe648afbc45b8c2ee10504a75f73396d9e0da52ad5c5afa1649ca"
+    },
+    {
+      "url": "https://www.keychron.com/products/keychron-k2-hot-swappable-wireless-mechanical-keyboard",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_keychron_com_products_keychron_k2_hot_swappable_wireless_mechanical_ke.html",
+      "sha256": "258b96142ad64e156ecc103d98f9bd076d94f9da2bc2a74b75ed9fe44db8b96e"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.imore.com/keychron-k2-v2-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_imore_com_keychron_k2_v2_review.html",
+      "sha256": "d6b1c415e43866a16293fc3c4b7252cbe88798f41815f3752deecc271e84e6eb"
+    },
+    {
+      "url": "https://appleinsider.com/articles/20/09/26/review-the-keychron-k2v2-is-a-good-upgrade-to-an-already-near-perfect-keyboard",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_appleinsider_com_articles_20_09_26_review_the_keychron_k2v2_is_a_good_upgr.html",
+      "sha256": "cda24a0653e56af318c1656e09460f23af3cd1fe0db3fad3273a1d0f8661217b"
+    }
+  ]
 }

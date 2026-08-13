@@ -1,4 +1,41 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://gl.kobobooks.com/products/kobo-clara-2e",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_gl_kobobooks_com_products_kobo_clara_2e.html",
+      "sha256": "ea1695f25fb39c1233490136311613b3f3a7b6c76e65dfc2b3d8c67f58e29d8f"
+    },
+    {
+      "url": "https://us.kobobooks.com/products/kobo-clara-2e",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_us_kobobooks_com_products_kobo_clara_2e.html",
+      "sha256": "a56d4bdcac575c4adf08a1e40ca37eca4a8ff626d5432fedef7128f226a99355"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.techadvisor.com/article/1364904/kobo-clara-2e-review.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techadvisor_com_article_1364904_kobo_clara_2e_review_html.html",
+      "sha256": "73e3fc9be37cf6f852ab5ce6efd5901eb81405a20dc4caae23b40d7c72c1054e"
+    },
+    {
+      "url": "https://www.reviewed.com/tech/content/kobo-clara-e2-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_reviewed_com_tech_content_kobo_clara_e2_review.html",
+      "sha256": "e6769716d654e456d35d2f844697288c8281b185f57546dbee5dbb50942f84de"
+    },
+    {
+      "url": "https://blog.the-ebook-reader.com/2022/10/10/kobo-clara-2e-review-and-video-walkthrough/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_blog_the_ebook_reader_com_2022_10_10_kobo_clara_2e_review_and_video_walkth.html",
+      "sha256": "cbd4cc639aa22628a92609152ea58862e61d941ae2812827bc95d8275c4b4391"
+    }
+  ]
 }

@@ -1,4 +1,41 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://store.irobot.com/default/roomba-vacuuming-robot-vacuum-irobot-roomba-i7-plus/i755020.html?cgid=us",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_store_irobot_com_default_roomba_vacuuming_robot_vacuum_irobot_roomba_i7_pl.html",
+      "sha256": "775b02e23d881c98412f24574a45258c3ff6fd05144fe43f18e3e476ef40482a"
+    },
+    {
+      "url": "https://www.manua.ls/irobot/roomba-i7/specifications",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_manua_ls_irobot_roomba_i7_specifications.html",
+      "sha256": "aaabcb7185d3e486cfc74f084716fe6c465b0828a70924522bb56ab959bda8a0"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.techadvisor.com/article/723267/irobot-roomba-i7-automatic-dirt-disposal-review.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techadvisor_com_article_723267_irobot_roomba_i7_automatic_dirt_disposa.html",
+      "sha256": "315d8f6044e8d9e134500f921c794da39f54f49fb98af534066299fe1b64bafe"
+    },
+    {
+      "url": "https://www.trustedreviews.com/reviews/irobot-roomba-i7",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_trustedreviews_com_reviews_irobot_roomba_i7.html",
+      "sha256": "7e1131ab7b5be6c9897f74d9a69a4f56bee69f90f9777d4581956765ec223151"
+    },
+    {
+      "url": "https://www.tomsguide.com/us/irobot-roomba-i7-plus,review-6080.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_tomsguide_com_us_irobot_roomba_i7_plus_review_6080_html.html",
+      "sha256": "232e8b79b5db9050b921e6a8b30212ed42150b7dfee50d07a2a25d2ba0b9db5d"
+    }
+  ]
 }

@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://sotooutdoors.com/products/windmaster/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_sotooutdoors_com_products_windmaster_.html",
+      "sha256": "efa526218e1dfa2eb7f2ba5b0835726da7d18711bd12ad6709c4976f6a72f44e"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_cleverhiker_com_backpacking_soto_windmaster_backpacking_stove_review_.html",
+      "sha256": "b4c48169dfb5adcbf7947206891c0839aaed8ef6ec709b37f73b1ee6ef0a79bf"
+    },
+    {
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_outdoorgearlab_com_reviews_camping_and_hiking_backpacking_stove_soto_w.html",
+      "sha256": "8a9744527fe3c86f129b196505c8bab44f559e6a6626bbd5bcb7d9903c6a880d"
+    },
+    {
+      "url": "https://www.adventurealan.com/product/soto-windmaster-stove-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_adventurealan_com_product_soto_windmaster_stove_review_.html",
+      "sha256": "2a7eb9289f6391cdb365aad4d8da025be087bce1d01d5b2b21f487cc29390338"
+    }
+  ]
 }

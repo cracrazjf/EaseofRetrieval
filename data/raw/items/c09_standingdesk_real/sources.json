@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.flexispot.com/flexispot-pro-standing-desk-e7",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_flexispot_com_flexispot_pro_standing_desk_e7.html",
+      "sha256": "5213ef5c4d84f4d63823071ceec728fb634a9558faedfe7dadb28ecf2bae935c"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.remoteofficeguy.com/flexispot-e7-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_remoteofficeguy_com_flexispot_e7_review_.html",
+      "sha256": "f799015e6c922257dbd7ae893d7bdf46ef0ecef24b2d893c093f1bffb58e31b1"
+    },
+    {
+      "url": "https://standingdeskreference.com/desks/flexispot-e7/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_standingdeskreference_com_desks_flexispot_e7_.html",
+      "sha256": "07a16451a1e844dcc2fff9d9f84cc8cee035c14bd2a94d6abdbfe790bd247b2f"
+    },
+    {
+      "url": "https://thereviewrewind.com/flexispot-e7-standing-desk-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_thereviewrewind_com_flexispot_e7_standing_desk_review.html",
+      "sha256": "6fa69ff91dd840e33e66f1615408b7517dd5bd4f1588b7c7a745c18471ef4af9"
+    }
+  ]
 }

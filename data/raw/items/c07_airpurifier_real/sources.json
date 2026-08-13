@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://levoit.com/products/core300-air-purifier",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_levoit_com_products_core300_air_purifier.html",
+      "sha256": "8b140bc30e67db3beb73d11fd025338b91706608d5047f31dd468c341c70c89d"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://housefresh.com/levoit-core-300-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_housefresh_com_levoit_core_300_review_.html",
+      "sha256": "cbfb39b55585288670aa16d53242e5dff85575d0d7146398b71bdf5a0df37563"
+    },
+    {
+      "url": "https://www.airpurifierfirst.com/review/levoit-core-300/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_airpurifierfirst_com_review_levoit_core_300_.html",
+      "sha256": "dfb307cc5d32bd874c36cdc7e2d85787a619984523dc16665a2af9e1ef0a37e6"
+    },
+    {
+      "url": "https://www.tomsguide.com/reviews/levoit-core-300",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_tomsguide_com_reviews_levoit_core_300.html",
+      "sha256": "f757256043fd74069db1e98d745a146feadf55e94e548180be2af54b0b80b25c"
+    }
+  ]
 }

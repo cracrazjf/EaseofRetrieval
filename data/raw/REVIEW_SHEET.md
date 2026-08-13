@@ -157,35 +157,35 @@
 | ✓ | 物品 | 名称 | 类型 | 事实行 | 官方 | 评测共识 |
 |---|---|---|---|---|---|---|
 | ☐ | c01_espresso_fict | Vestrino M2 | fictional | 29 | 0 | 0 |
-| ☐ | c01_espresso_real | De'Longhi Dedica EC685 | real | 32 | 22 | 10 |
+| ☐ | c01_espresso_real | De'Longhi Dedica EC685 | real | 35 | 22 | 10 |
 | ☐ | c02_airfryer_fict | Farnholt A5 | fictional | 21 | 0 | 0 |
 | ☐ | c02_airfryer_real | Cosori Pro II 5.8QT | real | 22 | 11 | 5 |
 | ☐ | c03_ricecooker_fict | Hamura GR-6 | fictional | 22 | 0 | 0 |
-| ☐ | c03_ricecooker_real | Zojirushi NS-ZCC10 | real | 23 | 15 | 7 |
+| ☐ | c03_ricecooker_real | Zojirushi NS-ZCC10 | real | 27 | 15 | 7 |
 | ☐ | c04_blender_fict | Quarvel BX5 | fictional | 24 | 0 | 0 |
-| ☐ | c04_blender_real | Vitamix E310 | real | 21 | 11 | 7 |
+| ☐ | c04_blender_real | Vitamix E310 | real | 22 | 11 | 7 |
 | ☐ | c05_kettle_fict | Tessro Kettle | fictional | 21 | 0 | 0 |
-| ☐ | c05_kettle_real | Fellow Stagg EKG | real | 24 | 15 | 6 |
+| ☐ | c05_kettle_real | Fellow Stagg EKG | real | 27 | 15 | 6 |
 | ☐ | c06_robovac_fict | Orvia Petrel | fictional | 25 | 0 | 0 |
-| ☐ | c06_robovac_real | iRobot Roomba i7 | real | 22 | 15 | 7 |
+| ☐ | c06_robovac_real | iRobot Roomba i7 | real | 25 | 15 | 7 |
 | ☐ | c07_airpurifier_fict | Arvelia A2 | fictional | 22 | 0 | 0 |
-| ☐ | c07_airpurifier_real | Levoit Core 300 | real | 24 | 16 | 8 |
+| ☐ | c07_airpurifier_real | Levoit Core 300 | real | 26 | 16 | 8 |
 | ☐ | c08_humidifier_fict | Halvira H1 | fictional | 24 | 0 | 0 |
-| ☐ | c08_humidifier_real | Honeywell HCM-350 | real | 23 | 14 | 8 |
+| ☐ | c08_humidifier_real | Honeywell HCM-350 | real | 24 | 14 | 8 |
 | ☐ | c09_standingdesk_fict | Ostreno D2 | fictional | 27 | 0 | 0 |
-| ☐ | c09_standingdesk_real | FlexiSpot E7 | real | 27 | 14 | 11 |
+| ☐ | c09_standingdesk_real | FlexiSpot E7 | real | 28 | 14 | 11 |
 | ☐ | c10_chair_fict | Tarnwell C1 | fictional | 27 | 0 | 0 |
-| ☐ | c10_chair_real | Steelcase Series 1 | real | 26 | 19 | 7 |
+| ☐ | c10_chair_real | Steelcase Series 1 | real | 27 | 19 | 7 |
 | ☐ | c11_projector_fict | Previk PJ4 | fictional | 30 | 0 | 0 |
 | ☐ | c11_projector_real | XGIMI MoGo 2 | real | 30 | 24 | 6 |
 | ☐ | c12_headphones_fict | Wrenfeld NX40 | fictional | 25 | 0 | 0 |
-| ☐ | c12_headphones_real | Sony WH-1000XM4 | real | 24 | 16 | 8 |
+| ☐ | c12_headphones_real | Sony WH-1000XM4 | real | 28 | 17 | 8 |
 | ☐ | c13_ereader_fict | Lireon Q2 | fictional | 24 | 0 | 0 |
-| ☐ | c13_ereader_real | Kobo Clara 2E | real | 26 | 18 | 7 |
+| ☐ | c13_ereader_real | Kobo Clara 2E | real | 28 | 19 | 7 |
 | ☐ | c14_keyboard_fict | Kelvane Slate 65 | fictional | 24 | 0 | 0 |
-| ☐ | c14_keyboard_real | Keychron K2 | real | 27 | 22 | 5 |
+| ☐ | c14_keyboard_real | Keychron K2 | real | 28 | 22 | 5 |
 | ☐ | c15_powerbank_fict | Ardento PB10 | fictional | 24 | 0 | 0 |
-| ☐ | c15_powerbank_real | Belkin BoostCharge 10K | real | 23 | 19 | 4 |
+| ☐ | c15_powerbank_real | Belkin BoostCharge 10K | real | 24 | 19 | 4 |
 | ☐ | c16_sportwatch_fict | Veltrun R40 | fictional | 29 | 0 | 0 |
 | ☐ | c16_sportwatch_real | Garmin Forerunner 55 | real | 24 | 16 | 8 |
 | ☐ | c17_budgetapp_fict | Voskell | fictional | 25 | 0 | 0 |
@@ -197,9 +197,9 @@
 | ☐ | c20_langapp_fict | Quenlo | fictional | 22 | 0 | 0 |
 | ☐ | c20_langapp_real | Duolingo | real | 24 | 15 | 9 |
 | ☐ | c21_focusapp_fict | Stillbrook | fictional | 22 | 0 | 0 |
-| ☐ | c21_focusapp_real | Forest | real | 24 | 15 | 5 |
+| ☐ | c21_focusapp_real | Forest | real | 25 | 15 | 5 |
 | ☐ | c22_backpack_fict | Cendric Ridge 28 | fictional | 23 | 0 | 0 |
-| ☐ | c22_backpack_real | Osprey Talon 22 | real | 24 | 15 | 9 |
+| ☐ | c22_backpack_real | Osprey Talon 22 | real | 26 | 15 | 9 |
 | ☐ | c23_tent_fict | Torvik Basin 2 | fictional | 23 | 0 | 0 |
 | ☐ | c23_tent_real | MSR Hubba Hubba NX | real | 22 | 16 | 6 |
 | ☐ | c24_bottle_fict | Tavro Flask | fictional | 26 | 0 | 0 |

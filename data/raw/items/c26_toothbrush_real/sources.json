@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_oralb_com_en_us_oral_b_pro_1000_rechargeable_electric_toothbrush_.html",
+      "sha256": "8d886e405bd46179506e329444406a3e1bfca3b8edb8c5a61dd4bf540de0605c"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techgearlab_com_reviews_health_fitness_toothbrush_oral_b_pro_1000.html",
+      "sha256": "723f065af6ddb18c7f686832158845f9c0917aeb28e9bef35acd952cfd181520"
+    },
+    {
+      "url": "https://www.dentalroundup.com/best/oral-b-pro-1000-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_dentalroundup_com_best_oral_b_pro_1000_review_.html",
+      "sha256": "f7b54ee97f0d399f9baf13bbc42f6ba94d743f36d362fc32bb2b806d4f4569b5"
+    },
+    {
+      "url": "https://medgrade.org/reviews/oral-b-pro-1000-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_medgrade_org_reviews_oral_b_pro_1000_review_.html",
+      "sha256": "4d6480fea3e7c1d12b529ddce67c5838b42a51f2b72120b92e018c452af54099"
+    }
+  ]
 }

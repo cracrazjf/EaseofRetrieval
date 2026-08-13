@@ -25,3 +25,4 @@ carton,ships in one carton and rolls out ready to sit on,official,https://www.st
 seat_shell,seat pan is foam over a moulded shell with a front edge curving down away from the knees,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
 arm_caps,arm caps are moulded polyurethane,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
 base,five-star base rolling on casters,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+no_back_adjust,back height fixed with no back-height adjustment,spec_derived,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,"absence: the official adjustment list covers seat height, seat depth, arms, lumbar, and recline tension only; con",yes

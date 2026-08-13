@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.garmin.com/en-US/p/741137/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_garmin_com_en_us_p_741137_.html",
+      "sha256": "c4da2296f5b3e510af67d6284a39c66dfc57aa7805df2aa83178f0a206dc802d"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.dcrainmaker.com/2021/06/garmin-forerunner-55-depth-review.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_dcrainmaker_com_2021_06_garmin_forerunner_55_depth_review_html.html",
+      "sha256": "09bce48f631c250394dfe5b635ba0ec99ee3f686ee0b8b79b6ede465b6a20d49"
+    },
+    {
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/gps-watch/garmin-forerunner-55",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_outdoorgearlab_com_reviews_camping_and_hiking_gps_watch_garmin_forerun.html",
+      "sha256": "212bdf40e92c69f11e6d5b283dc9e86c6702929eec4c88fa66e3153df6aba4df"
+    },
+    {
+      "url": "https://www.techradar.com/reviews/garmin-forerunner-55",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techradar_com_reviews_garmin_forerunner_55.html",
+      "sha256": "1a891db3c2f01f24bf12b5cbef1e71cbf5629c59b77d90fdb78e3b816796bedf"
+    }
+  ]
 }

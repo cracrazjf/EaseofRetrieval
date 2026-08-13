@@ -23,5 +23,6 @@ altitude,altitude setting corrects the boiling point,official,https://fellowprod
 base_footprint,powered base occupies its own area of counter,spec_derived,derived-from:spec,2026-08-13,con,yes
 descale,stainless interior needs periodic descaling as scale builds up,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_level_window,no window in the body for checking the water level,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_insulation,single-wall body with no insulating outer layer,spec_derived,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,absence read off the official feature enumeration; the page lists what the product does and this is not among it,yes
+no_app,no app or wireless connection; the screen and dial are the only controls,spec_derived,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,absence: the official function list gives schedule/stopwatch/hold/sanitisation/altitude on the screen and dial and lists no app or wireless feature; con,yes
+hold_cap,hold mode does not run longer than 60 minutes,spec_derived,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,"absence: the official listing caps hold mode at 15, 30, 45 or 60 minutes; con",yes
 no_timer,no countdown timer or auto-shutoff beyond hold mode,spec_derived,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,absence read off the official feature enumeration; the page lists what the product does and this is not among it,yes

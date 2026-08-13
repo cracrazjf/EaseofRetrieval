@@ -1,4 +1,41 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.steelcase.com/products/office-chairs/steelcase-series-1/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_steelcase_com_products_office_chairs_steelcase_series_1_.html",
+      "sha256": "06d745e89420ff04e1ff74c157fa4b098cb502b654a51a1fab90885f641846cb"
+    },
+    {
+      "url": "https://www.steelcase.com/content/uploads/2024/02/Series-1-Spec-Guide.pdf",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_steelcase_com_content_uploads_2024_02_series_1_spec_guide_pdf.html",
+      "sha256": "e8f752e44f31a8dec26e47df356d3fab9dec39ce1e9b36ba790f524e787cbb5f"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.howtogeek.com/steelcase-series-1-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_howtogeek_com_steelcase_series_1_review_.html",
+      "sha256": "fea8963475feb5840e61e25479baf3ca4cc78d78db08bf5b094b1bdc52e3cbe2"
+    },
+    {
+      "url": "https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techgearlab_com_reviews_small_and_home_office_office_chair_steelcase_s.html",
+      "sha256": "8ab8b352e6411b331399d3f2e0adcb7637ae6777ac298605e3208fcb9bb6d5fa"
+    },
+    {
+      "url": "https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_crandalloffice_com_blogs_blog_steelcase_series_1_chair_review_the_best_cha.html",
+      "sha256": "c245482ca1ee211957fe18e19224f5de718f9e795de49819cc1f1d423c0e4729"
+    }
+  ]
 }

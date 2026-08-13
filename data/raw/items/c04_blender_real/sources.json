@@ -1,4 +1,41 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.vitamix.com/us/en_us/shop/e310",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_vitamix_com_us_en_us_shop_e310.html",
+      "sha256": "11824432a38862e07abf58635c2959b8dfb9f25fbd2827d1324a920b2640f187"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techgearlab_com_reviews_kitchen_blender_vitamix_explorian_e310.html",
+      "sha256": "cb7acc33b96013282364293beb9032b3b61ee3434844921429211f1f2679f224"
+    },
+    {
+      "url": "https://joyofblending.com/vitamix-explorian-e310-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_joyofblending_com_vitamix_explorian_e310_review_.html",
+      "sha256": "a711f5a5a2a73c8ef57b02c4537040edab9a5d692448705b5b3de5370b24207f"
+    },
+    {
+      "url": "https://hotcooking.co.uk/reviews/vitamix-e310-blender/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_hotcooking_co_uk_reviews_vitamix_e310_blender_.html",
+      "sha256": "3abf1c5dd188f4349c699eb544d7564a2e38f9ef932af33ff5faa90e1db33b9a"
+    },
+    {
+      "url": "https://overeview.com/vitamix-e310-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_overeview_com_vitamix_e310_review_.html",
+      "sha256": "9b849bac117aaea057da889ff0c6b240f0420057abd8dab1625a10e9f0bbe58a"
+    }
+  ]
 }

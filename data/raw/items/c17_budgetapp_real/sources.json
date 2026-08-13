@@ -1,4 +1,41 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.ynab.com/pricing",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_ynab_com_pricing.html",
+      "sha256": "82ea992047b23fd37d11ac44f73b0d27b806f560429f4fff0f1c9a741de83317"
+    },
+    {
+      "url": "https://www.ynab.com/features",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_ynab_com_features.html",
+      "sha256": "4dd13700441175a4dff777b2a90e1644a38345b3d0d2b41422531011d879f59f"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://fortune.com/article/ynab-pros-and-cons/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_fortune_com_article_ynab_pros_and_cons_.html",
+      "sha256": "e72a32d93df9d80e1edaa9f2a11b9b1ce72825d521ea400043edade40f7f0ffc"
+    },
+    {
+      "url": "https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_experian_com_blogs_ask_experian_you_need_a_budget_app_review_.html",
+      "sha256": "f6d0d730b619c4e499ca5fc9eaca6165cdadb7847d3306bfa4dd163fe6d033a5"
+    },
+    {
+      "url": "https://www.nerdwallet.com/finance/learn/best-budget-apps",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_nerdwallet_com_finance_learn_best_budget_apps.html",
+      "sha256": "0ebb96a2de27edc72a17df4839c953b70de8b49f30cd10a8db866fe35c6ddf5f"
+    }
+  ]
 }

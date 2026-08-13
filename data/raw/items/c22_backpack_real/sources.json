@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.outdoorsports.com/products/osprey-packs-mens-talon-22-backpack",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_outdoorsports_com_products_osprey_packs_mens_talon_22_backpack.html",
+      "sha256": "88c37c13738d84102b688da88503f66d1d1a8b05135a0afd1022f5ccd55f4e40"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.outdoorgearlab.com/reviews/camping-and-hiking/daypack/osprey-talon-22",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_outdoorgearlab_com_reviews_camping_and_hiking_daypack_osprey_talon_22.html",
+      "sha256": "633ba255af8f625afe1be9013bef98956031a29ae9d84fdb2b69ebef05fac1d3"
+    },
+    {
+      "url": "https://www.cleverhiker.com/hiking/osprey-talon-tempest-22-daypack-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_cleverhiker_com_hiking_osprey_talon_tempest_22_daypack_review_.html",
+      "sha256": "9ff67a54a942a3e8a31af2f610196b91f7cbba265a4560491678ad47d4abd6b4"
+    },
+    {
+      "url": "https://www.livefortheoutdoors.com/hiking/rucksacks/osprey-talon-22-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_livefortheoutdoors_com_hiking_rucksacks_osprey_talon_22_review_.html",
+      "sha256": "5e42a93e389d959c9835ce3d948a44f4d0c51ad1474bc949e9457bf34239c40e"
+    }
+  ]
 }

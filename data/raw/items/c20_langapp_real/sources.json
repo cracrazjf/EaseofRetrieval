@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://blog.duolingo.com/2025-duolingo-language-report/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_blog_duolingo_com_2025_duolingo_language_report_.html",
+      "sha256": "9654d02c625d80566d6d86c7660fba98567dbe878139adc91077a1114248b288"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/duolingo-language-lessons/id570060128",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_apps_apple_com_us_app_duolingo_language_lessons_id570060128.html",
+      "sha256": "0ae4dae3d89201a5f77d75e60307f5af8f4431832931a20ba145c5efeeffa548"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.reviewed.com/lifestyle/features/duolingo-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_reviewed_com_lifestyle_features_duolingo_review.html",
+      "sha256": "cb2e5c9090034970a33c8b459d41f28f6b9d67851fc28162ecf7315997d94c52"
+    },
+    {
+      "url": "https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_88weeks_com_articles_duolingo_review_pros_cons_and_honest_insights_.html",
+      "sha256": "765510af65f49e7fcdaf41b12854992df77519def90cac80ba6149162014dbbe"
+    }
+  ]
 }

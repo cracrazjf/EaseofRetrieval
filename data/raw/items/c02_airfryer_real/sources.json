@@ -1,4 +1,39 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_cosori_com_products_smart_5_8_quart_air_fryer_cs358_af.html",
+      "sha256": "1df2a047a007a84d004db67cb3e4288047aa8328c0aa61a4816d73fa7589730c"
+    },
+    {
+      "url": "https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf",
+      "fetch_status": "blocked: HTTPError",
+      "accessed_date": "2026-08-13"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.homeessentialslab.com/cosori-pro-gen-2-air-fryer-review-power-features-real-world-use/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_homeessentialslab_com_cosori_pro_gen_2_air_fryer_review_power_features.html",
+      "sha256": "246777939cb0106d5d44a82b68a5b96fe4e3011e5374963a5ac2dbca3fd0b389"
+    },
+    {
+      "url": "https://www.realhomes.com/reviews/cosori-cp358-af-pro-air-fryer-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_realhomes_com_reviews_cosori_cp358_af_pro_air_fryer_review.html",
+      "sha256": "fb18a1a2afb0de48b8518d2da95825daa6d46e87dcdf0063369c2f0944a36467"
+    },
+    {
+      "url": "https://thereviewrewind.com/cosori-pro-gen-2-air-fryer-review",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_thereviewrewind_com_cosori_pro_gen_2_air_fryer_review.html",
+      "sha256": "62c90e429a2743f82fc581fa2752679a2534ffd09c7986dfa7b75794f4b6d1c5"
+    }
+  ]
 }

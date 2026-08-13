@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://www.honeywellstore.com/store/products/germ-free-cool-mist-humidifier-hcm-350.htm",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_honeywellstore_com_store_products_germ_free_cool_mist_humidifier_hcm_3.html",
+      "sha256": "c5ae3d05bc7703500a4de6a0bbe422dccb49616265cf5f43edae34190e3023ba"
+    },
+    {
+      "url": "https://www.honeywellstore.com/store/images/pdf/honeywell-hcm-350-humidifier-manual.pdf",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_honeywellstore_com_store_images_pdf_honeywell_hcm_350_humidifier_manua.html",
+      "sha256": "c617a331a2de4a4bd0c46df1c6432c1e09b00eb943b86dddc7b79fe1534f68ab"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.techgearlab.com/reviews/health-fitness/humidifier/honeywell-hcm-350",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techgearlab_com_reviews_health_fitness_humidifier_honeywell_hcm_350.html",
+      "sha256": "4d7ea7b406a5215946386b642e760f0a74140012822b0fac861df14bbe3e8d20"
+    },
+    {
+      "url": "https://www.babygearlab.com/reviews/health-safety/humidifier/honeywell-hcm-350",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_babygearlab_com_reviews_health_safety_humidifier_honeywell_hcm_350.html",
+      "sha256": "9c660ed3bf3892f6a6f8a3823d6b580fd193689ec79a0caa591825ba22e6cd66"
+    }
+  ]
 }

@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://us.xgimi.com/products/mogo-2",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_us_xgimi_com_products_mogo_2.html",
+      "sha256": "0b3cfffa33ab57f9ac4661b063d12d24c03c3bb4852919cab0a265565a7b6da0"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://camerajabber.com/reviews/xgimi-mogo-2/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_camerajabber_com_reviews_xgimi_mogo_2_.html",
+      "sha256": "0ca46870a1e7e451c461d0113e883dc82af948452b2dc9f789228988b8c2a981"
+    },
+    {
+      "url": "https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_sonnydickson_com_2023_04_24_review_xgimi_mogo_2_your_personal_cinema_on_th.html",
+      "sha256": "bc5418e5305ee3bd91d0a5cb41716610b4116865c91f89ab5247bbe9aa2ec047"
+    },
+    {
+      "url": "https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_jabbareviews_com_xgimi_mogo_2_portable_projector_review_.html",
+      "sha256": "af6f7c97607617ae6f8c16cb36c7858373b58968beb8946eec4f117c3f8002a2"
+    }
+  ]
 }

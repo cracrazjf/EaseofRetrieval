@@ -1,4 +1,34 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_fellowproducts_com_products_stagg_ekg_electric_pour_over_kettle.html",
+      "sha256": "549cefe89d7945751bcc84780e7b510065d2a88c622863476d9e9bf8babe0982"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_coffeereview_com_equipment_review_fellow_stagg_ekg_electric_kettle_.html",
+      "sha256": "9d05b62a78337abd919d26ed91ebe404ccadbd62dee01299559e4303bcdd901b"
+    },
+    {
+      "url": "https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techgearlab_com_reviews_kitchen_electric_kettle_fellow_stagg_ekg.html",
+      "sha256": "4ee5e5e78b7c922878b5be903498b4f9b9580fc67cda1609b5e4a74bed45376c"
+    },
+    {
+      "url": "https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_brewcoffeehome_com_fellow_stagg_ekg_electric_kettle_review_.html",
+      "sha256": "4e4a71949ea97163dfd230e5f0d87d0ffe25f18fd0dc4258a101976f8021112b"
+    }
+  ]
 }

@@ -16,7 +16,7 @@ no_wireless,no Bluetooth and no wireless receiver,spec_derived,derived-from:spec
 no_fn_row,no dedicated function row; those keys reached through a layer,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_desk,810 grams makes the board hard to travel with,spec_derived,derived-from:spec,2026-08-13,con,yes
 white_only,backlight offers white light only,spec_derived,derived-from:spec,2026-08-13,con,yes
-cable_tether,cable tethers the board to the machine,spec_derived,derived-from:spec,2026-08-13,con,premise
+cable_tether,cable tethers the board to the machine,spec_derived,derived-from:spec,2026-08-13,con,yes
 key_count,68 keys require layer combinations,spec_derived,derived-from:spec,2026-08-13,con,yes
 nav_cluster,"no separate navigation cluster; home, end and the page keys sit on a layer",spec_derived,derived-from:spec,2026-08-13,con,yes
 no_software,"no configuration software, so keys cannot be remapped",difference_point,derived-from:c14_keyboard_real,2026-08-13,diff: no software; con,yes

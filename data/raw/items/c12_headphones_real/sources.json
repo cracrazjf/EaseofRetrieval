@@ -1,4 +1,39 @@
 {
-  "official": [],
-  "reviews": []
+  "official": [
+    {
+      "url": "https://helpguide.sony.net/mdr/wh1000xm4/v1/en/contents/TP0002752809.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_helpguide_sony_net_mdr_wh1000xm4_v1_en_contents_tp0002752809_html.html",
+      "sha256": "bd3f1b6ac96158c65ebaead03d647ceacab99e78f6733936a5e8ff1182e1a40a"
+    },
+    {
+      "url": "https://www.sony-mea.com/en/electronics/headband-headphones/wh-1000xm4/specifications",
+      "fetch_status": "blocked: HTTPError",
+      "accessed_date": "2026-08-13"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://m.gsmarena.com/sony_wh1000xm4_wireless_noisecanceling_headphones_review-news-45351.php",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_m_gsmarena_com_sony_wh1000xm4_wireless_noisecanceling_headphones_review_ne.html",
+      "sha256": "b56f6f8699068e39d7523e3a570fc1170c25d2845e23df5f47043fca7ef375a8"
+    },
+    {
+      "url": "https://www.trustedreviews.com/reviews/sony-wh-1000xm4",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_trustedreviews_com_reviews_sony_wh_1000xm4.html",
+      "sha256": "7eb3205f4d10df75fbf5c1eb4ddd205df3a471a2bf740955744b54a97c0beec5"
+    },
+    {
+      "url": "https://www.soundguys.com/sony-wh-1000xm4-review-38011/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_soundguys_com_sony_wh_1000xm4_review_38011_.html",
+      "sha256": "6c323f97a7a28fcff91d4db089aff09cd3b9d02cf719d3e5aa1b2c35553f9792"
+    }
+  ]
 }
