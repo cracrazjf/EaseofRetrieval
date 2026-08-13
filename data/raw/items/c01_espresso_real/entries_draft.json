@@ -5,7 +5,7 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "At 15 cm wide it slips into a narrow gap on the counter",
-      "fact_field": "dimensions"
+      "fact_field": "narrow_class"
     },
     {
       "entry_id": "p02",
@@ -33,7 +33,7 @@
       "valence": "pro",
       "tier": "core8",
       "text_draft": "Shot volume and brewing temperature are both programmable",
-      "fact_field": "controls"
+      "fact_field": "programmable"
     },
     {
       "entry_id": "p06",
@@ -46,8 +46,8 @@
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The frother switches between steamed milk and stiff froth",
-      "fact_field": "frother"
+      "text_draft": "The wand steams milk and pours hot water for tea",
+      "fact_field": "hot_water"
     },
     {
       "entry_id": "p08",
@@ -67,8 +67,8 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The included scoop doubles as a tamper for the basket",
-      "fact_field": "accessories"
+      "text_draft": "A panel light says when descaling is due",
+      "fact_field": "descale_light"
     },
     {
       "entry_id": "p11",
@@ -81,8 +81,8 @@
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The same wand pours hot water for tea and infusions",
-      "fact_field": "frother"
+      "text_draft": "The 51 mm holder takes a wide aftermarket of baskets",
+      "fact_field": "aftermarket"
     }
   ],
   "cons": [
@@ -91,7 +91,7 @@
       "valence": "con",
       "tier": "core8",
       "text_draft": "It cannot pull a shot straight after steaming milk",
-      "fact_field": "no_backtoback"
+      "fact_field": "cooldown"
     },
     {
       "entry_id": "n02",
@@ -139,8 +139,8 @@
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "The 1.1-litre tank runs dry after a few drinks",
-      "fact_field": "tank"
+      "text_draft": "The tank refills from the back rather than the top",
+      "fact_field": "tank_position"
     }
   ]
 }

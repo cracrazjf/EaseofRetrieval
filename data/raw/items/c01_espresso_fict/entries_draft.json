@@ -18,7 +18,7 @@
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The 1.0-litre tank lifts out and shows the water level",
+      "text_draft": "The 1.0-litre tank lifts out of the top and shows the level",
       "fact_field": "tank"
     },
     {
@@ -39,8 +39,8 @@
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "The frother switches between steamed milk and stiff froth",
-      "fact_field": "frother"
+      "text_draft": "The frother steams milk and pours hot water for tea",
+      "fact_field": "hot_water"
     },
     {
       "entry_id": "p07",
@@ -67,15 +67,15 @@
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "A panel light says when the machine needs descaling",
-      "fact_field": "maintenance"
+      "text_draft": "A panel light says when descaling is due",
+      "fact_field": "descale_light"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "The pressurised baskets suit coffee that is already ground",
-      "fact_field": "baskets"
+      "text_draft": "A test strip for water hardness comes in the box",
+      "fact_field": "hardness_strip"
     },
     {
       "entry_id": "p12",
@@ -104,8 +104,8 @@
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "One thermoblock means no brewing while the wand steams",
-      "fact_field": "single_thermoblock"
+      "text_draft": "One thermoblock means a wait between steaming and brewing",
+      "fact_field": "cooldown"
     },
     {
       "entry_id": "n04",
@@ -119,14 +119,14 @@
       "valence": "con",
       "tier": "core8",
       "text_draft": "ESE pods do not fit the filter holder at all",
-      "fact_field": "baskets"
+      "fact_field": "no_ese"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Getting usable microfoam takes practice with this wand",
-      "fact_field": "frother_manual"
+      "text_draft": "Brewing temperature is fixed with no way to adjust it",
+      "fact_field": "temp_fixed"
     },
     {
       "entry_id": "n07",
@@ -139,8 +139,8 @@
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No gauge shows what pressure the shot is pulling",
-      "fact_field": "no_gauge"
+      "text_draft": "The 53 mm holder has a narrower aftermarket than 51 mm",
+      "fact_field": "narrow_aftermarket"
     }
   ]
 }

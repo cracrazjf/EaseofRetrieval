@@ -261,6 +261,16 @@ def cmd_validate(item_id: str):
         warnings.append(f"hedging asymmetry: {hp}/{len(pros)} pros vs {hc}/{len(cons)} cons "
                         f"use hedge words — cons must not read softer than pros (E6 confound)")
 
+    all_fields = [e.get("fact_field") for e in pros + cons]
+    n_distinct = len(set(f for f in all_fields if f))
+    if n_distinct < r.get("min_distinct_fact_fields", 18):
+        problems.append(f"only {n_distinct} distinct fact_fields across 20 entries "
+                        f"(need >= {r['min_distinct_fact_fields']}) — entries are recycling facts")
+    n_shared = len(set(f for f in pro_fields if f) & set(f for f in con_fields if f))
+    if n_shared > r.get("max_shared_pro_con_fields", 2):
+        problems.append(f"{n_shared} fields support both a pro and a con "
+                        f"(max {r['max_shared_pro_con_fields']})")
+
     both = (pro_fields & con_fields) - set(r.get("contradiction_whitelist", []))
     for ff in sorted(x for x in both if x):
         warnings.append(f"fact_field '{ff}' used by both a pro and a con — check no contradiction")
@@ -270,9 +280,10 @@ def cmd_validate(item_id: str):
     if problems:
         for p in problems:
             print(f"[validate] {item_id} FAIL: {p}")
-        sys.exit(1)
+        return False
     set_status(item_id, "validated")
     print(f"[validate] {item_id}: OK ({len(warnings)} warnings)")
+    return True
 
 
 # ---------------------------------------------------------------- package-rewrite
@@ -365,8 +376,9 @@ def main():
         return
     fn = COMMANDS[args.command]
     if args.all:
-        for item_id in sorted(registry()["items"]):
-            fn(item_id)
+        results = [fn(item_id) for item_id in sorted(registry()["items"])]
+        if args.command == "validate" and not all(r is not False for r in results):
+            sys.exit(1)
     elif args.item_id:
         fn(args.item_id)
     else:

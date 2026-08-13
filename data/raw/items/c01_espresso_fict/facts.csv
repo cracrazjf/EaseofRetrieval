@@ -17,3 +17,13 @@ single_thermoblock,single thermoblock: no simultaneous brew and steam,spec_deriv
 plastic_tamper,combined scoop-tamper is plastic,spec_derived,derived-from:spec,2026-08-12,con,yes
 no_gauge,no pressure gauge on panel,spec_derived,derived-from:spec,2026-08-12,con,yes
 frother_manual,manual frothing requires technique,spec_derived,derived-from:spec,2026-08-12,con,yes
+tank_position,water tank lifts out from the top of the housing,mirror,derived-from:c01_espresso_real,2026-08-13,,yes
+portafilter_size,53 mm filter holder,difference_point,derived-from:c01_espresso_real,2026-08-13,diff: 53 mm fitting,yes
+narrow_aftermarket,53 mm size has a narrower aftermarket than 51 mm,spec_derived,derived-from:spec,2026-08-13,con,yes
+hot_water,frother dispenses hot water for tea,mirror,derived-from:c01_espresso_real,2026-08-13,,yes
+descale_light,descaling indicator light on the panel,mirror,derived-from:c01_espresso_real,2026-08-13,,yes
+hardness_strip,"water hardness set with a supplied dip strip, not a menu",difference_point,derived-from:c01_espresso_real,2026-08-13,diff: no hardness menu,yes
+cooldown,cool-down wait separates steaming from the next shot,spec_derived,derived-from:spec,2026-08-13,con,yes
+temp_fixed,brewing temperature is fixed and not adjustable,spec_derived,derived-from:spec,2026-08-13,con,yes
+wattage,1250 W while heating,mirror,derived-from:c01_espresso_real,2026-08-13,,yes
+no_ese,filter holder does not accept ESE pods,difference_point,derived-from:c01_espresso_real,2026-08-13,diff: no ESE support,yes
