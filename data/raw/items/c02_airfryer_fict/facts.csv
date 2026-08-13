@@ -1,19 +1,19 @@
-field,value,source_type,source_url,accessed_date,note
-capacity,5.5 qt / 5.2 L round basket,difference_point,derived-from:c02_airfryer_real,2026-08-13,diff: round basket
-dimensions,11.4 x 13.2 x 12.8 in (29 x 34 x 33 cm),mirror,derived-from:c02_airfryer_real,2026-08-13,
-weight,11.6 lb / 5.3 kg,mirror,derived-from:c02_airfryer_real,2026-08-13,
-power,"AC 120V, 60Hz, rated 1600W",mirror,derived-from:c02_airfryer_real,2026-08-13,
-temp_range,180-400 F / 82-204 C,mirror,derived-from:c02_airfryer_real,2026-08-13,
-time_range,1-60 minutes,mirror,derived-from:c02_airfryer_real,2026-08-13,
-presets,"8 presets: fries, chicken, steak, fish, vegetables, bake, reheat, keep warm",difference_point,derived-from:c02_airfryer_real,2026-08-13,diff: 8 presets
-controls,"dial and button panel, no wireless control",difference_point,derived-from:c02_airfryer_real,2026-08-13,diff: no app
-accessories,"recipe booklet, quick start guide, user manual",mirror,derived-from:c02_airfryer_real,2026-08-13,
-maintenance,"nonstick basket and crisper plate, dishwasher safe",mirror,derived-from:c02_airfryer_real,2026-08-13,
-no_remote_start,no remote start or scheduling without app,spec_derived,derived-from:spec,2026-08-13,con
-preset_gap,fewer presets means more manual time and temperature entry,spec_derived,derived-from:spec,2026-08-13,con
-round_basket_area,round basket leaves unused corners in a square drawer,spec_derived,derived-from:spec,2026-08-13,con
-counter_space,footprint of about 29 by 34 cm occupies counter depth,spec_derived,derived-from:spec,2026-08-13,con
-single_layer,single basket cooks one layer at a time,spec_derived,derived-from:spec,2026-08-13,con
-manual_shake,no reminder to shake the basket mid-cycle,spec_derived,derived-from:spec,2026-08-13,con
-wattage_draw,1600 W draw on a shared kitchen circuit,spec_derived,derived-from:spec,2026-08-13,con
-no_window,no viewing window in the drawer,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+capacity,5.5 qt / 5.2 L round basket,difference_point,derived-from:c02_airfryer_real,2026-08-13,diff: round basket,yes
+dimensions,11.4 x 13.2 x 12.8 in (29 x 34 x 33 cm),mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+weight,11.6 lb / 5.3 kg,mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+power,"AC 120V, 60Hz, rated 1600W",mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+temp_range,180-400 F / 82-204 C,mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+time_range,1-60 minutes,mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+presets,"8 presets: fries, chicken, steak, fish, vegetables, bake, reheat, keep warm",difference_point,derived-from:c02_airfryer_real,2026-08-13,diff: 8 presets,yes
+controls,"dial and button panel, no wireless control",difference_point,derived-from:c02_airfryer_real,2026-08-13,diff: no app,yes
+accessories,"recipe booklet, quick start guide, user manual",mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+maintenance,"nonstick basket and crisper plate, dishwasher safe",mirror,derived-from:c02_airfryer_real,2026-08-13,,yes
+no_remote_start,no remote start or scheduling without app,spec_derived,derived-from:spec,2026-08-13,con,premise
+preset_gap,fewer presets means more manual time and temperature entry,spec_derived,derived-from:spec,2026-08-13,con,yes
+round_basket_area,round basket leaves unused corners in a square drawer,spec_derived,derived-from:spec,2026-08-13,con,yes
+counter_space,footprint of about 29 by 34 cm occupies counter depth,spec_derived,derived-from:spec,2026-08-13,con,yes
+single_layer,single basket cooks one layer at a time,spec_derived,derived-from:spec,2026-08-13,con,yes
+manual_shake,no reminder to shake the basket mid-cycle,spec_derived,derived-from:spec,2026-08-13,con,yes
+wattage_draw,1600 W draw on a shared kitchen circuit,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_window,no viewing window in the drawer,spec_derived,derived-from:spec,2026-08-13,con,yes

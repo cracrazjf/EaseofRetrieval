@@ -1,17 +1,17 @@
-field,value,source_type,source_url,accessed_date,note
-capacity,300 lb weight capacity,mirror,derived-from:c10_chair_real,2026-08-13,
-seat_height,pneumatic seat height adjustment,mirror,derived-from:c10_chair_real,2026-08-13,
-no_seat_depth,seat depth is fixed,difference_point,derived-from:c10_chair_real,2026-08-13,diff: no seat depth adjustment
-recline,manual tension knob with a three-position tilt lock,difference_point,derived-from:c10_chair_real,2026-08-13,diff: manual tension
-arms,fixed-height arms with padded caps,difference_point,derived-from:c10_chair_real,2026-08-13,diff: fixed arms
-lumbar,height-adjustable lumbar pad,mirror,derived-from:c10_chair_real,2026-08-13,
-back,knit mesh back over a molded frame,mirror,derived-from:c10_chair_real,2026-08-13,
-seat_materials,fabric seat over molded foam,mirror,derived-from:c10_chair_real,2026-08-13,
-base,five-star nylon base with 60 mm casters,mirror,derived-from:c10_chair_real,2026-08-13,
-warranty,seven year warranty on parts,mirror,derived-from:c10_chair_real,2026-08-13,
-no_arm_adjust,"arms cannot be raised, widened, or pivoted",spec_derived,derived-from:spec,2026-08-13,con
-no_depth_adjust,seat depth cannot be matched to leg length,spec_derived,derived-from:spec,2026-08-13,con
-manual_tension,tension knob needs turning after weight changes,spec_derived,derived-from:spec,2026-08-13,con
-three_lock,tilt lock offers only three positions,spec_derived,derived-from:spec,2026-08-13,con
-capacity_300,capacity rated to 300 pounds,spec_derived,derived-from:spec,2026-08-13,con
-assembly_req,"base, cylinder, and seat assemble on arrival",spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+capacity,300 lb weight capacity,mirror,derived-from:c10_chair_real,2026-08-13,,yes
+seat_height,pneumatic seat height adjustment,mirror,derived-from:c10_chair_real,2026-08-13,,yes
+no_seat_depth,seat depth is fixed,difference_point,derived-from:c10_chair_real,2026-08-13,diff: no seat depth adjustment,yes
+recline,manual tension knob with a three-position tilt lock,difference_point,derived-from:c10_chair_real,2026-08-13,diff: manual tension,yes
+arms,fixed-height arms with padded caps,difference_point,derived-from:c10_chair_real,2026-08-13,diff: fixed arms,yes
+lumbar,height-adjustable lumbar pad,mirror,derived-from:c10_chair_real,2026-08-13,,yes
+back,knit mesh back over a molded frame,mirror,derived-from:c10_chair_real,2026-08-13,,yes
+seat_materials,fabric seat over molded foam,mirror,derived-from:c10_chair_real,2026-08-13,,yes
+base,five-star nylon base with 60 mm casters,mirror,derived-from:c10_chair_real,2026-08-13,,yes
+warranty,seven year warranty on parts,mirror,derived-from:c10_chair_real,2026-08-13,,yes
+no_arm_adjust,arms are fixed in height and cannot be widened or pivoted,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_depth_adjust,seat depth is fixed and cannot be matched to leg length,spec_derived,derived-from:spec,2026-08-13,con,yes
+manual_tension,tension knob needs turning after weight changes,spec_derived,derived-from:spec,2026-08-13,con,yes
+three_lock,tilt lock offers only three positions,spec_derived,derived-from:spec,2026-08-13,con,yes
+capacity_300,capacity rated to 300 pounds,spec_derived,derived-from:spec,2026-08-13,con,yes
+assembly_req,"base, cylinder, and seat assemble on arrival",spec_derived,derived-from:spec,2026-08-13,con,yes

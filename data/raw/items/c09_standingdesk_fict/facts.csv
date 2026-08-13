@@ -1,19 +1,19 @@
-field,value,source_type,source_url,accessed_date,note
-height_range,24.4 to 49.6 in frame height,mirror,derived-from:c09_standingdesk_real,2026-08-13,
-capacity,265 lb weight capacity,mirror,derived-from:c09_standingdesk_real,2026-08-13,
-motors,single motor drive,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: single motor
-column,two stage lifting column,mirror,derived-from:c09_standingdesk_real,2026-08-13,
-speed,about 1.0 inch per second,mirror,derived-from:c09_standingdesk_real,2026-08-13,
-noise,under about 55 dB during travel,mirror,derived-from:c09_standingdesk_real,2026-08-13,
-keypad,LED keypad with two memory presets and a child lock,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: two presets
-no_anticollision,no obstacle sensing during travel,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: no anti-collision
-frame,powder-coated steel frame,mirror,derived-from:c09_standingdesk_real,2026-08-13,
-assembled_weight,about 62 lb assembled,mirror,derived-from:c09_standingdesk_real,2026-08-13,
-warranty,"ten year warranty on frame, five on motor",mirror,derived-from:c09_standingdesk_real,2026-08-13,
-accessories,"keypad, mounting hardware, cable clips",mirror,derived-from:c09_standingdesk_real,2026-08-13,
-no_stop,desk does not stop when it meets an obstacle,spec_derived,derived-from:spec,2026-08-13,con
-single_motor_speed,one motor limits travel speed,spec_derived,derived-from:spec,2026-08-13,con
-two_presets,two presets cover fewer users,spec_derived,derived-from:spec,2026-08-13,con
-two_stage,two-stage column narrows the height range,spec_derived,derived-from:spec,2026-08-13,con
-clips_only,cable clips instead of a tray,spec_derived,derived-from:spec,2026-08-13,con
-capacity_limit,265 pounds limits heavy setups,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+height_range,24.4 to 49.6 in frame height,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+capacity,265 lb weight capacity,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+motors,single motor drive,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: single motor,yes
+column,two stage lifting column,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+speed,about 1.0 inch per second,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+noise,under about 55 dB during travel,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+keypad,LED keypad with two memory presets and a child lock,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: two presets,yes
+no_anticollision,no obstacle sensing during travel,difference_point,derived-from:c09_standingdesk_real,2026-08-13,diff: no anti-collision,yes
+frame,powder-coated steel frame,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+assembled_weight,about 62 lb assembled,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+warranty,ten year warranty on the frame and five on the motor,mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+accessories,"keypad, mounting hardware, cable clips",mirror,derived-from:c09_standingdesk_real,2026-08-13,,yes
+no_stop,desk does not stop when it meets an obstacle,spec_derived,derived-from:spec,2026-08-13,con,premise
+single_motor_speed,one motor limits travel speed,spec_derived,derived-from:spec,2026-08-13,con,yes
+two_presets,two memory presets on the keypad,spec_derived,derived-from:spec,2026-08-13,con,yes
+two_stage,two-stage column narrows the height range,spec_derived,derived-from:spec,2026-08-13,con,yes
+clips_only,cable clips instead of a tray,spec_derived,derived-from:spec,2026-08-13,con,yes
+capacity_limit,265 pounds limits heavy setups,spec_derived,derived-from:spec,2026-08-13,con,yes

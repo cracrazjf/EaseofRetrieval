@@ -219,6 +219,12 @@ def cmd_validate(item_id: str):
             if row["source_type"] == "review_consensus" and len(row["source_url"].split(";")) < 2:
                 problems.append(f"fact '{row['field']}' claims review consensus with <2 sources")
 
+    # --- grounding: which fact rows the briefing states or implies ---
+    in_spec = {}
+    with open(d / "facts.csv", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            in_spec[row["field"]] = (row.get("in_spec") or "").strip() or "no"
+
     # --- entries ---
     pros, cons = _load_entries(d)
     core8 = [p for p in pros if p.get("tier") == "core8"]
@@ -241,6 +247,9 @@ def cmd_validate(item_id: str):
             problems.append(f"{e.get('entry_id', '?')} has no fact_field")
         elif ff not in fact_fields:
             problems.append(f"{e.get('entry_id', '?')} fact_field '{ff}' not in facts.csv")
+        elif in_spec.get(ff, "no") == "no":
+            problems.append(f"{e.get('entry_id', '?')} rests on '{ff}', which the briefing "
+                            f"does not state or imply (no tier-3 entries allowed)")
         (pro_fields if e in pros else con_fields).add(ff)
     hedges = r.get("hedge_words", [])
     def hcount(entries):

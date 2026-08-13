@@ -1,18 +1,18 @@
-field,value,source_type,source_url,accessed_date,note
-capacity,5.8 qt / 5.5 L square basket,official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,
-dimensions,11.8 x 13.8 x 12.6 in (30 x 35 x 32 cm),official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,manual mirrors differ slightly on dims; official page lacks a spec table; discrepancy recorded
-weight,12.3 lb / 5.6 kg,official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,
-power,"120 V, 1700 W",official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,
-temp_range,170-400 F (77-204 C),official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,
-timer,1-60 minutes,official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,
-presets,"12 one-touch presets (steak, chicken, seafood, shrimp, frozen, french fries, bacon, vegetables, toast, bake, preheat, keep warm); adjusted settings savable",official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,
-controls,touch panel; VeSync WiFi app control; voice assistant support,official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,
-baskets,"removable nonstick baskets, dishwasher safe",official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,
-accessories,"100-recipe book, quick reference guide, user manual",official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,
-fan_noise,fan noise around 68 dB in operation,review_consensus,https://homeessentialslab.com/cosori-pro-gen-2-air-fryer-review-power-features-real-world-use/;https://www.bestbuy.com/site/reviews/cosori-pro-ii-5-8-quart-smart-air-fryer-red/6538303,2026-08-13,con; part of coverage is of Pro/Pro Gen 2 siblings; retail platform counted once as auxiliary source
-footprint_con,bulky counter footprint,review_consensus,https://www.realhomes.com/reviews/cosori-cp358-af-pro-air-fryer-review;https://thereviewrewind.com/cosori-pro-gen-2-air-fryer-review,2026-08-13,con; sibling-model coverage caveat
-no_dualzone,single basket; no dual-zone cooking,spec_derived,derived-from:spec,2026-08-13,con
-no_dehydrate,no dehydrate preset among the 12 modes,spec_derived,derived-from:spec,2026-08-13,con
-timer_cap,timer maximum 60 minutes,spec_derived,derived-from:spec,2026-08-13,con
-wifi_account,app control requires WiFi and a VeSync account,spec_derived,derived-from:spec,2026-08-13,con
-temp_ceiling,maximum temperature 400 F,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+capacity,5.8 qt / 5.5 L square basket,official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,,yes
+dimensions,11.8 x 13.8 x 12.6 in (30 x 35 x 32 cm),official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,manual mirrors differ slightly on dims; official page lacks a spec table; discrepancy recorded,yes
+weight,12.3 lb / 5.6 kg,official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,,yes
+power,"120 V, 1700 W",official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,,yes
+temp_range,170-400 F (77-204 C),official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,,yes
+timer,1-60 minutes,official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,,yes
+presets,"12 one-touch presets (steak, chicken, seafood, shrimp, frozen, french fries, bacon, vegetables, toast, bake, preheat, keep warm); adjusted settings savable",official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,,yes
+controls,touch panel; VeSync WiFi app control; voice assistant support,official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,,yes
+baskets,"removable nonstick baskets, dishwasher safe",official,https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af,2026-08-13,,yes
+accessories,"100-recipe book, quick reference guide, user manual",official,https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf,2026-08-13,,yes
+fan_noise,fan noise around 68 dB in operation,review_consensus,https://homeessentialslab.com/cosori-pro-gen-2-air-fryer-review-power-features-real-world-use/;https://www.bestbuy.com/site/reviews/cosori-pro-ii-5-8-quart-smart-air-fryer-red/6538303,2026-08-13,con; part of coverage is of Pro/Pro Gen 2 siblings; retail platform counted once as auxiliary source,yes
+footprint_con,bulky counter footprint,review_consensus,https://www.realhomes.com/reviews/cosori-cp358-af-pro-air-fryer-review;https://thereviewrewind.com/cosori-pro-gen-2-air-fryer-review,2026-08-13,con; sibling-model coverage caveat,yes
+no_dualzone,single basket; no dual-zone cooking,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_dehydrate,no dehydrate function among the twelve presets,spec_derived,derived-from:spec,2026-08-13,con,yes
+timer_cap,timer maximum 60 minutes,spec_derived,derived-from:spec,2026-08-13,con,yes
+wifi_account,app control requires WiFi and a VeSync account,spec_derived,derived-from:spec,2026-08-13,con,yes
+temp_ceiling,maximum temperature 400 F,spec_derived,derived-from:spec,2026-08-13,con,yes

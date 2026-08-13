@@ -1,17 +1,17 @@
-field,value,source_type,source_url,accessed_date,note
-capacity,20 oz / 590 ml,difference_point,derived-from:c24_bottle_real,2026-08-13,diff: larger capacity
-dimensions,10.2 x 3.2 x 3.2 in,mirror,derived-from:c24_bottle_real,2026-08-13,
-weight,1.0 lb,mirror,derived-from:c24_bottle_real,2026-08-13,
-materials,"18/8 stainless steel, double-wall vacuum insulation, BPA-free",mirror,derived-from:c24_bottle_real,2026-08-13,
-retention,"hot 16 hours, cold 22 hours",mirror,derived-from:c24_bottle_real,2026-08-13,
-stopper,"screw-off cap, removed fully to pour",difference_point,derived-from:c24_bottle_real,2026-08-13,diff: no pour-through stopper
-seal,gasketed cap seals against leaks when closed,mirror,derived-from:c24_bottle_real,2026-08-13,
-exterior,powder-coated exterior with carry loop,difference_point,derived-from:c24_bottle_real,2026-08-13,diff: carry loop
-cup,serving cup built into the outer lid,mirror,derived-from:c24_bottle_real,2026-08-13,
-maintenance,"hand wash recommended, cap disassembles for cleaning",mirror,derived-from:c24_bottle_real,2026-08-13,
-no_pour_through,cap must come off entirely to pour,spec_derived,derived-from:spec,2026-08-13,con
-gasket_care,cap gasket needs removal and drying,spec_derived,derived-from:spec,2026-08-13,con
-hand_wash,hand washing recommended over dishwasher,spec_derived,derived-from:spec,2026-08-13,con
-height_pack,height of 10.2 inches when packed,spec_derived,derived-from:spec,2026-08-13,con
-loop_only,carry loop offers no full-hand grip,spec_derived,derived-from:spec,2026-08-13,con
-weight_full,one pound empty before filling,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+capacity,20 oz / 590 ml,difference_point,derived-from:c24_bottle_real,2026-08-13,diff: larger capacity,yes
+dimensions,10.2 x 3.2 x 3.2 in,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+weight,1.0 lb,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+materials,"18/8 stainless steel, double-wall vacuum insulation, BPA-free",mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+retention,"hot 16 hours, cold 22 hours",mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+stopper,"screw-off cap, removed fully to pour",difference_point,derived-from:c24_bottle_real,2026-08-13,diff: no pour-through stopper,yes
+seal,gasketed cap seals against leaks when closed,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+exterior,powder-coated exterior with carry loop,difference_point,derived-from:c24_bottle_real,2026-08-13,diff: carry loop,yes
+cup,serving cup built into the outer lid,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+maintenance,"hand wash recommended, cap disassembles for cleaning",mirror,derived-from:c24_bottle_real,2026-08-13,,premise
+no_pour_through,cap must come off entirely to pour,spec_derived,derived-from:spec,2026-08-13,con,no
+gasket_care,cap gasket needs removal and drying,spec_derived,derived-from:spec,2026-08-13,con,yes
+hand_wash,hand washing recommended over dishwasher,spec_derived,derived-from:spec,2026-08-13,con,premise
+height_pack,height of 10.2 inches when packed,spec_derived,derived-from:spec,2026-08-13,con,yes
+loop_only,carry loop offers no full-hand grip,spec_derived,derived-from:spec,2026-08-13,con,no
+weight_full,one pound empty before filling,spec_derived,derived-from:spec,2026-08-13,con,yes

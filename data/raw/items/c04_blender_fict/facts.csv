@@ -1,19 +1,19 @@
-field,value,source_type,source_url,accessed_date,note
-dimensions,9-1/2 x 8-1/2 x 19 in,mirror,derived-from:c04_blender_real,2026-08-13,
-weight,11.2 lb,mirror,derived-from:c04_blender_real,2026-08-13,
-container,"64-ounce container, dishwasher safe",difference_point,derived-from:c04_blender_real,2026-08-13,diff: larger container
-motor,"1.8 horsepower motor, 110-120 V",mirror,derived-from:c04_blender_real,2026-08-13,
-blades,"stainless steel blades, metal drive coupling",mirror,derived-from:c04_blender_real,2026-08-13,
-speeds,eight variable speeds plus three preset programs,difference_point,derived-from:c04_blender_real,2026-08-13,diff: preset programs
-controls,speed dial and three program buttons,difference_point,derived-from:c04_blender_real,2026-08-13,
-accessories,"motor base, 64-ounce container, lid with fill cap",difference_point,derived-from:c04_blender_real,2026-08-13,diff: no tamper
-cord,4 foot cord,mirror,derived-from:c04_blender_real,2026-08-13,
-maintenance,self-cleaning in about 60 seconds with soap and warm water,mirror,derived-from:c04_blender_real,2026-08-13,
-warranty,three-year warranty covering parts and labor,mirror,derived-from:c04_blender_real,2026-08-13,
-no_tamper,no tamper for pushing down thick mixtures,spec_derived,derived-from:spec,2026-08-13,con
-tall_assembly,assembled height of 19 inches,spec_derived,derived-from:spec,2026-08-13,con
-fixed_programs,three preset programs cover limited recipes,spec_derived,derived-from:spec,2026-08-13,con
-cord_short,4-foot cord limits outlet placement,spec_derived,derived-from:spec,2026-08-13,con
-warranty_span,"warranty runs three years, shorter than some",SD,derived-from:spec,2026-08-13,con
-large_min,64-ounce container needs volume to circulate,spec_derived,derived-from:spec,2026-08-13,con
-single_container,one container size for all batches,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+dimensions,9-1/2 x 8-1/2 x 19 in,mirror,derived-from:c04_blender_real,2026-08-13,,yes
+weight,11.2 lb,mirror,derived-from:c04_blender_real,2026-08-13,,yes
+container,"64-ounce container, dishwasher safe",difference_point,derived-from:c04_blender_real,2026-08-13,diff: larger container,yes
+motor,"1.8 horsepower motor, 110-120 V",mirror,derived-from:c04_blender_real,2026-08-13,,yes
+blades,"stainless steel blades, metal drive coupling",mirror,derived-from:c04_blender_real,2026-08-13,,yes
+speeds,eight variable speeds plus three preset programs,difference_point,derived-from:c04_blender_real,2026-08-13,diff: preset programs,yes
+controls,speed dial and three program buttons,difference_point,derived-from:c04_blender_real,2026-08-13,,yes
+accessories,"motor base, 64-ounce container, lid with fill cap",difference_point,derived-from:c04_blender_real,2026-08-13,diff: no tamper,yes
+cord,4 foot cord,mirror,derived-from:c04_blender_real,2026-08-13,,yes
+maintenance,self-cleaning in about 60 seconds with soap and warm water,mirror,derived-from:c04_blender_real,2026-08-13,,yes
+warranty,three-year warranty covering parts and labor,mirror,derived-from:c04_blender_real,2026-08-13,,yes
+no_tamper,no tamper supplied for pushing down thick mixtures,spec_derived,derived-from:spec,2026-08-13,con,yes
+tall_assembly,assembled height of 19 inches,spec_derived,derived-from:spec,2026-08-13,con,yes
+fixed_programs,three preset programs cover limited recipes,spec_derived,derived-from:spec,2026-08-13,con,yes
+cord_short,four-foot cord limits outlet placement,spec_derived,derived-from:spec,2026-08-13,con,premise
+warranty_span,"warranty runs three years, shorter than some",SD,derived-from:spec,2026-08-13,con,premise
+large_min,64-ounce container needs volume to circulate,spec_derived,derived-from:spec,2026-08-13,con,yes
+single_container,one container size supplied for all batch sizes,spec_derived,derived-from:spec,2026-08-13,con,yes

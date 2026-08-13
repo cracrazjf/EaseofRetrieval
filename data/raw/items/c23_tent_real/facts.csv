@@ -1,19 +1,19 @@
-field,value,source_type,source_url,accessed_date,note
-capacity,"two person, freestanding, three season",official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,NX generation specs; renamed Hubba Hubba 2 in 2022 with different figures; NX archived specs used per DECISIONS
-min_weight,3 lb 7 oz / 1.54 kg minimum weight,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version lists 2 lb 14 oz
-packed_weight,3 lb 13 oz / 1.72 kg packaged,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,
-packed_size,18 x 6 in / 46 x 15 cm packed,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,
-floor,"84 x 50 in floor, 29 sq ft / 2.7 sq m",official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,
-vestibules,two vestibules totalling 17.5 sq ft,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,
-peak_height,39 in / 100 cm interior peak height,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version lists 40 in
-doors,two doors with rain gutters,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,
-rainfly,20 denier ripstop nylon with 1200 mm polyurethane and silicone coating,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,
-canopy,20 denier ripstop nylon canopy with micro-mesh panels,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,
-floor_fabric,30 denier ripstop nylon with 3000 mm coating,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version lists 20 denier
-poles,unified hub and pole assembly in DAC Featherlite NFL aluminium,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version uses composite poles
-fly_fiddly,rainfly attachment unintuitive during setup,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,con
-footprint_extra,thin floor benefits from a separately purchased footprint,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.thebrokebackpacker.com/msr-hubba-hubba-nx-tent-review/,2026-08-13,con
-light_weight,light for a freestanding double-wall tent,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,
-two_doors,two doors and two vestibules ease access,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,
-quick_setup,symmetrical pole layout makes pitching quick,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,
-livable,near-vertical walls give usable interior space,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,
+field,value,source_type,source_url,accessed_date,note,in_spec
+capacity,"two person, freestanding, three season",official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,NX generation specs; renamed Hubba Hubba 2 in 2022 with different figures; NX archived specs used per DECISIONS,yes
+min_weight,3 lb 7 oz / 1.54 kg minimum weight,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version lists 2 lb 14 oz,yes
+packed_weight,3 lb 13 oz / 1.72 kg packaged,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,,yes
+packed_size,18 x 6 in / 46 x 15 cm packed,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,,yes
+floor,"84 x 50 in floor, 29 sq ft / 2.7 sq m",official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,,yes
+vestibules,two vestibules totalling 17.5 sq ft,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,,yes
+peak_height,39 in / 100 cm interior peak height,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version lists 40 in,yes
+doors,two doors with rain gutters,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,,yes
+rainfly,20 denier ripstop nylon with 1200 mm polyurethane and silicone coating,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,,yes
+canopy,20 denier ripstop nylon canopy with micro-mesh panels,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,,yes
+floor_fabric,30 denier ripstop nylon with 3000 mm coating,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version lists 20 denier,yes
+poles,unified hub and pole assembly in DAC Featherlite NFL aluminium,official,https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent,2026-08-13,2022 version uses composite poles,yes
+fly_fiddly,rainfly attachment unintuitive during setup,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,con,no
+footprint_extra,thin floor benefits from a separately purchased footprint,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.thebrokebackpacker.com/msr-hubba-hubba-nx-tent-review/,2026-08-13,con,no
+light_weight,light for a freestanding double-wall tent,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,,yes
+two_doors,two doors and two vestibules ease access,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,,yes
+quick_setup,symmetrical pole layout makes pitching quick,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,,no
+livable,near-vertical walls give usable interior space,review_consensus,https://wildernesstimes.com/msr-hubba-hubba-tent-review/;https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent,2026-08-13,,no

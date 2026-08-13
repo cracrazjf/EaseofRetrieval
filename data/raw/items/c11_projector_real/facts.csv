@@ -1,21 +1,21 @@
-field,value,source_type,source_url,accessed_date,note
-resolution,1280 x 720 pixels,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-display_tech,DLP with a 0.23 inch DMD,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-brightness,400 ISO lumens,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-color,90 percent DCI-P3 coverage at D65,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-dimensions,161 x 119 x 108 mm,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-weight,1.1 kg / 2.42 lb,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-power,"65 W dissipation, AC 100-240 V; no internal battery",official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-speakers,two 8 watt speakers with Dolby Audio,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-ports,"USB-C, USB-A, HDMI 2.0, 3.5 mm auxiliary",official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-wireless,dual-band Wi-Fi 5 and Bluetooth 5.0,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-os,Android TV 11 with 2 GB memory and 16 GB storage,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-autosetup,"auto focus, auto keystone correction, screen alignment, obstacle avoidance",official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-throw,"1.2 to 1 throw ratio, 40 to 200 inch image",official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-noise,under 30 dB,official,https://us.xgimi.com/products/mogo-2,2026-08-13,
-res_limit,720p resolution looks soft with detailed content,review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/,2026-08-13,con
-no_battery,no internal battery; needs mains or a 65 W power bank,review_consensus,https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,con
-bright_limit,400 lumens insufficient in daylight,review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,con
-setup_praise,automatic focus and keystone work without adjustment,review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,
-portable,light enough to carry in a bag,review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,
-audio_praise,speakers louder than the size suggests,review_consensus,https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,
+field,value,source_type,source_url,accessed_date,note,in_spec
+resolution,1280 x 720 pixels,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+display_tech,DLP with a 0.23 inch DMD,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+brightness,400 ISO lumens,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+color,90 percent DCI-P3 coverage at D65,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+dimensions,161 x 119 x 108 mm,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+weight,1.1 kg / 2.42 lb,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+power,"65 W dissipation, AC 100-240 V, no internal battery",official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+speakers,two 8 watt speakers with Dolby Audio,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+ports,"USB-C, USB-A, HDMI 2.0, 3.5 mm auxiliary",official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+wireless,dual-band Wi-Fi 5 and Bluetooth 5.0,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+os,Android TV 11 with 2 GB memory and 16 GB storage,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+autosetup,"auto focus, auto keystone correction, screen alignment, obstacle avoidance",official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+throw,"1.2 to 1 throw ratio, 40 to 200 inch image",official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+noise,under 30 dB,official,https://us.xgimi.com/products/mogo-2,2026-08-13,,yes
+res_limit,1280 x 720 resolution softens with detailed content,review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/,2026-08-13,con,yes
+no_battery,no internal battery; needs mains or a 65 W power bank,review_consensus,https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,con,yes
+bright_limit,400 ISO lumens needs a darkened room,review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,con,yes
+setup_praise,"auto focus, keystone correction, and screen alignment run without manual adjustment",review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,,yes
+portable,light enough to carry in a bag,review_consensus,https://camerajabber.com/reviews/xgimi-mogo-2/;https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,,yes
+audio_praise,"two 8 W speakers with Dolby Audio, louder than the size suggests",review_consensus,https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/;https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/,2026-08-13,,yes

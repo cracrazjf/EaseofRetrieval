@@ -1,17 +1,17 @@
-field,value,source_type,source_url,accessed_date,note
-capacity,400 lb weight capacity for the chair,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-seat_height,"pneumatic seat height adjustment, two range options",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,exact figures from a partially extracted spec PDF; verify before freeze; omitted from spec sheet
-seat_depth,2-1/4 in seat depth adjustment,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-recline,"weight-activated synchro recline with added tension, 100 to 122 degrees",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-arms,"4D arms adjusting height, width, depth, pivot",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-lumbar,adjustable lumbar support standard,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-back,3D Microknit mesh back or polypropylene air back,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-seat_materials,"fabric, leather, or vinyl seat",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-sustainability,2023 declaration reports lower carbon footprint and higher recycled content,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-warranty,"limited lifetime warranty, twelve years multi-shift parts and labor",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,
-arms_shift,armrests do not lock and shift under pressure,review_consensus,https://www.howtogeek.com/steelcase-series-1-review/;https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1,2026-08-13,con
-lumbar_weak,lumbar and backrest support insufficient for some testers,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://www.goegyptian.com/learninghub/steelcase-series-1-chair-review,2026-08-13,con
-allday,comfort limited to four or five hours for half of testers,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://www.howtogeek.com/steelcase-series-1-review/,2026-08-13,con
-feature_set,adjustment range unusual at its price point,review_consensus,https://www.howtogeek.com/steelcase-series-1-review/;https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500,2026-08-13,
-mesh_breath,mesh back stays breathable in warm rooms,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500,2026-08-13,
-assembly,arrives essentially assembled and usable without tools,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500,2026-08-13,
+field,value,source_type,source_url,accessed_date,note,in_spec
+capacity,400 lb weight capacity for the chair,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+seat_height,"pneumatic seat height adjustment, two range options",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,exact figures from a partially extracted spec PDF; verify before freeze; omitted from spec sheet,yes
+seat_depth,2-1/4 in seat depth adjustment,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+recline,"weight-activated synchro recline with added tension, 100 to 122 degrees",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+arms,"4D arms adjusting height, width, depth, pivot",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+lumbar,adjustable lumbar support standard,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+back,3D Microknit mesh back or polypropylene air back,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+seat_materials,"fabric, leather, or vinyl seat",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+sustainability,2023 declaration reports lower carbon footprint and higher recycled content,official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,no
+warranty,"limited lifetime warranty, twelve years multi-shift parts and labor",official,https://www.steelcase.com/products/office-chairs/steelcase-series-1/,2026-08-13,,yes
+arms_shift,armrests do not lock and shift under pressure,review_consensus,https://www.howtogeek.com/steelcase-series-1-review/;https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1,2026-08-13,con,yes
+lumbar_weak,lumbar support and backrest height reported insufficient by some testers,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://www.goegyptian.com/learninghub/steelcase-series-1-chair-review,2026-08-13,con,yes
+allday,half of testers reported comfort falling off past four or five hours,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://www.howtogeek.com/steelcase-series-1-review/,2026-08-13,con,yes
+feature_set,adjustment range unusual at its price point,review_consensus,https://www.howtogeek.com/steelcase-series-1-review/;https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500,2026-08-13,,yes
+mesh_breath,3D Microknit mesh back stays breathable in warm rooms,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500,2026-08-13,,yes
+assembly,arrives assembled and usable without tools,review_consensus,https://www.techgearlab.com/reviews/small-and-home-office/office-chair/steelcase-series-1;https://crandalloffice.com/blogs/blog/steelcase-series-1-chair-review-the-best-chair-under-500,2026-08-13,,yes

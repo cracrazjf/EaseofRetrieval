@@ -1,17 +1,17 @@
-field,value,source_type,source_url,accessed_date,note
-structure,outline documents with collapsible sections and cross-document links,difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: outlines not block databases
-storage,"local-first storage on the device, with optional encrypted sync",difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: local-first
-tiers,free and paid tiers,mirror,derived-from:c18_notesapp_real,2026-08-13,prices omitted per DECISIONS
-free_limits,"free tier: unlimited local documents, sync limited to two devices, 20 MB attachments",mirror,derived-from:c18_notesapp_real,2026-08-13,
-paid_features,"paid tier adds unlimited sync devices, version history, and full-text search across attachments",mirror,derived-from:c18_notesapp_real,2026-08-13,
-export,"documents export as Markdown, plain text, or PDF",mirror,derived-from:c18_notesapp_real,2026-08-13,
-offline,full editing and creation work offline by default,mirror,derived-from:c18_notesapp_real,2026-08-13,
-platforms,"macOS and Windows desktop, iOS and Android",mirror,derived-from:c18_notesapp_real,2026-08-13,
-no_guests,no guest links or per-document external sharing,difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: no guest sharing
-search,full-text search across the local library,mirror,derived-from:c18_notesapp_real,2026-08-13,
-no_sharing_con,documents cannot be shared with people outside the account,spec_derived,derived-from:spec,2026-08-13,con
-no_web,no browser client for machines without an install,spec_derived,derived-from:spec,2026-08-13,con
-sync_cap,free tier syncs across two devices only,spec_derived,derived-from:spec,2026-08-13,con
-no_database,no table or database views for structured records,spec_derived,derived-from:spec,2026-08-13,con
-attach_cap,attachments capped at 20 megabytes on free tier,spec_derived,derived-from:spec,2026-08-13,con
-history_paid,version history requires the paid tier,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+structure,outline documents with collapsible sections and cross-document links,difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: outlines not block databases,yes
+storage,"local-first storage on the device, with optional encrypted sync",difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: local-first,yes
+tiers,free and paid tiers,mirror,derived-from:c18_notesapp_real,2026-08-13,prices omitted per DECISIONS,yes
+free_limits,"free tier: unlimited local documents, sync limited to two devices, 20 MB attachments",mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
+paid_features,"paid tier adds unlimited sync devices, version history, and full-text search across attachments",mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
+export,"documents export as Markdown, plain text, or PDF",mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
+offline,full editing and creation work offline by default,mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
+platforms,"macOS and Windows desktop, iOS and Android",mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
+no_guests,no guest links or per-document external sharing,difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: no guest sharing,no
+search,full-text search across the local library,mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
+no_sharing_con,documents cannot be shared with people outside the account,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_web,no browser client for machines without an install,spec_derived,derived-from:spec,2026-08-13,con,yes
+sync_cap,free tier syncs across two devices only,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_database,no table or database views for structured records,spec_derived,derived-from:spec,2026-08-13,con,no
+attach_cap,attachments capped at 20 megabytes on free tier,spec_derived,derived-from:spec,2026-08-13,con,yes
+history_paid,version history requires the paid tier,spec_derived,derived-from:spec,2026-08-13,con,yes

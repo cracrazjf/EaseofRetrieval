@@ -1,18 +1,18 @@
-field,value,source_type,source_url,accessed_date,note
-weight,268 g,mirror,derived-from:c12_headphones_real,2026-08-13,
-driver,42 mm dynamic driver,mirror,derived-from:c12_headphones_real,2026-08-13,
-bluetooth,"Bluetooth 5.2 with AAC and SBC, single device pairing",difference_point,derived-from:c12_headphones_real,2026-08-13,diff: no multipoint
-frequency,20 Hz to 20 kHz,mirror,derived-from:c12_headphones_real,2026-08-13,
-battery_nc_on,up to 26 hours with noise canceling on,mirror,derived-from:c12_headphones_real,2026-08-13,
-battery_nc_off,up to 34 hours with noise canceling off,mirror,derived-from:c12_headphones_real,2026-08-13,
-quickcharge,about 4 hours of playback from a 10 minute charge,mirror,derived-from:c12_headphones_real,2026-08-13,
-wired,up to 40 hours of wired operation with the supplied cable,mirror,derived-from:c12_headphones_real,2026-08-13,
-controls,"physical buttons for power, playback, and noise canceling",difference_point,derived-from:c12_headphones_real,2026-08-13,diff: buttons not touch
-water,IPX4 splash resistance,difference_point,derived-from:c12_headphones_real,2026-08-13,diff: splash rating
-box,"headset, USB-C cable, 3.5 mm cable, fabric pouch",mirror,derived-from:c12_headphones_real,2026-08-13,
-no_multipoint,cannot hold two device connections at once,spec_derived,derived-from:spec,2026-08-13,con
-codec_basic,no high bitrate codec beyond AAC,spec_derived,derived-from:spec,2026-08-13,con
-pouch_only,fabric pouch offers less protection than a case,spec_derived,derived-from:spec,2026-08-13,con
-weight_head,268 grams on the head during long sessions,spec_derived,derived-from:spec,2026-08-13,con
-button_learn,three buttons take practice to use blind,spec_derived,derived-from:spec,2026-08-13,con
-splash_only,"IPX4 covers splashes, not immersion",spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+weight,268 g,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+driver,42 mm dynamic driver,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+bluetooth,"Bluetooth 5.2 with AAC and SBC, single device pairing",difference_point,derived-from:c12_headphones_real,2026-08-13,diff: no multipoint,yes
+frequency,20 Hz to 20 kHz,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+battery_nc_on,up to 26 hours with noise canceling on,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+battery_nc_off,up to 34 hours with noise canceling off,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+quickcharge,about 4 hours of playback from a 10 minute charge,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+wired,up to 40 hours of wired operation with the supplied cable,mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+controls,"physical buttons for power, playback, and noise canceling",difference_point,derived-from:c12_headphones_real,2026-08-13,diff: buttons not touch,yes
+water,IPX4 splash resistance,difference_point,derived-from:c12_headphones_real,2026-08-13,diff: splash rating,yes
+box,"headset, USB-C cable, 3.5 mm cable, fabric pouch",mirror,derived-from:c12_headphones_real,2026-08-13,,yes
+no_multipoint,cannot hold two device connections at once,spec_derived,derived-from:spec,2026-08-13,con,no
+codec_basic,no high bitrate codec beyond AAC,spec_derived,derived-from:spec,2026-08-13,con,no
+pouch_only,fabric pouch offers less protection than a case,spec_derived,derived-from:spec,2026-08-13,con,no
+weight_head,268 grams on the head during long sessions,spec_derived,derived-from:spec,2026-08-13,con,yes
+button_learn,three buttons take practice to use blind,spec_derived,derived-from:spec,2026-08-13,con,no
+splash_only,"IPX4 covers splashes, not immersion",spec_derived,derived-from:spec,2026-08-13,con,yes

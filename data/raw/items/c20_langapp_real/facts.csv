@@ -1,16 +1,16 @@
-field,value,source_type,source_url,accessed_date,note
-courses,"over 280 courses covering more than 40 languages, plus math, music, and chess",official,https://blog.duolingo.com/2025-duolingo-language-report/;https://investors.duolingo.com/news-releases/news-release-details/duolingo-launches-148-new-language-courses,2026-08-13,
-expansion,148 new courses added in 2025,official,https://investors.duolingo.com/news-releases/news-release-details/duolingo-launches-148-new-language-courses,2026-08-13,
-free_access,every course available on the free tier,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,app store listing
-ads,free tier shows advertisements between lessons,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,app store listing
-hearts,free tier uses a hearts system that limits mistakes per session,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,app store listing
-paid_tier,paid tier removes ads and the hearts limit,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,prices vary by region; omitted per DECISIONS
-format,short lessons with streaks and experience points,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,
-platforms,"iPhone, iPad, Mac, Apple Watch, Apple TV, Android, and web",official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,
-ads_con,advertisements interrupt the free experience,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con
-hearts_con,hearts system halts practice or pushes toward payment,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con
-grammar_thin,grammar explanations are brief,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con
-not_fluency,study alone does not produce conversational fluency,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con
-gamification,streaks and points sustain a daily habit,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,
-free_breadth,all courses reachable without payment,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,
-language_range,selection includes languages rarely taught elsewhere,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,
+field,value,source_type,source_url,accessed_date,note,in_spec
+courses,"over 280 courses covering more than 40 languages, plus math, music, and chess",official,https://blog.duolingo.com/2025-duolingo-language-report/;https://investors.duolingo.com/news-releases/news-release-details/duolingo-launches-148-new-language-courses,2026-08-13,,yes
+expansion,148 new courses added in 2025,official,https://investors.duolingo.com/news-releases/news-release-details/duolingo-launches-148-new-language-courses,2026-08-13,,yes
+free_access,every course available on the free tier,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,app store listing,yes
+ads,free tier shows advertisements between lessons,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,app store listing,yes
+hearts,free tier uses a hearts system that limits mistakes per session,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,app store listing,yes
+paid_tier,paid tier removes ads and the hearts limit,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,prices vary by region; omitted per DECISIONS,yes
+format,short lessons with streaks and experience points,official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,,yes
+platforms,"iPhone, iPad, Mac, Apple Watch, Apple TV, Android, and web",official,https://apps.apple.com/us/app/duolingo-language-lessons/id570060128,2026-08-13,,yes
+ads_con,advertisements interrupt the free experience,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con,yes
+hearts_con,hearts system halts practice or pushes toward payment,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con,no
+grammar_thin,grammar explanations are brief,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con,no
+not_fluency,study alone does not produce conversational fluency,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,con,no
+gamification,streaks and points sustain a daily habit,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,,yes
+free_breadth,all courses reachable without payment,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,,yes
+language_range,selection includes languages rarely taught elsewhere,review_consensus,https://www.reviewed.com/lifestyle/features/duolingo-review;https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/,2026-08-13,,no

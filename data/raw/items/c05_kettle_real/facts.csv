@@ -1,17 +1,17 @@
-field,value,source_type,source_url,accessed_date,note
-dimensions,11.10 x 6.77 x 7.7 in (282 x 172 x 196 mm),official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-weight,1400 g including base,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-capacity,30 oz / 0.9 L,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-power,"110-120 V, 1000-1200 W, 50-60 Hz",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-materials,"304 stainless steel body, BPA-free handle and lid pull",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-temp_range,"104 to 212 F / 40 to 100 C, set to the degree",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-functions,"schedule, brew stopwatch, hold mode at 15, 30, 45, 60 minutes, pre-boil sanitization, altitude setting",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-controls,full-color screen with dial interface,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-cord,2.5 foot cord,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-spout,gooseneck spout for directed pouring,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,
-temp_accuracy,display reads 1 to 5 degrees above measured at some settings,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg,2026-08-13,con
-pour_rate,pour rate deliberately slow,review_consensus,https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,con
-price_high,priced above most electric kettles,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,con; price not in spec sheet per DECISIONS
-pour_control,gooseneck gives steady controllable stream,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,
-heat_speed,reaches brew temperature in roughly three minutes at about 44 dB,review_consensus,https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,
-display_info,screen reports set and current temperature clearly,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg,2026-08-13,
+field,value,source_type,source_url,accessed_date,note,in_spec
+dimensions,11.10 x 6.77 x 7.7 in (282 x 172 x 196 mm),official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+weight,1400 g including base,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+capacity,30 oz / 0.9 L,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+power,"110-120 V, 1000-1200 W, 50-60 Hz",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+materials,"304 stainless steel body, BPA-free handle and lid pull",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+temp_range,"104 to 212 F / 40 to 100 C, set to the degree",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+functions,"schedule, brew stopwatch, hold mode at 15, 30, 45, 60 minutes, pre-boil sanitization, altitude setting",official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+controls,full-color screen with dial interface,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+cord,2.5 foot cord,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+spout,gooseneck spout for directed pouring,official,https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle,2026-08-13,,yes
+temp_accuracy,display reads 1 to 5 degrees above measured water temperature at some settings,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg,2026-08-13,con,yes
+pour_rate,gooseneck spout pours deliberately slowly,review_consensus,https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,con,yes
+price_high,priced above most electric kettles,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,con; price not in spec sheet per DECISIONS,yes
+pour_control,gooseneck gives steady controllable stream,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,,yes
+heat_speed,reaches brew temperature in roughly three minutes at about 44 dB,review_consensus,https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg;https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/,2026-08-13,,yes
+display_info,screen reports set and current temperature clearly,review_consensus,https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/;https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg,2026-08-13,,premise

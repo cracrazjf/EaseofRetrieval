@@ -1,18 +1,18 @@
-field,value,source_type,source_url,accessed_date,note
-dimensions,9 x 8 x 18 in,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-weight,10.5 lb,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-container,"48-ounce container, dishwasher safe",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-motor,"2 horsepower motor, 110-120 V",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-blades,"laser-cut stainless steel blades, metal drive system",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-speeds,ten variable speeds plus pulse,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-controls,variable speed dial and pulse switch,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-accessories,"motor base, 48-ounce container, mini-tamper",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-cord,4.5 foot cord,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-maintenance,self-cleaning in 30 to 60 seconds with soap and warm water,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-warranty,"five-year full warranty covering parts, performance, labor, shipping",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,
-noise,measured 88-104 dB above speed five,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://hotcooking.co.uk/reviews/vitamix-e310-blender/;https://overeview.com/vitamix-e310-review/,2026-08-13,con
-batch_limit,usable volume closer to 32-36 ounces in practice,review_consensus,https://joyofblending.com/vitamix-explorian-e310-review/;https://overeview.com/vitamix-e310-review/,2026-08-13,con
-tamper_required,thick blends require tamping and stirring,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://overeview.com/vitamix-e310-review/,2026-08-13,con
-blend_quality,smooth results on frozen fruit and nut butter,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://joyofblending.com/vitamix-explorian-e310-review/;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,
-cabinet_fit,shorter container fits under kitchen cabinets,review_consensus,https://joyofblending.com/vitamix-explorian-e310-review/;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,
-cleaning_ease,self-clean cycle avoids disassembly,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,
+field,value,source_type,source_url,accessed_date,note,in_spec
+dimensions,9 x 8 x 18 in,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+weight,10.5 lb,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+container,"48-ounce container, dishwasher safe",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+motor,"2 horsepower motor, 110-120 V",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+blades,"laser-cut stainless steel blades, metal drive system",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+speeds,ten variable speeds plus pulse,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+controls,variable speed dial and pulse switch,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+accessories,"motor base, 48-ounce container, mini-tamper",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+cord,4.5 foot cord,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+maintenance,self-cleaning in 30 to 60 seconds with soap and warm water,official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+warranty,"five-year full warranty covering parts, performance, labor, shipping",official,https://www.vitamix.com/us/en_us/shop/e310,2026-08-13,,yes
+noise,measured 88-104 dB above speed five,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://hotcooking.co.uk/reviews/vitamix-e310-blender/;https://overeview.com/vitamix-e310-review/,2026-08-13,con,yes
+batch_limit,48-ounce container; usable volume nearer 32 to 36 ounces in practice,review_consensus,https://joyofblending.com/vitamix-explorian-e310-review/;https://overeview.com/vitamix-e310-review/,2026-08-13,con,yes
+tamper_required,thick blends need tamping with the supplied mini-tamper,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://overeview.com/vitamix-e310-review/,2026-08-13,con,yes
+blend_quality,smooth results on frozen fruit and nut butter,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://joyofblending.com/vitamix-explorian-e310-review/;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,,yes
+cabinet_fit,48-ounce container height fits under kitchen cabinets,review_consensus,https://joyofblending.com/vitamix-explorian-e310-review/;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,,yes
+cleaning_ease,self-clean cycle avoids disassembly,review_consensus,https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310;https://hotcooking.co.uk/reviews/vitamix-e310-blender/,2026-08-13,,yes

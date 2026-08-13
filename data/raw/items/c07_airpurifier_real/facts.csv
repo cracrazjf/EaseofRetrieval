@@ -1,19 +1,19 @@
-field,value,source_type,source_url,accessed_date,note
-dimensions,8.7 x 8.7 x 14.2 in (22 x 22 x 36 cm),official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-weight,7.9 lb / 3.6 kg,official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-cadr,143 CFM,official,https://levoit.com/products/core300-air-purifier,2026-08-13,reviews measured 126-154 by particle type
-coverage,1066 sq ft at one air change per hour; 222 sq ft at 4.8,official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-noise,24 to 54.5 dB,official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-power,"56 W, AC 120 V 60 Hz",official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-filtration,"three stage: pre-filter, main filter, activated carbon",official,https://levoit.com/products/core300-air-purifier,2026-08-13,2024 filter revision dropped HEPA wording
-modes,"sleep mode; timer at 2, 4, 6, or 8 hours",official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-controls,"touch panel for fan speed, timer, power; filter indicator",official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-box,"purifier with filter pre-installed, user manual, quick start guide",official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-certs,"ozone free, CARB compliant, FCC, ETL listed",official,https://levoit.com/products/core300-air-purifier,2026-08-13,
-no_sensor,"no air quality sensor, auto mode, or app control",review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,con
-carbon_thin,thin carbon layer limits heavy odor removal,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,con
-loud_max,measured 50 to 65 dBA at highest speed,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,con
-efficiency,less energy efficient than newer models in the line,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.tomsguide.com/reviews/levoit-core-300,2026-08-13,con
-quiet_sleep,near silent in sleep mode,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,
-filter_cost,replacement filters inexpensive and widely stocked,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,
-clean_rate,strong particle removal for the size class,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,
+field,value,source_type,source_url,accessed_date,note,in_spec
+dimensions,8.7 x 8.7 x 14.2 in (22 x 22 x 36 cm),official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+weight,7.9 lb / 3.6 kg,official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+cadr,143 CFM,official,https://levoit.com/products/core300-air-purifier,2026-08-13,reviews measured 126-154 by particle type,yes
+coverage,1066 sq ft at one air change per hour; 222 sq ft at 4.8,official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+noise,24 to 54.5 dB,official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+power,"56 W, AC 120 V 60 Hz",official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+filtration,"three stage: pre-filter, main filter, activated carbon",official,https://levoit.com/products/core300-air-purifier,2026-08-13,2024 filter revision dropped HEPA wording,yes
+modes,"sleep mode; timer at 2, 4, 6, or 8 hours",official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+controls,"touch panel for fan speed, timer, power; filter indicator",official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+box,"purifier with filter pre-installed, user manual, quick start guide",official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+certs,"ozone free, CARB compliant, FCC and ETL listed",official,https://levoit.com/products/core300-air-purifier,2026-08-13,,yes
+no_sensor,"no air quality sensor, no auto mode, and no app control",review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,con,yes
+carbon_thin,thin activated carbon layer limits heavy odour removal,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,con,yes
+loud_max,measured 50 to 65 dBA at the highest fan speed,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,con,yes
+efficiency,draws more power than newer models in the line for the same work,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.tomsguide.com/reviews/levoit-core-300,2026-08-13,con,yes
+quiet_sleep,near silent in sleep mode,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,,premise
+filter_cost,replacement filters inexpensive and widely stocked,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,,yes
+clean_rate,strong particle removal for the size class,review_consensus,https://housefresh.com/levoit-core-300-review/;https://www.airpurifierfirst.com/review/levoit-core-300/,2026-08-13,,yes

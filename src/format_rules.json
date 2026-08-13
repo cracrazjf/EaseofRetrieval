@@ -1,7 +1,7 @@
 {
   "spec_word_range": [
-    140,
-    160
+    190,
+    215
   ],
   "entry_word_range": [
     6,
@@ -53,5 +53,6 @@
     "relatively",
     "a bit"
   ],
-  "_register_note": "Entries are written in natural assistant register: clauses with verbs, may begin with 'It' or 'The'. Valence-direction wording (light/heavy, quick/slow, awkward) is REQUIRED — it is what makes an entry an advantage or a drawback. Intensity amplifiers (banned_words) remain forbidden. Pros and cons of the same item must match in assertiveness: hedge counts are compared and large asymmetry is flagged, because E6's valence-reversal test is confounded if drawbacks are systematically softer than advantages."
+  "_register_note": "Entries are written in natural assistant register: clauses with verbs, may begin with 'It' or 'The'. Valence-direction wording (light/heavy, quick/slow, awkward) is REQUIRED — it is what makes an entry an advantage or a drawback. Intensity amplifiers (banned_words) remain forbidden. Pros and cons of the same item must match in assertiveness: hedge counts are compared and large asymmetry is flagged, because E6's valence-reversal test is confounded if drawbacks are systematically softer than advantages.",
+  "_spec_definition": "The spec sheet is a NEUTRAL PRODUCT BRIEFING, not a manufacturer spec table: it carries official specifications AND documented measured performance (e.g. measured sound output), stated without evaluative language. Rationale: manufacturer sheets never publish drawbacks, so cons drawn only from reviews would be uncheckable against the context the model is given. Every entry must be grounded in the briefing, either verbatim (in_spec=yes) or as the premise of a stated derivation (in_spec=premise). Absence-type claims ('no pod support') must be stated explicitly in the briefing for real items; briefing silence is not evidence of absence."
 }

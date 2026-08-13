@@ -1,15 +1,15 @@
-field,value,source_type,source_url,accessed_date,note
-courses,"twelve languages, each with a graded reading and listening track",difference_point,derived-from:c20_langapp_real,2026-08-13,diff: twelve languages
-method,spaced repetition schedules review of each item by recall history,difference_point,derived-from:c20_langapp_real,2026-08-13,diff: spaced repetition
-trial,"fourteen day trial, after which a subscription is required",difference_point,derived-from:c20_langapp_real,2026-08-13,diff: no ongoing free tier
-format,"lessons combine graded texts, audio clips, and typed recall prompts",mirror,derived-from:c20_langapp_real,2026-08-13,
-offline,lesson packs download for offline study,mirror,derived-from:c20_langapp_real,2026-08-13,
-platforms,"iOS, Android, and web",mirror,derived-from:c20_langapp_real,2026-08-13,
-progress,review queue and retention statistics per item,mirror,derived-from:c20_langapp_real,2026-08-13,
-export,vocabulary list export as CSV,mirror,derived-from:c20_langapp_real,2026-08-13,
-no_free,no ongoing free tier after the trial,spec_derived,derived-from:spec,2026-08-13,con
-language_count,twelve languages narrower than large catalogues,spec_derived,derived-from:spec,2026-08-13,con
-no_speaking,no speech recognition for pronunciation practice,spec_derived,derived-from:spec,2026-08-13,con
-queue_backlog,missed days build a larger review queue,spec_derived,derived-from:spec,2026-08-13,con
-no_desktop_app,"browser only on desktop, no installed client",spec_derived,derived-from:spec,2026-08-13,con
-typed_only,recall prompts require typing rather than tapping,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+courses,"twelve languages, each with a graded reading and listening track",difference_point,derived-from:c20_langapp_real,2026-08-13,diff: twelve languages,yes
+method,spaced repetition schedules review of each item by recall history,difference_point,derived-from:c20_langapp_real,2026-08-13,diff: spaced repetition,yes
+trial,"fourteen day trial, after which a subscription is required",difference_point,derived-from:c20_langapp_real,2026-08-13,diff: no ongoing free tier,yes
+format,"lessons combine graded texts, audio clips, and typed recall prompts",mirror,derived-from:c20_langapp_real,2026-08-13,,yes
+offline,lesson packs download for offline study,mirror,derived-from:c20_langapp_real,2026-08-13,,yes
+platforms,"iOS, Android, and web",mirror,derived-from:c20_langapp_real,2026-08-13,,yes
+progress,review queue and retention statistics per item,mirror,derived-from:c20_langapp_real,2026-08-13,,yes
+export,vocabulary list export as CSV,mirror,derived-from:c20_langapp_real,2026-08-13,,yes
+no_free,no ongoing free tier after the trial,spec_derived,derived-from:spec,2026-08-13,con,premise
+language_count,twelve languages narrower than large catalogues,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_speaking,no speech recognition for pronunciation practice,spec_derived,derived-from:spec,2026-08-13,con,no
+queue_backlog,missed days build a larger review queue,spec_derived,derived-from:spec,2026-08-13,con,no
+no_desktop_app,"browser only on desktop, no installed client",spec_derived,derived-from:spec,2026-08-13,con,yes
+typed_only,recall prompts require typing rather than tapping,spec_derived,derived-from:spec,2026-08-13,con,yes

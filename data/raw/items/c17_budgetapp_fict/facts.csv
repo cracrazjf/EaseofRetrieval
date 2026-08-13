@@ -1,17 +1,17 @@
-field,value,source_type,source_url,accessed_date,note
-method,envelope budgeting with unspent amounts rolling into the next period,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: envelope with rollover
-platforms,"web and iOS, with Android in progress",mirror,derived-from:c17_budgetapp_real,2026-08-13,
-import,manual CSV import from bank statements,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: no bank linking
-sharing,plan shared with one additional member,mirror,derived-from:c17_budgetapp_real,2026-08-13,
-free_tier,free tier limited to ten envelopes and one account,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: free tier exists
-paid_tier,"paid tier unlocks unlimited envelopes, reports, and sharing",mirror,derived-from:c17_budgetapp_real,2026-08-13,
-goals,savings goals with target dates,mirror,derived-from:c17_budgetapp_real,2026-08-13,
-reports,monthly category summaries and a rollover history view,mirror,derived-from:c17_budgetapp_real,2026-08-13,
-export,envelope and transaction export as CSV,mirror,derived-from:c17_budgetapp_real,2026-08-13,
-offline,entries can be recorded offline and sync when reconnected,mirror,derived-from:c17_budgetapp_real,2026-08-13,
-no_bank_link,every transaction is entered or imported by hand,spec_derived,derived-from:spec,2026-08-13,con
-free_caps,free tier stops at ten envelopes,spec_derived,derived-from:spec,2026-08-13,con
-no_android,no Android client yet,spec_derived,derived-from:spec,2026-08-13,con
-sharing_limit,sharing covers one additional member only,spec_derived,derived-from:spec,2026-08-13,con
-manual_effort,monthly CSV import adds a recurring chore,spec_derived,derived-from:spec,2026-08-13,con
-report_depth,reports cover categories without net worth,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+method,envelope budgeting with unspent amounts rolling into the next period,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: envelope with rollover,yes
+platforms,"web and iOS, with Android in progress",mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+import,manual CSV import from bank statements,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: no bank linking,yes
+sharing,plan shared with one additional member,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+free_tier,free tier limited to ten envelopes and one account,difference_point,derived-from:c17_budgetapp_real,2026-08-13,diff: free tier exists,yes
+paid_tier,"paid tier unlocks unlimited envelopes, reports, and sharing",mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+goals,savings goals with target dates,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+reports,monthly category summaries and a rollover history view,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+export,envelope and transaction export as CSV,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+offline,entries can be recorded offline and sync when reconnected,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
+no_bank_link,every transaction is entered or imported by hand,spec_derived,derived-from:spec,2026-08-13,con,premise
+free_caps,free tier stops at ten envelopes,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_android,no Android client yet,spec_derived,derived-from:spec,2026-08-13,con,yes
+sharing_limit,sharing covers one additional member only,spec_derived,derived-from:spec,2026-08-13,con,yes
+manual_effort,monthly CSV import adds a recurring chore,spec_derived,derived-from:spec,2026-08-13,con,yes
+report_depth,reports cover categories without net worth,spec_derived,derived-from:spec,2026-08-13,con,no

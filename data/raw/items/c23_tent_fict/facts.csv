@@ -1,19 +1,19 @@
-field,value,source_type,source_url,accessed_date,note
-capacity,"two person, semi-freestanding, three season",difference_point,derived-from:c23_tent_real,2026-08-13,diff: semi-freestanding
-min_weight,3 lb 2 oz / 1.42 kg minimum weight,mirror,derived-from:c23_tent_real,2026-08-13,
-packed_weight,3 lb 9 oz / 1.63 kg packaged,mirror,derived-from:c23_tent_real,2026-08-13,
-packed_size,17 x 6 in packed,mirror,derived-from:c23_tent_real,2026-08-13,
-floor,"82 x 48 in floor, 27 sq ft",mirror,derived-from:c23_tent_real,2026-08-13,
-vestibule,one vestibule of 9 sq ft,difference_point,derived-from:c23_tent_real,2026-08-13,diff: single vestibule
-peak_height,41 in interior peak height,mirror,derived-from:c23_tent_real,2026-08-13,
-doors,one door on the left side,difference_point,derived-from:c23_tent_real,2026-08-13,diff: single door
-rainfly,20 denier ripstop nylon with 1500 mm silicone coating,mirror,derived-from:c23_tent_real,2026-08-13,
-canopy,15 denier ripstop nylon canopy with mesh upper panels,mirror,derived-from:c23_tent_real,2026-08-13,
-floor_fabric,20 denier ripstop nylon with 2500 mm coating,mirror,derived-from:c23_tent_real,2026-08-13,
-poles,hub and pole assembly in aluminium alloy,mirror,derived-from:c23_tent_real,2026-08-13,
-footprint,integrated footprint included with the tent,difference_point,derived-from:c23_tent_real,2026-08-13,diff: footprint included
-one_door_con,the inner occupant climbs over the other to exit,spec_derived,derived-from:spec,2026-08-13,con
-stakes_needed,the foot end must be staked before the tent stands,spec_derived,derived-from:spec,2026-08-13,con
-single_vestibule,gear for two shares one vestibule,spec_derived,derived-from:spec,2026-08-13,con
-thin_canopy,15 denier canopy is light and delicate,spec_derived,derived-from:spec,2026-08-13,con
-floor_area,27 square feet is narrow for two adults,spec_derived,derived-from:spec,2026-08-13,con
+field,value,source_type,source_url,accessed_date,note,in_spec
+capacity,"two person, semi-freestanding, three season",difference_point,derived-from:c23_tent_real,2026-08-13,diff: semi-freestanding,yes
+min_weight,3 lb 2 oz / 1.42 kg minimum weight,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+packed_weight,3 lb 9 oz / 1.63 kg packaged,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+packed_size,17 x 6 in packed,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+floor,"82 x 48 in floor, 27 sq ft",mirror,derived-from:c23_tent_real,2026-08-13,,yes
+vestibule,one vestibule of 9 sq ft,difference_point,derived-from:c23_tent_real,2026-08-13,diff: single vestibule,yes
+peak_height,41 in interior peak height,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+doors,one door on the left side,difference_point,derived-from:c23_tent_real,2026-08-13,diff: single door,yes
+rainfly,20 denier ripstop nylon with 1500 mm silicone coating,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+canopy,15 denier ripstop nylon canopy with mesh upper panels,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+floor_fabric,20 denier ripstop nylon with 2500 mm coating,mirror,derived-from:c23_tent_real,2026-08-13,,yes
+poles,hub and pole assembly in aluminium alloy,mirror,derived-from:c23_tent_real,2026-08-13,,no
+footprint,integrated footprint included with the tent,difference_point,derived-from:c23_tent_real,2026-08-13,diff: footprint included,yes
+one_door_con,the inner occupant climbs over the other to exit,spec_derived,derived-from:spec,2026-08-13,con,no
+stakes_needed,the foot end must be staked before the tent stands,spec_derived,derived-from:spec,2026-08-13,con,yes
+single_vestibule,gear for two shares one vestibule,spec_derived,derived-from:spec,2026-08-13,con,yes
+thin_canopy,15 denier canopy is light and delicate,spec_derived,derived-from:spec,2026-08-13,con,yes
+floor_area,27 square feet is narrow for two adults,spec_derived,derived-from:spec,2026-08-13,con,yes
