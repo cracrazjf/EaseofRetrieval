@@ -13,5 +13,5 @@ no_bank_link,every transaction is entered or imported by hand,spec_derived,deriv
 free_caps,free tier stops at ten envelopes,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_android,no Android client yet,spec_derived,derived-from:spec,2026-08-13,con,yes
 sharing_limit,sharing covers one additional member only,spec_derived,derived-from:spec,2026-08-13,con,yes
-manual_effort,monthly CSV import adds a recurring chore,spec_derived,derived-from:spec,2026-08-13,con,yes
-report_depth,reports cover categories without net worth,spec_derived,derived-from:spec,2026-08-13,con,no
+manual_effort,monthly CSV import is a recurring manual step,spec_derived,derived-from:spec,2026-08-13,con,yes
+report_depth,reports cover categories without net worth tracking,spec_derived,derived-from:spec,2026-08-13,con,yes

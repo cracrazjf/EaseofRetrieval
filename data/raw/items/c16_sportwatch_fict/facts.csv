@@ -11,9 +11,9 @@ sensors,"GPS, GLONASS, wrist heart rate, accelerometer, barometric altimeter",di
 controls,"five physical buttons, no touchscreen",difference_point,derived-from:c16_sportwatch_real,2026-08-13,diff: buttons only,yes
 connectivity,Bluetooth pairing to the maker's own companion app,difference_point,derived-from:c16_sportwatch_real,2026-08-13,diff: first-party app only,yes
 features,"interval timer, elevation profile, recovery advisor",mirror,derived-from:c16_sportwatch_real,2026-08-13,,yes
-no_touch,navigation requires button presses only,spec_derived,derived-from:spec,2026-08-13,con,no
+no_touch,five physical buttons with no touchscreen,spec_derived,derived-from:spec,2026-08-13,con,yes
 first_party_only,pairs only with the maker's companion app,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_music_derived,no onboard music storage,spec_derived,derived-from:spec,2026-08-13,con,no
+no_music_derived,no onboard music storage,spec_derived,derived-from:spec,2026-08-13,con,yes
 case_size,case fixed at 44 millimetres wide,spec_derived,derived-from:spec,2026-08-13,con,yes
-band_material,band offered in silicone only,spec_derived,derived-from:spec,2026-08-13,con,premise
+band_material,band offered in silicone only,spec_derived,derived-from:spec,2026-08-13,con,yes
 res_modest,display resolution modest at 240 pixels,spec_derived,derived-from:spec,2026-08-13,con,yes

@@ -12,9 +12,9 @@ compatibility,macOS and Windows layouts supported,mirror,derived-from:c14_keyboa
 nkro,full N-key rollover over the wired connection,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
 gasket,gasket-mounted plate with foam damping,mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
 accessories,"USB-C cable, keycap puller, switch puller",mirror,derived-from:c14_keyboard_real,2026-08-13,,yes
-no_wireless,no Bluetooth or wireless receiver,spec_derived,derived-from:spec,2026-08-13,con,no
-no_fn_row,no dedicated function row across the top,spec_derived,derived-from:spec,2026-08-13,con,no
+no_wireless,no Bluetooth and no wireless receiver,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_fn_row,no dedicated function row; those keys reached through a layer,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_desk,810 grams makes the board hard to travel with,spec_derived,derived-from:spec,2026-08-13,con,yes
 white_only,backlight offers white light only,spec_derived,derived-from:spec,2026-08-13,con,yes
-cable_tether,cable tethers the board to the machine,spec_derived,derived-from:spec,2026-08-13,con,premise
+cable_tether,cable tethers the board to the machine,spec_derived,derived-from:spec,2026-08-13,con,yes
 key_count,68 keys require layer combinations,spec_derived,derived-from:spec,2026-08-13,con,yes

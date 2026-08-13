@@ -10,9 +10,9 @@ wired,up to 40 hours of wired operation with the supplied cable,mirror,derived-f
 controls,"physical buttons for power, playback, and noise canceling",difference_point,derived-from:c12_headphones_real,2026-08-13,diff: buttons not touch,yes
 water,IPX4 splash resistance,difference_point,derived-from:c12_headphones_real,2026-08-13,diff: splash rating,yes
 box,"headset, USB-C cable, 3.5 mm cable, fabric pouch",mirror,derived-from:c12_headphones_real,2026-08-13,,yes
-no_multipoint,cannot hold two device connections at once,spec_derived,derived-from:spec,2026-08-13,con,no
-codec_basic,no high bitrate codec beyond AAC,spec_derived,derived-from:spec,2026-08-13,con,no
-pouch_only,fabric pouch offers less protection than a case,spec_derived,derived-from:spec,2026-08-13,con,no
-weight_head,268 grams on the head during long sessions,spec_derived,derived-from:spec,2026-08-13,con,yes
-button_learn,three buttons take practice to use blind,spec_derived,derived-from:spec,2026-08-13,con,no
+no_multipoint,"single device pairing, no multipoint",spec_derived,derived-from:spec,2026-08-13,con,yes
+codec_basic,"AAC and SBC only, no higher bitrate codec",spec_derived,derived-from:spec,2026-08-13,con,yes
+pouch_only,fabric carrying pouch rather than a hard case,spec_derived,derived-from:spec,2026-08-13,con,yes
+weight_head,268 g clamping weight over long sessions,spec_derived,derived-from:spec,2026-08-13,con,yes
+button_learn,three physical buttons on the right cup take practice to distinguish blind,spec_derived,derived-from:spec,2026-08-13,con,yes
 splash_only,"IPX4 covers splashes, not immersion",spec_derived,derived-from:spec,2026-08-13,con,yes

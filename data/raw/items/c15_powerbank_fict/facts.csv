@@ -10,9 +10,9 @@ display,digital percentage display on the front face,difference_point,derived-fr
 dimensions,104 x 62 x 25 mm,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
 weight,210 g,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
 warranty,two year limited warranty,mirror,derived-from:c15_powerbank_real,2026-08-13,,yes
-no_usba,no USB-A port for older cables,spec_derived,derived-from:spec,2026-08-13,con,premise
-cable_wear,the attached cable cannot be replaced if damaged,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_usba,no USB-A port for older cables,spec_derived,derived-from:spec,2026-08-13,con,yes
+cable_wear,the attached cable cannot be replaced if damaged,spec_derived,derived-from:spec,2026-08-13,con,yes
 two_device,only two devices charge at once,spec_derived,derived-from:spec,2026-08-13,con,yes
-display_draw,the display consumes power while active,spec_derived,derived-from:spec,2026-08-13,con,no
+display_draw,digital display draws power from the pack while lit,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_pocket,210 grams in a pocket or bag,spec_derived,derived-from:spec,2026-08-13,con,yes
 recharge_time,recharging takes about four hours,spec_derived,derived-from:spec,2026-08-13,con,yes

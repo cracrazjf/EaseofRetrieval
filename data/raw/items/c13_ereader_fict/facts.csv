@@ -12,9 +12,9 @@ no_water,no water resistance rating,difference_point,derived-from:c13_ereader_re
 materials,matte polymer housing with a textured back,mirror,derived-from:c13_ereader_real,2026-08-13,,yes
 battery,"weeks of use per charge, no capacity stated",mirror,derived-from:c13_ereader_real,2026-08-13,,yes
 formats,twelve native formats plus audiobooks over Bluetooth,mirror,derived-from:c13_ereader_real,2026-08-13,,yes
-no_water_con,cannot be used near water or in the bath,spec_derived,derived-from:spec,2026-08-13,con,no
-size_pocket,7 inch body does not fit a jacket pocket,spec_derived,derived-from:spec,2026-08-13,con,no
+no_water_con,"no water resistance rating, so no use near water",spec_derived,derived-from:spec,2026-08-13,con,yes
+size_pocket,seven-inch body does not fit a jacket pocket,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_hand,195 grams during long one-handed sessions,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_card,storage fixed with no memory card slot,spec_derived,derived-from:spec,2026-08-13,con,no
-format_count,twelve formats fewer than some readers,spec_derived,derived-from:spec,2026-08-13,con,no
+no_card,storage fixed with no memory card slot,spec_derived,derived-from:spec,2026-08-13,con,yes
+format_count,"twelve native formats, fewer than some readers",spec_derived,derived-from:spec,2026-08-13,con,yes
 no_capacity,battery stated in weeks without a figure,spec_derived,derived-from:spec,2026-08-13,con,yes
