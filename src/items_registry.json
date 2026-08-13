@@ -294,8 +294,14 @@
       "item_type": "real",
       "name": "XGIMI MoGo 2",
       "paired_item": "c11_projector_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://us.xgimi.com/products/mogo-2"
+      ],
+      "review_urls": [
+        "https://camerajabber.com/reviews/xgimi-mogo-2/",
+        "https://sonnydickson.com/2023/04/24/review-xgimi-mogo-2-your-personal-cinema-on-the-go/",
+        "https://jabbareviews.com/xgimi-mogo-2-portable-projector-review/"
+      ]
     },
     "c11_projector_fict": {
       "category_num": 11,
@@ -316,8 +322,15 @@
       "item_type": "real",
       "name": "Sony WH-1000XM4",
       "paired_item": "c12_headphones_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://helpguide.sony.net/mdr/wh1000xm4/v1/en/contents/TP0002752809.html",
+        "https://www.sony-mea.com/en/electronics/headband-headphones/wh-1000xm4/specifications"
+      ],
+      "review_urls": [
+        "https://m.gsmarena.com/sony_wh1000xm4_wireless_noisecanceling_headphones_review-news-45351.php",
+        "https://www.trustedreviews.com/reviews/sony-wh-1000xm4",
+        "https://www.soundguys.com/sony-wh-1000xm4-review-38011/"
+      ]
     },
     "c12_headphones_fict": {
       "category_num": 12,
@@ -338,8 +351,15 @@
       "item_type": "real",
       "name": "Kobo Clara 2E",
       "paired_item": "c13_ereader_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://gl.kobobooks.com/products/kobo-clara-2e",
+        "https://us.kobobooks.com/products/kobo-clara-2e"
+      ],
+      "review_urls": [
+        "https://www.techadvisor.com/article/1364904/kobo-clara-2e-review.html",
+        "https://www.reviewed.com/tech/content/kobo-clara-e2-review",
+        "https://blog.the-ebook-reader.com/2022/10/10/kobo-clara-2e-review-and-video-walkthrough/"
+      ]
     },
     "c13_ereader_fict": {
       "category_num": 13,
@@ -360,8 +380,14 @@
       "item_type": "real",
       "name": "Keychron K2",
       "paired_item": "c14_keyboard_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://keychron.ph/products/keychron-k2-wireless-mechanical-keyboard",
+        "https://www.keychron.com/products/keychron-k2-hot-swappable-wireless-mechanical-keyboard"
+      ],
+      "review_urls": [
+        "https://www.imore.com/keychron-k2-v2-review",
+        "https://appleinsider.com/articles/20/09/26/review-the-keychron-k2v2-is-a-good-upgrade-to-an-already-near-perfect-keyboard"
+      ]
     },
     "c14_keyboard_fict": {
       "category_num": 14,
@@ -382,8 +408,14 @@
       "item_type": "real",
       "name": "Anker PowerCore 10000",
       "paired_item": "c15_powerbank_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.anker.com/eu-en/products/a1263"
+      ],
+      "review_urls": [
+        "https://www.techgearlab.com/reviews/electronics/power-bank/anker-powercore-10000",
+        "https://www.packstack.io/reviews/electronics/anker-powercore-10000",
+        "https://ulgearblog.com/chargers-and-battery-banks/anker-powercore-10000-portable-charger-review"
+      ]
     },
     "c15_powerbank_fict": {
       "category_num": 15,
