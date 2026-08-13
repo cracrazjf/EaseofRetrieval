@@ -7,8 +7,9 @@
   "name": "Fyrren S1",
   "paired_item": "c25_stove_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "fixed pot supports that fold rather than detach",
+    "no built-in igniter",
+    "remote canister feed with a hose"
   ],
-  "status": "registered"
+  "status": "validated"
 }

@@ -7,8 +7,9 @@
   "name": "Dovrell 230",
   "paired_item": "c26_toothbrush_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "sonic vibration instead of oscillating rotation",
+    "travel case included",
+    "USB charging instead of an induction stand"
   ],
-  "status": "registered"
+  "status": "validated"
 }

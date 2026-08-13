@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Volume of 28 litres in one size",
+      "fact_field": "volume"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Roll top adjusts height to contents",
+      "fact_field": "closure"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Adjustable torso strap positions the harness",
+      "fact_field": "suspension"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Weight of 1.85 pounds when empty",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Recycled nylon with repellent finish",
+      "fact_field": "main_fabric"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Daisy chain webbing for attachments",
+      "fact_field": "attachments"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Trekking pole loops on the side",
+      "fact_field": "attachments"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Front stretch pocket for wet layers",
+      "fact_field": "pockets"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Base in heavier 400 denier packcloth",
+      "fact_field": "bottom_fabric"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Side compression straps stabilise loads",
+      "fact_field": "attachments"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Internal sleeve for a reservoir",
+      "fact_field": "pockets"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Designed for loads to 18 pounds",
+      "fact_field": "load_range"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Roll top leaves no lid pocket",
+      "fact_field": "no_lid_pocket"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "One hipbelt pocket rather than two",
+      "fact_field": "single_hip_pocket"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Main compartment needs unrolling to reach",
+      "fact_field": "roll_access"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Foam panel vents less than mesh",
+      "fact_field": "foam_panel"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single size fits fewer torsos",
+      "fact_field": "one_size"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No ice axe attachment outside",
+      "fact_field": "no_axe_loop"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Load range tops out at 18",
+      "fact_field": "load_range"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pack height changes as contents shift",
+      "fact_field": "closure"
+    }
+  ]
 }

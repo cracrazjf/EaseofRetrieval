@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Canister sits beside the burner",
+      "fact_field": "remote_feed"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three supports fold against the burner",
+      "fact_field": "supports"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Needle valve adjusts the flame",
+      "fact_field": "valve"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Pots up to 2.5 litres supported",
+      "fact_field": "pot_limit"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Runs 1.7 hours per canister",
+      "fact_field": "burn_time"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Low stance from ground-set burner",
+      "fact_field": "remote_feed"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Stainless burner head on aluminium base",
+      "fact_field": "material"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Output rated at 10,300 BTU",
+      "fact_field": "output"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Supports stay attached when folded",
+      "fact_field": "supports"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Two cups boil in three minutes",
+      "fact_field": "boil"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Accepts butane and isobutane mixes",
+      "fact_field": "fuel"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Folds to a flat stowed shape",
+      "fact_field": "stowed"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "A separate lighter must be carried",
+      "fact_field": "no_ignition_con"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Hose adds bulk in the pack",
+      "fact_field": "hose_bulk"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Weight of 96 grams with hose",
+      "fact_field": "weight_higher"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Burner and canister occupy wider space",
+      "fact_field": "footprint_wide"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Open burner head exposed to wind",
+      "fact_field": "wind_exposed"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pure propane canisters not supported",
+      "fact_field": "fuel"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Boil time near three minutes",
+      "fact_field": "boil"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No igniter built into the burner",
+      "fact_field": "no_igniter"
+    }
+  ]
 }

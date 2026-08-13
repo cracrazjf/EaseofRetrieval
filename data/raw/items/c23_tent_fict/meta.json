@@ -7,8 +7,9 @@
   "name": "Torvik Basin 2",
   "paired_item": "c23_tent_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "single vestibule and one door instead of two",
+    "semi-freestanding, requiring stakes at the foot",
+    "integrated footprint included"
   ],
-  "status": "registered"
+  "status": "validated"
 }

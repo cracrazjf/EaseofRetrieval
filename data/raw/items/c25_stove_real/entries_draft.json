@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Weight of 2.3 ounces with support",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Concave burner holds flame in wind",
+      "fact_field": "wind_resist"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Micro regulator holds output steady",
+      "fact_field": "valve"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Piezo igniter built into post",
+      "fact_field": "ignition"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Flame control fine enough to simmer",
+      "fact_field": "simmer"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Pot supports stable under full pots",
+      "fact_field": "stable_support"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Output rated at 11,000 BTU",
+      "fact_field": "output"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Regulator holds output as canisters cool",
+      "fact_field": "cold_perf"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Runs 1.5 hours per canister",
+      "fact_field": "burn_time"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Light enough for long carries",
+      "fact_field": "light"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Die-cast aluminium body construction",
+      "fact_field": "material"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Accepts three common fuel mixes",
+      "fact_field": "fuel"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Packs bulkier than competing stoves",
+      "fact_field": "bulk"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Supports fitted each use, easily lost",
+      "fact_field": "support_fiddly"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pot capacity capped at two litres",
+      "fact_field": "pot_limit"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pure propane canisters not supported",
+      "fact_field": "fuel"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Three-arm support sold separately",
+      "fact_field": "supports"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Boil time varies with conditions",
+      "fact_field": "boil"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Canister lasts about ninety minutes",
+      "fact_field": "burn_time"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Stowed bulk from the support arms",
+      "fact_field": "stowed"
+    }
+  ]
 }

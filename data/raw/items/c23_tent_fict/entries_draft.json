@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Minimum weight of 3 pounds 2",
+      "fact_field": "min_weight"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Integrated footprint included with tent",
+      "fact_field": "footprint"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Peak height of 41 inches inside",
+      "fact_field": "peak_height"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Packed size of 17 by 6",
+      "fact_field": "packed_size"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Fly coated to 1500 millimetres",
+      "fact_field": "rainfly"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Mesh upper panels for ventilation",
+      "fact_field": "canopy"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Aluminium alloy hub and poles",
+      "fact_field": "poles"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Stakes and guylines in box",
+      "fact_field": "footprint"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Head end stands without stakes",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Vestibule of 9 square feet",
+      "fact_field": "vestibule"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Floor coated to 2500 millimetres",
+      "fact_field": "floor_fabric"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Canopy fabric at 15 denier",
+      "fact_field": "canopy"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "One occupant climbs over the other",
+      "fact_field": "one_door_con"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Foot end must be staked first",
+      "fact_field": "stakes_needed"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Gear for two shares one vestibule",
+      "fact_field": "single_vestibule"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Canopy at 15 denier is delicate",
+      "fact_field": "thin_canopy"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Floor of 27 square feet is narrow",
+      "fact_field": "floor_area"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single door on the left",
+      "fact_field": "doors"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Semi-freestanding pitch needs soft ground",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Floor coating rated 2500 millimetres",
+      "fact_field": "floor_fabric"
+    }
+  ]
 }
