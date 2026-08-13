@@ -7,8 +7,9 @@
   "name": "Veltrun R40",
   "paired_item": "c16_sportwatch_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "barometric altimeter included",
+    "button-only controls with no touchscreen",
+    "no third-party phone app pairing"
   ],
-  "status": "registered"
+  "status": "validated"
 }

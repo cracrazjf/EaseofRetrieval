@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Weight of 37 grams on wrist",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Battery up to 14 days smartwatch",
+      "fact_field": "battery_smart"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three positioning systems for tracking",
+      "fact_field": "sensors"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Rating of 5 ATM for swimming",
+      "fact_field": "water"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "GPS tracks accurate across routes",
+      "fact_field": "gps_accuracy"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Wrist heart rate near strap readings",
+      "fact_field": "hr_accuracy"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Pacing and suggested workouts for beginners",
+      "fact_field": "beginner_features"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Display readable in direct sunlight",
+      "fact_field": "display"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Quick release band at 20 millimetres",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "GPS mode running 20 hours",
+      "fact_field": "battery_gps"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Pairs with iPhone and Android",
+      "fact_field": "connectivity"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Operating range down to -20 Celsius",
+      "fact_field": "temp"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No barometric altimeter for elevation",
+      "fact_field": "no_altimeter"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Display small and low resolution",
+      "fact_field": "low_res"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No onboard music or payments",
+      "fact_field": "no_music"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No sleep summary on watch",
+      "fact_field": "no_sleep_widget"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "History memory limited to 32 megabytes",
+      "fact_field": "memory"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Listed as discontinued by maker",
+      "fact_field": "status"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Case fixed at 42 millimetres wide",
+      "fact_field": "size"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Band material limited to silicone",
+      "fact_field": "materials"
+    }
+  ]
 }

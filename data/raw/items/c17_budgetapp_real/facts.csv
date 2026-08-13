@@ -1,1 +1,17 @@
 field,value,source_type,source_url,accessed_date,note
+method,zero-based budgeting: every dollar assigned to a category,official,https://www.ynab.com/features,2026-08-13,
+platforms,"web, iOS, and Android with automatic sync across devices",official,https://www.ynab.com/features,2026-08-13,
+bank_sync,linked accounts import transactions automatically,official,https://www.ynab.com/features,2026-08-13,
+sharing,subscription covers up to six people,official,https://www.ynab.com/pricing,2026-08-13,
+trial,34 day free trial without a card; 365 day trial for students,official,https://www.ynab.com/pricing,2026-08-13,
+goals,target setting for categories and a loan planner,official,https://www.ynab.com/features,2026-08-13,
+reports,spending and net worth charts,official,https://www.ynab.com/features,2026-08-13,
+export,plan and transaction history export as CSV or TSV from the web app,official,https://support.ynab.com/en_us/how-to-export-plan-data-Sy_CouWA9,2026-08-13,
+apple_card,Apple Card transaction import supported,official,https://www.ynab.com/features,2026-08-13,
+tier_note,all features are on one paid subscription tier; no free tier,official,https://www.ynab.com/pricing,2026-08-13,prices omitted per DECISIONS
+learning_curve,zero-based method takes weeks to learn,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/,2026-08-13,con
+cost_high,"among the more expensive budgeting subscriptions, with repeated increases",review_consensus,https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/;https://fortune.com/article/ynab-pros-and-cons/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,con
+no_bills,no bill tracking or bill payment,review_consensus,https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,con
+sync_praise,bank import and reconciliation work reliably,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/,2026-08-13,
+goal_tools,target and debt payoff tools well regarded,review_consensus,https://www.nerdwallet.com/finance/learn/best-budget-apps;https://fortune.com/article/ynab-pros-and-cons/,2026-08-13,
+sharing_praise,household sharing useful for couples,review_consensus,https://fortune.com/article/ynab-pros-and-cons/;https://www.nerdwallet.com/finance/learn/best-budget-apps,2026-08-13,

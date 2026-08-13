@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Capacity of 10,000 milliamp-hours",
+      "fact_field": "capacity"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Cable built into the housing",
+      "fact_field": "integrated_cable"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Digital display shows remaining percentage",
+      "fact_field": "display"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Output up to 20 watts",
+      "fact_field": "output_c"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Recharge in about four hours",
+      "fact_field": "recharge"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two devices charge at once",
+      "fact_field": "simultaneous"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two year limited warranty",
+      "fact_field": "warranty"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Weight of 210 grams when carried",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cable stows in a moulded channel",
+      "fact_field": "integrated_cable"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Port accepts the same input rate",
+      "fact_field": "input_c"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Footprint of 104 millimetres long",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Rated at 37 watt-hours",
+      "fact_field": "capacity"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No USB-A port for older cables",
+      "fact_field": "no_usba"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Attached cable cannot be replaced",
+      "fact_field": "cable_wear"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Only two devices charge at once",
+      "fact_field": "two_device"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Display consumes power while active",
+      "fact_field": "display_draw"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Weight of 210 grams in pockets",
+      "fact_field": "weight_pocket"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Recharging takes about four hours",
+      "fact_field": "recharge_time"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Thickness of 25 millimetres in bags",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single port beyond the attached cable",
+      "fact_field": "ports"
+    }
+  ]
 }

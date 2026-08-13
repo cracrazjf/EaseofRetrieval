@@ -7,8 +7,9 @@
   "name": "Ardento PB10",
   "paired_item": "c15_powerbank_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "integrated cable attached to the housing",
+    "digital percentage display instead of LED lights",
+    "single USB-C port with no USB-A"
   ],
-  "status": "registered"
+  "status": "validated"
 }

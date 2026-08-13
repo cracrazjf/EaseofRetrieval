@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Barometric altimeter recording elevation during activities",
+      "fact_field": "sensors"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Battery up to 24 hours GPS",
+      "fact_field": "battery_gps"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Five buttons for gloved operation",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Rating of 5 ATM for swimming",
+      "fact_field": "water"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "History memory of 64 megabytes",
+      "fact_field": "memory"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Display readable in direct sunlight",
+      "fact_field": "display"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Quick release band at 22 millimetres",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Recovery advisor after logged sessions",
+      "fact_field": "features"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Battery up to 12 days watch mode",
+      "fact_field": "battery_smart"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Interval timer built into training",
+      "fact_field": "features"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 41 grams on wrist",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Elevation profiles from the altimeter",
+      "fact_field": "sensors"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Navigation requires button presses only",
+      "fact_field": "no_touch"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pairs only with maker's app",
+      "fact_field": "first_party_only"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No onboard music storage",
+      "fact_field": "no_music_derived"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Case fixed at 44 millimetres",
+      "fact_field": "case_size"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Band offered in silicone only",
+      "fact_field": "band_material"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Resolution modest at 240 pixels",
+      "fact_field": "res_modest"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Weight of 41 grams during sleep",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No satellite system beyond two",
+      "fact_field": "sensors"
+    }
+  ]
 }

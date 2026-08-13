@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Zero-based method assigns every dollar",
+      "fact_field": "method"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Automatic transaction import from linked accounts",
+      "fact_field": "bank_sync"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Subscription covering up to six people",
+      "fact_field": "sharing"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Category targets tracking planned amounts",
+      "fact_field": "goals"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Loan planner projecting payoff timing",
+      "fact_field": "goals"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Export as CSV or TSV",
+      "fact_field": "export"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Trial of 34 days without card",
+      "fact_field": "trial"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Import and reconciliation work reliably",
+      "fact_field": "sync_praise"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Spending and net worth charts",
+      "fact_field": "reports"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Target and payoff tools well regarded",
+      "fact_field": "goal_tools"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Household sharing useful for couples",
+      "fact_field": "sharing_praise"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Runs on web, iOS, Android",
+      "fact_field": "platforms"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Zero-based method takes weeks to learn",
+      "fact_field": "learning_curve"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Among the more expensive budgeting subscriptions",
+      "fact_field": "cost_high"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No bill tracking or payment",
+      "fact_field": "no_bills"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No free tier for casual users",
+      "fact_field": "tier_note"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Export limited to the web app",
+      "fact_field": "export"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Subscription price has risen repeatedly",
+      "fact_field": "cost_high"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Manual reconciliation still required regularly",
+      "fact_field": "bank_sync"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Sharing capped at six people",
+      "fact_field": "sharing"
+    }
+  ]
 }

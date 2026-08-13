@@ -1,1 +1,18 @@
 field,value,source_type,source_url,accessed_date,note
+capacity,"10,000 mAh / 37 Wh",mirror,derived-from:c15_powerbank_real,2026-08-13,
+ports,"one USB-C for input and output, plus an integrated cable",difference_point,derived-from:c15_powerbank_real,2026-08-13,"diff: integrated cable, no USB-A"
+integrated_cable,USB-C cable built into the housing and stowed in a channel,difference_point,derived-from:c15_powerbank_real,2026-08-13,diff: attached cable
+simultaneous,charges up to two devices at once,mirror,derived-from:c15_powerbank_real,2026-08-13,
+output_c,"USB-C output 5 V / 3 A, 20 W maximum",mirror,derived-from:c15_powerbank_real,2026-08-13,
+input_c,USB-C input 5 V / 3 A,mirror,derived-from:c15_powerbank_real,2026-08-13,
+recharge,about 4 hours from a 20 W charger,mirror,derived-from:c15_powerbank_real,2026-08-13,
+display,digital percentage display on the front face,difference_point,derived-from:c15_powerbank_real,2026-08-13,diff: percentage display
+dimensions,104 x 62 x 25 mm,mirror,derived-from:c15_powerbank_real,2026-08-13,
+weight,210 g,mirror,derived-from:c15_powerbank_real,2026-08-13,
+warranty,two year limited warranty,mirror,derived-from:c15_powerbank_real,2026-08-13,
+no_usba,no USB-A port for older cables,spec_derived,derived-from:spec,2026-08-13,con
+cable_wear,the attached cable cannot be replaced if damaged,spec_derived,derived-from:spec,2026-08-13,con
+two_device,only two devices charge at once,spec_derived,derived-from:spec,2026-08-13,con
+display_draw,the display consumes power while active,spec_derived,derived-from:spec,2026-08-13,con
+weight_pocket,210 grams in a pocket or bag,spec_derived,derived-from:spec,2026-08-13,con
+recharge_time,recharging takes about four hours,spec_derived,derived-from:spec,2026-08-13,con

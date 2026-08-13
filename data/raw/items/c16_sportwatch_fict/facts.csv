@@ -1,1 +1,19 @@
 field,value,source_type,source_url,accessed_date,note
+size,"44 x 44 x 12.2 mm, fits wrists 130-210 mm",mirror,derived-from:c16_sportwatch_real,2026-08-13,
+weight,41 g,mirror,derived-from:c16_sportwatch_real,2026-08-13,
+display,"1.2 inch, 240 x 240 pixels, transflective colour",mirror,derived-from:c16_sportwatch_real,2026-08-13,
+materials,"mineral glass lens, silicone band, 22 mm quick release",mirror,derived-from:c16_sportwatch_real,2026-08-13,
+battery_smart,up to 12 days in watch mode,mirror,derived-from:c16_sportwatch_real,2026-08-13,
+battery_gps,up to 24 hours in GPS mode,mirror,derived-from:c16_sportwatch_real,2026-08-13,
+water,"5 ATM, rated for swimming",mirror,derived-from:c16_sportwatch_real,2026-08-13,
+memory,64 MB history memory,mirror,derived-from:c16_sportwatch_real,2026-08-13,
+sensors,"GPS, GLONASS, wrist heart rate, accelerometer, barometric altimeter",difference_point,derived-from:c16_sportwatch_real,2026-08-13,diff: altimeter
+controls,"five physical buttons, no touchscreen",difference_point,derived-from:c16_sportwatch_real,2026-08-13,diff: buttons only
+connectivity,Bluetooth pairing to the maker's own companion app,difference_point,derived-from:c16_sportwatch_real,2026-08-13,diff: first-party app only
+features,"interval timer, elevation profile, recovery advisor",mirror,derived-from:c16_sportwatch_real,2026-08-13,
+no_touch,navigation requires button presses only,spec_derived,derived-from:spec,2026-08-13,con
+first_party_only,pairs only with the maker's companion app,spec_derived,derived-from:spec,2026-08-13,con
+no_music_derived,no onboard music storage,spec_derived,derived-from:spec,2026-08-13,con
+case_size,case fixed at 44 millimetres wide,spec_derived,derived-from:spec,2026-08-13,con
+band_material,band offered in silicone only,spec_derived,derived-from:spec,2026-08-13,con
+res_modest,display resolution modest at 240 pixels,spec_derived,derived-from:spec,2026-08-13,con
