@@ -406,16 +406,10 @@
       "category_num": 15,
       "category": "powerbank",
       "item_type": "real",
-      "name": "Anker PowerCore 10000",
+      "name": "Belkin BoostCharge 10K",
       "paired_item": "c15_powerbank_fict",
-      "official_urls": [
-        "https://www.anker.com/eu-en/products/a1263"
-      ],
-      "review_urls": [
-        "https://www.techgearlab.com/reviews/electronics/power-bank/anker-powercore-10000",
-        "https://www.packstack.io/reviews/electronics/anker-powercore-10000",
-        "https://ulgearblog.com/chargers-and-battery-banks/anker-powercore-10000-portable-charger-review"
-      ]
+      "official_urls": [],
+      "review_urls": []
     },
     "c15_powerbank_fict": {
       "category_num": 15,
