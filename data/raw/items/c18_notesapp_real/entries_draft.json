@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Blocks nest, link, and reuse",
+      "fact_field": "structure"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Free plan usable for individual work",
+      "fact_field": "free_generous"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "One workspace replaces several tools",
+      "fact_field": "flexibility"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Export as PDF, HTML, Markdown",
+      "fact_field": "export"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Databases export as CSV files",
+      "fact_field": "export"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Per-page permissions with guest access",
+      "fact_field": "collab"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Clients on five platforms",
+      "fact_field": "platforms"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Large template library and guides",
+      "fact_field": "templates"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Pages markable available for offline reading",
+      "fact_field": "offline"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Four plans across individual and team",
+      "fact_field": "tiers"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Unlimited blocks for individual users",
+      "fact_field": "free_limits"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "AI features on higher plans",
+      "fact_field": "ai"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Setup and features take weeks",
+      "fact_field": "learning_curve"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Offline mode restricts editing and creation",
+      "fact_field": "offline_limited"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Performance degrades on large databases",
+      "fact_field": "db_performance"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Mobile client lags the desktop",
+      "fact_field": "mobile_weak"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Free plan caps uploads at 5 megabytes",
+      "fact_field": "free_limits"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Page history limited to seven days",
+      "fact_field": "free_limits"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Formulas do not recalculate offline",
+      "fact_field": "offline"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Guest access capped on free plan",
+      "fact_field": "free_limits"
+    }
+  ]
 }

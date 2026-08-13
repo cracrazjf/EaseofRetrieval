@@ -7,8 +7,9 @@
   "name": "Voskell",
   "paired_item": "c17_budgetapp_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "envelope method with rollover instead of zero-based assignment",
+    "manual CSV import instead of bank linking",
+    "free tier with limited categories"
   ],
-  "status": "registered"
+  "status": "validated"
 }

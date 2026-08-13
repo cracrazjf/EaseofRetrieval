@@ -7,8 +7,9 @@
   "name": "Trelbin",
   "paired_item": "c18_notesapp_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "local-first storage with optional sync instead of cloud workspaces",
+    "outline documents instead of block databases",
+    "no guest sharing"
   ],
   "status": "registered"
 }

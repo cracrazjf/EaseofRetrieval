@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Free tier storing unlimited passwords",
+      "fact_field": "free_tier"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Sync across unlimited devices",
+      "fact_field": "free_tier"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Source published and independently audited",
+      "fact_field": "open_source"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Clients on every mainstream platform",
+      "fact_field": "cross_platform"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Extensions for nine browsers",
+      "fact_field": "extensions"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Command line interface for scripting",
+      "fact_field": "cli"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Web vault opens from any browser",
+      "fact_field": "web_vault"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Free tier covers core function",
+      "fact_field": "free_praise"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Families plan covering six accounts",
+      "fact_field": "families"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Paid tier adds integrated authenticator codes",
+      "fact_field": "paid_tier"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Emergency access on paid tier",
+      "fact_field": "paid_tier"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Encryption applied before sync upload",
+      "fact_field": "encryption"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Interface less polished than competitors",
+      "fact_field": "dated_ui"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Autofill inconsistent on complex sites",
+      "fact_field": "autofill_incons"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Free support limited to community forums",
+      "fact_field": "free_support"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Authenticator codes require the paid tier",
+      "fact_field": "free_limits"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "File attachments excluded from free tier",
+      "fact_field": "free_limits"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Security reports behind paid tier",
+      "fact_field": "free_limits"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Free sharing limited to one user",
+      "fact_field": "free_tier"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Emergency access not on free",
+      "fact_field": "free_limits"
+    }
+  ]
 }

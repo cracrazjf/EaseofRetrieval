@@ -1,1 +1,17 @@
 field,value,source_type,source_url,accessed_date,note
+free_tier,"free tier: unlimited passwords, unlimited devices, sharing with one other user",official,https://bitwarden.com/pricing/,2026-08-13,
+free_limits,"free tier excludes integrated authenticator codes, file attachments, emergency access, and security reports",official,https://bitwarden.com/pricing/,2026-08-13,
+paid_tier,"paid individual tier adds an integrated authenticator, file attachments, emergency access, and security reports",official,https://bitwarden.com/pricing/,2026-08-13,"tier is named Premium officially; renamed to paid tier in materials because the brand word is on the banned evaluative list; storage figure inconsistent between current page and historical listings, omitted"
+families,families plan covers six paid accounts with unlimited sharing collections,official,https://bitwarden.com/pricing/,2026-08-13,
+desktop,"desktop clients for Windows, macOS, and Linux",official,https://bitwarden.com/download/,2026-08-13,
+mobile,clients for iOS and Android,official,https://bitwarden.com/download/,2026-08-13,
+extensions,"browser extensions for nine browsers including Chrome, Firefox, Safari, and Edge",official,https://bitwarden.com/download/,2026-08-13,
+web_vault,web vault accessible from a browser,official,https://bitwarden.com/download/,2026-08-13,
+cli,command line interface available,official,https://bitwarden.com/download/,2026-08-13,
+encryption,vault encrypted on the device before sync; master password not transmitted,official,https://bitwarden.com/pricing/,2026-08-13,
+open_source,source code published and independently audited,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,
+dated_ui,interface less polished than competing managers,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con
+autofill_incons,autofill inconsistent on complex sites,review_consensus,https://www.malcare.com/blog/bitwarden-review/;https://cybernews.com/best-password-managers/bitwarden-review/,2026-08-13,con
+free_support,free tier support limited to community forums,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con
+free_praise,free tier covers the core function fully,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,
+cross_platform,clients cover every mainstream platform,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,
