@@ -7,8 +7,9 @@
   "name": "Cryptavo",
   "paired_item": "c19_passwordmgr_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "local vault file with user-managed sync instead of hosted sync",
+    "hardware key required for unlock",
+    "no browser extensions, desktop and mobile only"
   ],
-  "status": "registered"
+  "status": "validated"
 }

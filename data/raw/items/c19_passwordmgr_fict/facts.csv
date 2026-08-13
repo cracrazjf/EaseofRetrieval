@@ -1,1 +1,17 @@
 field,value,source_type,source_url,accessed_date,note
+storage,"encrypted vault file stored locally, synced by the user's own file service",difference_point,derived-from:c19_passwordmgr_real,2026-08-13,diff: user-managed sync
+unlock,master password plus a hardware security key required to unlock,difference_point,derived-from:c19_passwordmgr_real,2026-08-13,diff: hardware key required
+free_tier,free tier: unlimited entries on one device,mirror,derived-from:c19_passwordmgr_real,2026-08-13,
+paid_tier,paid tier adds multi-device vault sharing and audit reports,mirror,derived-from:c19_passwordmgr_real,2026-08-13,
+desktop,"desktop clients for Windows, macOS, and Linux",mirror,derived-from:c19_passwordmgr_real,2026-08-13,
+mobile,clients for iOS and Android,mirror,derived-from:c19_passwordmgr_real,2026-08-13,
+no_extensions,no browser extensions,difference_point,derived-from:c19_passwordmgr_real,2026-08-13,diff: no extensions
+cli,command line interface available,mirror,derived-from:c19_passwordmgr_real,2026-08-13,
+authenticator,authenticator codes generated within the vault,mirror,derived-from:c19_passwordmgr_real,2026-08-13,
+export,vault export as encrypted archive or plain CSV,mirror,derived-from:c19_passwordmgr_real,2026-08-13,
+no_autofill,no browser autofill without an extension,spec_derived,derived-from:spec,2026-08-13,con
+key_dependency,unlocking depends on the hardware key being present,spec_derived,derived-from:spec,2026-08-13,con
+sync_setup,the user configures and maintains their own sync,spec_derived,derived-from:spec,2026-08-13,con
+no_web_vault,no web vault for machines without a client,spec_derived,derived-from:spec,2026-08-13,con
+free_one_device,free tier covers one device only,spec_derived,derived-from:spec,2026-08-13,con
+recovery_risk,losing the key and password locks the vault permanently,spec_derived,derived-from:spec,2026-08-13,con

@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Vault stored as a local file",
+      "fact_field": "storage"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Hardware key required alongside password",
+      "fact_field": "unlock"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Authenticator codes generated inside vault",
+      "fact_field": "authenticator"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Free tier holding unlimited entries",
+      "fact_field": "free_tier"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Clients on five platforms",
+      "fact_field": "desktop"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Command line interface for scripting",
+      "fact_field": "cli"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Export as encrypted archive or CSV",
+      "fact_field": "export"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Sync handled by existing file service",
+      "fact_field": "storage"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Paid tier adds audit reports",
+      "fact_field": "paid_tier"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Mobile clients on iOS and Android",
+      "fact_field": "mobile"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "No hosted service holds the vault",
+      "fact_field": "storage"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Vault sharing across devices when paid",
+      "fact_field": "paid_tier"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No browser autofill without extensions",
+      "fact_field": "no_autofill"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Unlocking depends on the hardware key",
+      "fact_field": "key_dependency"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "User configures and maintains sync",
+      "fact_field": "sync_setup"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No web vault for borrowed machines",
+      "fact_field": "no_web_vault"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Free tier covers one device",
+      "fact_field": "free_one_device"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Losing key and password locks vault",
+      "fact_field": "recovery_risk"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No browser extensions at all",
+      "fact_field": "no_extensions"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Plain CSV export leaves data unencrypted",
+      "fact_field": "export"
+    }
+  ]
 }

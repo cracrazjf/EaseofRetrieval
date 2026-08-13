@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Over 280 courses across languages",
+      "fact_field": "courses"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Every course reachable without payment",
+      "fact_field": "free_breadth"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Streaks and points sustain daily habit",
+      "fact_field": "gamification"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Languages rarely taught elsewhere included",
+      "fact_field": "language_range"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Short lessons fit brief sessions",
+      "fact_field": "format"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Clients across seven platform types",
+      "fact_field": "platforms"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Math, music, and chess tracks",
+      "fact_field": "courses"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "148 courses added during 2025",
+      "fact_field": "expansion"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Progress syncs across signed-in devices",
+      "fact_field": "platforms"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Paid tier removes the hearts limit",
+      "fact_field": "paid_tier"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Exercises span reading, listening, speaking",
+      "fact_field": "format"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "No payment required to begin",
+      "fact_field": "free_access"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Advertisements interrupt the free experience",
+      "fact_field": "ads_con"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Hearts system halts practice sessions",
+      "fact_field": "hearts_con"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Grammar explanations remain brief",
+      "fact_field": "grammar_thin"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Study alone falls short of fluency",
+      "fact_field": "not_fluency"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Mistake limit applies on free tier",
+      "fact_field": "hearts"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Advertisements shown between lessons",
+      "fact_field": "ads"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Lesson format favours recognition over production",
+      "fact_field": "format"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Course depth varies across languages",
+      "fact_field": "courses"
+    }
+  ]
 }
