@@ -514,8 +514,13 @@
       "item_type": "real",
       "name": "Forest",
       "paired_item": "c21_focusapp_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.forestapp.cc/"
+      ],
+      "review_urls": [
+        "https://www.primeproductiv4.com/apps-tools/forestapp-review",
+        "https://nerdynav.com/forest-vs-flora-pomodoro/"
+      ]
     },
     "c21_focusapp_fict": {
       "category_num": 21,
@@ -536,8 +541,14 @@
       "item_type": "real",
       "name": "Osprey Talon 22",
       "paired_item": "c22_backpack_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.outdoorsports.com/products/osprey-packs-mens-talon-22-backpack"
+      ],
+      "review_urls": [
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/daypack/osprey-talon-22",
+        "https://www.cleverhiker.com/hiking/osprey-talon-tempest-22-daypack-review/",
+        "https://www.livefortheoutdoors.com/hiking/rucksacks/osprey-talon-22-review/"
+      ]
     },
     "c22_backpack_fict": {
       "category_num": 22,
@@ -558,8 +569,14 @@
       "item_type": "real",
       "name": "MSR Hubba Hubba NX",
       "paired_item": "c23_tent_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://cascadedesigns.com/en-eu/products/hubba-hubba-nx-2-person-backpacking-tent"
+      ],
+      "review_urls": [
+        "https://wildernesstimes.com/msr-hubba-hubba-tent-review/",
+        "https://www.ultimategearlists.com/gear-reviews/msr-hubba-hubba-2-tent",
+        "https://www.thebrokebackpacker.com/msr-hubba-hubba-nx-tent-review/"
+      ]
     },
     "c23_tent_fict": {
       "category_num": 23,
@@ -608,8 +625,14 @@
       "item_type": "real",
       "name": "SOTO WindMaster",
       "paired_item": "c25_stove_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://sotooutdoors.com/products/windmaster/"
+      ],
+      "review_urls": [
+        "https://www.cleverhiker.com/backpacking/soto-windmaster-backpacking-stove-review/",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-stove/soto-windmaster",
+        "https://www.adventurealan.com/product/soto-windmaster-stove-review/"
+      ]
     },
     "c25_stove_fict": {
       "category_num": 25,
@@ -630,8 +653,14 @@
       "item_type": "real",
       "name": "Oral-B Pro 1000",
       "paired_item": "c26_toothbrush_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://oralb.com/en-us/oral-b-pro-1000-rechargeable-electric-toothbrush/"
+      ],
+      "review_urls": [
+        "https://www.techgearlab.com/reviews/health-fitness/toothbrush/oral-b-pro-1000",
+        "https://www.dentalroundup.com/best/oral-b-pro-1000-review/",
+        "https://medgrade.org/reviews/oral-b-pro-1000-review/"
+      ]
     },
     "c26_toothbrush_fict": {
       "category_num": 26,
