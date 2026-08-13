@@ -1,0 +1,19 @@
+field,value,source_type,source_url,accessed_date,note
+dimensions,145 x 320 x 310 mm (W x D x H),mirror,derived-from:c01_espresso_real,2026-08-12,jittered from paired real item
+weight,4.0 kg,mirror,derived-from:c01_espresso_real,2026-08-12,
+pump,15-bar pump,mirror,derived-from:c01_espresso_real,2026-08-12,category standard
+heating,thermoblock heating system,mirror,derived-from:c01_espresso_real,2026-08-12,
+tank,"1.0 L removable, water level indicator",mirror,derived-from:c01_espresso_real,2026-08-12,
+controls,"2 illuminated buttons: single, double; separate steam dial; programmable volume, 2 levels",difference_point,derived-from:c01_espresso_real,2026-08-12,diff: two buttons plus steam dial
+frother,"manual frother, steamed milk or froth, dispenses hot water",mirror,derived-from:c01_espresso_real,2026-08-12,
+baskets,"ground coffee only, 2 pressurized baskets (single, double)",difference_point,derived-from:c01_espresso_real,2026-08-12,diff: no ESE pod support
+driptray,removable two-level drip tray,mirror,derived-from:c01_espresso_real,2026-08-12,
+cup_height,up to 11 cm,mirror,derived-from:c01_espresso_real,2026-08-12,
+no_cuprest,no top cup rest,difference_point,derived-from:c01_espresso_real,2026-08-12,diff: no top cup rest
+shutoff,standby 15 minutes after last brew,mirror,derived-from:c01_espresso_real,2026-08-12,
+accessories,combined measuring scoop and tamper,mirror,derived-from:c01_espresso_real,2026-08-12,
+maintenance,descaling with panel indicator; removable tank and tray rinse,mirror,derived-from:c01_espresso_real,2026-08-12,
+single_thermoblock,single thermoblock: no simultaneous brew and steam,spec_derived,derived-from:spec,2026-08-12,con
+plastic_tamper,combined scoop-tamper is plastic,spec_derived,derived-from:spec,2026-08-12,con
+no_gauge,no pressure gauge on panel,spec_derived,derived-from:spec,2026-08-12,con
+frother_manual,manual frothing requires technique,spec_derived,derived-from:spec,2026-08-12,con

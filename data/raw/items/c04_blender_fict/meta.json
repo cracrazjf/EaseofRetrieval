@@ -1,0 +1,14 @@
+{
+  "item_id": "c04_blender_fict",
+  "category_num": 4,
+  "category": "blender",
+  "category_pair_id": "c04",
+  "item_type": "fictional",
+  "name": "Quarvel BX5",
+  "paired_item": "c04_blender_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

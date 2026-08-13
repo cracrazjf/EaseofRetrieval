@@ -1,0 +1,11 @@
+{
+  "item_id": "c10_chair_real",
+  "category_num": 10,
+  "category": "chair",
+  "category_pair_id": "c10",
+  "item_type": "real",
+  "name": "Steelcase Series 1",
+  "paired_item": "c10_chair_fict",
+  "difference_points": null,
+  "status": "registered"
+}

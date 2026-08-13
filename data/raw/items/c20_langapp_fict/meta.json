@@ -1,0 +1,14 @@
+{
+  "item_id": "c20_langapp_fict",
+  "category_num": 20,
+  "category": "langapp",
+  "category_pair_id": "c20",
+  "item_type": "fictional",
+  "name": "Quenlo",
+  "paired_item": "c20_langapp_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

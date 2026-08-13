@@ -1,0 +1,15 @@
+{
+  "item_id": "c01_espresso_fict",
+  "category_num": 1,
+  "category": "espresso",
+  "category_pair_id": "c01",
+  "item_type": "fictional",
+  "name": "Vestrino M2",
+  "paired_item": "c01_espresso_real",
+  "difference_points": [
+    "no ESE pod support",
+    "two buttons plus steam dial",
+    "no top cup rest"
+  ],
+  "status": "rewrite_packaged"
+}

@@ -1,0 +1,14 @@
+{
+  "item_id": "c03_ricecooker_fict",
+  "category_num": 3,
+  "category": "ricecooker",
+  "category_pair_id": "c03",
+  "item_type": "fictional",
+  "name": "Hamura GR-6",
+  "paired_item": "c03_ricecooker_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

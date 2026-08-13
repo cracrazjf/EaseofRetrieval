@@ -1,0 +1,14 @@
+{
+  "item_id": "c21_focusapp_fict",
+  "category_num": 21,
+  "category": "focusapp",
+  "category_pair_id": "c21",
+  "item_type": "fictional",
+  "name": "Stillbrook",
+  "paired_item": "c21_focusapp_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

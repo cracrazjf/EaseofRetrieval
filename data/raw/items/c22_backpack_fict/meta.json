@@ -1,0 +1,14 @@
+{
+  "item_id": "c22_backpack_fict",
+  "category_num": 22,
+  "category": "backpack",
+  "category_pair_id": "c22",
+  "item_type": "fictional",
+  "name": "Cendric Ridge 28",
+  "paired_item": "c22_backpack_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

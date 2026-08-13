@@ -1,0 +1,11 @@
+{
+  "item_id": "c26_toothbrush_real",
+  "category_num": 26,
+  "category": "toothbrush",
+  "category_pair_id": "c26",
+  "item_type": "real",
+  "name": "Oral-B Pro 1000",
+  "paired_item": "c26_toothbrush_fict",
+  "difference_points": null,
+  "status": "registered"
+}

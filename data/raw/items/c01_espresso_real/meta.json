@@ -1,0 +1,11 @@
+{
+  "item_id": "c01_espresso_real",
+  "category_num": 1,
+  "category": "espresso",
+  "category_pair_id": "c01",
+  "item_type": "real",
+  "name": "De'Longhi Dedica EC685",
+  "paired_item": "c01_espresso_fict",
+  "difference_points": null,
+  "status": "rewrite_packaged"
+}

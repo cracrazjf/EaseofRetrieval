@@ -1,0 +1,14 @@
+{
+  "item_id": "c25_stove_fict",
+  "category_num": 25,
+  "category": "stove",
+  "category_pair_id": "c25",
+  "item_type": "fictional",
+  "name": "Fyrren S1",
+  "paired_item": "c25_stove_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

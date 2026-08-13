@@ -1,0 +1,317 @@
+{
+  "item_id": "c01_espresso_real",
+  "task": "style_neutralization",
+  "instructions": {
+    "role": "You rewrite draft research materials so no authoring model's style remains. Preserve every fact exactly; change only wording.",
+    "entry_constraints": [
+      "each entry 4-8 words",
+      "start with a noun phrase",
+      "no evaluative/marketing words: best, premium, superior, affordable, excellent, amazing, perfect, great, high-end, budget-friendly, impressive, outstanding, ideal, versatile, easy, effortless, sleek, top-tier, top-rated, state-of-the-art, barista-quality",
+      "do not add, drop, or alter any factual content"
+    ],
+    "spec_constraints": [
+      "140-160 words",
+      "keep field order: positioning sentence, specs, accessories, maintenance",
+      "no evaluative/marketing words",
+      "every figure must remain identical"
+    ],
+    "return_format": {
+      "spec": {
+        "text_neutralized": "...",
+        "changed": "bool"
+      },
+      "entries": [
+        {
+          "entry_id": "...",
+          "text_neutralized": "...",
+          "changed": "bool",
+          "rewrite_note": "..."
+        }
+      ]
+    }
+  },
+  "spec_draft": "The De'Longhi Dedica EC685 is a pump-driven espresso machine for home use. It measures 14.9 cm in width, 33 cm in depth, and 30.5 cm in height, and weighs 4.2 kg. The machine uses a 15-bar pump and a thermoblock heating system. The removable water tank holds 1.1 liters and includes a level indicator. Three illuminated buttons control single espresso, double espresso, and steam; shot volume and brewing temperature are programmable across three levels. A manual frother switches between steamed milk and froth, and also dispenses hot water. The filter holder accepts ground coffee for one or two cups as well as ESE paper pods. A removable two-level drip tray accommodates cups up to 12 cm tall, and a cup rest sits on top. The machine shuts off automatically 20 minutes after the last brew. Included accessories: a combined measuring scoop and tamper.",
+  "entries": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Slim 15 cm width saves counter space",
+      "fact": {
+        "field": "dimensions",
+        "value": "149 x 330 x 305 mm (W x D x H)",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Thermoblock reaches temperature in under a minute",
+      "fact": {
+        "field": "heatup",
+        "value": "30-40 seconds (reviews; not stated officially)",
+        "source_type": "review_consensus",
+        "source_url": "https://www.brewcoffeehome.com/delonghi-dedica-review/;https://tomscoffeecorner.com/delonghi-dedica-ec685-review/",
+        "accessed_date": "2026-08-12",
+        "note": "not in spec sheet; conservative wording in pros only"
+      }
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Removable 1.1-liter tank with level indicator",
+      "fact": {
+        "field": "tank",
+        "value": "1.1 L removable, water level indicator",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three illuminated one-touch control buttons",
+      "fact": {
+        "field": "controls",
+        "value": "3 illuminated buttons: single, double, steam; programmable volume; 3 temperature levels",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Programmable shot volume and temperature levels",
+      "fact": {
+        "field": "controls",
+        "value": "3 illuminated buttons: single, double, steam; programmable volume; 3 temperature levels",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "ESE pod and ground coffee compatibility",
+      "fact": {
+        "field": "baskets",
+        "value": "ground coffee 1 or 2 cups + ESE pods; filter holder",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en-us/p/dedica-manual-espresso-makers-dedica-deluxe-espresso-machine/EC685M.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Adjustable frother for milk and hot water",
+      "fact": {
+        "field": "frother",
+        "value": "manual adjustable frother, steamed milk or froth, dispenses hot water",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two-level drip tray for taller cups",
+      "fact": {
+        "field": "driptray",
+        "value": "removable two-level drip tray",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cup rest on the machine top",
+      "fact": {
+        "field": "cuprest",
+        "value": "cup rest on top",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en-us/p/dedica-manual-espresso-makers-dedica-deluxe-espresso-machine/EC685M.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Combined measuring scoop and tamper included",
+      "fact": {
+        "field": "accessories",
+        "value": "combined measuring scoop and tamper; no milk pitcher",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Auto shut-off twenty minutes after brewing",
+      "fact": {
+        "field": "shutoff",
+        "value": "auto shut-off 20 minutes after last brew; adjustable standby",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en-us/p/dedica-manual-espresso-makers-dedica-deluxe-espresso-machine/EC685M.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Hot water function for teas and infusions",
+      "fact": {
+        "field": "frother",
+        "value": "manual adjustable frother, steamed milk or froth, dispenses hot water",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No brewing right after milk steaming",
+      "fact": {
+        "field": "no_backtoback",
+        "value": "cannot brew immediately after steaming; thermoblock cool-down",
+        "source_type": "review_consensus",
+        "source_url": "https://www.techradar.com/reviews/delonghi-dedica-style-ec685;https://tomscoffeecorner.com/delonghi-dedica-ec685-review/;https://coffeedant.com/espresso-machine/delonghi-dedica/",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pressurized baskets limit espresso flavor clarity",
+      "fact": {
+        "field": "basket_ceiling",
+        "value": "pressurized stock baskets cap espresso clarity",
+        "source_type": "review_consensus",
+        "source_url": "https://www.brewcoffeehome.com/delonghi-dedica-review/;https://coffeedant.com/espresso-machine/delonghi-dedica/;https://coffeeblog.co.uk/delonghi-dedica-coffee-machine-review/",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Stock wand makes fine microfoam difficult",
+      "fact": {
+        "field": "microfoam",
+        "value": "fine microfoam difficult with stock wand; learning curve",
+        "source_type": "review_consensus",
+        "source_url": "https://www.brewcoffeehome.com/delonghi-dedica-review/;https://coffeedant.com/espresso-machine/delonghi-dedica/;https://tomscoffeecorner.com/delonghi-dedica-ec685-review/",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Limited clearance for taller cups",
+      "fact": {
+        "field": "clearance_con",
+        "value": "tray must be removed for tall cups; limited clearance",
+        "source_type": "review_consensus",
+        "source_url": "https://www.techradar.com/reviews/delonghi-dedica-style-ec685;https://coffeedant.com/espresso-machine/delonghi-dedica/",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Light body shifts when locking portafilter",
+      "fact": {
+        "field": "stability",
+        "value": "lightweight body shifts when locking portafilter",
+        "source_type": "review_consensus",
+        "source_url": "https://www.brewcoffeehome.com/delonghi-dedica-review/;https://coffeedant.com/espresso-machine/delonghi-dedica/",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cool shots unless parts are preheated",
+      "fact": {
+        "field": "cool_shots",
+        "value": "shots run cool unless parts preheated",
+        "source_type": "review_consensus",
+        "source_url": "https://tomscoffeecorner.com/delonghi-dedica-ec685-review/;https://coffeedant.com/espresso-machine/delonghi-dedica/",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No milk pitcher included in box",
+      "fact": {
+        "field": "no_pitcher",
+        "value": "no milk pitcher included",
+        "source_type": "review_consensus",
+        "source_url": "https://www.brewcoffeehome.com/delonghi-dedica-review/;https://www.techradar.com/reviews/delonghi-dedica-style-ec685",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Modest 1.1-liter capacity between refills",
+      "fact": {
+        "field": "tank",
+        "value": "1.1 L removable, water level indicator",
+        "source_type": "official",
+        "source_url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    }
+  ],
+  "source_hash": "518c8e2dd0be1641fed8f1d4d5871b7bf3e30abe217aef04502a4d7c1b4e9297"
+}

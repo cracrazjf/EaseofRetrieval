@@ -1,0 +1,14 @@
+{
+  "item_id": "c23_tent_fict",
+  "category_num": 23,
+  "category": "tent",
+  "category_pair_id": "c23",
+  "item_type": "fictional",
+  "name": "Torvik Basin 2",
+  "paired_item": "c23_tent_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

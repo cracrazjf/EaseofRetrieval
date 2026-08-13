@@ -1,0 +1,14 @@
+{
+  "item_id": "c14_keyboard_fict",
+  "category_num": 14,
+  "category": "keyboard",
+  "category_pair_id": "c14",
+  "item_type": "fictional",
+  "name": "Kelvane Slate 65",
+  "paired_item": "c14_keyboard_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

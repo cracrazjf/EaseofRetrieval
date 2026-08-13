@@ -1,0 +1,11 @@
+{
+  "item_id": "c19_passwordmgr_real",
+  "category_num": 19,
+  "category": "passwordmgr",
+  "category_pair_id": "c19",
+  "item_type": "real",
+  "name": "Bitwarden",
+  "paired_item": "c19_passwordmgr_fict",
+  "difference_points": null,
+  "status": "registered"
+}

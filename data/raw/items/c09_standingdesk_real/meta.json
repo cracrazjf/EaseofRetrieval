@@ -1,0 +1,11 @@
+{
+  "item_id": "c09_standingdesk_real",
+  "category_num": 9,
+  "category": "standingdesk",
+  "category_pair_id": "c09",
+  "item_type": "real",
+  "name": "FlexiSpot E7",
+  "paired_item": "c09_standingdesk_fict",
+  "difference_points": null,
+  "status": "registered"
+}

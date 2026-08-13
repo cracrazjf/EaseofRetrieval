@@ -1,0 +1,14 @@
+{
+  "item_id": "c06_robovac_fict",
+  "category_num": 6,
+  "category": "robovac",
+  "category_pair_id": "c06",
+  "item_type": "fictional",
+  "name": "Orvia Petrel",
+  "paired_item": "c06_robovac_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

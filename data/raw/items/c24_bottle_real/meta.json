@@ -1,0 +1,11 @@
+{
+  "item_id": "c24_bottle_real",
+  "category_num": 24,
+  "category": "bottle",
+  "category_pair_id": "c24",
+  "item_type": "real",
+  "name": "Thermos Stainless King",
+  "paired_item": "c24_bottle_fict",
+  "difference_points": null,
+  "status": "registered"
+}

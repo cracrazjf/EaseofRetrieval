@@ -1,0 +1,14 @@
+{
+  "item_id": "c09_standingdesk_fict",
+  "category_num": 9,
+  "category": "standingdesk",
+  "category_pair_id": "c09",
+  "item_type": "fictional",
+  "name": "Ostreno D2",
+  "paired_item": "c09_standingdesk_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

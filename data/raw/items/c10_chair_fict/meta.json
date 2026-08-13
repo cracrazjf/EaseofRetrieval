@@ -1,0 +1,14 @@
+{
+  "item_id": "c10_chair_fict",
+  "category_num": 10,
+  "category": "chair",
+  "category_pair_id": "c10",
+  "item_type": "fictional",
+  "name": "Tarnwell C1",
+  "paired_item": "c10_chair_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

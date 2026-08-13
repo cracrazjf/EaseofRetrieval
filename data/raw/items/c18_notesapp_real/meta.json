@@ -1,0 +1,11 @@
+{
+  "item_id": "c18_notesapp_real",
+  "category_num": 18,
+  "category": "notesapp",
+  "category_pair_id": "c18",
+  "item_type": "real",
+  "name": "Notion",
+  "paired_item": "c18_notesapp_fict",
+  "difference_points": null,
+  "status": "registered"
+}

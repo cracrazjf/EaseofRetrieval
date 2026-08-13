@@ -1,0 +1,14 @@
+{
+  "item_id": "c15_powerbank_fict",
+  "category_num": 15,
+  "category": "powerbank",
+  "category_pair_id": "c15",
+  "item_type": "fictional",
+  "name": "Ardento PB10",
+  "paired_item": "c15_powerbank_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

@@ -1,0 +1,11 @@
+{
+  "item_id": "c21_focusapp_real",
+  "category_num": 21,
+  "category": "focusapp",
+  "category_pair_id": "c21",
+  "item_type": "real",
+  "name": "Forest",
+  "paired_item": "c21_focusapp_fict",
+  "difference_points": null,
+  "status": "registered"
+}

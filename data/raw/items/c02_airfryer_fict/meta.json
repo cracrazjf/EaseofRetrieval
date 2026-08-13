@@ -1,0 +1,14 @@
+{
+  "item_id": "c02_airfryer_fict",
+  "category_num": 2,
+  "category": "airfryer",
+  "category_pair_id": "c02",
+  "item_type": "fictional",
+  "name": "Farnholt A5",
+  "paired_item": "c02_airfryer_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

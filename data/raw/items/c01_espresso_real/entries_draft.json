@@ -1,0 +1,146 @@
+{
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Slim 15 cm width saves counter space",
+      "fact_field": "dimensions"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Thermoblock reaches temperature in under a minute",
+      "fact_field": "heatup"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Removable 1.1-liter tank with level indicator",
+      "fact_field": "tank"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Three illuminated one-touch control buttons",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Programmable shot volume and temperature levels",
+      "fact_field": "controls"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "ESE pod and ground coffee compatibility",
+      "fact_field": "baskets"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Adjustable frother for milk and hot water",
+      "fact_field": "frother"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two-level drip tray for taller cups",
+      "fact_field": "driptray"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Cup rest on the machine top",
+      "fact_field": "cuprest"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Combined measuring scoop and tamper included",
+      "fact_field": "accessories"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Auto shut-off twenty minutes after brewing",
+      "fact_field": "shutoff"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Hot water function for teas and infusions",
+      "fact_field": "frother"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No brewing right after milk steaming",
+      "fact_field": "no_backtoback"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Pressurized baskets limit espresso flavor clarity",
+      "fact_field": "basket_ceiling"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Stock wand makes fine microfoam difficult",
+      "fact_field": "microfoam"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Limited clearance for taller cups",
+      "fact_field": "clearance_con"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Light body shifts when locking portafilter",
+      "fact_field": "stability"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Cool shots unless parts are preheated",
+      "fact_field": "cool_shots"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No milk pitcher included in box",
+      "fact_field": "no_pitcher"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Modest 1.1-liter capacity between refills",
+      "fact_field": "tank"
+    }
+  ]
+}

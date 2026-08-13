@@ -1,0 +1,11 @@
+{
+  "item_id": "c14_keyboard_real",
+  "category_num": 14,
+  "category": "keyboard",
+  "category_pair_id": "c14",
+  "item_type": "real",
+  "name": "Keychron K2",
+  "paired_item": "c14_keyboard_fict",
+  "difference_points": null,
+  "status": "registered"
+}

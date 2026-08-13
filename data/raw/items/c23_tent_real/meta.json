@@ -1,0 +1,11 @@
+{
+  "item_id": "c23_tent_real",
+  "category_num": 23,
+  "category": "tent",
+  "category_pair_id": "c23",
+  "item_type": "real",
+  "name": "MSR Hubba Hubba NX",
+  "paired_item": "c23_tent_fict",
+  "difference_points": null,
+  "status": "registered"
+}

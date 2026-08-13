@@ -1,0 +1,14 @@
+{
+  "item_id": "c26_toothbrush_fict",
+  "category_num": 26,
+  "category": "toothbrush",
+  "category_pair_id": "c26",
+  "item_type": "fictional",
+  "name": "Dovrell 230",
+  "paired_item": "c26_toothbrush_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

@@ -1,0 +1,14 @@
+{
+  "item_id": "c16_sportwatch_fict",
+  "category_num": 16,
+  "category": "sportwatch",
+  "category_pair_id": "c16",
+  "item_type": "fictional",
+  "name": "Veltrun R40",
+  "paired_item": "c16_sportwatch_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

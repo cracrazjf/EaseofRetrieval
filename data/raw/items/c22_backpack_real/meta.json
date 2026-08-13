@@ -1,0 +1,11 @@
+{
+  "item_id": "c22_backpack_real",
+  "category_num": 22,
+  "category": "backpack",
+  "category_pair_id": "c22",
+  "item_type": "real",
+  "name": "Osprey Talon 22",
+  "paired_item": "c22_backpack_fict",
+  "difference_points": null,
+  "status": "registered"
+}

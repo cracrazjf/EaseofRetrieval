@@ -1,0 +1,11 @@
+{
+  "item_id": "c05_kettle_real",
+  "category_num": 5,
+  "category": "kettle",
+  "category_pair_id": "c05",
+  "item_type": "real",
+  "name": "Fellow Stagg EKG",
+  "paired_item": "c05_kettle_fict",
+  "difference_points": null,
+  "status": "registered"
+}

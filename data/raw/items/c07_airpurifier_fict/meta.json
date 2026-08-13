@@ -1,0 +1,14 @@
+{
+  "item_id": "c07_airpurifier_fict",
+  "category_num": 7,
+  "category": "airpurifier",
+  "category_pair_id": "c07",
+  "item_type": "fictional",
+  "name": "Arvelia A2",
+  "paired_item": "c07_airpurifier_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

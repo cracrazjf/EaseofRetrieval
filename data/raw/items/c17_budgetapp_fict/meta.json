@@ -1,0 +1,14 @@
+{
+  "item_id": "c17_budgetapp_fict",
+  "category_num": 17,
+  "category": "budgetapp",
+  "category_pair_id": "c17",
+  "item_type": "fictional",
+  "name": "Voskell",
+  "paired_item": "c17_budgetapp_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

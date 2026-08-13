@@ -1,0 +1,14 @@
+{
+  "item_id": "c24_bottle_fict",
+  "category_num": 24,
+  "category": "bottle",
+  "category_pair_id": "c24",
+  "item_type": "fictional",
+  "name": "Tavro Flask",
+  "paired_item": "c24_bottle_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

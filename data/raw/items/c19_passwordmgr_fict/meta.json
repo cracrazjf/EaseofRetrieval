@@ -1,0 +1,14 @@
+{
+  "item_id": "c19_passwordmgr_fict",
+  "category_num": 19,
+  "category": "passwordmgr",
+  "category_pair_id": "c19",
+  "item_type": "fictional",
+  "name": "Cryptavo",
+  "paired_item": "c19_passwordmgr_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

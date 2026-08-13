@@ -1,0 +1,317 @@
+{
+  "item_id": "c01_espresso_fict",
+  "task": "style_neutralization",
+  "instructions": {
+    "role": "You rewrite draft research materials so no authoring model's style remains. Preserve every fact exactly; change only wording.",
+    "entry_constraints": [
+      "each entry 4-8 words",
+      "start with a noun phrase",
+      "no evaluative/marketing words: best, premium, superior, affordable, excellent, amazing, perfect, great, high-end, budget-friendly, impressive, outstanding, ideal, versatile, easy, effortless, sleek, top-tier, top-rated, state-of-the-art, barista-quality",
+      "do not add, drop, or alter any factual content"
+    ],
+    "spec_constraints": [
+      "140-160 words",
+      "keep field order: positioning sentence, specs, accessories, maintenance",
+      "no evaluative/marketing words",
+      "every figure must remain identical"
+    ],
+    "return_format": {
+      "spec": {
+        "text_neutralized": "...",
+        "changed": "bool"
+      },
+      "entries": [
+        {
+          "entry_id": "...",
+          "text_neutralized": "...",
+          "changed": "bool",
+          "rewrite_note": "..."
+        }
+      ]
+    }
+  },
+  "spec_draft": "The Vestrino M2 is a pump-driven espresso machine for home use. It measures 14.5 cm in width, 32 cm in depth, and 31 cm in height, and weighs 4.0 kg. The machine uses a 15-bar pump and a thermoblock heating system. The removable water tank holds 1.0 liters and includes a level indicator. Two illuminated buttons control single and double espresso, with a separate dial for steam; shot volume is programmable across two levels. A manual frother switches between steamed milk and froth, and also dispenses hot water. The filter holder accepts ground coffee for one or two cups, using two included pressurized baskets. A removable two-level drip tray accommodates cups up to 11 cm tall. The machine switches to standby 15 minutes after the last brew. Included accessories: a combined measuring scoop and tamper. Maintenance involves periodic descaling, indicated by a panel light, and rinsing the removable tank and tray.",
+  "entries": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Slim 14.5 cm footprint saves counter space",
+      "fact": {
+        "field": "dimensions",
+        "value": "145 x 320 x 310 mm (W x D x H)",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": "jittered from paired real item"
+      }
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Thermoblock heating for shorter warm-up waits",
+      "fact": {
+        "field": "heating",
+        "value": "thermoblock heating system",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Removable 1.0-liter tank with level indicator",
+      "fact": {
+        "field": "tank",
+        "value": "1.0 L removable, water level indicator",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "One-touch buttons for single or double shots",
+      "fact": {
+        "field": "controls",
+        "value": "2 illuminated buttons: single, double; separate steam dial; programmable volume, 2 levels",
+        "source_type": "difference_point",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": "diff: two buttons plus steam dial"
+      }
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Separate steam dial apart from brewing",
+      "fact": {
+        "field": "controls",
+        "value": "2 illuminated buttons: single, double; separate steam dial; programmable volume, 2 levels",
+        "source_type": "difference_point",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": "diff: two buttons plus steam dial"
+      }
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Manual frother for milk and hot water",
+      "fact": {
+        "field": "frother",
+        "value": "manual frother, steamed milk or froth, dispenses hot water",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two-level drip tray for taller cups",
+      "fact": {
+        "field": "driptray",
+        "value": "removable two-level drip tray",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Auto standby fifteen minutes after brewing",
+      "fact": {
+        "field": "shutoff",
+        "value": "standby 15 minutes after last brew",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Combined measuring scoop and tamper included",
+      "fact": {
+        "field": "accessories",
+        "value": "combined measuring scoop and tamper",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Descale indicator signals maintenance timing",
+      "fact": {
+        "field": "maintenance",
+        "value": "descaling with panel indicator; removable tank and tray rinse",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Pressurized baskets suit pre-ground coffee",
+      "fact": {
+        "field": "baskets",
+        "value": "ground coffee only, 2 pressurized baskets (single, double)",
+        "source_type": "difference_point",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": "diff: no ESE pod support"
+      }
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Compact 4.0 kg body for repositioning",
+      "fact": {
+        "field": "weight",
+        "value": "4.0 kg",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Small 1.0-liter tank needs frequent refills",
+      "fact": {
+        "field": "tank",
+        "value": "1.0 L removable, water level indicator",
+        "source_type": "mirror",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": ""
+      }
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No grinder requires separately ground coffee",
+      "fact": {
+        "field": "baskets",
+        "value": "ground coffee only, 2 pressurized baskets (single, double)",
+        "source_type": "difference_point",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": "diff: no ESE pod support"
+      }
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Single thermoblock blocks brewing while steaming",
+      "fact": {
+        "field": "single_thermoblock",
+        "value": "single thermoblock: no simultaneous brew and steam",
+        "source_type": "spec_derived",
+        "source_url": "derived-from:spec",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Combined scoop-tamper is plastic, not metal",
+      "fact": {
+        "field": "plastic_tamper",
+        "value": "combined scoop-tamper is plastic",
+        "source_type": "spec_derived",
+        "source_url": "derived-from:spec",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No ESE pod compatibility limits options",
+      "fact": {
+        "field": "baskets",
+        "value": "ground coffee only, 2 pressurized baskets (single, double)",
+        "source_type": "difference_point",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": "diff: no ESE pod support"
+      }
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Manual frothing takes practice for microfoam",
+      "fact": {
+        "field": "frother_manual",
+        "value": "manual frothing requires technique",
+        "source_type": "spec_derived",
+        "source_url": "derived-from:spec",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No top rest for warming cups",
+      "fact": {
+        "field": "no_cuprest",
+        "value": "no top cup rest",
+        "source_type": "difference_point",
+        "source_url": "derived-from:c01_espresso_real",
+        "accessed_date": "2026-08-12",
+        "note": "diff: no top cup rest"
+      }
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No pressure gauge for shot feedback",
+      "fact": {
+        "field": "no_gauge",
+        "value": "no pressure gauge on panel",
+        "source_type": "spec_derived",
+        "source_url": "derived-from:spec",
+        "accessed_date": "2026-08-12",
+        "note": "con"
+      }
+    }
+  ],
+  "source_hash": "386cf69df76c5636302dd22d53d1bd5b8f74da7719474d338389fef7a9f47c81"
+}

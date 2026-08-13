@@ -1,0 +1,14 @@
+{
+  "item_id": "c08_humidifier_fict",
+  "category_num": 8,
+  "category": "humidifier",
+  "category_pair_id": "c08",
+  "item_type": "fictional",
+  "name": "Halvira H1",
+  "paired_item": "c08_humidifier_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

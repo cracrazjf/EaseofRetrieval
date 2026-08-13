@@ -1,0 +1,587 @@
+{
+  "_note": "add new items here, then run src/prepare_item.py init <id>",
+  "items": {
+    "c01_espresso_real": {
+      "category_num": 1,
+      "category": "espresso",
+      "item_type": "real",
+      "name": "De'Longhi Dedica EC685",
+      "paired_item": "c01_espresso_fict",
+      "official_urls": [
+        "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+        "https://www.delonghi.com/en-us/p/dedica-manual-espresso-makers-dedica-deluxe-espresso-machine/EC685M.html"
+      ],
+      "review_urls": [
+        "https://www.techradar.com/reviews/delonghi-dedica-style-ec685",
+        "https://www.brewcoffeehome.com/delonghi-dedica-review/",
+        "https://tomscoffeecorner.com/delonghi-dedica-ec685-review/",
+        "https://coffeedant.com/espresso-machine/delonghi-dedica/",
+        "https://coffeeblog.co.uk/delonghi-dedica-coffee-machine-review/"
+      ]
+    },
+    "c01_espresso_fict": {
+      "category_num": 1,
+      "category": "espresso",
+      "item_type": "fictional",
+      "name": "Vestrino M2",
+      "paired_item": "c01_espresso_real",
+      "difference_points": [
+        "no ESE pod support",
+        "two buttons plus steam dial",
+        "no top cup rest"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c02_airfryer_real": {
+      "category_num": 2,
+      "category": "airfryer",
+      "item_type": "real",
+      "name": "Cosori Pro II 5.8QT",
+      "paired_item": "c02_airfryer_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c02_airfryer_fict": {
+      "category_num": 2,
+      "category": "airfryer",
+      "item_type": "fictional",
+      "name": "Farnholt A5",
+      "paired_item": "c02_airfryer_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c03_ricecooker_real": {
+      "category_num": 3,
+      "category": "ricecooker",
+      "item_type": "real",
+      "name": "Zojirushi NS-ZCC10",
+      "paired_item": "c03_ricecooker_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c03_ricecooker_fict": {
+      "category_num": 3,
+      "category": "ricecooker",
+      "item_type": "fictional",
+      "name": "Hamura GR-6",
+      "paired_item": "c03_ricecooker_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c04_blender_real": {
+      "category_num": 4,
+      "category": "blender",
+      "item_type": "real",
+      "name": "Vitamix E310",
+      "paired_item": "c04_blender_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c04_blender_fict": {
+      "category_num": 4,
+      "category": "blender",
+      "item_type": "fictional",
+      "name": "Quarvel BX5",
+      "paired_item": "c04_blender_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c05_kettle_real": {
+      "category_num": 5,
+      "category": "kettle",
+      "item_type": "real",
+      "name": "Fellow Stagg EKG",
+      "paired_item": "c05_kettle_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c05_kettle_fict": {
+      "category_num": 5,
+      "category": "kettle",
+      "item_type": "fictional",
+      "name": "Tessro Kettle",
+      "paired_item": "c05_kettle_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c06_robovac_real": {
+      "category_num": 6,
+      "category": "robovac",
+      "item_type": "real",
+      "name": "iRobot Roomba i7",
+      "paired_item": "c06_robovac_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c06_robovac_fict": {
+      "category_num": 6,
+      "category": "robovac",
+      "item_type": "fictional",
+      "name": "Orvia Petrel",
+      "paired_item": "c06_robovac_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c07_airpurifier_real": {
+      "category_num": 7,
+      "category": "airpurifier",
+      "item_type": "real",
+      "name": "Levoit Core 300",
+      "paired_item": "c07_airpurifier_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c07_airpurifier_fict": {
+      "category_num": 7,
+      "category": "airpurifier",
+      "item_type": "fictional",
+      "name": "Arvelia A2",
+      "paired_item": "c07_airpurifier_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c08_humidifier_real": {
+      "category_num": 8,
+      "category": "humidifier",
+      "item_type": "real",
+      "name": "Honeywell HCM-350",
+      "paired_item": "c08_humidifier_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c08_humidifier_fict": {
+      "category_num": 8,
+      "category": "humidifier",
+      "item_type": "fictional",
+      "name": "Halvira H1",
+      "paired_item": "c08_humidifier_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c09_standingdesk_real": {
+      "category_num": 9,
+      "category": "standingdesk",
+      "item_type": "real",
+      "name": "FlexiSpot E7",
+      "paired_item": "c09_standingdesk_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c09_standingdesk_fict": {
+      "category_num": 9,
+      "category": "standingdesk",
+      "item_type": "fictional",
+      "name": "Ostreno D2",
+      "paired_item": "c09_standingdesk_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c10_chair_real": {
+      "category_num": 10,
+      "category": "chair",
+      "item_type": "real",
+      "name": "Steelcase Series 1",
+      "paired_item": "c10_chair_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c10_chair_fict": {
+      "category_num": 10,
+      "category": "chair",
+      "item_type": "fictional",
+      "name": "Tarnwell C1",
+      "paired_item": "c10_chair_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c11_projector_real": {
+      "category_num": 11,
+      "category": "projector",
+      "item_type": "real",
+      "name": "XGIMI MoGo 2",
+      "paired_item": "c11_projector_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c11_projector_fict": {
+      "category_num": 11,
+      "category": "projector",
+      "item_type": "fictional",
+      "name": "Previk PJ4",
+      "paired_item": "c11_projector_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c12_headphones_real": {
+      "category_num": 12,
+      "category": "headphones",
+      "item_type": "real",
+      "name": "Sony WH-1000XM4",
+      "paired_item": "c12_headphones_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c12_headphones_fict": {
+      "category_num": 12,
+      "category": "headphones",
+      "item_type": "fictional",
+      "name": "Wrenfeld NX40",
+      "paired_item": "c12_headphones_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c13_ereader_real": {
+      "category_num": 13,
+      "category": "ereader",
+      "item_type": "real",
+      "name": "Kobo Clara 2E",
+      "paired_item": "c13_ereader_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c13_ereader_fict": {
+      "category_num": 13,
+      "category": "ereader",
+      "item_type": "fictional",
+      "name": "Lireon Q2",
+      "paired_item": "c13_ereader_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c14_keyboard_real": {
+      "category_num": 14,
+      "category": "keyboard",
+      "item_type": "real",
+      "name": "Keychron K2",
+      "paired_item": "c14_keyboard_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c14_keyboard_fict": {
+      "category_num": 14,
+      "category": "keyboard",
+      "item_type": "fictional",
+      "name": "Kelvane Slate 65",
+      "paired_item": "c14_keyboard_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c15_powerbank_real": {
+      "category_num": 15,
+      "category": "powerbank",
+      "item_type": "real",
+      "name": "Anker PowerCore 10000",
+      "paired_item": "c15_powerbank_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c15_powerbank_fict": {
+      "category_num": 15,
+      "category": "powerbank",
+      "item_type": "fictional",
+      "name": "Ardento PB10",
+      "paired_item": "c15_powerbank_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c16_sportwatch_real": {
+      "category_num": 16,
+      "category": "sportwatch",
+      "item_type": "real",
+      "name": "Garmin Forerunner 55",
+      "paired_item": "c16_sportwatch_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c16_sportwatch_fict": {
+      "category_num": 16,
+      "category": "sportwatch",
+      "item_type": "fictional",
+      "name": "Veltrun R40",
+      "paired_item": "c16_sportwatch_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c17_budgetapp_real": {
+      "category_num": 17,
+      "category": "budgetapp",
+      "item_type": "real",
+      "name": "YNAB",
+      "paired_item": "c17_budgetapp_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c17_budgetapp_fict": {
+      "category_num": 17,
+      "category": "budgetapp",
+      "item_type": "fictional",
+      "name": "Voskell",
+      "paired_item": "c17_budgetapp_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c18_notesapp_real": {
+      "category_num": 18,
+      "category": "notesapp",
+      "item_type": "real",
+      "name": "Notion",
+      "paired_item": "c18_notesapp_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c18_notesapp_fict": {
+      "category_num": 18,
+      "category": "notesapp",
+      "item_type": "fictional",
+      "name": "Trelbin",
+      "paired_item": "c18_notesapp_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c19_passwordmgr_real": {
+      "category_num": 19,
+      "category": "passwordmgr",
+      "item_type": "real",
+      "name": "Bitwarden",
+      "paired_item": "c19_passwordmgr_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c19_passwordmgr_fict": {
+      "category_num": 19,
+      "category": "passwordmgr",
+      "item_type": "fictional",
+      "name": "Cryptavo",
+      "paired_item": "c19_passwordmgr_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c20_langapp_real": {
+      "category_num": 20,
+      "category": "langapp",
+      "item_type": "real",
+      "name": "Duolingo",
+      "paired_item": "c20_langapp_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c20_langapp_fict": {
+      "category_num": 20,
+      "category": "langapp",
+      "item_type": "fictional",
+      "name": "Quenlo",
+      "paired_item": "c20_langapp_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c21_focusapp_real": {
+      "category_num": 21,
+      "category": "focusapp",
+      "item_type": "real",
+      "name": "Forest",
+      "paired_item": "c21_focusapp_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c21_focusapp_fict": {
+      "category_num": 21,
+      "category": "focusapp",
+      "item_type": "fictional",
+      "name": "Stillbrook",
+      "paired_item": "c21_focusapp_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c22_backpack_real": {
+      "category_num": 22,
+      "category": "backpack",
+      "item_type": "real",
+      "name": "Osprey Talon 22",
+      "paired_item": "c22_backpack_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c22_backpack_fict": {
+      "category_num": 22,
+      "category": "backpack",
+      "item_type": "fictional",
+      "name": "Cendric Ridge 28",
+      "paired_item": "c22_backpack_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c23_tent_real": {
+      "category_num": 23,
+      "category": "tent",
+      "item_type": "real",
+      "name": "MSR Hubba Hubba NX",
+      "paired_item": "c23_tent_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c23_tent_fict": {
+      "category_num": 23,
+      "category": "tent",
+      "item_type": "fictional",
+      "name": "Torvik Basin 2",
+      "paired_item": "c23_tent_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c24_bottle_real": {
+      "category_num": 24,
+      "category": "bottle",
+      "item_type": "real",
+      "name": "Thermos Stainless King",
+      "paired_item": "c24_bottle_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c24_bottle_fict": {
+      "category_num": 24,
+      "category": "bottle",
+      "item_type": "fictional",
+      "name": "Tavro Flask",
+      "paired_item": "c24_bottle_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c25_stove_real": {
+      "category_num": 25,
+      "category": "stove",
+      "item_type": "real",
+      "name": "SOTO WindMaster",
+      "paired_item": "c25_stove_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c25_stove_fict": {
+      "category_num": 25,
+      "category": "stove",
+      "item_type": "fictional",
+      "name": "Fyrren S1",
+      "paired_item": "c25_stove_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c26_toothbrush_real": {
+      "category_num": 26,
+      "category": "toothbrush",
+      "item_type": "real",
+      "name": "Oral-B Pro 1000",
+      "paired_item": "c26_toothbrush_fict",
+      "official_urls": [],
+      "review_urls": []
+    },
+    "c26_toothbrush_fict": {
+      "category_num": 26,
+      "category": "toothbrush",
+      "item_type": "fictional",
+      "name": "Dovrell 230",
+      "paired_item": "c26_toothbrush_real",
+      "difference_points": [
+        "TBD",
+        "TBD"
+      ],
+      "official_urls": [],
+      "review_urls": []
+    }
+  }
+}

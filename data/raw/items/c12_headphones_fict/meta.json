@@ -1,0 +1,14 @@
+{
+  "item_id": "c12_headphones_fict",
+  "category_num": 12,
+  "category": "headphones",
+  "category_pair_id": "c12",
+  "item_type": "fictional",
+  "name": "Wrenfeld NX40",
+  "paired_item": "c12_headphones_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

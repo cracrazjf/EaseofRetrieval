@@ -1,0 +1,14 @@
+{
+  "item_id": "c13_ereader_fict",
+  "category_num": 13,
+  "category": "ereader",
+  "category_pair_id": "c13",
+  "item_type": "fictional",
+  "name": "Lireon Q2",
+  "paired_item": "c13_ereader_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}

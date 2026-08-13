@@ -1,0 +1,11 @@
+{
+  "item_id": "c15_powerbank_real",
+  "category_num": 15,
+  "category": "powerbank",
+  "category_pair_id": "c15",
+  "item_type": "real",
+  "name": "Anker PowerCore 10000",
+  "paired_item": "c15_powerbank_fict",
+  "difference_points": null,
+  "status": "registered"
+}

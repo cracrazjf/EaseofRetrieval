@@ -1,0 +1,55 @@
+{
+  "official": [
+    {
+      "url": "https://www.delonghi.com/en/p/dedica-manual-espresso-makers-dedica-style-manual-coffee-maker-ec685.bk/EC685.BK.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_delonghi_com_en_p_dedica_manual_espresso_makers_dedica_style_manual_co.html",
+      "sha256": "1c93d2fbe47845f8b6bf35a596e194c325e4370aac3d33d11c9c67dfc09598a4"
+    },
+    {
+      "url": "https://www.delonghi.com/en-us/p/dedica-manual-espresso-makers-dedica-deluxe-espresso-machine/EC685M.html",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "official_https_www_delonghi_com_en_us_p_dedica_manual_espresso_makers_dedica_deluxe_espre.html",
+      "sha256": "9b82412d7c4a0d65884035f1a881a3ab9f039fc449e629e541ab856cdc329345"
+    }
+  ],
+  "reviews": [
+    {
+      "url": "https://www.techradar.com/reviews/delonghi-dedica-style-ec685",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_techradar_com_reviews_delonghi_dedica_style_ec685.html",
+      "sha256": "34d5e68051eecd1124e2a526987d29f995fce0477baaf4e1bfb88ca4f2a6599e"
+    },
+    {
+      "url": "https://www.brewcoffeehome.com/delonghi-dedica-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_www_brewcoffeehome_com_delonghi_dedica_review_.html",
+      "sha256": "9a629960b7d73995da1e31544583b66e418f4ec61d9dede577cd7f5874c40435"
+    },
+    {
+      "url": "https://tomscoffeecorner.com/delonghi-dedica-ec685-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_tomscoffeecorner_com_delonghi_dedica_ec685_review_.html",
+      "sha256": "01953b3e4ca9cc1c7264c5e998b52fe1b9a6615298bcf0e386b04396789e4fcd"
+    },
+    {
+      "url": "https://coffeedant.com/espresso-machine/delonghi-dedica/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_coffeedant_com_espresso_machine_delonghi_dedica_.html",
+      "sha256": "b7533c9eba24bdd58e361f9b4046c8525f70e49cbe0b0b279f01d75bc9e441d3"
+    },
+    {
+      "url": "https://coffeeblog.co.uk/delonghi-dedica-coffee-machine-review/",
+      "fetch_status": "archived",
+      "accessed_date": "2026-08-13",
+      "archive_file": "reviews_https_coffeeblog_co_uk_delonghi_dedica_coffee_machine_review_.html",
+      "sha256": "f0b2cea9201131f6ba1fef0153789465d000789a8b005eb88f0f2eb3445d79dc"
+    }
+  ]
+}

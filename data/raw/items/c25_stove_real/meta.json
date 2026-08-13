@@ -1,0 +1,11 @@
+{
+  "item_id": "c25_stove_real",
+  "category_num": 25,
+  "category": "stove",
+  "category_pair_id": "c25",
+  "item_type": "real",
+  "name": "SOTO WindMaster",
+  "paired_item": "c25_stove_fict",
+  "difference_points": null,
+  "status": "registered"
+}

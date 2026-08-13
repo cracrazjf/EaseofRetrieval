@@ -1,0 +1,11 @@
+{
+  "item_id": "c07_airpurifier_real",
+  "category_num": 7,
+  "category": "airpurifier",
+  "category_pair_id": "c07",
+  "item_type": "real",
+  "name": "Levoit Core 300",
+  "paired_item": "c07_airpurifier_fict",
+  "difference_points": null,
+  "status": "registered"
+}

@@ -1,0 +1,40 @@
+{
+  "spec_word_range": [
+    140,
+    160
+  ],
+  "entry_word_range": [
+    4,
+    8
+  ],
+  "banned_words": [
+    "best",
+    "premium",
+    "superior",
+    "affordable",
+    "excellent",
+    "amazing",
+    "perfect",
+    "great",
+    "high-end",
+    "budget-friendly",
+    "impressive",
+    "outstanding",
+    "ideal",
+    "versatile",
+    "easy",
+    "effortless",
+    "sleek",
+    "top-tier",
+    "top-rated",
+    "state-of-the-art",
+    "barista-quality"
+  ],
+  "contradiction_whitelist": [
+    "tank",
+    "baskets",
+    "frother",
+    "controls"
+  ],
+  "_whitelist_note": "same field may ground a pro and a con when they address different aspects (e.g. tank: removable+indicator vs capacity); reviewed manually"
+}

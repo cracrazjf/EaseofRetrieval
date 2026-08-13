@@ -1,0 +1,14 @@
+{
+  "item_id": "c05_kettle_fict",
+  "category_num": 5,
+  "category": "kettle",
+  "category_pair_id": "c05",
+  "item_type": "fictional",
+  "name": "Tessro Kettle",
+  "paired_item": "c05_kettle_real",
+  "difference_points": [
+    "TBD",
+    "TBD"
+  ],
+  "status": "registered"
+}
