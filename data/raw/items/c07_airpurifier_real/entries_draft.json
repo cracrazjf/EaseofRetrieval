@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Three-stage filtration with carbon layer",
+      "text_draft": "Three stages catch particles and odour before the air returns",
       "fact_field": "filtration"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Rated 143 cubic feet per minute",
+      "text_draft": "It moves 143 cubic feet of clean air a minute",
       "fact_field": "cadr"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Sleep mode near the noise floor",
+      "text_draft": "Sleep mode drops close to the noise floor of a room",
       "fact_field": "quiet_sleep"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Timer at four selectable durations",
+      "text_draft": "The timer shuts it off after two to eight hours",
       "fact_field": "modes"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Touch panel with filter indicator",
+      "text_draft": "A light on the panel says when the filter is spent",
       "fact_field": "controls"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Replacement filters inexpensive and stocked",
+      "text_draft": "Replacement filters are cheap and easy to find",
       "fact_field": "filter_cost"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Strong particle removal for its size",
+      "text_draft": "It cleans a room quickly for something this size",
       "fact_field": "clean_rate"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Ozone free with CARB compliance",
+      "text_draft": "It puts out no ozone and meets CARB rules",
       "fact_field": "certs"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 7.9 pounds when moved",
+      "text_draft": "At 7.9 pounds it moves from room to room easily",
       "fact_field": "weight"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Footprint under nine inches square",
+      "text_draft": "The base takes up less than nine inches square",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Draws 56 watts in operation",
+      "text_draft": "It draws only 56 watts running continuously",
       "fact_field": "power"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Filter installed before first use",
+      "text_draft": "The filter arrives fitted and ready to run",
       "fact_field": "box"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No air quality sensor or auto mode",
+      "text_draft": "Nothing senses the air, so it never adjusts itself",
       "fact_field": "no_sensor"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Thin carbon layer for heavy odors",
+      "text_draft": "The thin carbon layer struggles with strong cooking odours",
       "fact_field": "carbon_thin"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Reaches 65 decibels at top speed",
+      "text_draft": "On full speed it climbs past 60 decibels",
       "fact_field": "loud_max"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Less efficient than newer line models",
+      "text_draft": "Newer models in the line use less power for the same work",
       "fact_field": "efficiency"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No app or remote control",
+      "text_draft": "There is no app or remote to reach it from a chair",
       "fact_field": "no_sensor"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Coverage of 222 square feet at 4.8",
+      "text_draft": "Rated coverage drops to 222 square feet at real turnover",
       "fact_field": "coverage"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pre-filter needs regular vacuuming",
+      "text_draft": "The pre-filter needs vacuuming or it clogs",
       "fact_field": "filtration"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Height of 14.2 inches on floors",
+      "text_draft": "At 14.2 inches tall it stands out in a small room",
       "fact_field": "dimensions"
     }
   ]

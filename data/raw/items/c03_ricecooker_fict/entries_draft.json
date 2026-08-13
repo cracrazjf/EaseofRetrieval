@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Seven menu settings across grain types",
+      "text_draft": "Seven settings cover white, brown, porridge, and quick cooking",
       "fact_field": "menus"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Microcomputer control adjusts heat automatically",
+      "text_draft": "The microcomputer adjusts heat as the rice cooks",
       "fact_field": "technology"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Spherical inner pan surrounds rice evenly",
+      "text_draft": "The rounded inner pan surrounds the rice with heat",
       "fact_field": "technology"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Automatic keep warm and reheating",
+      "text_draft": "Keep warm and reheat both run from one panel",
       "fact_field": "keepwarm"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "LCD panel shows cooking stage",
+      "text_draft": "The LCD shows which stage the cycle has reached",
       "fact_field": "controls"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Detachable inner lid for cleaning",
+      "text_draft": "The inner lid detaches so it can be washed properly",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Removable steam vent for washing",
+      "text_draft": "The steam vent lifts out for washing as well",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Compact 9.5-inch width on counters",
+      "text_draft": "At 9.5 inches wide it leaves room on the counter",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Three accessories included in box",
+      "text_draft": "A measuring cup, spatula, and holder come along",
       "fact_field": "accessories"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 8.4 pounds for handling",
+      "text_draft": "At 8.4 pounds it lifts easily onto a shelf",
       "fact_field": "weight"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Stay-cool handles for moving pot",
+      "text_draft": "The handles stay cool enough to grip after cooking",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "650-watt draw for household circuits",
+      "text_draft": "650 watts runs on any ordinary kitchen circuit",
       "fact_field": "power"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No delay timer for overnight setup",
+      "text_draft": "No delay timer means no rice waiting in the morning",
       "fact_field": "no_timer"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No sushi or rinse-free setting",
+      "text_draft": "Neither sushi nor rinse-free rice gets its own setting",
       "fact_field": "no_sushi_setting"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Brown rice cycle runs long",
+      "text_draft": "The brown rice cycle drags on far longer than white",
       "fact_field": "cook_time_derived"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Inner lid and vent wash separately",
+      "text_draft": "The inner lid and steam vent wash as separate parts",
       "fact_field": "lid_parts"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Monochrome panel shows no clock",
+      "text_draft": "The monochrome panel never shows the time of day",
       "fact_field": "no_clock"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Power cord is not retractable",
+      "text_draft": "The cord stays out rather than winding back in",
       "fact_field": "cord_fixed"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Capacity limited to five cups",
+      "text_draft": "Five cups is the ceiling for a single batch",
       "fact_field": "capacity"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single pan limits batch size",
+      "text_draft": "One pan means one batch size and nothing else",
       "fact_field": "single_pan"
     }
   ]

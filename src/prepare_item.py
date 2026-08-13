@@ -242,6 +242,16 @@ def cmd_validate(item_id: str):
         elif ff not in fact_fields:
             problems.append(f"{e.get('entry_id', '?')} fact_field '{ff}' not in facts.csv")
         (pro_fields if e in pros else con_fields).add(ff)
+    hedges = r.get("hedge_words", [])
+    def hcount(entries):
+        return sum(1 for e in entries
+                   if any(re.search(rf"\b{re.escape(h)}\b", e.get("text_draft",""), re.I)
+                          for h in hedges))
+    hp, hc = hcount(pros), hcount(cons)
+    if abs(hp / max(1, len(pros)) - hc / max(1, len(cons))) > 0.34:
+        warnings.append(f"hedging asymmetry: {hp}/{len(pros)} pros vs {hc}/{len(cons)} cons "
+                        f"use hedge words — cons must not read softer than pros (E6 confound)")
+
     both = (pro_fields & con_fields) - set(r.get("contradiction_whitelist", []))
     for ff in sorted(x for x in both if x):
         warnings.append(f"fact_field '{ff}' used by both a pro and a con — check no contradiction")

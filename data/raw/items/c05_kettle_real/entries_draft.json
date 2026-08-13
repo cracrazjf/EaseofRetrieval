@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Temperature set to the degree",
+      "text_draft": "Temperature sets to the exact degree wanted",
       "fact_field": "temp_range"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Gooseneck spout for directed pouring",
+      "text_draft": "The gooseneck spout puts water where the grounds need it",
       "fact_field": "spout"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Hold mode at four durations",
+      "text_draft": "Hold mode keeps the water hot for up to an hour",
       "fact_field": "functions"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Full-color screen with dial control",
+      "text_draft": "The colour screen and dial make the settings obvious",
       "fact_field": "controls"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Body in 304 stainless steel",
+      "text_draft": "The body is 304 stainless rather than coated steel",
       "fact_field": "materials"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Brew stopwatch built into interface",
+      "text_draft": "A brew stopwatch runs inside the same interface",
       "fact_field": "functions"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Steady controllable stream while pouring",
+      "text_draft": "The stream stays slow and steady through the pour",
       "fact_field": "pour_control"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Brew temperature in about three minutes",
+      "text_draft": "It reaches brewing temperature in about three minutes",
       "fact_field": "heat_speed"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Altitude setting adjusts boil point",
+      "text_draft": "The altitude setting corrects the boiling point",
       "fact_field": "functions"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Screen reports set and current temperature",
+      "text_draft": "The screen shows both the target and current temperature",
       "fact_field": "display_info"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Pre-boil sanitization cycle available",
+      "text_draft": "A pre-boil cycle sanitises the water before brewing",
       "fact_field": "functions"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 1400 grams with base",
+      "text_draft": "At 1400 grams with its base it sits firmly",
       "fact_field": "weight"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Display reads above measured temperature",
+      "text_draft": "The display reads a few degrees above what the water is",
       "fact_field": "temp_accuracy"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Pour rate deliberately slow",
+      "text_draft": "The pour is slow by design, which drags for large volumes",
       "fact_field": "pour_rate"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Priced above most electric kettles",
+      "text_draft": "It costs more than most electric kettles on the shelf",
       "fact_field": "price_high"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Capacity of 0.9 liters per fill",
+      "text_draft": "0.9 litres covers only one to three cups",
       "fact_field": "capacity"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Cord length of only 2.5 feet",
+      "text_draft": "The 2.5-foot cord ties it close to the outlet",
       "fact_field": "cord"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Base adds to counter footprint",
+      "text_draft": "The base adds its own footprint on the counter",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Descaling needed on a schedule",
+      "text_draft": "Scale builds up and needs descaling on a schedule",
       "fact_field": "materials"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Screen and dial add setup steps",
+      "text_draft": "Screen and dial add steps before any water heats",
       "fact_field": "controls"
     }
   ]

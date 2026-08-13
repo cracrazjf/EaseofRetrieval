@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Five preset temperatures on the panel",
+      "text_draft": "Five preset temperatures cover the common brewing points",
       "fact_field": "temp_range"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Gooseneck spout for directed pouring",
+      "text_draft": "The gooseneck spout puts water where the grounds need it",
       "fact_field": "spout"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Capacity of 1.2 liters per fill",
+      "text_draft": "1.2 litres covers several cups from one fill",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Hold mode keeps temperature thirty minutes",
+      "text_draft": "Hold mode keeps the water hot for thirty minutes",
       "fact_field": "functions"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Body in 304 stainless steel",
+      "text_draft": "The body is 304 stainless rather than coated steel",
       "fact_field": "materials"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Boil-dry cutoff protects the element",
+      "text_draft": "A boil-dry cutoff kills the element when it runs empty",
       "fact_field": "functions"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Backlit display readable in dim light",
+      "text_draft": "The backlit display stays readable in a dim kitchen",
       "fact_field": "controls"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Cord length of three feet",
+      "text_draft": "The cord reaches three feet to the nearest outlet",
       "fact_field": "cord"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Weight of 1300 grams with base",
+      "text_draft": "At 1300 grams with its base it sits firmly",
       "fact_field": "weight"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "1200-watt element for household circuits",
+      "text_draft": "1200 watts brings the water up on a normal circuit",
       "fact_field": "power"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "BPA-free handle and lid pull",
+      "text_draft": "The handle and lid pull are both BPA-free",
       "fact_field": "materials"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Preset buttons reduce setup steps",
+      "text_draft": "Preset buttons get water heating in one press",
       "fact_field": "controls"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No setting to a specific degree",
+      "text_draft": "No way to set a specific degree between the presets",
       "fact_field": "no_degree_set"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No scheduling or brew stopwatch",
+      "text_draft": "Nothing schedules a boil or times the brew",
       "fact_field": "no_schedule"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Hold mode fixed at thirty minutes",
+      "text_draft": "Hold mode stops at thirty minutes and cannot be extended",
       "fact_field": "hold_single"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Base adds to counter footprint",
+      "text_draft": "The base adds its own footprint on the counter",
       "fact_field": "base_footprint"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Interior needs periodic descaling",
+      "text_draft": "Scale builds up and needs descaling on a schedule",
       "fact_field": "descale_need"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No altitude adjustment for boiling",
+      "text_draft": "Nothing corrects the boiling point at altitude",
       "fact_field": "no_altitude"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Gooseneck pours slowly by design",
+      "text_draft": "The gooseneck pours slowly, which drags for large volumes",
       "fact_field": "slow_pour"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Five presets limit temperature choices",
+      "text_draft": "Five presets rule out anything between them",
       "fact_field": "temp_range"
     }
   ]

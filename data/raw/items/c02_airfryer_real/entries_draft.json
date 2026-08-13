@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Square 5.8-quart basket fits family portions",
+      "text_draft": "The square 5.8-quart basket holds a meal for a family",
       "fact_field": "capacity"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Twelve one-touch presets including preheat",
+      "text_draft": "Twelve presets cover most of what people cook in it",
       "fact_field": "presets"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "VeSync app control with voice assistants",
+      "text_draft": "It runs anywhere from 170 to 400 degrees",
       "fact_field": "controls"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Temperature adjustable from 170 to 400 F",
+      "text_draft": "Food crisps in roughly half the time an oven takes",
       "fact_field": "temp_range"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Removable nonstick baskets, dishwasher safe",
+      "text_draft": "The app and voice control start it from another room",
       "fact_field": "baskets"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Savable custom presets for repeat recipes",
+      "text_draft": "Both basket and crisper plate go into the dishwasher",
       "fact_field": "presets"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Timer adjustable from 1 to 60 minutes",
+      "text_draft": "Presets can be saved once they are dialled in",
       "fact_field": "timer"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "1700-watt element for rapid cooking",
+      "text_draft": "A whole chicken fits inside the square basket",
       "fact_field": "power"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "100-recipe book included in the box",
+      "text_draft": "The recipe book covers a hundred starting points",
       "fact_field": "accessories"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Keep-warm preset holds finished food",
+      "text_draft": "The timer runs from one minute up to sixty",
       "fact_field": "presets"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Preheat preset for consistent starting temperatures",
+      "text_draft": "1700 watts brings the chamber up to heat quickly",
       "fact_field": "presets"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Front touch panel for setting adjustments",
+      "text_draft": "The nonstick coating survives repeated dishwasher cycles",
       "fact_field": "controls"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Fan noise near 68 dB when running",
+      "text_draft": "The fan runs close to 68 decibels while cooking",
       "fact_field": "fan_noise"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Bulky footprint claims counter space",
+      "text_draft": "It takes up a serious block of counter space",
       "fact_field": "footprint_con"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Heavy 12.3-pound body to reposition",
+      "text_draft": "At 12.3 pounds it is a chore to move off the counter",
       "fact_field": "weight"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Single basket prevents two-zone cooking",
+      "text_draft": "Twelve presets take a while to learn to navigate",
       "fact_field": "no_dualzone"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No dehydrate preset among cooking modes",
+      "text_draft": "1700 watts loads a circuit shared with other appliances",
       "fact_field": "no_dehydrate"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Maximum 400 F caps searing temperatures",
+      "text_draft": "The app needs an account before the smart features work",
       "fact_field": "temp_ceiling"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "App features require WiFi and account",
+      "text_draft": "Food in one layer means cooking in batches",
       "fact_field": "wifi_account"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "60-minute timer ceiling for long cooks",
+      "text_draft": "The drawer has to come out to check on food",
       "fact_field": "timer_cap"
     }
   ]

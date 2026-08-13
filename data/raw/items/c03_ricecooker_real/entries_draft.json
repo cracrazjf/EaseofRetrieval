@@ -4,84 +4,84 @@
       "entry_id": "p01",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Eleven menu settings across grain types",
+      "text_draft": "Eleven settings cover white, brown, sushi, porridge, and more",
       "fact_field": "menus"
     },
     {
       "entry_id": "p02",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Neuro Fuzzy logic adjusts cycle automatically",
+      "text_draft": "The fuzzy logic adjusts heat and timing as it cooks",
       "fact_field": "technology"
     },
     {
       "entry_id": "p03",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Spherical inner pan surrounds rice evenly",
+      "text_draft": "The rounded inner pan surrounds the rice with heat",
       "fact_field": "technology"
     },
     {
       "entry_id": "p04",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Automatic and extended keep-warm modes",
+      "text_draft": "Keep warm holds rice at serving temperature for hours",
       "fact_field": "keepwarm"
     },
     {
       "entry_id": "p05",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Delay timer with two saved settings",
+      "text_draft": "The delay timer starts a batch while nobody is home",
       "fact_field": "timer"
     },
     {
       "entry_id": "p06",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "LCD panel showing clock and timer",
+      "text_draft": "The LCD panel shows the clock and the timer together",
       "fact_field": "controls"
     },
     {
       "entry_id": "p07",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Detachable inner lid for cleaning",
+      "text_draft": "The inner lid detaches so it can be washed properly",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p08",
       "valence": "pro",
       "tier": "core8",
-      "text_draft": "Consistent rice texture across grain types",
+      "text_draft": "Rice comes out the same texture batch after batch",
       "fact_field": "rice_quality"
     },
     {
       "entry_id": "p09",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Four accessories included in box",
+      "text_draft": "Two measuring cups, a spatula, and a holder come along",
       "fact_field": "accessories"
     },
     {
       "entry_id": "p10",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Keep warm holds texture twelve hours",
+      "text_draft": "Rice stays good on keep warm past twelve hours",
       "fact_field": "warm_hold"
     },
     {
       "entry_id": "p11",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Retractable cord and stay-cool handles",
+      "text_draft": "The cord retracts and the handles stay cool",
       "fact_field": "maintenance"
     },
     {
       "entry_id": "p12",
       "valence": "pro",
       "tier": "extra4",
-      "text_draft": "Reported service life over a decade",
+      "text_draft": "Owners report these running well past a decade",
       "fact_field": "longevity"
     }
   ],
@@ -90,56 +90,56 @@
       "entry_id": "n01",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Brown rice cycles run past eighty minutes",
+      "text_draft": "Brown rice takes well over an hour to finish",
       "fact_field": "cook_time"
     },
     {
       "entry_id": "n02",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Inner lid removal is fiddly weekly",
+      "text_draft": "The inner lid is fiddly to pull off each week",
       "fact_field": "lid_cleaning"
     },
     {
       "entry_id": "n03",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Costs more than basic rice cookers",
+      "text_draft": "It costs considerably more than a basic rice cooker",
       "fact_field": "price_high"
     },
     {
       "entry_id": "n04",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Capacity limited to 5.5 uncooked cups",
+      "text_draft": "5.5 cups is the ceiling for a single batch",
       "fact_field": "capacity"
     },
     {
       "entry_id": "n05",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "White rice still needs forty minutes",
+      "text_draft": "Even white rice needs forty minutes from start",
       "fact_field": "cook_time"
     },
     {
       "entry_id": "n06",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Footprint of thirteen inches deep",
+      "text_draft": "At thirteen inches deep it eats into counter space",
       "fact_field": "dimensions"
     },
     {
       "entry_id": "n07",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "Menu list adds selection steps",
+      "text_draft": "Working through eleven settings adds steps to each meal",
       "fact_field": "menus"
     },
     {
       "entry_id": "n08",
       "valence": "con",
       "tier": "core8",
-      "text_draft": "No stated weight for shelf planning",
+      "text_draft": "Zojirushi never states what the cooker weighs",
       "fact_field": "weight"
     }
   ]

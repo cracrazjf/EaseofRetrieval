@@ -4,8 +4,8 @@
     160
   ],
   "entry_word_range": [
-    4,
-    8
+    6,
+    14
   ],
   "banned_words": [
     "best",
@@ -36,5 +36,22 @@
     "frother",
     "controls"
   ],
-  "_whitelist_note": "same field may ground a pro and a con when they address different aspects (e.g. tank: removable+indicator vs capacity); reviewed manually"
+  "_whitelist_note": "same field may ground a pro and a con when they address different aspects (e.g. tank: removable+indicator vs capacity); reviewed manually",
+  "hedge_words": [
+    "might",
+    "may",
+    "could",
+    "somewhat",
+    "tends",
+    "tend",
+    "fairly",
+    "rather",
+    "slightly",
+    "arguably",
+    "perhaps",
+    "possibly",
+    "relatively",
+    "a bit"
+  ],
+  "_register_note": "Entries are written in natural assistant register: clauses with verbs, may begin with 'It' or 'The'. Valence-direction wording (light/heavy, quick/slow, awkward) is REQUIRED — it is what makes an entry an advantage or a drawback. Intensity amplifiers (banned_words) remain forbidden. Pros and cons of the same item must match in assertiveness: hedge counts are compared and large asymmetry is flagged, because E6's valence-reversal test is confounded if drawbacks are systematically softer than advantages."
 }
