@@ -1,16 +1,16 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 action,sonic vibration of the brush head against the tooth surface,difference_point,derived-from:c26_toothbrush_real,2026-08-13,diff: sonic not oscillating,yes
 pressure_sensor,pressure sensor reduces output when the user presses hard,mirror,derived-from:c26_toothbrush_real,2026-08-13,,yes
-timer,two minute timer with thirty second quadrant pacing,mirror,derived-from:c26_toothbrush_real,2026-08-13,,no
+timer,two minute timer pausing every thirty seconds to pace quadrants,mirror,derived-from:c26_toothbrush_real,2026-08-13,,yes
 head_compat,accepts three head shapes from the same maker,mirror,derived-from:c26_toothbrush_real,2026-08-13,,yes
 charging,USB-C charging on the handle base,difference_point,derived-from:c26_toothbrush_real,2026-08-13,diff: USB charging,yes
 battery,rechargeable handle lasting about three weeks per charge,mirror,derived-from:c26_toothbrush_real,2026-08-13,,yes
 case,travel case included with the handle,difference_point,derived-from:c26_toothbrush_real,2026-08-13,diff: case included,yes
 box,"handle, one brush head, travel case, USB-C cable",mirror,derived-from:c26_toothbrush_real,2026-08-13,,yes
 warranty,two year warranty,mirror,derived-from:c26_toothbrush_real,2026-08-13,,yes
-no_stand,no charging stand for the bathroom counter,spec_derived,derived-from:spec,2026-08-13,con,no
-head_range,three head shapes rather than a wider range,spec_derived,derived-from:spec,2026-08-13,con,yes
-sonic_feel,sonic vibration feels different from rotation,spec_derived,derived-from:spec,2026-08-13,con,no
-cable_needed,the cable must travel with the brush,spec_derived,derived-from:spec,2026-08-13,con,yes
-single_head,one brush head supplied in the box,spec_derived,derived-from:spec,2026-08-13,con,premise
-case_bulk,the case adds bulk to a packed bag,spec_derived,derived-from:spec,2026-08-13,con,no
+no_stand,no charging stand for a bathroom counter,spec_derived,derived-from:spec,2026-08-13,con,yes
+head_range,three head shapes from one maker,spec_derived,derived-from:spec,2026-08-13,con,yes
+sonic_feel,sonic vibration feeling different from oscillating rotation,spec_derived,derived-from:spec,2026-08-13,con,yes
+cable_needed,charging cable travelling with the brush,spec_derived,derived-from:spec,2026-08-13,con,yes
+single_head,one brush head supplied in the box,spec_derived,derived-from:spec,2026-08-13,con,yes
+case_bulk,travel case adding bulk to a packed bag,spec_derived,derived-from:spec,2026-08-13,con,yes

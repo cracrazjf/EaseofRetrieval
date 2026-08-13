@@ -1,15 +1,15 @@
 field,value,source_type,source_url,accessed_date,note,in_spec
 mechanic,"a scene fills in detail as a focus session runs, and pauses keep the progress earned",difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: no failure state,yes
 blocking,blocks selected desktop applications and websites during a session,difference_point,derived-from:c21_focusapp_real,2026-08-13,"diff: desktop blocking, no phone blocking",yes
-no_group,no shared or group sessions,difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: no group feature,no
+no_group,no shared or group sessions,difference_point,derived-from:c21_focusapp_real,2026-08-13,diff: no group feature,yes
 sounds,ambient sound library included on the free tier,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
-stats,session history with daily and weekly summaries,mirror,derived-from:c21_focusapp_real,2026-08-13,,no
+stats,session statistics summarised by day and by week in the dashboard,mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
 free_tier,"free tier: timer, blocking, three ambient tracks, seven day history",mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
 paid_tier,"paid tier adds the full sound library, unlimited history, and scene variants",mirror,derived-from:c21_focusapp_real,2026-08-13,prices omitted per DECISIONS,yes
 platforms,"macOS and Windows desktop, with a companion web dashboard",mirror,derived-from:c21_focusapp_real,2026-08-13,,yes
-no_mobile,"no mobile client, so phone use is unaffected",spec_derived,derived-from:spec,2026-08-13,con,yes
-no_group_con,sessions cannot be shared with other people,spec_derived,derived-from:spec,2026-08-13,con,no
-no_stake,nothing is lost when a session is abandoned,spec_derived,derived-from:spec,2026-08-13,con,no
+no_mobile,"no mobile client, so phone use during a session is unrestricted",spec_derived,derived-from:spec,2026-08-13,con,yes
+no_group_con,no shared or group sessions,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_stake,progress already earned is kept when a session is abandoned,spec_derived,derived-from:spec,2026-08-13,con,yes
 history_cap,free tier keeps seven days of history,spec_derived,derived-from:spec,2026-08-13,con,yes
 sound_cap,free tier includes three ambient tracks,spec_derived,derived-from:spec,2026-08-13,con,yes
-desktop_only,no client for tablets or phones,spec_derived,derived-from:spec,2026-08-13,con,premise
+desktop_only,no client for tablets or phones,spec_derived,derived-from:spec,2026-08-13,con,yes

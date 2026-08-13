@@ -10,10 +10,10 @@ doors,one door on the left side,difference_point,derived-from:c23_tent_real,2026
 rainfly,20 denier ripstop nylon with 1500 mm silicone coating,mirror,derived-from:c23_tent_real,2026-08-13,,yes
 canopy,15 denier ripstop nylon canopy with mesh upper panels,mirror,derived-from:c23_tent_real,2026-08-13,,yes
 floor_fabric,20 denier ripstop nylon with 2500 mm coating,mirror,derived-from:c23_tent_real,2026-08-13,,yes
-poles,hub and pole assembly in aluminium alloy,mirror,derived-from:c23_tent_real,2026-08-13,,no
+poles,hub and pole assembly in aluminium alloy holding the head end upright,mirror,derived-from:c23_tent_real,2026-08-13,,yes
 footprint,integrated footprint included with the tent,difference_point,derived-from:c23_tent_real,2026-08-13,diff: footprint included,yes
-one_door_con,the inner occupant climbs over the other to exit,spec_derived,derived-from:spec,2026-08-13,con,no
-stakes_needed,the foot end must be staked before the tent stands,spec_derived,derived-from:spec,2026-08-13,con,yes
-single_vestibule,gear for two shares one vestibule,spec_derived,derived-from:spec,2026-08-13,con,yes
-thin_canopy,15 denier canopy is light and delicate,spec_derived,derived-from:spec,2026-08-13,con,yes
-floor_area,27 square feet is narrow for two adults,spec_derived,derived-from:spec,2026-08-13,con,yes
+one_door_con,single door requiring the inner occupant to climb over the other,spec_derived,derived-from:spec,2026-08-13,con,yes
+stakes_needed,foot end staked out before the tent takes shape,spec_derived,derived-from:spec,2026-08-13,con,yes
+single_vestibule,one vestibule shared by both occupants' gear,spec_derived,derived-from:spec,2026-08-13,con,yes
+thin_canopy,"15 denier canopy, light and easily torn",spec_derived,derived-from:spec,2026-08-13,con,yes
+floor_area,"27 square feet, narrow for two adults",spec_derived,derived-from:spec,2026-08-13,con,yes

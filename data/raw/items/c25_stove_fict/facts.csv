@@ -3,16 +3,16 @@ weight,3.4 oz / 96 g including the hose,mirror,derived-from:c25_stove_real,2026-
 stowed,3.1 x 2.4 x 1.6 in stowed with supports folded,mirror,derived-from:c25_stove_real,2026-08-13,,yes
 output,"2600 kcal per hour, 3020 W, 10,300 BTU",mirror,derived-from:c25_stove_real,2026-08-13,,yes
 boil,two cups in about three minutes in still air,mirror,derived-from:c25_stove_real,2026-08-13,,yes
-burn_time,about 1.7 hours per 8 oz canister,mirror,derived-from:c25_stove_real,2026-08-13,,no
-fuel,butane and isobutane mixes; not pure propane,mirror,derived-from:c25_stove_real,2026-08-13,,no
+burn_time,about a hundred minutes per eight-ounce canister,mirror,derived-from:c25_stove_real,2026-08-13,,yes
+fuel,"butane and isobutane mixes, not pure propane",mirror,derived-from:c25_stove_real,2026-08-13,,yes
 no_igniter,no built-in igniter; lit with a match or lighter,difference_point,derived-from:c25_stove_real,2026-08-13,diff: no igniter,yes
 valve,needle valve on the hose fitting,mirror,derived-from:c25_stove_real,2026-08-13,,yes
 material,stainless steel burner head on an aluminium base,mirror,derived-from:c25_stove_real,2026-08-13,,yes
 supports,three fixed pot supports that fold against the burner,difference_point,derived-from:c25_stove_real,2026-08-13,diff: folding fixed supports,yes
 remote_feed,canister sits beside the burner on a hose,difference_point,derived-from:c25_stove_real,2026-08-13,diff: remote canister,yes
 pot_limit,"2.5 L pot maximum, 2 L liquid",mirror,derived-from:c25_stove_real,2026-08-13,,yes
-no_ignition_con,a separate lighter must be carried,spec_derived,derived-from:spec,2026-08-13,con,premise
-hose_bulk,the hose adds bulk and weight in the pack,spec_derived,derived-from:spec,2026-08-13,con,no
-weight_higher,96 grams heavier than compact top-mount stoves,spec_derived,derived-from:spec,2026-08-13,con,yes
-footprint_wide,burner and canister occupy a wider footprint,spec_derived,derived-from:spec,2026-08-13,con,premise
-wind_exposed,open burner head is more exposed to wind,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_ignition_con,"no igniter, so a match or lighter is carried separately",spec_derived,derived-from:spec,2026-08-13,con,yes
+hose_bulk,hose adding bulk and weight in the pack,spec_derived,derived-from:spec,2026-08-13,con,yes
+weight_higher,"96 g, heavier than compact top-mount stoves",spec_derived,derived-from:spec,2026-08-13,con,yes
+footprint_wide,burner and canister occupying a wider footprint,spec_derived,derived-from:spec,2026-08-13,con,yes
+wind_exposed,open burner head more exposed to wind,spec_derived,derived-from:spec,2026-08-13,con,yes

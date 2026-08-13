@@ -10,8 +10,8 @@ web_vault,web vault accessible from a browser,official,https://bitwarden.com/dow
 cli,command line interface available,official,https://bitwarden.com/download/,2026-08-13,,yes
 encryption,vault encrypted on the device before sync; master password not transmitted,official,https://bitwarden.com/pricing/,2026-08-13,,yes
 open_source,source code published and independently audited,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,yes
-dated_ui,interface less polished than competing managers,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con,no
-autofill_incons,autofill inconsistent on complex sites,review_consensus,https://www.malcare.com/blog/bitwarden-review/;https://cybernews.com/best-password-managers/bitwarden-review/,2026-08-13,con,no
-free_support,free tier support limited to community forums,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con,no
-free_praise,free tier covers the core function fully,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,premise
-cross_platform,clients cover every mainstream platform,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,no
+dated_ui,interface less polished than competing managers,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con,yes
+autofill_incons,autofill inconsistent on complex sites,review_consensus,https://www.malcare.com/blog/bitwarden-review/;https://cybernews.com/best-password-managers/bitwarden-review/,2026-08-13,con,yes
+free_support,free tier support limited to community forums,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,con,yes
+free_praise,free tier covers the core function fully,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,yes
+cross_platform,clients across every mainstream platform,review_consensus,https://cyberinsider.com/password-manager/reviews/bitwarden/;https://www.malcare.com/blog/bitwarden-review/,2026-08-13,,yes

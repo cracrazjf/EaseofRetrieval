@@ -9,9 +9,9 @@ suspension,perforated foam backpanel with an adjustable torso strap,difference_p
 attachments,"daisy chain webbing, trekking pole loops, side compression straps",mirror,derived-from:c22_backpack_real,2026-08-13,,yes
 pockets,"one zippered hipbelt pocket, internal sleeve, front stretch pocket",mirror,derived-from:c22_backpack_real,2026-08-13,,yes
 load_range,designed for loads of 8 to 18 lb,mirror,derived-from:c22_backpack_real,2026-08-13,,yes
-no_lid_pocket,roll-top leaves no top lid pocket for small items,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_lid_pocket,roll top leaves no lid pocket for small items,spec_derived,derived-from:spec,2026-08-13,con,yes
 single_hip_pocket,one hipbelt pocket rather than two,spec_derived,derived-from:spec,2026-08-13,con,yes
-roll_access,reaching the main compartment means unrolling the top,spec_derived,derived-from:spec,2026-08-13,con,yes
-foam_panel,foam backpanel vents less than a suspended mesh,spec_derived,derived-from:spec,2026-08-13,con,no
-one_size,a single size fits fewer torso lengths,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_axe_loop,no ice axe attachment on the exterior,spec_derived,derived-from:spec,2026-08-13,con,no
+roll_access,main compartment reached by unrolling the top,spec_derived,derived-from:spec,2026-08-13,con,yes
+foam_panel,perforated foam backpanel venting less than suspended mesh,spec_derived,derived-from:spec,2026-08-13,con,yes
+one_size,single size fitting fewer torso lengths,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_axe_loop,no ice axe attachment on the exterior,spec_derived,derived-from:spec,2026-08-13,con,yes

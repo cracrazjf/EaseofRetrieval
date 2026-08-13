@@ -8,10 +8,10 @@ stopper,"screw-off cap, removed fully to pour",difference_point,derived-from:c24
 seal,gasketed cap seals against leaks when closed,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
 exterior,powder-coated exterior with carry loop,difference_point,derived-from:c24_bottle_real,2026-08-13,diff: carry loop,yes
 cup,serving cup built into the outer lid,mirror,derived-from:c24_bottle_real,2026-08-13,,yes
-maintenance,"hand wash recommended, cap disassembles for cleaning",mirror,derived-from:c24_bottle_real,2026-08-13,,premise
-no_pour_through,cap must come off entirely to pour,spec_derived,derived-from:spec,2026-08-13,con,no
-gasket_care,cap gasket needs removal and drying,spec_derived,derived-from:spec,2026-08-13,con,yes
-hand_wash,hand washing recommended over dishwasher,spec_derived,derived-from:spec,2026-08-13,con,premise
-height_pack,height of 10.2 inches when packed,spec_derived,derived-from:spec,2026-08-13,con,yes
-loop_only,carry loop offers no full-hand grip,spec_derived,derived-from:spec,2026-08-13,con,no
+maintenance,"hand wash recommended, cap disassembles for cleaning",mirror,derived-from:c24_bottle_real,2026-08-13,,yes
+no_pour_through,cap removed entirely before pouring,spec_derived,derived-from:spec,2026-08-13,con,yes
+gasket_care,cap gasket removed and dried separately,spec_derived,derived-from:spec,2026-08-13,con,yes
+hand_wash,hand washing recommended rather than a dishwasher,spec_derived,derived-from:spec,2026-08-13,con,yes
+height_pack,10.2 inch height when packed,spec_derived,derived-from:spec,2026-08-13,con,yes
+loop_only,carry loop offering no full-hand grip,spec_derived,derived-from:spec,2026-08-13,con,yes
 weight_full,one pound empty before filling,spec_derived,derived-from:spec,2026-08-13,con,yes

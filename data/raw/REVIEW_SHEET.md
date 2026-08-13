@@ -142,8 +142,7 @@
 
 | ✓ | 物品 | 未匹配的数字 |
 |---|---|---|
-| ☐ | c01_espresso_fict | 14.5, 31, 32 |
-| ☐ | c01_espresso_real | 14.9, 30.5, 33, 4.2, 685 |
+| ☐ | c01_espresso_real | 65, 685 |
 | ☐ | c02_airfryer_fict | 5 |
 | ☐ | c03_ricecooker_fict | 6 |
 | ☐ | c04_blender_fict | 5 |
@@ -154,13 +153,14 @@
 | ☐ | c09_standingdesk_fict | 2 |
 | ☐ | c09_standingdesk_real | 7 |
 | ☐ | c11_projector_fict | 4 |
-| ☐ | c12_headphones_real | 1000, 4 |
+| ☐ | c12_headphones_real | 1000, 16, 4 |
 | ☐ | c13_ereader_fict | 2 |
 | ☐ | c14_keyboard_real | 2 |
 | ☐ | c15_powerbank_fict | 10 |
 | ☐ | c15_powerbank_real | 10 |
 | ☐ | c16_sportwatch_fict | 40 |
 | ☐ | c16_sportwatch_real | 55 |
+| ☐ | c25_stove_real | 02, 2, 27, 4 |
 | ☐ | c26_toothbrush_fict | 230 |
 | ☐ | c26_toothbrush_real | 1000 |
 

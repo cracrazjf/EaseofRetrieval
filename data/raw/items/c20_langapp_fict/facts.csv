@@ -7,9 +7,9 @@ offline,lesson packs download for offline study,mirror,derived-from:c20_langapp_
 platforms,"iOS, Android, and web",mirror,derived-from:c20_langapp_real,2026-08-13,,yes
 progress,review queue and retention statistics per item,mirror,derived-from:c20_langapp_real,2026-08-13,,yes
 export,vocabulary list export as CSV,mirror,derived-from:c20_langapp_real,2026-08-13,,yes
-no_free,no ongoing free tier after the trial,spec_derived,derived-from:spec,2026-08-13,con,premise
-language_count,twelve languages narrower than large catalogues,spec_derived,derived-from:spec,2026-08-13,con,premise
-no_speaking,no speech recognition for pronunciation practice,spec_derived,derived-from:spec,2026-08-13,con,no
-queue_backlog,missed days build a larger review queue,spec_derived,derived-from:spec,2026-08-13,con,no
-no_desktop_app,"browser only on desktop, no installed client",spec_derived,derived-from:spec,2026-08-13,con,yes
+no_free,no ongoing free tier once the trial ends,spec_derived,derived-from:spec,2026-08-13,con,yes
+language_count,"twelve languages, narrower than large catalogues",spec_derived,derived-from:spec,2026-08-13,con,yes
+no_speaking,no speech recognition for pronunciation practice,spec_derived,derived-from:spec,2026-08-13,con,yes
+queue_backlog,missed days accumulate a larger review queue,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_desktop_app,"browser only on desktop, with no installed client",spec_derived,derived-from:spec,2026-08-13,con,yes
 typed_only,recall prompts require typing rather than tapping,spec_derived,derived-from:spec,2026-08-13,con,yes

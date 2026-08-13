@@ -7,11 +7,11 @@ paid_features,"paid tier adds unlimited sync devices, version history, and full-
 export,"documents export as Markdown, plain text, or PDF",mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
 offline,full editing and creation work offline by default,mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
 platforms,"macOS and Windows desktop, iOS and Android",mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
-no_guests,no guest links or per-document external sharing,difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: no guest sharing,no
+no_guests,no guest links or per-document external sharing,difference_point,derived-from:c18_notesapp_real,2026-08-13,diff: no guest sharing,yes
 search,full-text search across the local library,mirror,derived-from:c18_notesapp_real,2026-08-13,,yes
 no_sharing_con,documents cannot be shared with people outside the account,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_web,no browser client for machines without an install,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_web,"no browser client, so a machine without an install cannot open documents",spec_derived,derived-from:spec,2026-08-13,con,yes
 sync_cap,free tier syncs across two devices only,spec_derived,derived-from:spec,2026-08-13,con,yes
-no_database,no table or database views for structured records,spec_derived,derived-from:spec,2026-08-13,con,no
-attach_cap,attachments capped at 20 megabytes on free tier,spec_derived,derived-from:spec,2026-08-13,con,yes
-history_paid,version history requires the paid tier,spec_derived,derived-from:spec,2026-08-13,con,yes
+no_database,no table or database views for structured records,spec_derived,derived-from:spec,2026-08-13,con,yes
+attach_cap,attachments capped at 20 megabytes on the free tier,spec_derived,derived-from:spec,2026-08-13,con,yes
+history_paid,version history available on the paid tier only,spec_derived,derived-from:spec,2026-08-13,con,yes

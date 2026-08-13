@@ -7,10 +7,10 @@ export,"pages export as PDF, HTML, or Markdown; databases as CSV",official,https
 offline,"pages marked available offline on desktop and mobile; no new pages, uploads, AI, or formulas offline",official,https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know,2026-08-13,,yes
 platforms,"web, macOS and Windows desktop, iOS and Android",official,https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know,2026-08-13,,yes
 collab,shared workspaces with guests and per-page permissions,official,https://www.notion.com/pricing,2026-08-13,,yes
-learning_curve,setup and advanced features take weeks to learn,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,con,no
-offline_limited,offline mode restricts editing and creation,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,con,no
-db_performance,performance degrades on databases past several thousand rows,review_consensus,https://hackceleration.com/labs/review/notion;https://www.thedigitalprojectmanager.com/tools/notion-review/,2026-08-13,con,no
-mobile_weak,mobile client lags behind the desktop app,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,con,no
-flexibility,one workspace replaces several separate tools,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,,no
-free_generous,free plan usable for individual work,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,,no
-templates,large template library and community guides,review_consensus,https://hackceleration.com/labs/review/notion;https://thebusinessdive.com/notion-review,2026-08-13,,no
+learning_curve,setup and advanced features take weeks to learn,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,con,yes
+offline_limited,"offline mode blocks new pages, uploads, AI, and formula recalculation",review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,con,yes
+db_performance,performance degrades on databases past several thousand rows,review_consensus,https://hackceleration.com/labs/review/notion;https://www.thedigitalprojectmanager.com/tools/notion-review/,2026-08-13,con,yes
+mobile_weak,mobile client lags behind the desktop app,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,con,yes
+flexibility,one workspace replaces several separate tools,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,,yes
+free_generous,free plan usable for individual work,review_consensus,https://thebusinessdive.com/notion-review;https://hackceleration.com/labs/review/notion,2026-08-13,,yes
+templates,large template library and community guides,review_consensus,https://hackceleration.com/labs/review/notion;https://thebusinessdive.com/notion-review,2026-08-13,,yes

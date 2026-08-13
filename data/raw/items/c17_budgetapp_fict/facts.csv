@@ -9,7 +9,7 @@ goals,savings goals with target dates,mirror,derived-from:c17_budgetapp_real,202
 reports,monthly category summaries and a rollover history view,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
 export,envelope and transaction export as CSV,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
 offline,entries can be recorded offline and sync when reconnected,mirror,derived-from:c17_budgetapp_real,2026-08-13,,yes
-no_bank_link,every transaction is entered or imported by hand,spec_derived,derived-from:spec,2026-08-13,con,premise
+no_bank_link,every transaction is entered or imported by hand,spec_derived,derived-from:spec,2026-08-13,con,yes
 free_caps,free tier stops at ten envelopes,spec_derived,derived-from:spec,2026-08-13,con,yes
 no_android,no Android client yet,spec_derived,derived-from:spec,2026-08-13,con,yes
 sharing_limit,sharing covers one additional member only,spec_derived,derived-from:spec,2026-08-13,con,yes
