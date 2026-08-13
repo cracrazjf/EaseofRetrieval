@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Noise canceling among the strongest available",
+      "fact_field": "anc_quality"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Battery up to 30 hours canceling",
+      "fact_field": "battery_nc_on"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Ten-minute charge returns five hours",
+      "fact_field": "quickcharge"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "LDAC codec at 990 kilobits",
+      "fact_field": "bluetooth"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Multipoint connection to two devices",
+      "fact_field": "bluetooth"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Padding comfortable over long sessions",
+      "fact_field": "comfort"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Tuning satisfying across musical genres",
+      "fact_field": "sound_quality"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Carrying case included in box",
+      "fact_field": "box"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Drivers of 40 millimeters with polymer",
+      "fact_field": "driver"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Wired operation up to 36 hours",
+      "fact_field": "wired"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 254 grams on head",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "In-flight plug adaptor supplied",
+      "fact_field": "box"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No aptX or aptX HD support",
+      "fact_field": "no_aptx"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No water resistance rating",
+      "fact_field": "no_ip"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Touch gestures register inconsistently",
+      "fact_field": "touch_controls"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Speak-to-chat triggers on other sounds",
+      "fact_field": "speak_to_chat"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Battery drops sharply using LDAC",
+      "fact_field": "battery_nc_on"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Multipoint limited to standard codecs",
+      "fact_field": "bluetooth"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Talk time shorter than playback time",
+      "fact_field": "talk"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Case adds bulk when packed",
+      "fact_field": "box"
+    }
+  ]
 }

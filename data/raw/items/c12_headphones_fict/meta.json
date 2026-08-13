@@ -7,8 +7,9 @@
   "name": "Wrenfeld NX40",
   "paired_item": "c12_headphones_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "physical buttons instead of touch controls",
+    "IPX4 splash resistance",
+    "no multipoint pairing"
   ],
-  "status": "registered"
+  "status": "validated"
 }

@@ -7,8 +7,9 @@
   "name": "Previk PJ4",
   "paired_item": "c11_projector_real",
   "difference_points": [
-    "TBD",
-    "TBD"
+    "internal battery for cordless playback",
+    "1080p resolution instead of 720p",
+    "manual focus ring instead of auto focus"
   ],
-  "status": "registered"
+  "status": "validated"
 }

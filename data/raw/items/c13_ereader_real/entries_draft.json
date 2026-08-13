@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Screen at 300 pixels per inch",
+      "fact_field": "display"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Color temperature adjustable for night reading",
+      "fact_field": "warmth_praise"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Rating of IPX8 for water",
+      "fact_field": "waterproof"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Storage of 16 gigabytes onboard",
+      "fact_field": "storage"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Library borrowing built into the reader",
+      "fact_field": "library"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Weight of 171 grams one-handed",
+      "fact_field": "portable"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Fifteen file formats open natively",
+      "fact_field": "formats"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Text sharp at reading distance",
+      "fact_field": "sharp_screen"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Exterior over 85 percent recycled plastic",
+      "fact_field": "materials"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Bluetooth audiobook playback supported",
+      "fact_field": "connectivity"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Battery lasting weeks per charge",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Dark mode inverts the display",
+      "fact_field": "darkmode"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Menus and page turns lag",
+      "fact_field": "slow_ui"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Front light darker near lower edge",
+      "fact_field": "uneven_light"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Screen recessed rather than flush",
+      "fact_field": "recessed"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Processor of 1.0 gigahertz only",
+      "fact_field": "processor"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "No page-turn buttons on the body",
+      "fact_field": "display"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Battery stated without a capacity figure",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Storage fixed with no card slot",
+      "fact_field": "storage"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Six-inch screen limits page area",
+      "fact_field": "display"
+    }
+  ]
 }

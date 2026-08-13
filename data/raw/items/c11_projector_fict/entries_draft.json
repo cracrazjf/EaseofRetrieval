@@ -1,4 +1,146 @@
 {
-  "pros": [],
-  "cons": []
+  "pros": [
+    {
+      "entry_id": "p01",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Resolution of 1920 by 1080",
+      "fact_field": "resolution"
+    },
+    {
+      "entry_id": "p02",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Internal battery for cordless playback",
+      "fact_field": "battery"
+    },
+    {
+      "entry_id": "p03",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Storage of 32 gigabytes onboard",
+      "fact_field": "os"
+    },
+    {
+      "entry_id": "p04",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Four wired ports including HDMI",
+      "fact_field": "ports"
+    },
+    {
+      "entry_id": "p05",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Manual focus ring on the barrel",
+      "fact_field": "focus"
+    },
+    {
+      "entry_id": "p06",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Image between 40 and 150 inches",
+      "fact_field": "throw"
+    },
+    {
+      "entry_id": "p07",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Dual-band Wi-Fi and Bluetooth 5.0",
+      "fact_field": "wireless"
+    },
+    {
+      "entry_id": "p08",
+      "valence": "pro",
+      "tier": "core8",
+      "text_draft": "Two 6-watt speakers built in",
+      "fact_field": "speakers"
+    },
+    {
+      "entry_id": "p09",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Weight of 1.3 kilograms for carrying",
+      "fact_field": "weight"
+    },
+    {
+      "entry_id": "p10",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Coverage of 85 percent DCI-P3",
+      "fact_field": "color"
+    },
+    {
+      "entry_id": "p11",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Adapter and remote in box",
+      "fact_field": "power"
+    },
+    {
+      "entry_id": "p12",
+      "valence": "pro",
+      "tier": "extra4",
+      "text_draft": "Android TV app platform included",
+      "fact_field": "os"
+    }
+  ],
+  "cons": [
+    {
+      "entry_id": "n01",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Focus adjusted by hand after moves",
+      "fact_field": "manual_setup"
+    },
+    {
+      "entry_id": "n02",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Battery lasts about two hours",
+      "fact_field": "battery_life"
+    },
+    {
+      "entry_id": "n03",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "350 lumens needs a dark room",
+      "fact_field": "bright_limit"
+    },
+    {
+      "entry_id": "n04",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Speakers rated at six watts",
+      "fact_field": "speaker_power"
+    },
+    {
+      "entry_id": "n05",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Weight of 1.3 kilograms when packed",
+      "fact_field": "weight_carry"
+    },
+    {
+      "entry_id": "n06",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Image tops out at 150 inches",
+      "fact_field": "image_cap"
+    },
+    {
+      "entry_id": "n07",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Keystone correction applied digitally only",
+      "fact_field": "focus"
+    },
+    {
+      "entry_id": "n08",
+      "valence": "con",
+      "tier": "core8",
+      "text_draft": "Memory of 2 gigabytes for apps",
+      "fact_field": "os"
+    }
+  ]
 }
