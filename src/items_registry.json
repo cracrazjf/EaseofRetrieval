@@ -39,8 +39,15 @@
       "item_type": "real",
       "name": "Cosori Pro II 5.8QT",
       "paired_item": "c02_airfryer_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://cosori.com/products/smart-5-8-quart-air-fryer-cs358-af",
+        "https://manuals.plus/cosori/cs358-af-series-smart-5-8-quart-air-fryer-manual-pdf"
+      ],
+      "review_urls": [
+        "https://www.homeessentialslab.com/cosori-pro-gen-2-air-fryer-review-power-features-real-world-use/",
+        "https://www.realhomes.com/reviews/cosori-cp358-af-pro-air-fryer-review",
+        "https://thereviewrewind.com/cosori-pro-gen-2-air-fryer-review"
+      ]
     },
     "c02_airfryer_fict": {
       "category_num": 2,
@@ -61,8 +68,13 @@
       "item_type": "real",
       "name": "Zojirushi NS-ZCC10",
       "paired_item": "c03_ricecooker_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.zojirushi.com/app/product/nszcc"
+      ],
+      "review_urls": [
+        "https://mrkitchenadviser.com/zojirushi-ns-zcc10-review/",
+        "https://applegreenshop.com/product-reviews/zojirushi-ns-zcc10-rice-cooker-review/"
+      ]
     },
     "c03_ricecooker_fict": {
       "category_num": 3,
@@ -83,8 +95,15 @@
       "item_type": "real",
       "name": "Vitamix E310",
       "paired_item": "c04_blender_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.vitamix.com/us/en_us/shop/e310"
+      ],
+      "review_urls": [
+        "https://www.techgearlab.com/reviews/kitchen/blender/vitamix-explorian-e310",
+        "https://joyofblending.com/vitamix-explorian-e310-review/",
+        "https://hotcooking.co.uk/reviews/vitamix-e310-blender/",
+        "https://overeview.com/vitamix-e310-review/"
+      ]
     },
     "c04_blender_fict": {
       "category_num": 4,
@@ -105,8 +124,14 @@
       "item_type": "real",
       "name": "Fellow Stagg EKG",
       "paired_item": "c05_kettle_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle"
+      ],
+      "review_urls": [
+        "https://www.coffeereview.com/equipment-review-fellow-stagg-ekg-electric-kettle/",
+        "https://www.techgearlab.com/reviews/kitchen/electric-kettle/fellow-stagg-ekg",
+        "https://www.brewcoffeehome.com/fellow-stagg-ekg-electric-kettle-review/"
+      ]
     },
     "c05_kettle_fict": {
       "category_num": 5,
@@ -523,8 +548,14 @@
       "item_type": "real",
       "name": "Thermos Stainless King",
       "paired_item": "c24_bottle_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://thermos.com/products/stainless-king-beverage-bottle-16oz"
+      ],
+      "review_urls": [
+        "https://www.outdoorlife.com/gear/best-thermos/",
+        "https://candidfindings.com/reviews/thermos-stainless-king-68oz-review",
+        "https://www.againstmenandfish.com/2019/12/thermos-stainless-king-flask-review.html/"
+      ]
     },
     "c24_bottle_fict": {
       "category_num": 24,
