@@ -404,8 +404,14 @@
       "item_type": "real",
       "name": "Garmin Forerunner 55",
       "paired_item": "c16_sportwatch_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.garmin.com/en-US/p/741137/"
+      ],
+      "review_urls": [
+        "https://www.dcrainmaker.com/2021/06/garmin-forerunner-55-depth-review.html",
+        "https://www.outdoorgearlab.com/reviews/camping-and-hiking/gps-watch/garmin-forerunner-55",
+        "https://www.techradar.com/reviews/garmin-forerunner-55"
+      ]
     },
     "c16_sportwatch_fict": {
       "category_num": 16,
@@ -426,8 +432,15 @@
       "item_type": "real",
       "name": "YNAB",
       "paired_item": "c17_budgetapp_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.ynab.com/pricing",
+        "https://www.ynab.com/features"
+      ],
+      "review_urls": [
+        "https://fortune.com/article/ynab-pros-and-cons/",
+        "https://www.experian.com/blogs/ask-experian/you-need-a-budget-app-review/",
+        "https://www.nerdwallet.com/finance/learn/best-budget-apps"
+      ]
     },
     "c17_budgetapp_fict": {
       "category_num": 17,
@@ -448,8 +461,14 @@
       "item_type": "real",
       "name": "Notion",
       "paired_item": "c18_notesapp_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.notion.com/pricing",
+        "https://www.notion.com/help/export-your-content"
+      ],
+      "review_urls": [
+        "https://thebusinessdive.com/notion-review",
+        "https://hackceleration.com/labs/review/notion"
+      ]
     },
     "c18_notesapp_fict": {
       "category_num": 18,
@@ -470,8 +489,14 @@
       "item_type": "real",
       "name": "Bitwarden",
       "paired_item": "c19_passwordmgr_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://bitwarden.com/pricing/",
+        "https://bitwarden.com/download/"
+      ],
+      "review_urls": [
+        "https://cyberinsider.com/password-manager/reviews/bitwarden/",
+        "https://www.malcare.com/blog/bitwarden-review/"
+      ]
     },
     "c19_passwordmgr_fict": {
       "category_num": 19,
@@ -492,8 +517,14 @@
       "item_type": "real",
       "name": "Duolingo",
       "paired_item": "c20_langapp_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://blog.duolingo.com/2025-duolingo-language-report/",
+        "https://apps.apple.com/us/app/duolingo-language-lessons/id570060128"
+      ],
+      "review_urls": [
+        "https://www.reviewed.com/lifestyle/features/duolingo-review",
+        "https://88weeks.com/articles/duolingo-review-pros-cons-and-honest-insights/"
+      ]
     },
     "c20_langapp_fict": {
       "category_num": 20,
