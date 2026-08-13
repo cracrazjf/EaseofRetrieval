@@ -408,8 +408,14 @@
       "item_type": "real",
       "name": "Belkin BoostCharge 10K",
       "paired_item": "c15_powerbank_fict",
-      "official_urls": [],
-      "review_urls": []
+      "official_urls": [
+        "https://www.belkin.com/p/power-bank-10k/BPB011btBK.html",
+        "https://www.belkin.com/support-article/?articleNum=333639"
+      ],
+      "review_urls": [
+        "https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/",
+        "https://questdaily.com.au/tech-review/review-belkin-boostcharge-power-bank-10k/"
+      ]
     },
     "c15_powerbank_fict": {
       "category_num": 15,
